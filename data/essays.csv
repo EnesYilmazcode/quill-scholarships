@@ -1,0 +1,527 @@
+id,set,contest,year,outcome,words,total,band,answers_prompt,specificity,human_voice,stories,ideas_mechanism,structure_ending,v1_total,source_url
+gen-31,v1-corpus,AFSA National High School Essay Contest,2008,winner,963,76,high,4,5,4,3,3,3,75,https://afsa.org/2008-high-school-essay-contest-winning-essay
+gen-32,v1-corpus,AFSA National High School Essay Contest,2009,winner,1000,63,mid,4,5,2,3,3,3,75,https://afsa.org/2009-high-school-essay-contest-winning-essay
+gen-33,v1-corpus,AFSA National High School Essay Contest,2010,winner,970,59,mid,4,4,2,3,3,3,75,https://afsa.org/2010-high-school-essay-contest-winning-essay
+gen-34,v1-corpus,AFSA National High School Essay Contest,2011,winner,1254,64,mid,4,4,3,3,3,3,71,https://afsa.org/2011-high-school-essay-contest-winning-essay
+gen-35,v1-corpus,AFSA National High School Essay Contest,2012,winner,1260,71,mid,4,4,3,4,3,3,75,https://afsa.org/2012-high-school-essay-contest-winning-essay
+gen-36,v1-corpus,AFSA National High School Essay Contest,2013,winner,1246,73,high,4,5,3,4,4,4,78,https://afsa.org/2013-high-school-essay-contest-winning-essay
+gen-37,v1-corpus,AFSA National High School Essay Contest,2014,winner,1253,71,mid,4,4,3,4,4,4,82,https://afsa.org/2014-high-school-essay-contest-winning-essay
+gen-38,v1-corpus,AFSA National High School Essay Contest,2015,winner,1197,60,mid,4,4,4,3,4,3,82,https://afsa.org/2015-high-school-essay-contest-winning-essay
+gen-39,v1-corpus,AFSA National High School Essay Contest,2016,winner,1235,72,high,4,5,3,3,5,3,77,https://afsa.org/2016-high-school-essay-contest-winning-essay
+gen-40,v1-corpus,AFSA National High School Essay Contest,2017,winner,1232,72,high,4,5,3,4,5,4,82,https://afsa.org/2017-high-school-essay-contest-winning-essay
+gen-41,v1-corpus,AFSA National High School Essay Contest,2018,winner,1179,73,high,4,5,3,4,4,3,82,https://afsa.org/2018-high-school-essay-contest-winning-essay
+gen-42,v1-corpus,AFSA National High School Essay Contest,2019,winner,1215,67,mid,3,4,3,4,3,3,78,https://afsa.org/2019-high-school-essay-contest-winning-essay
+gen-43,v1-corpus,AFSA National High School Essay Contest,2020,winner,1265,64,mid,4,5,3,4,3,3,71,https://afsa.org/2020-high-school-essay-contest-winning-essay
+gen-44,v1-corpus,AFSA National High School Essay Contest,2021,winner,1351,55,mid,4,4,2,3,3,3,53,https://afsa.org/2021-high-school-essay-contest-winning-essay
+gen-45,v1-corpus,AFSA National High School Essay Contest,2022,winner,1253,58,mid,4,4,2,3,3,3,63,https://afsa.org/2022-high-school-essay-contest-winning-essay
+gen-46,v1-corpus,AFSA National High School Essay Contest,2023,winner,1486,72,high,5,5,3,4,4,3,88,https://afsa.org/2023-high-school-essay-contest-winning-essay
+gen-47,v1-corpus,AFSA National High School Essay Contest,2024,winner,1512,78,high,5,5,3,4,4,4,79,https://afsa.org/2024-high-school-essay-contest-winning-essay
+gen-48,v1-corpus,AFSA National High School Essay Contest,2025,winner,1431,41,low,4,3,2,2,3,3,49,https://afsa.org/2025-high-school-essay-contest-winning-essay
+gen-49,v1-corpus,AFSA National High School Essay Contest,2026,winner,1185,64,mid,4,5,3,4,3,3,67,https://afsa.org/2026-high-school-essay-contest-winning-essay
+bo-03,2026-11-08,AI Innovators Undergraduate Scholarship,"Jan 15, 2024",winner,761,40,low,3,2,1,2,2,2,,https://bold.org/scholarships/ai-innovators-undergraduate-scholarship
+pc-15,v1-corpus,ASHG DNA Day Essay Contest,2026,winner,844,59,mid,4,4,2,4,4,3,56,https://www.ashg.org/discover-genetics/k-12-education/dna-day/2026-dna-day-essay-contest-full-essays/#1stplace
+pc-16,v1-corpus,ASHG DNA Day Essay Contest,2026,runner-up,885,51,mid,4,3,2,3,4,4,65,https://www.ashg.org/discover-genetics/k-12-education/dna-day/2026-dna-day-essay-contest-full-essays/#2ndplace
+pc-17,v1-corpus,ASHG DNA Day Essay Contest,2026,runner-up,1016,55,mid,3,4,2,3,3,3,64,https://www.ashg.org/discover-genetics/k-12-education/dna-day/2026-dna-day-essay-contest-full-essays/#3rdplace
+bo-01,2026-11-08,Abhi Khune Underrepresented Minorities Scholarship,"Apr 1, 2023",winner,599,47,low,3,2,2,2,3,2,,https://bold.org/scholarships/Abhi-Khune-underrepresented-minorities-scholarship
+bo-02,2026-11-08,Abhi Khune Underrepresented Minorities Scholarship,"Apr 1, 2023",winner,420,50,mid,3,2,3,2,2,3,,https://bold.org/scholarships/Abhi-Khune-underrepresented-minorities-scholarship
+ct-01,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,winner,559,75,high,4,5,3,4,3,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-02,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,runner-up,497,68,mid,4,4,3,3,3,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-03,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,runner-up,510,62,mid,4,4,4,4,2,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-04,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,488,64,mid,4,4,3,3,3,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-05,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,486,60,mid,4,3,3,2,2,4,,https://aagunv123.azurewebsites.net/?p=1275
+ct-06,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,492,58,mid,4,3,3,2,2,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-07,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,391,38,low,3,3,3,3,1,2,,https://aagunv123.azurewebsites.net/?p=1275
+ct-08,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,523,65,mid,4,4,3,3,2,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-09,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,500,64,mid,3,4,3,4,2,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-10,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,finalist,465,62,mid,2,4,4,4,2,2,,https://aagunv123.azurewebsites.net/?p=1275
+ct-11,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,honorable-mention,540,58,mid,4,3,3,2,2,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-12,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2018,2018,honorable-mention,271,65,mid,3,4,4,3,2,3,,https://aagunv123.azurewebsites.net/?p=1275
+ct-13,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,winner,636,55,mid,4,4,3,4,3,3,,https://aagunv123.azurewebsites.net/?p=1768
+ct-14,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,runner-up,655,45,low,3,4,3,3,2,3,,https://aagunv123.azurewebsites.net/?p=1768
+ct-15,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,runner-up,603,67,mid,4,5,3,4,3,4,,https://aagunv123.azurewebsites.net/?p=1768
+ct-16,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,865,70,mid,5,5,3,4,4,4,,https://aagunv123.azurewebsites.net/?p=1768
+ct-17,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,494,70,mid,4,4,3,3,3,4,,https://aagunv123.azurewebsites.net/?p=1768
+ct-18,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,537,63,mid,4,3,4,4,3,4,,https://aagunv123.azurewebsites.net/?p=1768
+ct-19,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,543,48,low,2,3,3,4,2,4,,https://aagunv123.azurewebsites.net/?p=1768
+ct-20,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,649,58,mid,4,4,3,3,3,3,,https://aagunv123.azurewebsites.net/?p=1768
+ct-21,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,553,50,mid,4,3,3,2,2,4,,https://aagunv123.azurewebsites.net/?p=1768
+ct-22,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,finalist,766,52,mid,4,4,3,3,3,2,,https://aagunv123.azurewebsites.net/?p=1768
+ct-23,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,honorable-mention,487,68,mid,4,4,3,3,3,3,,https://aagunv123.azurewebsites.net/?p=1768
+ct-24,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2020,2020,honorable-mention,857,53,mid,4,4,2,3,4,3,,https://aagunv123.azurewebsites.net/?p=1768
+ct-25,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,winner,504,69,mid,4,4,4,4,3,5,,https://aagunv123.azurewebsites.net/?p=2662
+ct-26,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,runner-up,567,41,low,4,3,3,2,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-27,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,runner-up,664,65,mid,4,4,4,4,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-28,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,finalist,731,57,mid,3,4,3,4,3,4,,https://aagunv123.azurewebsites.net/?p=2662
+ct-29,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,finalist,496,75,high,4,4,4,4,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-30,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,finalist,598,54,mid,4,4,4,3,2,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-31,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,finalist,832,55,mid,3,4,4,2,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-32,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,finalist,537,53,mid,3,4,4,4,2,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-33,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,honorable-mention,503,44,low,2,4,4,4,1,2,,https://aagunv123.azurewebsites.net/?p=2662
+ct-34,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,honorable-mention,615,39,low,2,4,4,3,2,2,,https://aagunv123.azurewebsites.net/?p=2662
+ct-35,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,honorable-mention,492,54,mid,4,3,3,2,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-36,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,honorable-mention,475,70,mid,4,5,4,3,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+ct-37,2026-11-08,Americans Against Gun Violence National High School Essay Contest 2023,2023,honorable-mention,729,52,mid,4,4,3,4,3,3,,https://aagunv123.azurewebsites.net/?p=2662
+bo-04,2026-11-08,BIPOC Scholars in STEM,"Nov 20, 2024",winner,600,54,mid,4,3,3,3,2,2,,https://bold.org/scholarships/bipoc-scholars-in-stem
+bo-05,2026-11-08,BIPOC Scholars in STEM,"Nov 20, 2024",winner,515,49,low,3,2,2,2,3,3,,https://bold.org/scholarships/bipoc-scholars-in-stem
+pc-01,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,winner,1314,52,mid,3,4,2,4,3,3,52,https://bowseat.org/gallery/the-flower-no-one-named/
+pc-02,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,runner-up,1466,69,mid,4,5,3,4,4,4,77,https://bowseat.org/gallery/a-jar-of-yangtze/
+pc-03,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,runner-up,1335,72,high,4,5,3,4,3,4,65,https://bowseat.org/gallery/texas-heilongjiang-garden-project/
+pc-04,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,runner-up,2190,37,low,3,3,1,3,3,3,52,https://bowseat.org/gallery/the-salt-in-our-veins/
+pc-05,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,honorable-mention,1067,45,low,4,3,1,4,2,3,46,https://bowseat.org/gallery/resilient-where-the-hawks-still-soar/
+pc-06,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,honorable-mention,1009,51,mid,4,3,3,4,2,4,57,https://bowseat.org/gallery/the-whisper-of-the-salt-marsh/
+pc-07,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,finalist,1071,73,high,4,4,3,4,3,4,68,https://bowseat.org/gallery/where-the-subway-cracks/
+pc-08,v1-corpus,Bow Seat Ocean Awareness Contest - Senior Creative Writing,2025,finalist,991,41,low,3,4,2,3,2,3,46,https://bowseat.org/gallery/a-city-between-heat-and-hope/
+tech-01,v1-corpus,BrightStar Systems Future Technologies Scholarship,2019,winner,994,47,low,4,2,2,1,2,3,50,https://brightstarsystems.com/the-2019-brightstar-systems-future-technologies-scholarship-winner/
+tech-02,v1-corpus,BrightStar Systems Future Technologies Scholarship,2020,winner,1191,52,mid,4,3,3,2,2,2,48,https://brightstarsystems.com/the-2020-brightstar-systems-future-technologies-scholarship-winner/
+bo-06,2026-11-08,Chadwick D. McNab Memorial Scholarship,"Nov 14, 2023",winner,462,64,mid,3,3,4,3,3,3,,https://bold.org/scholarships/chadwick-d-mcnab-memorial-scholarship
+bo-07,2026-11-08,Chadwick D. McNab Memorial Scholarship,"Nov 14, 2023",winner,517,62,mid,3,4,3,4,3,3,,https://bold.org/scholarships/chadwick-d-mcnab-memorial-scholarship
+bo-08,2026-11-08,Chadwick D. McNab Memorial Scholarship,"Nov 14, 2023",winner,503,55,mid,3,3,3,3,2,2,,https://bold.org/scholarships/chadwick-d-mcnab-memorial-scholarship
+bold-01,v1-corpus,Chris Jackson Computer Science Education Scholarship,November 2025,winner,387,52,mid,4,3,2,2,2,2,52,https://bold.org/students/tomi-mills/
+bold-21,v1-corpus,Chris Jackson Computer Science Education Scholarship,November 2024,winner,497,46,low,3,2,2,2,2,3,46,https://bold.org/students/kaidyn-breland/
+bold-22,v1-corpus,Chris Jackson Computer Science Education Scholarship,April 2024,winner,332,48,low,4,2,2,2,2,3,45,https://bold.org/students/karisa-wieberg/
+bo-09,2026-11-08,Colby R. Eggleston and Kyla Lee Entrepreneurship Award,"Aug 25, 2023",winner,596,62,mid,3,4,3,3,3,2,,https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award
+bo-10,2026-11-08,Colby R. Eggleston and Kyla Lee Entrepreneurship Award,"Aug 25, 2023",winner,564,41,low,4,2,1,1,2,2,,https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award
+bo-11,2026-11-08,Colby R. Eggleston and Kyla Lee Entrepreneurship Award,"Aug 25, 2023",winner,467,67,mid,4,3,3,3,4,3,,https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award
+bo-12,2026-11-08,Colby R. Eggleston and Kyla Lee Entrepreneurship Award,"Aug 25, 2023",winner,408,57,mid,3,4,3,3,2,2,,https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award
+bo-13,2026-11-08,Colby R. Eggleston and Kyla Lee Entrepreneurship Award,"Aug 25, 2023",winner,589,57,mid,3,4,3,4,2,2,,https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award
+lw-01,2026-11-08,Colombo Law Distracted Driving Scholarship 2018,2018,winner,1176,81,high,4,5,4,4,3,4,,https://www.colombolaw.com/wp-content/uploads/2018/05/andrew_rogers.pdf
+lw-02,2026-11-08,Colombo Law Distracted Driving Scholarship 2018,2018,winner,1193,79,high,4,5,4,5,2,3,,https://www.colombolaw.com/wp-content/uploads/2018/05/joplin_kehrer.pdf
+lw-03,2026-11-08,Colombo Law Distracted Driving Scholarship 2018,2018,winner,927,65,mid,4,3,3,4,3,2,,https://www.colombolaw.com/wp-content/uploads/2018/05/madison_bowers.pdf
+lw-04,2026-11-08,Colombo Law Distracted Driving Scholarship 2018,2018,winner,894,54,mid,2,4,4,4,2,3,,https://www.colombolaw.com/wp-content/uploads/2018/05/meredith_muller.pdf
+lw-05,2026-11-08,Colombo Law Distracted Driving Scholarship 2018,2018,winner,1155,67,mid,4,4,3,4,3,3,,https://www.colombolaw.com/wp-content/uploads/2018/05/yohanna_berhanu.pdf
+lw-06,2026-11-08,Colombo Law Distracted Driving Scholarship 2019,2019,winner,936,70,mid,4,4,4,4,3,3,,https://www.colombolaw.com/wp-content/uploads/2019/04/Anthony_Cook.pdf
+lw-07,2026-11-08,Colombo Law Distracted Driving Scholarship 2019,2019,winner,803,43,low,2,4,3,4,2,2,,https://www.colombolaw.com/wp-content/uploads/2019/04/Ashley_Weber.pdf
+lw-08,2026-11-08,Colombo Law Distracted Driving Scholarship 2019,2019,winner,877,48,low,3,2,3,2,2,2,,https://www.colombolaw.com/wp-content/uploads/2019/04/Gracan_Tarley.pdf
+lw-09,2026-11-08,Colombo Law Distracted Driving Scholarship 2019,2019,winner,997,64,mid,4,3,3,4,2,3,,https://www.colombolaw.com/wp-content/uploads/2019/04/Megan_Murray.pdf
+lw-10,2026-11-08,Colombo Law Distracted Driving Scholarship 2019,2019,winner,801,57,mid,4,2,3,3,2,3,,https://www.colombolaw.com/wp-content/uploads/2019/04/Natalie_Dixon.pdf
+lw-11,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,986,68,mid,3,4,4,4,2,3,,https://www.colombolaw.com/wp-content/uploads/2020/05/Amara_Mason.pdf
+lw-12,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,851,68,mid,4,3,4,4,2,3,,https://www.colombolaw.com/wp-content/uploads/2020/05/Angelina_Coles.pdf
+lw-13,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,1182,72,high,4,4,4,3,3,3,,https://www.colombolaw.com/wp-content/uploads/2020/05/Declan_Anders.pdf
+lw-14,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,1045,55,mid,3,3,3,3,2,2,,https://www.colombolaw.com/wp-content/uploads/2020/05/Josie_Grass.pdf
+lw-15,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,922,70,mid,4,5,3,4,2,2,,https://www.colombolaw.com/wp-content/uploads/2020/05/Kendall_Creviston.pdf
+lw-16,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,861,38,low,2,4,3,4,2,2,,https://www.colombolaw.com/wp-content/uploads/2020/05/Leonard_DeFazio.pdf
+lw-17,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,877,54,mid,3,3,4,3,2,2,,https://www.colombolaw.com/wp-content/uploads/2020/05/Nathan_Davis.pdf
+lw-18,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,1031,54,mid,3,4,3,3,2,2,,https://www.colombolaw.com/wp-content/uploads/2020/05/Samantha_Price.pdf
+lw-19,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,937,66,mid,3,4,4,4,2,2,,https://www.colombolaw.com/wp-content/uploads/2020/05/Sidney_Kennard-Sheldon.pdf
+lw-20,2026-11-08,Colombo Law Distracted Driving Scholarship 2020,2020,winner,1175,72,high,4,4,4,4,2,3,,https://www.colombolaw.com/wp-content/uploads/2020/05/Sydney_Reeser.pdf
+bo-14,2026-11-08,Cyber Scholar Now Scholarship,"May 15, 2025",winner,416,34,low,2,2,2,1,1,2,,https://bold.org/scholarships/cyber-scholar-now-scholarship
+boldb-06,v1-corpus,Donovan Ghimenti Legacy Scholarship,May 2023,winner,599,50,mid,4,2,3,2,3,2,61,https://bold.org/scholarships/donovan-ghimenti-legacy-scholarship/
+boldb-07,v1-corpus,Donovan Ghimenti Legacy Scholarship,May 2023,winner,507,50,mid,4,2,2,2,2,3,43,https://bold.org/scholarships/donovan-ghimenti-legacy-scholarship/
+bo-15,2026-11-08,Dr. Andy Nieto Memorial First Generation Opportunity and Excellence Scholarship,"Oct 12, 2023",winner,813,53,mid,3,3,2,3,2,3,,https://bold.org/scholarships/dr-andy-nieto-memorial-first-generation-opportunity-and-excellence-scholarship
+bo-16,2026-11-08,Dr. Andy Nieto Memorial First Generation Opportunity and Excellence Scholarship,"Oct 12, 2023",winner,815,20,low,2,2,1,1,1,2,,https://bold.org/scholarships/dr-andy-nieto-memorial-first-generation-opportunity-and-excellence-scholarship
+bold-03,v1-corpus,Dr. Junior Gentles Memorial Scholarship,September 2026,winner,441,52,mid,4,3,2,2,2,2,48,https://bold.org/students/gerald-lewis-3/
+bold-04,v1-corpus,Dr. Sharyn First-Generation in Business Scholarship,March 2023,winner,461,34,low,3,1,2,1,1,2,48,https://bold.org/students/emmanuel-asmare/
+bo-17,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,599,0,low,1,1,1,1,2,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-18,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,432,34,low,2,2,1,2,2,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-19,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,404,36,low,2,3,2,2,2,3,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-20,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,588,30,low,1,3,2,1,3,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-21,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,587,36,low,2,3,2,2,2,3,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-22,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,456,17,low,1,2,3,1,2,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-23,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,598,0,low,1,2,2,1,2,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-24,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,586,13,low,1,2,2,1,2,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+bo-25,2026-11-08,Dynamic Edge Women in STEM Scholarship,"Jun 21, 2024",winner,558,17,low,1,3,2,1,2,2,,https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship
+boldb-04,v1-corpus,EJ Johnson Memorial Scholarship,December 2025,winner,417,55,mid,3,3,3,3,2,2,55,https://bold.org/scholarships/EJ-johnson-memorial-scholarship/
+boldb-05,v1-corpus,EJ Johnson Memorial Scholarship,December 2025,winner,435,49,low,4,3,2,3,2,2,47,https://bold.org/scholarships/EJ-johnson-memorial-scholarship/
+boldb-10,v1-corpus,"Ed and Aline Patane Kind, Compassion, Joy and Generosity Memorial Scholarship",January 2026,winner,794,48,low,3,3,2,2,2,2,54,https://bold.org/scholarships/ed-and-aline-patane-kind-compassion-joy-and-generosity-memorial-scholarship/
+boldb-11,v1-corpus,"Ed and Aline Patane Kind, Compassion, Joy and Generosity Memorial Scholarship",January 2026,winner,777,45,low,4,2,2,3,2,2,42,https://bold.org/scholarships/ed-and-aline-patane-kind-compassion-joy-and-generosity-memorial-scholarship/
+bo-26,2026-11-08,Electronic Shark Scholarship,"Jul 1, 2022",winner,453,69,mid,4,4,4,3,2,3,,https://bold.org/scholarships/electronic-shark-scholarship
+bo-27,2026-11-08,Electronic Shark Scholarship,"Jul 1, 2022",winner,513,16,low,1,2,2,1,2,1,,https://bold.org/scholarships/electronic-shark-scholarship
+pa-04,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2013,winner,3862,79,high,4,5,4,5,4,3,85,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_First_Brown_LosingSelfFindingSelf.pdf
+pa-05,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2013,runner-up,4630,65,mid,5,5,3,4,4,3,58,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_Second_Kuehnert_Grace-and-Gasoline.pdf
+pa-06,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2013,runner-up,2998,75,high,4,5,4,4,3,4,74,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_Third_Hollingsworth_Naan-in-the-Afghan-Village.pdf
+pa-07,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2013,honorable-mention,3131,91,high,4,5,5,5,4,4,88,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_HM_Odom_Sandwiched-Dignity.pdf
+pa-08,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2013,honorable-mention,3544,34,low,3,4,2,3,3,3,54,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_HM_Yang_The-Silent-Color-Red.pdf
+pa-09,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2014,winner,3206,80,high,5,5,4,4,4,3,80,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_First-Prize_Whitcomb_The-Ethics-of-Intrusion.pdf
+pa-10,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2014,runner-up,4415,71,mid,4,5,4,4,4,3,77,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_Second-Prize_Hu_The-Silenced-Voice.pdf
+pa-11,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2014,runner-up,4291,59,mid,4,4,3,4,2,4,62,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_Third-Prize_Camacho_Exploring-the-Ethics-of-National-Loyalty.pdf
+pa-12,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2014,honorable-mention,4071,71,mid,3,5,4,4,3,4,71,https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_HM_Edwards_Hi_My-Name-is-White-Foreigner.pdf
+pd-34,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2026,winner,2839,69,mid,5,3,2,4,3,4,65,https://eliewieselfoundation.org/wp-content/uploads/2026/09/Cynthia-When-I-Said-I-Was-Fine.pdf
+pd-35,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2026,runner-up,2545,49,low,4,3,2,3,3,3,60,https://eliewieselfoundation.org/wp-content/uploads/2026/09/Noella-Stones-That-Remember.pdf
+pd-36,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2026,runner-up,3403,70,mid,4,4,2,4,4,3,67,https://eliewieselfoundation.org/wp-content/uploads/2026/09/Kaia-What-We-Carry-Quietly-Guilt-at-the-Bedside.pdf
+pd-37,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2026,honorable-mention,2638,50,mid,4,2,1,4,3,3,54,https://eliewieselfoundation.org/wp-content/uploads/2026/09/Shah-Wasif-Stillness.pdf
+pd-38,v1-corpus,Elie Wiesel Prize in Ethics Essay Contest,2026,honorable-mention,2586,66,mid,4,3,3,3,3,5,75,https://eliewieselfoundation.org/wp-content/uploads/2026/09/Maya.pdf
+tech-03,v1-corpus,EngineerGirl Writing Contest (High School division),2023,runner-up,717,56,mid,2,4,3,4,4,3,53,https://web.archive.org/web/2025/https://www.engineergirl.org/150879/Arun-Cherian-Creating-HighQuality-Yet-Affordable-Prosthetics-for-Amputees-in-India
+tech-04,v1-corpus,EngineerGirl Writing Contest (High School division),2023,runner-up,747,54,mid,3,4,3,3,3,3,66,https://web.archive.org/web/2025/https://www.engineergirl.org/150877/Using-Virtual-Reality-to-Prevent-Erbs-Palsy
+tech-11,v1-corpus,EngineerGirl Writing Contest (High School division),2023,winner,748,56,mid,3,4,3,2,3,3,68,https://web.archive.org/web/2025/https://www.engineergirl.org/150881/The-Luxury-of-Water-To-Be-or-Not-To-Be
+tech-12,v1-corpus,EngineerGirl Writing Contest (High School division),2024,winner,1190,63,mid,4,4,3,4,3,4,77,https://web.archive.org/web/2025/https://www.engineergirl.org/153972/Papers-Life
+tech-13,v1-corpus,EngineerGirl Writing Contest (High School division),2022,winner,640,76,high,4,4,3,4,4,4,76,https://web.archive.org/web/2025/https://www.engineergirl.org/146942/Engineering-Magic-Harvesting-Water-From-Thin-Air
+tech-14,v1-corpus,EngineerGirl Writing Contest (High School division),2022,runner-up,650,66,mid,4,5,3,4,4,3,76,https://web.archive.org/web/2025/https://www.engineergirl.org/146961/Frugal-Engineering-Design-Solutions-in-the-Fight-to-Eradicate-Malaria
+bo-28,2026-11-08,Excelsior Cyber Security Scholarship,"Dec 1, 2023",winner,579,29,low,3,2,1,1,1,2,,https://bold.org/scholarships/excelsior-cyber-security-scholarship
+bo-29,2026-11-08,Excelsior Cyber Security Scholarship,"Dec 1, 2023",winner,557,66,mid,3,4,4,3,3,2,,https://bold.org/scholarships/excelsior-cyber-security-scholarship
+bold-05,v1-corpus,Faith and Tech Scholarship,November 2021,winner,250,24,low,2,2,3,2,2,2,16,https://bold.org/students/hermione-1319/
+neg-02,v1-corpus,"Fastweb essay contest (managing money in current economic times; unnamed past contest, ~4,000 entries)",unknown (article dated 2019-08-20),unknown,404,51,mid,4,2,4,1,2,1,55,https://www.fastweb.com/college-scholarships/articles/winning-scholarship-essay-tips-part-ii
+neg-01,v1-corpus,Fastweb essay contest (money management for teens; unnamed past contest),unknown (article dated 2020-07-02),unknown,409,49,low,4,2,3,1,2,2,45,https://www.fastweb.com/college-scholarships/articles/winning-scholarship-essay-tips-part-I
+bo-30,2026-11-08,First Generation College Student Scholarship,"Nov 9, 2020",winner,617,61,mid,4,3,3,3,2,4,,https://bold.org/scholarships/first-generation-college-student-scholarship
+bold-06,v1-corpus,First in Business Foundation Scholarship,March 2023,winner,558,63,mid,4,3,3,3,2,4,63,https://bold.org/students/naomi-garcia-suastegui/
+bold-07,v1-corpus,Future Leaders in Technology Scholarship - College Award,August 2022,winner,421,45,low,3,3,3,3,2,2,45,https://bold.org/students/madison-hehir/
+boldb-12,v1-corpus,Gustavo Ortiz Memorial Scholarship,May 2026,winner,460,55,mid,5,2,2,3,2,3,55,https://bold.org/scholarships/gustavo-ortiz-memorial-scholarship/
+boldb-13,v1-corpus,Gustavo Ortiz Memorial Scholarship,May 2025,winner,587,48,low,4,2,2,2,2,2,48,https://bold.org/scholarships/gustavo-ortiz-memorial-scholarship/
+bo-31,2026-11-08,Hackers Against Hate: Diversity in Information Security Scholarship,"May 14, 2025",winner,560,52,mid,4,3,2,2,2,2,,https://bold.org/scholarships/hackers-against-hate-diversity-in-information-security-scholarship
+boldb-01,v1-corpus,Healing Self and Community Scholarship,December 2024,winner,247,20,low,2,1,2,1,1,2,16,https://bold.org/scholarships/healing-self-and-community-scholarship/
+boldb-02,v1-corpus,Healing Self and Community Scholarship,December 2023,winner,228,41,low,2,2,3,2,1,2,39,https://bold.org/scholarships/healing-self-and-community-scholarship/
+boldb-03,v1-corpus,Healing Self and Community Scholarship,December 2024,winner,246,37,low,3,1,2,1,2,2,37,https://bold.org/scholarships/healing-self-and-community-scholarship/
+bo-32,2026-11-08,"Hearts on Sleeves, Minds in College Scholarship","Oct 1, 2023",winner,458,7,low,2,2,2,1,2,2,,https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship
+bo-33,2026-11-08,"Hearts on Sleeves, Minds in College Scholarship","Oct 1, 2023",winner,430,35,low,2,2,2,2,2,3,,https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship
+bo-34,2026-11-08,"Hearts on Sleeves, Minds in College Scholarship","Oct 1, 2023",winner,564,19,low,2,2,1,3,2,2,,https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship
+bo-35,2026-11-08,"Hearts on Sleeves, Minds in College Scholarship","Oct 1, 2023",winner,420,51,mid,3,3,4,2,2,2,,https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship
+bo-36,2026-11-08,"Hearts on Sleeves, Minds in College Scholarship","Oct 1, 2023",winner,567,28,low,1,3,4,2,2,2,,https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship
+bold-15,v1-corpus,Interdisciplinary Technology Scholarship,July 2022,winner,400,42,low,3,2,3,1,1,2,53,https://bold.org/students/taylor-hendrickson/
+bo-37,2026-11-08,Jada Martin Scholarship,"Dec 30, 2022",winner,470,61,mid,4,3,3,3,2,3,,https://bold.org/scholarships/jada-martin-scholarship
+pa-13,v1-corpus,James Hemming Essay Competition,2009,winner,1487,71,mid,5,4,3,3,4,4,78,https://humanists.uk/wp-content/uploads/Hemming-2009-First-Prize.pdf
+pa-14,v1-corpus,James Hemming Essay Competition,2009,runner-up,1498,78,high,5,4,4,3,4,5,78,https://humanists.uk/wp-content/uploads/Hemming-2009-Second-Prize.pdf
+pa-15,v1-corpus,James Hemming Essay Competition,2009,runner-up,1415,62,mid,4,3,4,2,4,3,62,https://humanists.uk/wp-content/uploads/Hemming-2009-Third-Prize.pdf
+boldb-15,v1-corpus,Jeannine Schroeder Women in Public Service Memorial Scholarship,June 2025,winner,468,38,low,3,2,2,2,2,2,42,https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/
+boldb-16,v1-corpus,Jeannine Schroeder Women in Public Service Memorial Scholarship,June 2025,winner,441,42,low,4,3,1,2,2,2,42,https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/
+boldb-17,v1-corpus,Jeannine Schroeder Women in Public Service Memorial Scholarship,May 2024,winner,500,46,low,3,2,2,2,2,3,46,https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/
+boldb-18,v1-corpus,Jeannine Schroeder Women in Public Service Memorial Scholarship,May 2024,winner,600,40,low,3,3,2,2,2,3,63,https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/
+boldb-19,v1-corpus,Jeannine Schroeder Women in Public Service Memorial Scholarship,June 2023,winner,577,54,mid,4,3,3,2,2,2,50,https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/
+lw-26,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,391,37,low,2,1,3,1,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-27,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,487,55,mid,3,3,3,3,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-28,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,361,50,mid,3,2,3,2,2,3,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-29,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,526,35,low,3,2,3,2,1,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-30,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,455,38,low,3,2,2,1,1,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-31,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,500,26,low,2,1,2,1,1,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-32,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,494,41,low,4,1,2,1,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-33,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,505,31,low,3,2,2,1,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-34,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,647,34,low,3,2,1,2,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-35,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,499,37,low,4,1,1,1,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+lw-36,2026-11-08,Jinks Crow Safety First Scholarship 2025,2025,winner,494,41,low,4,2,1,1,2,2,,https://www.jinkscrow.com/scholarship-winners-essays
+gen-01,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2000,winner,1012,66,mid,4,4,3,3,4,4,71,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2000-winning-essay-by-peter-buttigieg
+gen-02,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2001,winner,1010,78,high,4,5,3,4,4,4,91,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2001-winning-essay-by-stephanie-dziczek
+gen-03,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2001,winner,1014,66,mid,4,5,3,4,3,3,71,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2001-winning-essay-by-tyler-boersen
+gen-04,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2002,winner,1071,89,high,5,5,4,5,4,3,83,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2002-winning-essay-by-emily-ullman
+gen-05,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2003,winner,1015,59,mid,4,5,2,4,3,3,68,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2003-winning-essay-by-michael-sloyer
+gen-06,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2004,winner,1023,85,high,4,5,4,5,4,3,82,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2004-winning-essay-by-avram-sand
+gen-07,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2004,winner,1042,71,mid,4,5,3,4,4,3,77,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2004-winning-essay-by-will-schmidley
+gen-08,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2005,winner,1003,74,high,4,5,4,5,4,3,81,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2005-winning-essay-by-allie-comet
+gen-09,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2005,winner,945,73,high,4,5,3,5,3,3,85,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2005-winning-essay-by-kevin-zhou
+gen-10,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2006,winner,990,68,mid,5,5,3,4,4,4,85,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2006-winning-essay-by-ben-loffredo
+gen-11,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2007,winner,1013,82,high,4,5,4,4,4,3,82,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2007-winning-essay-by-maia-gottlieb
+gen-12,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2008,winner,1053,68,mid,4,5,3,4,4,4,83,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2008-winning-essay-by-laura-schapiro
+gen-13,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2009,winner,1057,79,high,5,5,3,4,4,4,87,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2009-winning-essay-by-margo-balboni
+gen-14,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2010,winner,1119,83,high,4,5,3,5,4,4,93,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2010-winning-essay-by-michael-reed
+gen-15,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2011,winner,1048,86,high,5,5,4,5,4,4,80,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2011-winning-essay-by-kevin-kay
+gen-16,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2012,winner,1092,89,high,5,5,4,5,4,4,87,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2012-winning-essay-by-patrick-reilly
+gen-17,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2013,winner,1063,73,high,4,5,3,4,3,3,89,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2013-winning-essay-by-jamie-baer
+gen-18,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2014,winner,1036,80,high,5,5,3,4,4,4,88,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2014-winning-essay-by-ben-wolman
+gen-19,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2015,winner,1038,76,high,5,5,3,4,4,3,85,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2015-winning-essay-by-matthew-waltman
+gen-20,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2016,winner,995,71,mid,4,5,3,4,4,2,85,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2016-winning-essay-by-zhen-tu
+gen-21,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2017,winner,983,80,high,5,5,3,4,4,4,92,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2017-winning-essay-by-daud-shad
+gen-22,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2018,winner,1082,76,high,4,5,3,5,4,3,87,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2018-winning-essay-by-jeffrey-seaman
+gen-23,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2019,winner,1049,71,mid,4,5,3,4,3,3,85,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2019-winning-essay-by-elazar-cramer
+gen-24,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2020,winner,1093,76,high,5,5,3,5,4,3,94,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2020-winning-essay-by-noah-durham
+gen-25,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2021,winner,1048,69,mid,4,4,3,4,3,3,71,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2021-winning-essay-by-anna-dougherty
+gen-26,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2022,winner,1037,77,high,5,5,3,4,4,3,86,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2022-winning-essay-by-theodora-mcgee
+gen-27,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2023,winner,922,91,high,5,5,4,4,5,4,91,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2023-winning-essay-by-jeremy-haynes
+gen-28,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2024,winner,1004,84,high,5,5,3,5,4,5,93,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2024-winning-essay-by-ruby-mcintee
+gen-29,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2025,winner,1008,73,high,4,4,3,4,3,4,77,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2025-winning-essay-by-emily-matthews
+gen-30,v1-corpus,John F. Kennedy Profile in Courage Essay Contest,2026,winner,908,87,high,5,5,3,5,4,4,93,https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2026-winning-essay-by-giya-agarwal
+bo-38,2026-11-08,Kirk I. Woods Memorial Scholarship,"Sep 6, 2024",winner,593,48,low,3,3,2,2,2,2,,https://bold.org/scholarships/kirk-i-woods-memorial-scholarship
+bo-39,2026-11-08,Kirk I. Woods Memorial Scholarship,"Sep 6, 2024",winner,526,30,low,3,2,1,1,1,2,,https://bold.org/scholarships/kirk-i-woods-memorial-scholarship
+bo-40,2026-11-08,Kirk I. Woods Memorial Scholarship,"Sep 6, 2024",winner,447,29,low,2,2,1,2,1,2,,https://bold.org/scholarships/kirk-i-woods-memorial-scholarship
+bo-41,2026-11-08,Kirk I. Woods Memorial Scholarship,"Sep 6, 2024",winner,496,52,mid,3,3,3,2,2,2,,https://bold.org/scholarships/kirk-i-woods-memorial-scholarship
+bo-42,2026-11-08,Kirk I. Woods Memorial Scholarship,"Sep 6, 2024",winner,496,64,mid,3,4,3,4,2,3,,https://bold.org/scholarships/kirk-i-woods-memorial-scholarship
+bo-43,2026-11-08,Kirk I. Woods Memorial Scholarship,"Sep 6, 2024",winner,478,44,low,4,2,1,2,2,2,,https://bold.org/scholarships/kirk-i-woods-memorial-scholarship
+bo-44,2026-11-08,Larry A. Montgomery Memorial Scholarship,"May 24, 2024",winner,595,51,mid,2,3,3,3,2,2,,https://bold.org/scholarships/larry-a-montgomery-memorial-scholarship
+bo-45,2026-11-08,Larry A. Montgomery Memorial Scholarship,"May 24, 2024",winner,587,44,low,2,3,2,2,2,2,,https://bold.org/scholarships/larry-a-montgomery-memorial-scholarship
+lw-22,2026-11-08,Law Office of Neil Burns Distracted Driving Scholarship 2016,2016,finalist,1608,75,high,5,4,3,4,3,3,,https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-john-f/
+lw-23,2026-11-08,Law Office of Neil Burns Distracted Driving Scholarship 2016,2016,finalist,1239,36,low,4,3,2,2,2,2,,https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-claudia-m/
+lw-24,2026-11-08,Law Office of Neil Burns Distracted Driving Scholarship 2016,2016,finalist,1299,73,high,4,5,4,3,2,3,,https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-alyssa-n/
+lw-25,2026-11-08,Law Office of Neil Burns Distracted Driving Scholarship 2016,2016,finalist,1746,60,mid,5,4,3,2,3,3,,https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-ayoola-w/
+bold-08,v1-corpus,Life Reimagined First-Gen Scholarship,March 2020,winner,1207,69,mid,4,4,5,4,3,3,63,https://bold.org/students/destini-hinton/
+boldb-14,v1-corpus,Linda McCoy-Aitkens Memorial Scholarship,November 2024,winner,486,41,low,4,2,1,1,2,3,41,https://bold.org/scholarships/linda-mccoy-aitkens-memorial-scholarship/
+bold-09,v1-corpus,LiveYourDash Entrepreneurs Scholarship,December 2025,winner,531,49,low,4,3,2,3,2,2,47,https://bold.org/students/anna-melnyk-1/
+bold-10,v1-corpus,Lyndsey Scott Coding+ Scholarship,May 2026,winner,472,58,mid,4,3,2,2,4,3,58,https://bold.org/students/susan-hirego/
+bold-18,v1-corpus,Lyndsey Scott Coding+ Scholarship,May 2026,winner,560,59,mid,5,4,1,2,3,2,58,https://bold.org/students/ade-o-la/
+bold-19,v1-corpus,Lyndsey Scott Coding+ Scholarship,May 2026,winner,411,54,mid,4,3,2,2,2,3,54,https://bold.org/students/meien-li/
+bold-20,v1-corpus,Lyndsey Scott Coding+ Scholarship,May 2025,winner,543,48,low,4,3,2,2,2,3,48,https://bold.org/students/njeri-gachoka/
+dd-01,v1-corpus,Marks & Harrison Driver Safety Scholarship,2026,winner,1340,92,high,5,4,4,5,5,5,96,https://www.marksandharrison.com/wp-content/uploads/2020/05/HenockAsmare_Essay.pdf
+dd-02,v1-corpus,Marks & Harrison Driver Safety Scholarship,2026,runner-up,869,57,mid,4,3,2,3,2,3,60,https://www.marksandharrison.com/wp-content/uploads/2020/05/Marks-Harrison-Distracted-Driving-Scholarship-Essay_-Marianna-Drapas-1.pdf
+dd-03,v1-corpus,Marks & Harrison Driver Safety Scholarship,2026,runner-up,1057,50,mid,3,3,3,3,3,3,62,https://www.marksandharrison.com/wp-content/uploads/2020/05/RWarren-Driver-Safety-Scholarship.pdf
+dd-04,v1-corpus,Marks & Harrison Driver Safety Scholarship,2025,winner,1027,74,high,4,4,3,4,4,3,78,https://www.marksandharrison.com/wp-content/uploads/2025/06/Chiara-Munz-distracted-driving-scholarship-essay.pdf
+dd-05,v1-corpus,Marks & Harrison Driver Safety Scholarship,2025,runner-up,1075,39,low,3,3,2,2,2,3,43,https://www.marksandharrison.com/wp-content/uploads/2025/06/Acevedo-Marisol-Marks-Harrison-2025-Scholarship-Campaign-for-Virginia-and-Washington-DC-Students.pdf
+law-16,v1-corpus,Mattis Law Making Waves Scholarship,2025,winner,691,62,mid,3,4,4,3,3,2,65,https://www.sdfamilylaw.com/scholarship/scholarship-winners.html
+law-17,v1-corpus,Mattis Law Making Waves Scholarship,2024,winner,982,42,low,2,3,2,2,2,2,46,https://www.sdfamilylaw.com/scholarship/scholarship-winners.html
+law-18,v1-corpus,Mattis Law Making Waves Scholarship,2023,winner,412,28,low,2,3,3,2,2,2,28,https://www.sdfamilylaw.com/scholarship/scholarship-winners.html
+bo-46,2026-11-08,McClendon Leadership Award,"Dec 1, 2023",winner,569,43,low,4,2,2,2,2,2,,https://bold.org/scholarships/mcclendon-leadership-award
+bo-47,2026-11-08,McClendon Leadership Award,"Dec 1, 2023",winner,477,53,mid,3,3,2,3,2,3,,https://bold.org/scholarships/mcclendon-leadership-award
+bo-48,2026-11-08,McDuffie Software Engineering Scholarship,"Aug 15, 2023",winner,549,57,mid,3,3,3,3,2,3,,https://bold.org/scholarships/mcduffie-software-engineering-scholarship
+lw-37,2026-11-08,McKinney Tucker & Lemel Scholarship Essay and Video Competition 2019,2019,winner,595,53,mid,2,5,4,4,1,2,,https://www.mtllawfirm.com/wp-content/uploads/2019/06/DD-Scholarship-Essay-1.pdf
+lw-21,2026-11-08,McKinney Tucker & Lemel Scholarship Essay and Video Competition 2020,2020,winner,595,61,mid,2,4,4,4,1,3,,https://www.mtllawfirm.com/wp-content/uploads/2020/07/Emerald-Bell.pdf
+dd-06,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2015,runner-up,1048,62,mid,5,4,3,3,3,3,62,https://www.mkhlawyers.com/blog/william-talbert-scholarship-essay-texting-while-driving-words-that-can-hurt-you/
+dd-07,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2017,winner,1267,48,low,4,3,2,2,3,2,62,https://www.mkhlawyers.com/scholarship/first-place-michael-mcmeen/
+dd-08,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2017,runner-up,1246,41,low,4,2,3,1,2,3,45,https://www.mkhlawyers.com/scholarship/second-place-bethaney-jackson/
+dd-09,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2017,runner-up,1013,50,mid,4,3,3,1,2,3,55,https://www.mkhlawyers.com/scholarship/third-place-tyler-behrens/
+dd-10,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2018,winner,1155,76,high,4,4,4,5,4,3,73,https://www.mkhlawyers.com/scholarship/first-place-2018-jordan-jett/
+dd-11,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2018,runner-up,1088,41,low,3,2,3,1,3,2,43,https://www.mkhlawyers.com/scholarship/second-place-2018-john-washington/
+dd-12,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2019,winner,1020,56,mid,3,4,4,3,3,2,67,https://www.mkhlawyers.com/scholarship/first-place-2019-emily-mann/
+dd-13,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2019,runner-up,1071,66,mid,4,4,3,4,2,2,66,https://www.mkhlawyers.com/scholarship/second-place-2019-emily-lovejoy/
+dd-14,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2019,runner-up,991,40,low,3,2,3,2,2,3,44,https://www.mkhlawyers.com/scholarship/third-place-2019-sarah-black/
+dd-15,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2023,winner,1053,63,mid,4,3,4,3,2,2,62,https://www.mkhlawyers.com/scholarship/first-place-2023-kensley-jones/
+dd-16,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2023,runner-up,1045,46,low,3,2,3,2,3,2,45,https://www.mkhlawyers.com/scholarship/second-place-2023-evan-barnett/
+dd-17,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2023,runner-up,1031,69,mid,4,4,4,3,3,4,60,https://www.mkhlawyers.com/scholarship/third-place-2023-anna-waldrop/
+dd-18,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2026,winner,1079,70,mid,4,4,4,4,3,3,70,https://www.mkhlawyers.com/scholarship/first-place-winner-2026-walker-williams/
+dd-19,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2026,runner-up,1127,43,low,3,2,3,2,3,3,56,https://www.mkhlawyers.com/scholarship/second-place-winner-2026-chloe-noever/
+dd-20,v1-corpus,"Morris, King & Hodge Driver Safety Scholarship",2026,runner-up,1013,51,mid,4,3,3,2,3,3,39,https://www.mkhlawyers.com/scholarship/third-place-winner-2026-alyssa-bernat/
+pb-12,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2020,winner,595,63,mid,4,3,3,2,3,4,70,https://www.phoenixlawteam.com/wp-content/uploads/2020/01/Phoenix-Law-Team-Essay.pdf
+pb-13,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2020,runner-up,528,37,low,3,1,2,1,2,2,37,https://www.phoenixlawteam.com/wp-content/uploads/2020/01/Pheonix-Law-Scholarship.pdf
+pb-14,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2021,winner,585,52,mid,4,4,3,2,2,3,52,https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Akhila.pdf
+pb-15,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2021,runner-up,597,37,low,2,2,2,1,2,2,37,https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Nath.pdf
+pb-16,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2022,winner,567,47,low,4,3,2,2,3,3,54,https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Riona-Sheikh-Mushkatel-Robbins-Becker-PLLC-Scholarship-Essay.pdf
+pb-17,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2022,runner-up,602,51,mid,4,3,3,2,3,3,61,https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Social-Media-Kills-Scholarship-Essay-Britney-Mercado.pdf
+pb-18,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2023,winner,495,37,low,4,2,1,1,2,2,37,https://www.phoenixlawteam.com/wp-content/uploads/2023/12/Mary-Sullivan-Mushkatel-Robbins-Becker-PLLC-Scholarship-Application.pdf
+pb-19,v1-corpus,"Mushkatel, Robbins & Becker Scholarship Essay Contest",2023,runner-up,492,61,mid,4,3,3,2,3,3,64,https://www.phoenixlawteam.com/wp-content/uploads/2023/12/Carmen-Gray-Mushkatel-Robbins-Becker-PLLC-Scholarship-Application.pdf
+bold-11,v1-corpus,Nebustream Technology Development Scholarship,August 2026,winner,450,51,mid,3,3,2,3,2,2,51,https://bold.org/students/jada-jackson-56/
+bold-12,v1-corpus,Nebustream Technology Development Scholarship,August 2026,winner,559,43,low,3,2,4,3,2,1,43,https://bold.org/students/kiyoshi-yang/
+pd-08,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2017,winner,2071,70,mid,5,4,4,3,5,3,79,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-is-sex-with-robots-rape-written-by-romy-eskens/
+pd-09,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2017,runner-up,2033,46,low,4,3,3,3,3,2,56,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-should-we-completely-ban-political-bots-written-by-jonas-haeg/
+pd-10,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2017,honorable-mention,2213,84,high,5,5,4,4,5,4,84,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-prostitution-you-cant-have-your-cake-and-sell-it-written-by-simon-pierre-chevarie-cossette/
+pd-11,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2017,honorable-mention,2232,69,mid,4,4,4,4,4,4,78,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-global-warming-vegetarianism-what-should-i-do-when-what-i-do-makes-no-difference-by-fergus-peace/
+pd-12,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2017,honorable-mention,2052,51,mid,4,4,3,2,3,2,51,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethicsin-it-to-win-it-is-prize-giving-bad-for-philosophy-written-by-rebecca-buxton/
+pd-16,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2020,winner,3012,62,mid,5,4,4,3,4,3,62,https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-can-it-be-wrong-for-victims-to-report-crimes/
+pd-17,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2020,runner-up,2266,52,mid,5,4,3,4,4,3,71,https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-if-doctors-could-administer-a-treatment-that-would-move-a-patient-from-a-vegetative-state-to-a-minimally-conscious-one-should-they-do-so/
+pd-18,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Graduate category),2020,honorable-mention,2465,63,mid,4,4,3,4,4,3,63,https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-an-account-of-attitudinal-duties-towards-injustice/
+pd-01,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2022,winner,2153,64,mid,5,4,3,4,4,4,77,https://blog.uehiro.ox.ac.uk/2022/03/oxford-uehiro-prize-in-practical-ethics-why-we-should-negatively-discount-the-well-being-of-future-generations/
+pd-02,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2022,runner-up,2246,69,mid,5,4,4,3,4,3,79,https://blog.uehiro.ox.ac.uk/2022/04/oxford-uehiro-prize-in-practical-ethics-terra-nullius-populus-sine-terra-who-may-settle-antarctica/
+pd-03,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2022,honorable-mention,2115,61,mid,4,4,3,3,4,3,69,https://blog.uehiro.ox.ac.uk/2022/04/oxford-uehiro-prize-in-practical-ethics-when-money-cant-buy-happiness-does-our-duty-to-assist-the-needy-require-us-to-befriend-the-lonely/
+pd-04,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2022,honorable-mention,2122,56,mid,4,3,4,2,4,4,63,https://blog.uehiro.ox.ac.uk/2022/04/oxford-uehiro-prize-in-practical-ethics-why-dont-we-just-let-the-wise-rule/
+pd-05,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2017,winner,2124,53,mid,5,2,4,4,4,3,67,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-what-makes-discrimination-wrong-written-by-paul-de-font-reaulx/
+pd-06,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2017,runner-up,2590,42,low,4,3,4,3,3,3,59,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-the-ethical-dilemma-of-youth-politics-written-by-andreas-masvie/
+pd-07,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2017,honorable-mention,2147,59,mid,4,3,3,3,3,3,74,https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-secondary-intentions-in-euthanasia-written-by-isabel-canfield/
+pd-13,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2020,winner,2198,61,mid,5,4,4,4,5,4,78,https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-why-is-virtual-wrongdoing-morally-disquieting-insofar-as-it-is/
+pd-14,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2020,runner-up,1971,74,high,5,4,4,3,4,3,77,https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-can-science-ethically-make-use-of-data-which-was-gathered-by-unethical-means/
+pd-15,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2020,honorable-mention,2080,40,low,3,4,3,3,3,2,63,https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-what-if-anything-is-wrong-about-algorithmic-administration/
+pd-19,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2021,winner,2509,61,mid,4,4,4,3,4,4,75,https://blog.uehiro.ox.ac.uk/2021/03/oxford-uehiro-prize-in-practical-ethics-against-making-a-difference/
+pd-20,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2021,runner-up,2267,71,mid,5,4,4,3,5,3,66,https://blog.uehiro.ox.ac.uk/2021/03/oxford-uehiro-prize-in-practical-ethics-why-if-at-all-is-it-unethical-for-universities-to-prioritise-applicants-related-to-their-alumni/
+pd-21,v1-corpus,Oxford Uehiro Prize in Practical Ethics (Undergraduate category),2021,honorable-mention,2014,45,low,4,4,3,4,3,3,62,https://blog.uehiro.ox.ac.uk/2021/03/oxford-uehiro-centre-prize-in-practical-ethics-rational-departure-what-does-stoicism-reveal-about-contemporary-attitudes-towards-suicide/
+pb-01,v1-corpus,Parnall Law Firm Scholarship,2018,winner,639,39,low,2,2,3,2,2,2,41,https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/
+pb-02,v1-corpus,Parnall Law Firm Scholarship,2018,runner-up,605,44,low,2,3,3,3,3,2,49,https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/
+pb-03,v1-corpus,Parnall Law Firm Scholarship,2018,runner-up,295,38,low,2,3,3,2,2,2,36,https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/
+pb-04,v1-corpus,Parnall Law Firm Scholarship,2018,runner-up,741,32,low,2,2,3,2,2,1,42,https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/
+pb-05,v1-corpus,Parnall Law Firm Scholarship,2019,winner,1245,49,low,3,3,3,3,2,2,52,https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/
+pb-06,v1-corpus,Parnall Law Firm Scholarship,2019,runner-up,1313,37,low,2,2,2,2,3,2,43,https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/
+pb-07,v1-corpus,Parnall Law Firm Scholarship,2019,runner-up,834,48,low,2,3,3,3,3,4,46,https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/
+pb-08,v1-corpus,Parnall Law Firm Scholarship,2019,runner-up,631,41,low,2,3,3,3,2,2,53,https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/
+pb-09,v1-corpus,Parnall Law Firm Scholarship,2020,winner,840,44,low,2,2,3,2,2,2,48,https://www.hurtcallbert.com/bert-gives-back/scholarships/2020-scholarship-winners/
+pb-10,v1-corpus,Parnall Law Firm Scholarship,2020,runner-up,750,44,low,2,2,3,2,2,2,38,https://www.hurtcallbert.com/bert-gives-back/scholarships/2020-scholarship-winners/
+pb-11,v1-corpus,Parnall Law Firm Scholarship,2020,runner-up,736,58,mid,4,2,3,3,3,2,58,https://www.hurtcallbert.com/bert-gives-back/scholarships/2020-scholarship-winners/
+boldb-08,v1-corpus,Perseverance Pays Scholarship,September 2022,winner,584,62,mid,3,4,3,4,2,2,63,https://bold.org/scholarships/perseverance-pays-scholarship/
+boldb-09,v1-corpus,Perseverance Pays Scholarship,September 2022,winner,230,50,mid,3,2,4,2,2,1,43,https://bold.org/scholarships/perseverance-pays-scholarship/
+bo-49,2026-11-08,Phoenix Opportunity Award,"Jul 15, 2023",winner,343,55,mid,3,3,3,3,2,2,,https://bold.org/scholarships/phoenix-opportunity-award
+law-19,v1-corpus,Ramsay Law Firm Scholarship,2025,winner,557,39,low,4,2,1,2,2,2,32,https://www.ramsaylawfirm.com/scholarship-winners/
+bo-50,2026-11-08,Revolutionizing Robotics and Computer Sciences Scholarship,"Dec 20, 2023",winner,440,44,low,4,2,1,2,2,2,,https://bold.org/scholarships/revolutionizing-robotics-and-computer-sciences-scholarship
+bo-51,2026-11-08,Rivera-Gulley First-Gen Scholarship Award,"Aug 7, 2023",winner,596,51,mid,4,2,2,3,2,2,,https://bold.org/scholarships/rivera-gulley-first-gen-scholarship-award
+bold-13,v1-corpus,Roger Boston Scholarship,October 2022,winner,472,63,mid,4,4,3,3,2,2,65,https://bold.org/students/griffin-matejka/
+lw-38,2026-11-08,Rosen & Ohr Scholarship 2021,2021,winner,1286,66,mid,4,4,3,4,3,3,,https://www.rosenohrlaw.com/blog/2021-rosen-ohr-scholarship-winner/
+lw-39,2026-11-08,Rosen & Ohr Scholarship 2022,2022,winner,771,70,mid,4,4,4,3,3,2,,https://www.rosenohrlaw.com/blog/2022-rosen-ohr-scholarship-winner/
+lw-40,2026-11-08,Rosen & Ohr Scholarship 2023,2023,winner,753,51,mid,3,3,2,3,2,2,,https://www.rosenohrlaw.com/blog/2023-rosen-ohr-scholarship-winner/
+lw-41,2026-11-08,Rosen & Ohr Scholarship 2024,2024,winner,990,73,high,4,4,4,4,3,2,,https://www.rosenohrlaw.com/blog/2024-rosen-ohr-scholarship-winner/
+lw-42,2026-11-08,Rosen & Ohr Scholarship 2025,2025,winner,510,55,mid,3,4,2,4,3,2,,https://www.rosenohrlaw.com/blog/2025-rosen-ohr-scholarship-winner/
+lw-43,2026-11-08,Rosen & Ohr Scholarship 2026,2026,winner,1137,69,mid,5,5,3,5,3,4,,https://www.rosenohrlaw.com/blog/2026-rosen-ohr-scholarship-winner/
+bold-14,v1-corpus,Scholar Dudes in Computer Science Scholarship,March 2023,winner,402,53,mid,3,4,3,2,2,3,60,https://bold.org/students/andre-o-harris/
+tech-05,v1-corpus,Singularity: AI Essay Contest,2026,winner,1399,60,mid,4,4,2,4,4,3,72,https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)
+tech-06,v1-corpus,Singularity: AI Essay Contest,2026,runner-up,1476,75,high,4,5,3,4,4,4,75,https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)
+tech-07,v1-corpus,Singularity: AI Essay Contest,2026,runner-up,1526,58,mid,5,4,2,3,4,4,73,https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)
+tech-08,v1-corpus,Singularity: AI Essay Contest,2026,runner-up,1498,75,high,5,4,2,3,4,5,85,https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)
+tech-09,v1-corpus,Singularity: AI Essay Contest,2026,runner-up,1476,66,mid,5,4,2,3,3,4,69,https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)
+tech-10,v1-corpus,Singularity: AI Essay Contest,2026,runner-up,1392,52,mid,4,3,2,2,3,3,60,https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)
+bold-16,v1-corpus,Spark the Change Scholarship,May 2026,winner,563,53,mid,3,3,2,2,3,3,61,https://bold.org/students/cjcariaso/
+kan-01,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2026,winner,1004,64,mid,4,4,2,4,2,3,65,https://www.kanoski.com/scholarship-past-winners
+kan-02,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2026,winner,1210,48,low,3,3,2,2,2,2,52,https://www.kanoski.com/scholarship-past-winners
+kan-03,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2026,winner,1049,63,mid,4,4,2,3,2,4,61,https://www.kanoski.com/scholarship-past-winners
+kan-04,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2026,winner,1216,59,mid,5,3,2,3,2,2,64,https://www.kanoski.com/scholarship-past-winners
+kan-05,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2026,winner,1022,67,mid,4,4,4,4,2,3,67,https://www.kanoski.com/scholarship-past-winners
+kan-06,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2026,winner,1105,47,low,4,2,1,2,3,2,47,https://www.kanoski.com/scholarship-past-winners
+kan-07,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2026,winner,1163,45,low,4,2,2,3,2,2,47,https://www.kanoski.com/scholarship-past-winners
+kan-08,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2026,winner,1063,50,mid,4,3,2,3,2,2,50,https://www.kanoski.com/scholarship-past-winners
+kan-09,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2026,winner,1038,30,low,2,2,1,2,2,2,27,https://www.kanoski.com/scholarship-past-winners
+kan-10,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2026,winner,1003,58,mid,4,2,3,3,3,2,67,https://www.kanoski.com/scholarship-past-winners
+kan-11,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2025,winner,1041,41,low,4,2,1,3,2,2,45,https://www.kanoski.com/scholarship-past-winners
+kan-12,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2025,winner,965,49,low,4,3,4,3,2,3,66,https://www.kanoski.com/scholarship-past-winners
+kan-13,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2025,winner,990,36,low,3,2,2,2,3,2,43,https://www.kanoski.com/scholarship-past-winners
+kan-14,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2025,winner,996,50,mid,4,2,2,3,3,3,61,https://www.kanoski.com/scholarship-past-winners
+kan-15,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2025,winner,1054,47,low,4,2,1,3,2,2,53,https://www.kanoski.com/scholarship-past-winners
+kan-16,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2025,winner,1075,72,high,4,4,4,4,2,3,71,https://www.kanoski.com/scholarship-past-winners
+kan-17,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2025,winner,1053,55,mid,4,3,2,3,2,2,63,https://www.kanoski.com/scholarship-past-winners
+kan-18,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2025,winner,1035,46,low,3,3,4,2,2,2,51,https://www.kanoski.com/scholarship-past-winners
+kan-19,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2025,winner,1230,34,low,3,2,1,2,2,2,30,https://www.kanoski.com/scholarship-past-winners
+kan-20,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2025,winner,1057,68,mid,4,4,4,4,3,2,63,https://www.kanoski.com/scholarship-past-winners
+kan-21,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2024,winner,999,62,mid,4,3,3,4,2,2,62,https://www.kanoski.com/scholarship-past-winners
+kan-22,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2024,winner,1002,56,mid,4,4,3,4,2,2,66,https://www.kanoski.com/scholarship-past-winners
+kan-23,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2024,winner,1032,51,mid,4,3,2,3,2,3,51,https://www.kanoski.com/scholarship-past-winners
+kan-24,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2024,winner,1019,70,mid,4,3,3,4,4,3,74,https://www.kanoski.com/scholarship-past-winners
+kan-25,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2024,winner,1051,59,mid,3,3,4,2,3,2,64,https://www.kanoski.com/scholarship-past-winners
+kan-26,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2024,winner,939,61,mid,4,4,2,3,2,3,61,https://www.kanoski.com/scholarship-past-winners
+kan-27,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2024,winner,1197,68,mid,4,4,4,4,3,2,65,https://www.kanoski.com/scholarship-past-winners
+kan-28,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2024,winner,843,59,mid,3,3,4,2,3,2,61,https://www.kanoski.com/scholarship-past-winners
+kan-29,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2024,winner,1134,24,low,3,1,1,2,2,2,24,https://www.kanoski.com/scholarship-past-winners
+kan-30,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2024,winner,1019,55,mid,4,3,2,3,2,2,55,https://www.kanoski.com/scholarship-past-winners
+kan-31,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2023,winner,1000,79,high,5,4,4,4,3,3,79,https://www.kanoski.com/scholarship-past-winners
+kan-32,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2023,winner,907,42,low,4,2,1,3,2,2,51,https://www.kanoski.com/scholarship-past-winners
+kan-33,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2023,winner,998,48,low,4,3,2,3,2,2,48,https://www.kanoski.com/scholarship-past-winners
+kan-34,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2023,winner,1024,31,low,3,1,1,2,2,2,31,https://www.kanoski.com/scholarship-past-winners
+kan-35,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2023,winner,942,45,low,4,2,1,3,3,2,46,https://www.kanoski.com/scholarship-past-winners
+kan-36,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2023,winner,1165,41,low,3,3,4,2,2,2,60,https://www.kanoski.com/scholarship-past-winners
+kan-37,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2023,winner,1015,55,mid,3,3,3,3,2,2,55,https://www.kanoski.com/scholarship-past-winners
+kan-38,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2023,winner,1246,59,mid,2,5,3,4,1,2,58,https://www.kanoski.com/scholarship-past-winners
+kan-39,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2023,winner,1005,54,mid,3,4,3,3,2,2,59,https://www.kanoski.com/scholarship-past-winners
+kan-40,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2023,winner,985,62,mid,4,3,3,3,3,2,64,https://www.kanoski.com/scholarship-past-winners
+kan-41,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2022,winner,2904,66,mid,4,4,3,3,3,2,68,https://www.kanoski.com/scholarship-past-winners
+kan-42,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2022,winner,1010,72,high,4,4,4,4,2,3,72,https://www.kanoski.com/scholarship-past-winners
+kan-43,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2022,winner,2085,86,high,5,5,4,5,3,3,86,https://www.kanoski.com/scholarship-past-winners
+kan-44,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2022,winner,938,62,mid,4,3,3,3,3,2,62,https://www.kanoski.com/scholarship-past-winners
+kan-45,v1-corpus,Stand Up to Distracted Driving Scholarship,Fall 2022,winner,1102,63,mid,4,3,4,3,2,2,65,https://www.kanoski.com/scholarship-past-winners
+kan-46,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2022,winner,1037,62,mid,4,3,3,3,3,2,64,https://www.kanoski.com/scholarship-past-winners
+kan-47,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2022,winner,999,44,low,3,2,2,2,2,2,48,https://www.kanoski.com/scholarship-past-winners
+kan-48,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2022,winner,1037,51,mid,4,2,2,2,3,2,60,https://www.kanoski.com/scholarship-past-winners
+kan-49,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2022,winner,1078,68,mid,4,3,4,4,2,3,66,https://www.kanoski.com/scholarship-past-winners
+kan-50,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2022,winner,1012,56,mid,3,3,4,2,2,2,56,https://www.kanoski.com/scholarship-past-winners
+kan-51,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2021,winner,1314,45,low,3,2,3,2,2,3,45,https://www.kanoski.com/scholarship-past-winners
+kan-52,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2021,winner,1121,59,mid,4,3,3,3,2,2,64,https://www.kanoski.com/scholarship-past-winners
+kan-53,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2021,winner,1058,47,low,3,3,3,2,2,2,47,https://www.kanoski.com/scholarship-past-winners
+kan-54,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2021,winner,1064,65,mid,4,3,3,4,3,2,65,https://www.kanoski.com/scholarship-past-winners
+kan-55,v1-corpus,Stand Up to Distracted Driving Scholarship,Spring 2021,winner,995,57,mid,4,3,2,3,2,3,60,https://www.kanoski.com/scholarship-past-winners
+bold-17,v1-corpus,"Start Small, Dream BIG Scholarship",March 2026,winner,415,35,low,4,2,2,1,2,2,47,https://bold.org/students/tayloramery/
+law-01,v1-corpus,The Crowder Law Firm Scholarship,Spring 2023,winner,1139,56,mid,3,4,3,3,3,2,46,https://www.crowdercriminalfirm.com/scholarship-spring-2023-winner-grace-schuler
+law-02,v1-corpus,The Crowder Law Firm Scholarship,Spring 2023,winner,648,52,mid,3,3,3,2,2,2,52,https://www.crowdercriminalfirm.com/scholarship-spring-2023-winner-malia-mancini
+law-03,v1-corpus,The Crowder Law Firm Scholarship,Fall 2022,winner,890,50,mid,3,4,3,3,2,3,55,https://www.crowdercriminalfirm.com/scholarship-fall-2022-winner
+law-04,v1-corpus,The Crowder Law Firm Scholarship,Fall 2023,winner,1000,52,mid,4,2,3,2,2,2,50,https://www.crowdercriminalfirm.com/scholarship-fall-2023-winner-anna-la
+law-05,v1-corpus,The Crowder Law Firm Scholarship,Fall 2023,winner,728,50,mid,3,3,2,2,2,3,50,https://www.crowdercriminalfirm.com/scholarship-fall-2023-winner-juan-suarez
+law-06,v1-corpus,The Crowder Law Firm Scholarship,Spring 2024,winner,1063,51,mid,3,4,2,3,2,3,52,https://www.crowdercriminalfirm.com/scholarship-spring-2024-winner-elizabeth-bank
+law-07,v1-corpus,The Crowder Law Firm Scholarship,Spring 2024,winner,909,47,low,3,2,3,1,2,3,47,https://www.crowdercriminalfirm.com/scholarship-spring-2024-winner-pedro
+law-08,v1-corpus,The Crowder Law Firm Scholarship,Fall 2024,winner,997,53,mid,3,3,4,2,2,3,58,https://www.crowdercriminalfirm.com/scholarship-fall-2024-winner-dianne-lee-dunn
+law-09,v1-corpus,The Crowder Law Firm Scholarship,Fall 2024,winner,1141,49,low,5,2,3,2,3,2,69,https://www.crowdercriminalfirm.com/scholarship-fall-2024-winner-luke-zelich
+law-10,v1-corpus,The Crowder Law Firm Scholarship,Spring 2025,winner,925,35,low,3,2,1,2,2,2,41,https://www.crowdercriminalfirm.com/scholarship-spring-2025-winner-carolina-de-la-torre
+law-11,v1-corpus,The Crowder Law Firm Scholarship,Spring 2025,winner,1245,31,low,3,2,1,1,2,2,32,https://www.crowdercriminalfirm.com/scholarship-spring-2025-winner-sophia-mendoza
+law-12,v1-corpus,The Crowder Law Firm Scholarship,Fall 2025,winner,996,45,low,2,4,3,3,2,2,55,https://www.crowdercriminalfirm.com/scholarship-fall-2025-winner-caitlin-hyers
+law-13,v1-corpus,The Crowder Law Firm Scholarship,Fall 2025,winner,976,61,mid,3,4,3,3,2,4,55,https://www.crowdercriminalfirm.com/scholarship-fall-2025-winner-katie-hall
+law-14,v1-corpus,The Crowder Law Firm Scholarship,Spring 2026,winner,907,68,mid,5,4,2,3,3,3,72,https://www.crowdercriminalfirm.com/scholarship-spring-2026-winner-carla-suarez-delgado
+law-15,v1-corpus,The Crowder Law Firm Scholarship,Spring 2026,winner,1124,50,mid,3,3,2,2,2,3,50,https://www.crowdercriminalfirm.com/scholarship-spring-2026-winner-alexa-ramirez
+pd-27,v1-corpus,The Fountain Essay Contest: Real or Fake? Reflections on How We Experience Life in the AI Age,2025,winner,1436,59,mid,3,4,2,4,3,3,62,https://fountainmagazine.com/all-issues/2026/issue-170-mar-apr-2026/the-counterfeit-nightingale-and-the-real-song/
+pd-28,v1-corpus,The Fountain Essay Contest: Real or Fake? Reflections on How We Experience Life in the AI Age,2025,runner-up,2337,44,low,3,3,1,4,3,3,46,https://fountainmagazine.com/all-issues/2026/issue-170-mar-apr-2026/between-sidq-and-simulation-on-authenticity-in-the-age-of-ai/
+pd-22,v1-corpus,The Fountain Essay Contest: Where Is Home?,2024,winner,1618,69,mid,4,4,4,3,3,4,76,https://fountainmagazine.com/all-issues/2025/issue-164-mar-apr-2025/home-is-tucked-under-the-smiling-sunflower-seeds/
+pd-23,v1-corpus,The Fountain Essay Contest: Where Is Home?,2024,honorable-mention,2636,12,low,2,4,2,3,2,3,22,https://fountainmagazine.com/all-issues/2025/issue-163-jan-feb-2025/beyond-home-the-spirit-of-sydney/
+pd-24,v1-corpus,The Fountain Essay Contest: Where Is Home?,2024,honorable-mention,2605,26,low,3,2,1,2,2,3,17,https://fountainmagazine.com/all-issues/2026/issue-172-july-aug-2026/the-cartography-of-the-heart/
+pd-25,v1-corpus,The Fountain Essay Contest: Where Is Home?,2024,finalist,1681,21,low,2,2,4,2,2,4,21,https://fountainmagazine.com/all-issues/2025/issue-168-nov-dec-2025/a-mosquito-meets-a-memory/
+pd-26,v1-corpus,The Fountain Essay Contest: Where Is Home?,2024,finalist,1407,39,low,3,2,3,3,2,4,31,https://fountainmagazine.com/all-issues/2026/issue-172-july-aug-2026/footsteps-of-belonging/
+pa-01,v1-corpus,The Humanist Essay Contest,2014,winner,1846,49,low,2,4,2,2,3,3,53,https://thehumanist.com/features/articles/the-importance-of-music-education
+pa-02,v1-corpus,The Humanist Essay Contest,2014,runner-up,1983,64,mid,4,5,3,4,4,4,70,https://thehumanist.com/features/articles/the-semantics-of-happiness
+pa-03,v1-corpus,The Humanist Essay Contest,2014,runner-up,1514,69,mid,3,4,3,4,3,4,69,https://thehumanist.com/features/articles/the-silent-polar-bear
+nw-14,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,766,50,mid,3,4,3,2,2,4,,https://www.thenation.com/article/archive/bard-high-school/
+nw-15,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,755,54,mid,3,3,3,3,3,3,,https://www.thenation.com/article/archive/betrayal-american-dream/
+nw-16,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,832,63,mid,4,4,4,4,3,4,,https://www.thenation.com/article/archive/books-brilliance-or-burgers/
+nw-17,2026-11-08,The Nation Student Writing Contest 2010,2010,winner,614,39,low,3,3,2,2,3,3,,https://www.thenation.com/article/archive/failing-new-jerseys-schools/
+nw-18,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,776,54,mid,2,5,3,3,3,5,,https://www.thenation.com/article/archive/football-vs-asian-studies/
+nw-19,2026-11-08,The Nation Student Writing Contest 2010,2010,winner,731,69,mid,4,4,3,4,3,4,,https://www.thenation.com/article/archive/losing-ignition/
+nw-20,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,751,43,low,2,3,3,3,2,3,,https://www.thenation.com/article/archive/necessary-luxury/
+nw-21,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,787,51,mid,3,3,3,3,2,3,,https://www.thenation.com/article/archive/overcoming-hurdles-college-navajo-student/
+nw-22,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,617,42,low,2,4,3,3,3,2,,https://www.thenation.com/article/archive/pedagogical-and-national-disaster/
+nw-23,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,797,49,low,3,4,3,3,3,3,,https://www.thenation.com/article/archive/students-lose-role-models/
+nw-24,2026-11-08,The Nation Student Writing Contest 2010,2010,finalist,670,58,mid,5,3,2,3,3,2,,https://www.thenation.com/article/archive/undereducated-students-overburdened-teachers-and-future-america/
+nw-25,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,799,75,high,5,4,3,3,4,3,,https://www.thenation.com/article/archive/balance-crisis-information-and-democracy/
+nw-26,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,642,51,mid,4,2,3,1,2,3,,https://www.thenation.com/article/archive/competition-pandemic/
+nw-27,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,739,56,mid,4,3,3,4,2,2,,https://www.thenation.com/article/archive/dangers-absent-mind/
+nw-28,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,690,67,mid,4,4,3,4,3,4,,https://www.thenation.com/article/archive/digging-democracy/
+nw-29,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,787,59,mid,4,4,3,3,2,3,,https://www.thenation.com/article/archive/facing/
+nw-30,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,640,59,mid,4,3,3,2,3,2,,https://www.thenation.com/article/archive/global-problems-global-solutions/
+nw-31,2026-11-08,The Nation Student Writing Contest 2011,2011,winner,787,80,high,3,5,4,5,3,5,,https://www.thenation.com/article/archive/maybe-i-would-be-alone/
+nw-32,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,786,68,mid,4,3,4,3,3,3,,https://www.thenation.com/article/archive/mommy-where-are-all-black-kids/
+nw-33,2026-11-08,The Nation Student Writing Contest 2011,2011,winner,778,53,mid,4,3,3,3,2,2,,https://www.thenation.com/article/archive/what-will-become-my-generation/
+nw-34,2026-11-08,The Nation Student Writing Contest 2011,2011,finalist,544,46,low,2,4,4,3,3,4,,https://www.thenation.com/article/archive/winning-future/
+nw-35,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,799,68,mid,5,4,3,3,3,3,,https://www.thenation.com/article/archive/democracy-sale-no-democracy-all/
+nw-36,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,754,60,mid,4,3,3,2,2,4,,https://www.thenation.com/article/archive/energy-solution-cannot-wait/
+nw-37,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,786,64,mid,3,5,4,3,3,2,,https://www.thenation.com/article/archive/give-undocumented-voice-election/
+nw-38,2026-11-08,The Nation Student Writing Contest 2012,2012,winner,815,49,low,4,4,3,3,2,3,,https://www.thenation.com/article/archive/joblessness-most-important-issue-election/
+nw-39,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,815,61,mid,4,4,3,4,3,4,,https://www.thenation.com/article/archive/mother-nature-bring-trojan-horse/
+nw-40,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,691,70,mid,4,3,4,3,3,4,,https://www.thenation.com/article/archive/romneys-recession-reaganomics/
+nw-41,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,763,45,low,4,4,2,2,3,3,,https://www.thenation.com/article/archive/sake-democracy-we-need-electoral-reform/
+nw-42,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,789,64,mid,5,3,3,3,3,3,,https://www.thenation.com/article/archive/selling-supreme-court/
+nw-43,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,795,57,mid,4,3,3,3,2,4,,https://www.thenation.com/article/archive/we-cant-trust-government/
+nw-44,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,747,70,mid,4,4,3,3,3,4,,https://www.thenation.com/article/archive/wealth-and-democracy-inverse-relationship/
+nw-45,2026-11-08,The Nation Student Writing Contest 2012,2012,finalist,786,51,mid,5,3,3,2,3,3,,https://www.thenation.com/article/archive/weaning-america-oil/
+nw-46,2026-11-08,The Nation Student Writing Contest 2012,2012,winner,774,58,mid,5,4,3,3,3,3,,https://www.thenation.com/article/archive/what-i-owe-radical-feminism/
+nw-01,2026-11-08,The Nation Student Writing Contest 2013,2013,winner,772,58,mid,4,3,3,3,3,3,,https://www.thenation.com/article/archive/thirty-years-late-class-war/
+nw-02,2026-11-08,The Nation Student Writing Contest 2013,2013,winner,790,67,mid,4,4,3,3,4,4,,https://www.thenation.com/article/archive/political-apathy-threatens-our-nation/
+nw-03,2026-11-08,The Nation Student Writing Contest 2013,2013,winner,698,48,low,3,3,3,1,3,3,,https://www.thenation.com/article/archive/inequality-makes-democracy-impossible/
+nw-04,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,776,65,mid,4,4,2,3,4,5,,https://www.thenation.com/article/archive/dollars-not-ballots/
+nw-05,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,762,69,mid,4,4,3,4,3,4,,https://www.thenation.com/article/archive/american-politics-and-apathy-minority/
+nw-06,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,793,64,mid,4,4,3,3,3,3,,https://www.thenation.com/article/archive/neoliberalism-why-american-dream-losing-steam/
+nw-07,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,797,51,mid,4,3,2,3,2,3,,https://www.thenation.com/article/archive/unraveling-representative-democracy/
+nw-08,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,790,70,mid,3,4,4,5,3,4,,https://www.thenation.com/article/archive/gated-minds/
+nw-09,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,792,69,mid,4,5,3,3,4,3,,https://www.thenation.com/article/archive/plutocracy-problem/
+nw-10,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,631,45,low,2,4,3,4,3,2,,https://www.thenation.com/article/archive/end-majority-rule/
+nw-11,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,772,48,low,3,3,3,3,2,4,,https://www.thenation.com/article/archive/many-meanings-being-selfish/
+nw-12,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,780,68,mid,4,4,3,3,3,4,,https://www.thenation.com/article/archive/absence-ideology-why-we-need-more-partisanship/
+nw-13,2026-11-08,The Nation Student Writing Contest 2013,2013,finalist,794,73,high,4,5,3,3,4,3,,https://www.thenation.com/article/archive/disappearing-voice-working-class/
+pc-09,v1-corpus,The Oxford Scientist Schools Science Writing Competition,2019 (Michaelmas Term),winner,710,64,mid,5,4,3,4,4,4,78,https://oxsci.org/cecilia-the-tale-of-two-elements/
+pc-10,v1-corpus,The Oxford Scientist Schools Science Writing Competition,2019 (Michaelmas Term),runner-up,706,55,mid,4,3,4,3,3,4,70,https://oxsci.org/ibn-sina-the-father-of-modern-medicine-who/
+pc-11,v1-corpus,The Oxford Scientist Schools Science Writing Competition,2019 (Michaelmas Term),runner-up,691,59,mid,4,4,3,4,3,3,51,https://oxsci.org/charles-richard-drew-the-father-of-blood-banking/
+pc-12,v1-corpus,The Oxford Scientist Schools Science Writing Competition,2019 (Michaelmas Term),runner-up,709,50,mid,4,4,2,3,2,3,52,https://oxsci.org/jocelyn-bell-burnell-a-pulsar-pioneer/
+pc-13,v1-corpus,The Oxford Scientist Schools Science Writing Competition,2019 (Michaelmas Term),runner-up,704,63,mid,4,4,3,4,3,4,72,https://oxsci.org/mileva-maric-eclipsed-by-her-husband/
+pc-14,v1-corpus,The Oxford Scientist Schools Science Writing Competition,2019 (Michaelmas Term),runner-up,598,75,high,4,4,4,4,4,4,77,https://oxsci.org/yuan-longping-chinas-father-of-hybrid-rice/
+neg-04,v1-corpus,"Unnamed (labeled ""College Scholarship Essay""; content is a regional anesthesia fellowship statement)",unknown,unknown,610,61,mid,4,3,3,2,3,3,51,https://www.essayedge.com/wp-content/themes/EssayEdgeTheme/samples/pdf/full-college-scholarshipessay-before1.pdf
+neg-05,v1-corpus,"Unnamed (labeled ""College Scholarship Essay""; content is an OB/GYN genetics fellowship statement)",unknown,unknown,753,60,mid,4,3,2,3,3,3,53,https://www.essayedge.com/wp-content/themes/EssayEdgeTheme/samples/pdf/full-college-scholarshipessay-before2.pdf
+neg-03,v1-corpus,"Unnamed graduate scholarship (PhD applicant at the University of British Columbia, Japanese ELT policy)",unknown,unknown,1594,63,mid,3,4,4,2,3,3,56,https://www.essayedge.com/wp-content/themes/EssayEdgeTheme/samples/pdf/full-college-scholarshipessay-before.pdf
+vt-31,2026-11-08,Varsity Tutors Scholarship (April 2026),2026,winner,483,31,low,4,1,1,1,2,2,,https://www.varsitytutors.com/scholarship_entries/shane-56518
+vt-32,2026-11-08,Varsity Tutors Scholarship (April 2026),2026,not-selected,261,52,mid,3,2,4,2,2,2,,https://www.varsitytutors.com/scholarship_entries/elliott-56539
+vt-33,2026-11-08,Varsity Tutors Scholarship (April 2026),2026,not-selected,375,41,low,4,2,1,1,2,2,,https://www.varsitytutors.com/scholarship_entries/elannia-56526
+vt-34,2026-11-08,Varsity Tutors Scholarship (April 2026),2026,not-selected,244,54,mid,4,2,3,2,2,3,,https://www.varsitytutors.com/scholarship_entries/deanya-56510
+vt-35,2026-11-08,Varsity Tutors Scholarship (April 2026),2026,not-selected,495,39,low,4,2,1,1,2,2,,https://www.varsitytutors.com/scholarship_entries/nicholas-56497
+vt-11,2026-11-08,Varsity Tutors Scholarship (August 2026),2026,winner,399,67,mid,4,3,3,4,3,3,,https://www.varsitytutors.com/scholarship_entries/valeria-57488
+vt-12,2026-11-08,Varsity Tutors Scholarship (August 2026),2026,not-selected,406,71,mid,4,3,4,4,3,3,,https://www.varsitytutors.com/scholarship_entries/susan-57487
+vt-13,2026-11-08,Varsity Tutors Scholarship (August 2026),2026,not-selected,293,55,mid,3,2,4,3,2,2,,https://www.varsitytutors.com/scholarship_entries/leah-57478
+vt-14,2026-11-08,Varsity Tutors Scholarship (August 2026),2026,not-selected,565,42,low,3,1,2,2,2,3,,https://www.varsitytutors.com/scholarship_entries/brianna-57469
+vt-15,2026-11-08,Varsity Tutors Scholarship (August 2026),2026,not-selected,333,64,mid,4,3,3,3,3,3,,https://www.varsitytutors.com/scholarship_entries/angely-alejandra-57458
+vt-16,2026-11-08,Varsity Tutors Scholarship (July 2026),2026,winner,474,61,mid,5,3,2,3,2,3,,https://www.varsitytutors.com/scholarship_entries/jimmy-57213
+vt-17,2026-11-08,Varsity Tutors Scholarship (July 2026),2026,not-selected,460,61,mid,4,4,2,4,3,3,,https://www.varsitytutors.com/scholarship_entries/emma-57253
+vt-18,2026-11-08,Varsity Tutors Scholarship (July 2026),2026,not-selected,434,59,mid,4,3,3,3,2,3,,https://www.varsitytutors.com/scholarship_entries/nina-57233
+vt-19,2026-11-08,Varsity Tutors Scholarship (July 2026),2026,not-selected,436,64,mid,4,3,3,3,3,3,,https://www.varsitytutors.com/scholarship_entries/amira-57212
+vt-20,2026-11-08,Varsity Tutors Scholarship (July 2026),2026,not-selected,638,63,mid,3,4,4,4,3,4,,https://www.varsitytutors.com/scholarship_entries/danielle-57193
+vt-21,2026-11-08,Varsity Tutors Scholarship (June 2026),2026,winner,376,37,low,4,1,1,1,2,2,,https://www.varsitytutors.com/scholarship_entries/ashawntie-56924
+vt-22,2026-11-08,Varsity Tutors Scholarship (June 2026),2026,not-selected,298,41,low,4,1,2,1,2,2,,https://www.varsitytutors.com/scholarship_entries/alexander-56964
+vt-23,2026-11-08,Varsity Tutors Scholarship (June 2026),2026,not-selected,316,52,mid,4,3,2,2,2,2,,https://www.varsitytutors.com/scholarship_entries/toyosi-56949
+vt-24,2026-11-08,Varsity Tutors Scholarship (June 2026),2026,not-selected,220,56,mid,4,3,3,1,3,2,,https://www.varsitytutors.com/scholarship_entries/bryeton-56934
+vt-25,2026-11-08,Varsity Tutors Scholarship (June 2026),2026,not-selected,728,38,low,4,2,1,1,3,2,,https://www.varsitytutors.com/scholarship_entries/grace-56917
+vt-36,2026-11-08,Varsity Tutors Scholarship (March 2026),2026,winner,328,47,low,3,2,2,3,2,2,,https://www.varsitytutors.com/scholarship_entries/autumn-56202
+vt-37,2026-11-08,Varsity Tutors Scholarship (March 2026),2026,not-selected,376,73,high,4,4,4,4,3,2,,https://www.varsitytutors.com/scholarship_entries/greta-56242
+vt-38,2026-11-08,Varsity Tutors Scholarship (March 2026),2026,not-selected,420,43,low,3,2,3,2,2,2,,https://www.varsitytutors.com/scholarship_entries/ailen-56221
+vt-39,2026-11-08,Varsity Tutors Scholarship (March 2026),2026,not-selected,602,63,mid,3,4,3,4,3,2,,https://www.varsitytutors.com/scholarship_entries/micah-56200
+vt-40,2026-11-08,Varsity Tutors Scholarship (March 2026),2026,not-selected,360,59,mid,4,3,3,3,2,2,,https://www.varsitytutors.com/scholarship_entries/jessica-56180
+vt-26,2026-11-08,Varsity Tutors Scholarship (May 2026),2026,winner,521,59,mid,3,3,3,4,3,4,,https://www.varsitytutors.com/scholarship_entries/lindsey-56850
+vt-27,2026-11-08,Varsity Tutors Scholarship (May 2026),2026,not-selected,430,50,mid,3,3,3,2,2,1,,https://www.varsitytutors.com/scholarship_entries/danay-56877
+vt-28,2026-11-08,Varsity Tutors Scholarship (May 2026),2026,not-selected,749,50,mid,4,2,2,3,3,2,,https://www.varsitytutors.com/scholarship_entries/gabrielle-56862
+vt-29,2026-11-08,Varsity Tutors Scholarship (May 2026),2026,not-selected,217,51,mid,3,2,3,3,2,2,,https://www.varsitytutors.com/scholarship_entries/sarai-56842
+vt-30,2026-11-08,Varsity Tutors Scholarship (May 2026),2026,not-selected,464,58,mid,4,2,3,3,3,2,,https://www.varsitytutors.com/scholarship_entries/felicia-56825
+neg-06,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,346,70,mid,4,3,3,4,4,3,67,https://www.varsitytutors.com/scholarship_entries/camille-58000
+neg-07,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,286,65,mid,3,3,4,4,3,2,49,https://www.varsitytutors.com/scholarship_entries/richard-58009
+neg-08,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,302,58,mid,4,3,2,3,3,3,58,https://www.varsitytutors.com/scholarship_entries/jordyn-58018
+neg-09,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,357,50,mid,3,3,3,3,2,2,55,https://www.varsitytutors.com/scholarship_entries/peyton-castiel-58014
+neg-10,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,372,46,low,3,1,3,2,2,3,40,https://www.varsitytutors.com/scholarship_entries/sofia-58001
+neg-11,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,379,23,low,1,1,3,1,2,2,13,https://www.varsitytutors.com/scholarship_entries/lilly-58006
+neg-12,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,399,62,mid,4,3,2,2,4,4,62,https://www.varsitytutors.com/scholarship_entries/garrett-58002
+neg-13,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,448,38,low,2,3,3,2,2,2,30,https://www.varsitytutors.com/scholarship_entries/sienna-58010
+neg-14,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,478,40,low,3,1,2,2,2,2,40,https://www.varsitytutors.com/scholarship_entries/haley-58015
+neg-15,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,531,70,mid,5,3,3,3,3,4,70,https://www.varsitytutors.com/scholarship_entries/kelenna-elijah-58019
+neg-16,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,545,45,low,2,2,2,3,2,3,49,https://www.varsitytutors.com/scholarship_entries/braxton-58011
+neg-17,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,601,92,high,4,5,4,5,5,5,96,https://www.varsitytutors.com/scholarship_entries/luke-58008
+neg-18,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,563,46,low,3,2,2,2,2,3,44,https://www.varsitytutors.com/scholarship_entries/maria-g-58005
+neg-19,v1-corpus,Varsity Tutors Scholarship (October 2026),October 2026,not-selected,859,56,mid,4,2,2,3,3,3,60,https://www.varsitytutors.com/scholarship_entries/taiye-58012
+vt-01,2026-11-08,Varsity Tutors Scholarship (October 2026),2026,winner,350,56,mid,4,3,3,2,2,2,,https://www.varsitytutors.com/scholarship_entries/taylor-58017
+vt-02,2026-11-08,Varsity Tutors Scholarship (October 2026),2026,not-selected,751,60,mid,4,2,3,3,3,3,,https://www.varsitytutors.com/scholarship_entries/velma-58016
+vt-03,2026-11-08,Varsity Tutors Scholarship (October 2026),2026,not-selected,509,43,low,4,2,1,3,2,2,,https://www.varsitytutors.com/scholarship_entries/gianna-57998
+vt-04,2026-11-08,Varsity Tutors Scholarship (October 2026),2026,not-selected,543,64,mid,5,3,2,3,3,3,,https://www.varsitytutors.com/scholarship_entries/jayla-57992
+vt-05,2026-11-08,Varsity Tutors Scholarship (October 2026),2026,not-selected,292,40,low,4,2,2,3,3,3,,https://www.varsitytutors.com/scholarship_entries/muhammad-ali-57984
+vt-06,2026-11-08,Varsity Tutors Scholarship (September 2026),2026,winner,338,52,mid,3,2,4,2,2,2,,https://www.varsitytutors.com/scholarship_entries/zachery-57851
+vt-07,2026-11-08,Varsity Tutors Scholarship (September 2026),2026,not-selected,493,51,mid,4,2,2,2,3,2,,https://www.varsitytutors.com/scholarship_entries/jonathan-57891
+vt-08,2026-11-08,Varsity Tutors Scholarship (September 2026),2026,not-selected,204,52,mid,3,2,4,1,3,2,,https://www.varsitytutors.com/scholarship_entries/lexie-57882
+vt-09,2026-11-08,Varsity Tutors Scholarship (September 2026),2026,not-selected,200,48,low,4,2,2,2,2,2,,https://www.varsitytutors.com/scholarship_entries/ifetayo-57872
+vt-10,2026-11-08,Varsity Tutors Scholarship (September 2026),2026,not-selected,406,48,low,4,3,2,2,3,2,,https://www.varsitytutors.com/scholarship_entries/wes-57863
+bo-52,2026-11-08,William A. Stuart Dream Scholarship,"Apr 30, 2024",winner,475,30,low,2,3,1,2,2,2,,https://bold.org/scholarships/william-a-stuart-dream-scholarship
+bo-53,2026-11-08,William Griggs Memorial Scholarship for Science and Math,"Jul 20, 2023",winner,541,52,mid,4,3,2,2,2,3,,https://bold.org/scholarships/william-griggs-memorial-scholarship-for-science-and-math
+pb-20,v1-corpus,"Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",2019,winner,482,60,mid,3,3,3,4,2,4,54,https://www.attorneync.com/scholarship/2019-scholarship-winners/
+pb-21,v1-corpus,"Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",2019,runner-up,499,54,mid,3,3,3,3,2,4,61,https://www.attorneync.com/scholarship/2019-scholarship-winners/
+pb-22,v1-corpus,"Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",2020,winner,536,41,low,3,2,2,1,2,2,41,https://www.attorneync.com/scholarship/2020-scholarship-winners/
+pb-23,v1-corpus,"Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",2020,runner-up,498,44,low,3,2,3,1,3,2,50,https://www.attorneync.com/scholarship/2020-scholarship-winners/
+pb-24,v1-corpus,"Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",2021,winner,461,53,mid,3,2,3,2,3,3,46,https://www.attorneync.com/scholarship/2021-scholarship-winners/
+pb-25,v1-corpus,"Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",2021,runner-up,524,61,mid,4,2,4,2,3,3,61,https://www.attorneync.com/scholarship/2021-scholarship-winners/
+bold-02,v1-corpus,codePost Computer Science Education Scholarship,July 2020,winner,496,57,mid,3,3,3,3,2,3,59,https://bold.org/students/tatiana/
