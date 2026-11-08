@@ -1,0 +1,54 @@
+{
+ "id": "pb-04",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2018",
+ "outcome": "runner-up",
+ "words": 741,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/",
+ "total": 32,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan that covers the writer and the members of their family, but no family member is ever named. The plan is a general list ('turning off cell phones... choosing a music playlist... driving safe'), and the only commitment comes in the last lines: 'I will no longer use my phone while I drive'. A -10 deduction applies because the family-members part gets no answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The checkable facts are outside statistics: the CDC's '9 people are killed and 1,000 people are injured', the NYT article title and the '66 days' habit study. The writer's own detail is a list ('texting, sending a picture through snapchat, scrolling through social media, changing my music, and even eating') with no car, route, time or person attached."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The confession sounds like a real person ('I know for a fact that everytime I get behind the wheel and happen to be driving by myself, I take my phone out'). It is surrounded by stock framing: 'contemporary society' and 'cellular device', 'happen to be' used four times, 'not just for my family, but also', 'not only breaking the law but', and the tidy moral 'better to be safe than at risk'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories. The writer's admission about using their phone when driving alone is an on-topic beat about their own behavior, but it is a summary of a habit and never becomes a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic menu: phone off, hands on the wheel, pick a playlist first. The essay gestures at reasons once, with the 66-day habit study and phone settings that lock above a set speed, but it never says who in the family does what, when, or how anyone is held to it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 1,
+   "reason": "The essay is one 741-word block with no paragraphs. It opens on statistics and ends on a generic pledge: 'Additionally, I will advocate and work towards creating a world of distracted-free drivers.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rebuild the middle list, from 'By simply turning off cell phones' through 'driving safe', into an actual family plan: a short paragraph for each real family member who drives, each with one concrete rule and how it is checked. Examples: phones go in a set spot before the car starts, the passenger handles music and texts, and the phone's speed-lock setting stays turned on. Ask Enes who in the family actually drives and which rules they really use or would agree to. Do not invent family members or habits. This recovers the most points: criterion 1, the -10 deduction, and criterion 5.",
+  "Cut the opening statistics and the definition of a distracted driver ('One of the most dangerous aspects...' through '...because of the distractions'). Open instead with the confession that is already in the essay: 'everytime I get behind the wheel and happen to be driving by myself, I take my phone out and instantly become distracted.' Keep at most one statistic, the CDC figure, and move it later. Also cut the filler 'happen to be', 'contemporary society' and 'cellular device', and rewrite 'not only breaking the law but...' as a plain statement.",
+  "Split the essay into 4 or 5 paragraphs: the confession, why it matters, the family plan, and the commitment. Replace the closing line about 'a world of distracted-free drivers' with a line that returns to the opening confession: driving alone, and what the writer now does with the phone in that exact situation, using only what Enes confirms is true."
+ ]
+}

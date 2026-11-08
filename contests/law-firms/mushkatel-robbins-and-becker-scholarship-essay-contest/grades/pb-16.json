@@ -1,0 +1,60 @@
+{
+ "id": "pb-16",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2022",
+ "outcome": "winner",
+ "words": 567,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Riona-Sheikh-Mushkatel-Robbins-Becker-PLLC-Scholarship-Essay.pdf",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one crisis and argues why it matters: \"making polarization the single most daunting crisis modern society is facing\". It never says why polarization outranks other crises, and the 'modern society' part shrinks to America only."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has the 73% figure, the Susan Rice quote, Washington's Farewell Address, 2016 Russia and January 6. But two claims rest on unnamed \"Studies show\", and \"faster than other countries\" and \"all-time low for trust\" have no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stacked stock metaphors (\"poison seeping through America's veins, a true epidemic\", \"stressing the very fabric of our society\", \"fan the flames\"), the \"aren't just X, they consider\" pattern, the filler \"Doubtlessly\" and \"clearly\", \"fostered\", and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Analytic prompt, so a case study can do the work of a story. The essay mentions three (2016 Russia, Washington, January 6) but develops none past a sentence or two."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names causes (partisan media, gerrymandering, foreign exploitation) but asserts the links instead of explaining them: \"Redistricting is rigged and deliberately benefits one party\" comes with no how or evidence."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but the stray \"Doubtlessly\" paragraph breaks the flow, and the last line restates the thesis instead of returning to the opening civil-war image: \"making polarization the single most daunting crisis modern society is facing.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. The Washington quote is wrong. The Farewell Address says \"ill-founded jealousies and false alarms\", not \"founded jealousies\", so the misquote flips the meaning. (Subtotal 57, minus 10, gives 47.)"
+  }
+ ],
+ "fixes": [
+  "Paragraph 7: correct the quote to \"ill-founded jealousies and false alarms\" and quote the line as written (\"kindles the animosity of one part against another, foments occasionally riot and insurrection\"). In the last paragraph, cut or qualify \"more divided today than it has ever been before\", because paragraph 1 already brings up civil war and the 1860s were more divided. Fixing the quote recovers 10 points.",
+  "Voice: cut the stacked metaphors in paragraph 2 (\"a poison seeping through America's veins, a true epidemic\"), the whole \"Doubtlessly\" paragraph, \"clearly\" (twice) and \"stressing the very fabric of our society\". Rewrite \"aren't just unhappy... they consider\" as one plain sentence that names who found it. Merge two short claims into one longer sentence that walks through a cause and its effect.",
+  "Specificity and ending: ask Enes for the real sources behind \"Studies show\" (twice), \"faster than other countries\" and \"all-time low for trust\", then name each one with its year. Use the freed words to explain how the 2016 Russian social media campaign worked. End by going back to the opening \"brink of a civil war\" line instead of restating the thesis."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pb-20",
+ "contest": "Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 482,
+ "source_url": "https://www.attorneync.com/scholarship/2019-scholarship-winners/",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks for specific changes, but the only change named is abstract: \"I would address the ignorance that is tolerated and avoided\" and \"Educating people about their surroundings\". It never says what would be built, run or changed."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The potluck scene is concrete (phyllo like baklava, a Jordanian mother, taquitos and tamales, the recipes nobody would give out), but the town, the playschool, the railroad tracks and the neighborhoods are never named, and paragraph 2 has no detail at all."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real voice comes through in the opening (\"laughed at my failure to secure recipes\"), but it is wrapped in stock phrasing: \"vibrant and flourishing\", \"true community\", the moral \"we are all ultimately united by our humanity\", a punchline close and one em dash."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one story, the playschool potluck, told as a full scene and on topic. It only carries the first half; paragraph 2 drops the story and turns into abstraction."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "\"Spreading knowledge would be a start\" and \"If people were to view their neighbors as family\" state an intent but give no program, no one to run it, and no reason people would show up."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The last line comes back to the potluck: \"They might end up sharing a friendship.\" Paragraph 2 is one long block, and the close is a neat slogan rather than a concrete image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2, starting at \"Educating people about their surroundings would dilute...\": replace the abstract education idea with the potluck itself as the specific change. Say who would host it (the playschool? the writer's mother?), where (the same gym?), how often, and how it would reach people on the other side of the tracks. Ask the writer which version they actually support or have seen work, rather than making one up.",
+  "Cut the stock lines \"The truth behind this message is simple—although people may have different backgrounds and cultures, we are all ultimately united by our humanity\" and \"would transform the community into a vibrant and flourishing one\". Use the space for the mechanism from fix 1. This also removes the essay's only em dash.",
+  "Swap the unnamed placeholders for real names: the town, the playschool, the street or tracks that divide the 'sides', and one real moment of the raised eyebrows. Ask the writer for the actual names and incident. If none exist, cut \"There are different 'sides' of town...\" down to one plain sentence so the essay doesn't lean on a generalization."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pb-18",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 495,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2023/12/Mary-Sullivan-Mushkatel-Robbins-Becker-PLLC-Scholarship-Application.pdf",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "States a position in paragraph 1 and restates it at the end ('I hold that their core integrity is preserved'), but the hedge 'measured optimism' and the both-sides middle make the defense read as a gesture instead of an argued stance."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The Freedom of Information Act is the only proper noun. Everything else is abstract: 'Ethics committees and oversight groups tirelessly monitor', 'monetary influence and lobbying', 'big data, AI, and blockchain'. There are no agencies, cases, dates or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "It reads like interchangeable model prose. Tells: 'Navigating' in the title, 'These aren't just formalities', 'It's not just about having mechanisms', 'not from a simplistic viewpoint but from', 'bedrock', 'tirelessly', 'meticulously', 'genuine weight', 'transformative potential', 'To drive the point home', 'In sum', two em dashes, and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "0 stories and 0 case studies. This is an analytic prompt, so one concrete case could have done this job, but none appears. The essay is all claims."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Asserts that checks and balances, technology and engaged citizens protect integrity but never explains how. 'These innovations can meticulously monitor public funds and enforce compliance' names no tool, no failure it fixes, and no one who acts."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are orderly (pros, cons, rebuttal, tech, citizens), but the essay closes with 'In sum' and a restated thesis instead of a return to the opening: 'The way forward is one of attentive refinement rather than dismissive skepticism.' Deductions: em dashes -4 ('Public servants are just that—servants of the public—and'). Subtotal 41, minus 4, gives 37 (low band)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): cut every 'not X but Y' and 'not just' frame: 'These aren't just formalities; they carry genuine weight.', 'It's not just about having mechanisms in place; it's about the people powering them.' and 'This conviction stems not from a simplistic viewpoint but from...'. Delete the filler words (tirelessly, meticulously, genuine, transformative, robust, bedrock) and the em dashes in 'just that—servants of the public—and'. Retitle without 'Navigating'. Replace 'In sum' and the last sentence with a plain statement of Enes's position in his own words, and ask him to say it aloud first.",
+  "Specificity and case study (up to +12 on specificity, +12 on stories): replace 'Ethics committees and oversight groups tirelessly monitor and enforce standards of conduct among officials' with one real, named example that shows integrity working or failing, such as a specific Inspector General or GAO finding. Ask Enes which real case he knows or has actually read about. Don't add one he can't stand behind. If he has a true personal contact with a federal body (FAFSA, a FOIA request, a visa or citizenship process), ask whether he wants to use it.",
+  "Mechanism (up to +9): replace the 'big data, AI, and blockchain' paragraph with one concrete mechanism Enes can verify, such as a named public spending database or an IG hotline. Say why it works where trust alone fails and who uses it. Cut the 'To drive the point home' paragraph's abstractions ('dynamic interaction between the governed and the governing') to make room within the 600 words."
+ ]
+}

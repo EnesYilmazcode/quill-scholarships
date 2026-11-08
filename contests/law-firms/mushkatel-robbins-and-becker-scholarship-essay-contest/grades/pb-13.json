@@ -1,0 +1,54 @@
+{
+ "id": "pb-13",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 528,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2020/01/Pheonix-Law-Scholarship.pdf",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "All four parts are touched, but each answer is a gesture rather than a position. 'What solutions exist' gets one line: 'there have been events police host in an attempt to better their image.' 'How' stops at 'Putting on events or even just a simple conversation.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There are no proper nouns, numbers, dates or quoted fragments anywhere. The one concrete hook, 'smaller, less crime filled cities, such as my own', never names the city. 'In many cases, police have used their power for unlawful reasons' cites no case."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Typos ('It as been', 'improve they way', 'agencies'') show a human wrote it. Tells: 'not only people's experiences, but also the way they are portrayed', filler such as 'more often than not', 'quite easier said than done' and 'an immense amount', a tidy moral close, and no sentence over 45 words. The same claim that relationships 'need improvement' is repeated four times."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories. The writer's own city is mentioned once in passing ('such as my own'), and no encounter, event or person appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one hint of a mechanism: 'the outcome is expected to be negative which causes the person being approached to become defensive.' But the fix is a generic menu ('events', 'converse normally'). It names no existing program, gives no reason it fails, names nobody who would carry it out and offers no incentive."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs exist, but paragraphs 2 and 3 circle the same point, and the ending restates the thesis: 'Putting on events or even just a simple conversation are two ways to improve they way law enforcement officers are perceived.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (20, gap 4): in paragraph 2, change 'smaller, less crime filled cities, such as my own' to the real name of his city. Ask him what he has actually seen of his own local police, such as an event they hosted or an officer at his school, and only use it if it really happened. Then build the 'impression' answer on that city instead of the vague 'In many cases' sentences.",
+  "Answers prompt and ideas (35 combined, gap 2 to 3): merge paragraphs 3 and 4 into one solutions paragraph. Keep the defensiveness sentence ('the outcome is expected to be negative which causes the person being approached to become defensive') as the reason. Then say who should hold the 'normal conversation' contacts and why they would beat one-off image events. Cut 'It as been made quite clear by various people' and 'Though solutions are quite easier said than done.'",
+  "Voice and structure (30 combined, gap 2 to 3): cut the 'not only... but also' construction and the repeated 'need improvement' lines, and fix 'agencies'', 'It as been' and 'they way'. Replace the closing paragraph with a final line that returns to his own city from paragraph 2 instead of restating 'events or even just a simple conversation.'"
+ ]
+}

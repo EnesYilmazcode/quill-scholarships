@@ -1,0 +1,54 @@
+{
+ "id": "pb-10",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 750,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2020-scholarship-winners/",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan, but the plan only arrives in the last paragraph and takes three sentences ('My plan, alongside my family, is to use our devices for emergencies only... placed inside a glove department'). No family member is named, there is no rule for each driver and nothing says how the plan is kept."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few real details: Albuquerque High School, the freeway, semi-trucks and Do Not Disturb. The statistics have no source and no time frame ('approximately 13 people are killed... 11 of those 13 are teenage drivers'), and the freshman-year crash victim is just 'a young lady'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real teenager ('mobile boombox of death', 'friends plus music, equals distractions'), but it leans on stock lines ('technological plague', 'an addiction amongst the human race') and a 'Not only am I... I'm also' construction, and it ends on the slogan 'minds on the drive, hands on the wheel, and eyes on the road'. Many sentences are fragments and none runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two beats, both summaries: the writer's own texting ('I am guilty of texting and driving') and the freshman-year red-light death. Neither is told as a scene, and statistics carry most of the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The rules are mostly a generic list: emergencies only, no calls, fewer passengers. Only the preset playlist and volume has a reason behind it ('can help diffuse the urge to change the song'). The writer notes that Do Not Disturb fails but never says how the glovebox rule fixes that, or who checks it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a dictionary-style definition and closes on a generic moral ('A simple text or notification can wait. Our minds should be on the drive, hands on the wheel, and eyes on the road.'). The ending never returns to the freeway, the Do Not Disturb habit or the classmate."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers the prompt (about +12 points): Cut the opening definition ('Distracted driving is a habit amongst those who operate vehicles... can become consequential.') and most of the cause-percentages paragraph. Put the family plan near the top and build it from the rules already in the essay: phone in the glovebox before the wheels move, playlist and volume set before leaving, no calls including Bluetooth, and a passenger limit. Ask the writer which family members drive, which rule each person actually agreed to, and how the family checks it. Write only what they confirm.",
+  "Specificity (about +8 points): Every statistic needs a source and a time frame, or it should be cut. As written, '13 people are killed... 11 of those 13 are teenage drivers' has no 'per day' and no place, and 'makeup two percent' does not match the earlier 'music (8%)'. Ask the writer for the real source. For the freshman-year crash, ask whether they know the street, the month or the victim's name, and keep only what they confirm. Fix 'glove department' to 'glove compartment'.",
+  "Voice and ending (about +8 points): Cut 'Phones have become an addiction amongst the human race. It's a technological plague' and the closing slogan triplet. End by returning to the writer's own admission that Do Not Disturb never stopped the urge to check notifications, and say plainly that the glovebox rule is the family's answer to that. Join the fragments ('One of the most dangerous places for drivers.', 'For example, during my freshman year of high school.') onto the sentences they belong to."
+ ]
+}

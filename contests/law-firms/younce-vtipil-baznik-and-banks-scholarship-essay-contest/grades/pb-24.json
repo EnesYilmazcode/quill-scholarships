@@ -1,0 +1,54 @@
+{
+ "id": "pb-24",
+ "contest": "Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",
+ "year": "2021",
+ "outcome": "winner",
+ "words": 461,
+ "source_url": "https://www.attorneync.com/scholarship/2021-scholarship-winners/",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Picks healthcare and explains disparities the pandemic 'highlighted', but how society actually changed only appears as a hope at the end: 'I hope to see changes made in this area of society'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are no proper nouns, numbers, named sources or places. The claims stay general: 'In many minority communities, people do not have health insurance.' The writer's own minority status and fear are the only real detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real student and is sometimes clumsy ('they are often so sick and do not respond to treatment leading to death'). It also leans on stock phrasing: the cliché 'spread like a wildfire', the filler words 'genuinely', 'definitely' and 'unfortunately', 'most pressing global issues', a tidy 'silver lining' moral, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one short personal beat (hearing the news, feeling fear, doing research). It is a summary with no scene, and after paragraph 1 the essay becomes an impersonal report."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names three real causes (cost, distance and transportation, historical mistrust) and pairs each with a fix. But the fixes are generic and say nothing about who does them or how: 'If more clinics and hospitals were built in minority neighborhoods'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear: one per cause, then the fixes. The ending gives a generic moral instead of returning to the opening fear: 'to add a silver lining to the life-altering effects that this virus has imposed on us all.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity, paragraphs 2 to 4: ask the writer which news source, report or statistic they actually found while researching. Put that real name or number in place of 'I learned that a large factor in this disease bias is linked to access to healthcare' and 'people do not have health insurance'. Keep the writer's own minority identity and fear from paragraph 1 visible in each cause paragraph. Do not add a figure that cannot be sourced.",
+  "Answers the prompt, paragraph 5: the prompt asks how the pandemic changed society, so open the final paragraph by stating what changed. Base it only on what the writer actually saw or learned, such as how their own view of healthcare changed after the research. Cut the generic 'definitely one of the most pressing global issues in the world today' and the closing 'silver lining' sentence.",
+  "Structure and voice: end by returning to the opening question 'How in the world could a virus pick and choose who it affects' and answer it in one plain sentence using the three causes. Delete the cliché 'spread like a wildfire' in line 1 and the filler words 'genuinely', 'definitely' and 'unfortunately'."
+ ]
+}

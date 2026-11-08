@@ -1,0 +1,60 @@
+{
+ "id": "pb-07",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2019",
+ "outcome": "runner-up",
+ "words": 834,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a committed family plan, but about 70% of the essay explains brain science. The plan itself is three loose suggestions addressed to a generic 'you' (\"Next time you are in the car with a family member... ask them to stop\"). No family member is named and there is no rule the writer commits to."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real anchors: the driver's ed video, '65 mph down the freeway', the King County Target Zero 70%/75% figures and the 'Down for the Count' app. There is no detail at all about the writer's own family, car or routines."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The confessional opening is human ('It would never happen to me.'). Tells: 'Not only is checking your phone extremely addictive, it also...', the filler openers 'Interestingly', 'Unfortunately' and 'Effectively', and a tidy moral to close ('keep our eyes on the road, and the lives, ahead of us'). No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One beat: the mother's video. One own-slip beat: checking texts at 65 mph. Both are on topic, but both are summarized rather than shown, and neither involves the family the prompt is about."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It says why stories and statistics fail ('our addiction is so strong, that it's hard to break with stories or statistics') and picks a reward-based app for that reason. But the app already exists, and the family contest and 'ask them to stop' are a generic menu with no rules, rewards or owner."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The close returns to the opening image ('Instead of closing my laptop after I watch that woman's story'). The text arrives as one block, and the last line is a slogan: 'keep our eyes on the road, and the lives, ahead of us.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. 'Dopamine in high amounts is as addictive as cocaine or heroin' and 'another neurotransmitter called GABA is released, which... causes your reaction time to decrease' are unsupported pop-science. The GABA line also says the opposite of what it means: slower processing raises reaction time. Subtotal 58, total 48."
+  }
+ ],
+ "fixes": [
+  "Rebuild the last third ('Besides apps like this one...' through 'who can go the longest') into the actual Family Plan the prompt asks for. Ask Enes who in his family drives, which car, and which concrete rules each person would really commit to (phone location, who handles navigation and music, what happens on a slip). Then write each as an 'I will' or a named-person commitment instead of 'you could'. This is worth up to 12 points on criterion 1.",
+  "Cut most of the dopamine/GABA paragraph ('The problem is our brains are addicted...' through 'GABA in high amounts is extremely dangerous while doing complex tasks') down to one accurate sentence: phone checks are reward-driven habits. That removes the -10 cannot-be-true deduction, and the space it frees can go to the plan.",
+  "Cut the voice tells. Make 'Not only is checking your phone extremely addictive, it also slows...' a plain statement, delete 'Interestingly', 'Unfortunately' and 'Effectively', and end on the laptop image ('Instead of closing my laptop...') rather than the slogan 'keep our eyes on the road, and the lives, ahead of us'. Also split the block into paragraphs: the video, his own 65 mph habit, why stories fail, the plan."
+ ]
+}

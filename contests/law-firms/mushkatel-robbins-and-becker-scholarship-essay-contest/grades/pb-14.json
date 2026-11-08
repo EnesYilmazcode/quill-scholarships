@@ -1,0 +1,60 @@
+{
+ "id": "pb-14",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2021",
+ "outcome": "winner",
+ "words": 585,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Akhila.pdf",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Campaign finance, the Electoral College and the popular vote each get a paragraph with a position, but the popular-vote fix is one sentence: \"By following the popular vote, it promotes equity and fair elections.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has real checkable detail: Open Secrets, $6.6 billion, 41% from large donors, the California and Wyoming voters-per-elector numbers, 2016 Clinton and the $10,000 DISCLOSE Act threshold. The ratio arithmetic is wrong (taken as a deduction below)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "\"It baffled me and frustrated me\" and the rough grammar (\"one the most\", \"no longer issue\") read as human, but it is wrapped in stock framing: \"At the end of the day\", \"All in all\", \"Overall\", \"truly representational\", the antitheses \"people, not dollars\" and \"a democracy, not a corporation\", and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story, given as a claim with no scene: \"I have worked in campaign finance on multiple US House of Representatives elections and a Town Council race.\" No race, moment or number from that work follows. 2016 is used as a case study but gets two sentences."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "\"The FEC should increase regulation... take a more aggressive stance\" is intent, not a mechanism. The DISCLOSE Act idea is more specific but asserts \"it will root out the influence\" without saying how. The popular-vote idea names no route (a constitutional amendment or an interstate compact)."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, and the last line returns to the opening frame: \"Lawmakers and people alike must change to continue the great American experiment that has made this nation prosper over the past centuries.\" But it is a generic moral that starts with \"All in all\" and brings in gerrymandering, which the essay never discussed."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10: \"6.6 billion dollars - three times higher than the last three presidential elections, all of which hovered just under 2.8 billion\". $6.6B is about 2.4 times $2.8B, not three times. Weighted subtotal 62.0, minus 10, gives 52 (mid band)."
+  }
+ ],
+ "fixes": [
+  "Fix the Open Secrets sentence in paragraph 2 (recovers the 10-point deduction). Look up the real Open Secrets figures and state the correct ratio. With the essay's own numbers it is about 2.4 times, or just give both dollar amounts with no multiplier. While checking, verify the California 400,000 vs Wyoming 76,000 voters-per-electoral-vote figures. Also check or cut the claim that the Electoral College was meant to \"override young, uninformed voters\", since that is not the usual historical argument.",
+  "Turn the campaign-finance job line into evidence (stories 2 to 4 and ideas 2 to 3, about +9). Ask the writer which race it was, what they actually did, and one real sum or donor pattern they saw. Use only what they confirm. To make room, cut \"Granted, we were in a global pandemic with many facing financial inequity\" and \"This is just for presidential elections not even other federal, state, or local elections.\" Then tie the DISCLOSE Act idea to what they saw: name which spending the $10,000 rule would have exposed.",
+  "Give the popular-vote fix a mechanism and clean up the stock framing (about +7). Replace \"By following the popular vote, it promotes equity and fair elections\" with the real route, such as the National Popular Vote Interstate Compact, how it works and who has to act. In the last paragraph, cut \"All in all\" and the gerrymandering clause. Delete \"At the end of the day\", \"Overall\" and \"truly\", and drop one of the two \"X, not Y\" lines."
+ ]
+}

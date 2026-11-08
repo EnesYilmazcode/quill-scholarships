@@ -1,0 +1,54 @@
+{
+ "id": "pb-12",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 595,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2020/01/Phoenix-Law-Team-Essay.pdf",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers the impression question clearly ('an adversarial connection between communities of color and their police forces') and gives a three-prong plan for the how and solutions parts. It never directly answers 'Do those relationships need improvement?'; that answer is only implied by 'repair the frayed relationships'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has strong proper nouns: Terrence Cunningham, Watts, Camden's Pop Up Barbeques, Boston's Operation Hoodsie Cup, and Ferguson 2014, LA 1992 and Baltimore 2015. But every success claim is bare ('has worked', 'has succeeded') with no number, result or detail to show it worked. The opening fire image is generic."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a stiff student research paper rather than model prose. Tells: the antithesis 'did not spark a radical change... Instead, they illuminated', 'foster mutual trust', the redundant 'ignorant or unaware', inflated phrasing ('pedigree of conflict', 'detriments of this conflict are immense'), and a tidy moral to close. No sentence passes 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero stories told in full. Ferguson is a one-sentence opening image, and Watts, Camden and Boston are each given one clause in a list. No case study is developed far enough to carry the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Promoting officers 'based on community engagement and crime reduction' is a real incentive with a named site, but the essay never explains why it works. Publishing policies, 'Implicit bias education and de-escalation' and community events are a standard menu. It never says why current practice fails or who would do each step."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The structure is clear: history, harm, three prongs, close. The ending brings back the opening flames ('the flames of the Ferguson riots... sparked a growing movement'), but the last line is a generic moral: 'each step towards cooperation brings the country closer to a safer and stronger America.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Body paragraph 4: stop listing three prongs with one cited example each. Build the paragraph around the one with a mechanism: the Watts promotion system from Calhoun. Say what officers were actually evaluated on, what changed in the neighborhood, and why an officer chasing a promotion would change how they behave. Shrink publishing policies and the training point to one sentence each, and cut either Camden or Boston. Use only what the Calhoun source actually reports; ask Enes for the source text rather than adding detail.",
+  "Voice: replace 'did not spark a radical change... Instead, they illuminated' with a plain statement of what Ferguson showed. Cut 'ignorant or unaware' down to 'unaware', change 'foster mutual trust and safety' to 'build trust', and replace 'The detriments of this conflict are immense' with the first concrete harm. End on the Watts or Ferguson specifics instead of 'a safer and stronger America'. Merge two linked sentences in the harms paragraph so at least one sentence runs past 45 words.",
+  "Specificity and the prompt: after the IACP quote in paragraph 2, add one plain sentence that answers the question directly, e.g. 'Yes, these relationships need improvement.' Then replace 'has worked' and 'has succeeded' with the actual result each source reports (a crime figure, a complaint count, a participation number). If Enes doesn't have the source figure, cut the success claim rather than leave it unsupported."
+ ]
+}

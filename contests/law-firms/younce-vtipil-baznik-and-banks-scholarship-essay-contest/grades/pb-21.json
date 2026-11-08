@@ -1,0 +1,54 @@
+{
+ "id": "pb-21",
+ "contest": "Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",
+ "year": "2019",
+ "outcome": "runner-up",
+ "words": 499,
+ "source_url": "https://www.attorneync.com/scholarship/2019-scholarship-winners/",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks about the writer's own community, but the changes offered are federal (Second Amendment limits, mental health background checks, campaign finance laws). The essay even says \"there have not been any school shootings in my immediate community.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The new math and science wing with \"glass panes from the ceiling to the floor\" and the Columbine timing are real details. The rest is abstract: no school name, no town, no numbers, no named person."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The glass-door thought and \"I'm not normally paranoid\" sound like a real person. Stock tells: \"profound shock,\" \"profoundly heartbreaking,\" \"crucial\" used twice, the slogan \"Anyone and everyone can make a change with their presence and voice,\" and a tidy generational moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real beat (seeing the glass doors) plus a summary of lockdown drills. The Parkland paragraph is about other people's story, and the beat is never developed into a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a standard national menu: licensing like a driving test, background checks, less NRA influence. Each gets one line of reasoning, with no existing local fix named, no small concrete change, and no one named to carry it out. The automatic-weapons point is shaky because they are already tightly restricted."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay is organized and the ending loops back to the opening generation idea: \"a generation that has never known a time without school shootings, to make a difference and be heard.\" But the last line is a slogan, not an image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas plus answering the prompt (about 14 points): rewrite paragraphs 4 and 5 around changes inside the writer's own school and district, and tie at least one to the glass doors. Ask Enes what the school actually did or could do about those doors, its lockdown plan, or its counselors. Then name who would make the change and why it would work. Cut \"automatic weapons unless you are enlisted in the military\" and the driving-test analogy so the 500 words have room for this.",
+  "Voice (up to 8 points): delete \"Anyone and everyone can make a change with their presence and voice,\" \"The only way for people to understand and listen is to constantly share and educate,\" and \"I know as a country we can do better.\" Replace \"profound shock,\" \"profoundly heartbreaking\" and both uses of \"crucial\" with plain words. End on the glass doors instead of the generational slogan.",
+  "Specificity, stories and the -5 deduction: cut \"Although thankfully, there have not been any school shootings in my immediate community\" (a negative disclaimer, -5). Shrink the Parkland paragraph to one sentence. Use the freed words on real details Enes confirms: the school's name, the year the wing opened, or what a lockdown drill in that room was actually like."
+ ]
+}

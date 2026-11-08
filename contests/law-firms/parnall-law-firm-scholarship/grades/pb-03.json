@@ -1,0 +1,54 @@
+{
+ "id": "pb-03",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2018",
+ "outcome": "runner-up",
+ "words": 295,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan the writer commits to. The essay never mentions family and gives only general advice ('Drivers can minimize distractions from their cell phones by turning them off'), so there is no commitment from 'you and the members of your family'. A further -10 deduction applies for the missing family-plan part."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There is one real physical detail: once the phone was on the aux cord, 'every single notification they received would be broadcast throughout the car'. The rest is unsourced statistics ('nearly one third', 'almost 50%') with no names, roads, cars or dates."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "'I trusted my friend's ability to multitask and put our lives on the line' sounds like a real person. Against that: a stock triplet opening ('slamming... screeching... screams'), 'Perhaps the most disheartening problem', four uses of 'However', the 'Fortunately'/'In addition' connectors and a tidy moral at the end. No em dashes. No sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story: friends texting through the aux cord. It is told as a habit ('they would often answer texts'), not as a scene, and it is about friends, while the prompt is about family."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is a generic list: turn the phone off, keep the radio down, remind passengers. Nobody is named as doing any of it and there is no reason given for why people would stick to it. The essay's own aux-cord detail points to a mechanism it never uses."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay is one 295-word block. The last line restates the opening instead of returning to it: 'Even though distracted driving is a big problem in New Mexico, drivers have the resources to minimize distraction.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rebuild the second half, from 'Fortunately, drivers can take steps' to the end, as the family plan the prompt asks for. Name each real family member who drives or rides, and give each one a rule they commit to, written as 'I will' and 'we will' sentences. Ask Enes for the real details: who in his family drives, which cars, and what phone and radio habits they actually have. Fixing this recovers about 12 criterion points plus the 10-point deduction.",
+  "Cut the opening triplet sentence and the paragraph of general statistics ('Multitasking while driving... causes driver attention to decrease by almost 50%' through 'other passengers can be distracting'). Open instead on the aux-cord moment, where every notification was broadcast through the car and the friend answered texts. Ask Enes for the friend's first name, the car and the road so the moment becomes a scene, and remove the extra 'However's and the exclamation point.",
+  "Make the aux-cord problem the mechanism of the plan. Every phone that connects to the family car's aux or Bluetooth goes into Do Not Disturb before the car moves, and the passenger handles navigation and music. Then split the essay into paragraphs (story, plan, close) and end on the aux cord again instead of on 'drivers have the resources to minimize distraction'."
+ ]
+}

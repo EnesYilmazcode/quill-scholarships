@@ -1,0 +1,54 @@
+{
+ "id": "pb-05",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 1245,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks for a family plan, but the plan only starts about 900 words in at \"what is my plan to eliminate distracted driving within my family?\" The 'family' part is barely there: no family member is named and nobody is given a role."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash stories have strong specifics (visiting grandparents in Germany, the 18-wheeler that \"crossed to the wrong side of the road\", Venessa from AP psychology at Albuquerque High, Thanksgiving break). The plan itself has none. The \"390,000 injuries\" figure has no source or year."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The grief reads as real (\"I took her quirky comments for granted\"). It is buried under stock moves: a dictionary entry (\"Responsibility: noun–\"), a triplet (\"you question the meaning of life; you question the fairness...\"), \"it is imperative\", and repeated rhetorical questions and slogans (\"Driving is a privilege and a responsibility\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three crash stories (the friend's brother, Venessa, the AHS family in Mexico), all summaries with no scene. Distraction is guessed at, not shown (\"it must have been that either he wasn't paying attention\"). The writer's own behavior gets one aside, the swerving he saw from eating."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The rules are a generic menu: phones out of reach, music at neighborhood volume, no eating, no driving while upset. Nothing says where the phone goes, who checks, or what happens when someone breaks a rule. \"Holding each other accountable\" is a hope, not a plan."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "One unbroken block. Definitions and statistics come before the plan. The close is a generic call to action that never returns to Germany or Venessa: \"now I ask that you too work to help eliminate distracted drivers on our roads and take responsibility.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Make the plan the main body of the essay. Cut the paragraph from \"So, what constitutes a distraction?\" through the dictionary entry \"Responsibility: noun–...\" and both statistic sentences, which frees about 350 words. Move \"With all of this in mind, what is my plan\" right after the Venessa story.",
+  "Turn each rule into a real family commitment by asking Enes for the facts: who in the family drives, where the phone actually goes (for example the glovebox or the back seat), who the passenger in charge of music is, and what the family agreed happens when someone breaks a rule. Name family members only if they actually agreed to these things.",
+  "Split the essay into paragraphs (stories, plan, close). Replace the three dashes (\"responsibility–a choice\", \"noun–the fact\", \"lives–just look\") with periods or commas. Replace the last two sentences with a closing line that brings back the Germany phone call or Venessa."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pb-08",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2019",
+ "outcome": "runner-up",
+ "words": 631,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan with a commitment, but there is no plan or commitment by the writer or a named family member. The essay gives general advice in the third person ('I would recommend that education starts in driving school', 'Parents need to set a good example'), and about half of it is a definition, statistics and phone benefits. That also triggers the -10 deduction for a prompt part with no answer at all."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: the 2015 NHTSA figures (3,477 deaths, 391,000 injured), the three-car pile-up with two cars totaled, and 'I was hit by a pregnant lady and her mother'. But neither crash has a place, date, car or road. The opening and the phone paragraph are abstract ('A phone can be very beneficial in certain cases')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice sounds like a real person and avoids the main AI tells: no em dashes, no 'not X but Y', no filler adverbs. The friend detail ('a conversation with someone in the backseat, that for some reason requires making eye contact') sounds like him. But it opens with a stock dictionary definition ('Distracted driving is driving while under any kind of distraction'), relies on stock lines ('think that they are invincible'), and has no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic stories, the sister's rear-end crash and his own. Both are told as summaries in the middle of the essay rather than as scenes that carry it. The best moment, the driver's quote 'so sorry, that she was upset and guessed that she wasn't paying enough attention', is buried."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic list: driving-school education, parents and teens should 'discuss appropriate behavior', phones in the backpack or glove box, parents set an example. Nothing says why the current fixes fail, who enforces the rules, or what happens when someone breaks one."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The whole 631-word essay is one paragraph. It opens with a definition, not a story, and the ideas wander from friends to statistics to family to phone benefits to advice. The last line is a generic moral that does not return to the sister or his own crash: 'Parents need to set a good example and make sure that they are paying attention and not falling into bad habits that will distract them from the road.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Turn the final section ('I would recommend that education starts in driving school...' through the end) into the actual family plan: 'In our family, I will..., my sister will..., my parents will...'. List only rules his family really follows or is willing to commit to, and ask Enes what those are: where phones go, who navigates, what happens if someone breaks a rule. This fills the missing commitment part (recovers the -10 deduction and lifts criteria 1 and 5, worth up to about 21 points).",
+  "Cut the first six sentences (the definition, 'Everything from texting...', and the mood line) and cut most of the phone-benefits paragraph ('Although the thought of a young person having a phone...' through the Bluetooth line). Open on the existing line 'Both my sister and I have been rear ended by distracted drivers' and move the sister's crash and his own to the top. Ask Enes for real details already in his memory, such as the road or the car, to sharpen them. Do not add anything new.",
+  "Split the essay into paragraphs (crashes, then what he sees in his friends' cars, then the family plan). Keep at most one statistic and attach it to a point. End by returning to the two crashes, for example tying one rule back to the driver who said she 'wasn't paying enough attention'. Use only the existing quote, without the moral 'Parents need to set a good example'."
+ ]
+}

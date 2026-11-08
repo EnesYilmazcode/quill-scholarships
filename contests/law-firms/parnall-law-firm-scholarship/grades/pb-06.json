@@ -1,0 +1,54 @@
+{
+ "id": "pb-06",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2019",
+ "outcome": "runner-up",
+ "words": 1313,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2019-scholarship-winners/",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a committed family plan, but the first ~330 words define distraction and list statistics, and the plan only shows up mid-essay as a vague 'three-fold' approach ('I warn them... and politely tell them to pay attention'). It names no family members, no specific rules and no commitments beyond warning and 'shaming'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Nearly all the specifics are cited national statistics. The writer's own event is abstract ('After nearly getting into a serious accident'), and the classmates have only 'ninety miles per hour' and 'a light pole', with no names, times or places."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stiff, report-style voice. Tells: 'Not only are... but' and 'not only informing... but also', filler adverbs ('undoubtedly' x2, 'incredibly', 'astronomically'), 'aforementioned' x2, 'of paramount importance', and a tidy closing moral. There are also 4 em dashes ('distracting––and dangerous––it', 'drivers—teenage', 'road––and'), which cost -6 in deductions."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Three stories, all summarized with no scene: his own near miss (one clause), the classmate who died and the classmate who hit a light pole. They are buried in the second half and don't carry the essay; the statistics do."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The accountability idea has a real mechanism, backed by data: 'we all fear admonition from those closest to us', supported by Bridgestone's 60% vs 37% texting alone vs with a friend. The rest is a generic menu (cite statistics, tell news stories)."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on a dictionary definition, puts the plan in the middle, and buries the strongest material (the classmates) near the end. It closes on a generic moral instead of a return to the opening: 'it's simple, but it will require diligence and enforcement.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt + structure (up to ~12 pts): cut the opening paragraph's definitions and statistics down to two sentences, and turn the 'three-fold' section into the essay's spine. Write it as a numbered commitment in prose: who in the family it covers, what each person agrees to, and what happens when someone breaks it. Ask Enes which real family members drive and what rules they actually follow or will agree to. Do not invent any.",
+  "Stories + specificity (~10 pts): move the classmate who died while texting at ninety mph and the light-pole classmate to the first paragraph, and his own near miss right after them. Delete the duplicate statistics paragraphs (87%, 9%, 3,166, 599, 400,000, the 84%/36% quote) except the single Bridgestone 60%/37% figure, because that one proves the accountability plan works. Ask Enes for the real details he remembers of his own near miss rather than adding any.",
+  "Voice + deductions (~8 pts plus 6 recovered): remove all 4 em dashes; cut 'undoubtedly', 'incredibly', 'astronomically', 'aforementioned', 'of paramount importance', and both 'not only... but' constructions. Replace the final sentence's moral with a line that goes back to the classmate from the new opening and the family rule meant to prevent that crash."
+ ]
+}

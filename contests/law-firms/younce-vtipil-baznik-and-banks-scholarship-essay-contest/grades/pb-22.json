@@ -1,0 +1,54 @@
+{
+ "id": "pb-22",
+ "contest": "Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 536,
+ "source_url": "https://www.attorneync.com/scholarship/2020-scholarship-winners/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The ideas part gets a full paragraph ('develop software that can be installed on the phone that makes use of the accelerometer'), but the essay never says how distracted driving has affected the writer. The first three paragraphs are general background on the problem."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are two outside statistics ('NHTSA, in the year 2018 alone, almost 3,000 lives' and Common Sense Media's '7 hours a day'). There are no names, places, dates or physical details from the writer's own life."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock phrasing throughout. It uses 'not only lack experience but also', and 'aren't simply vehicle operators, but' as an X-but-Y construction. It also has 'profound impacts', 'In this day and age', 'undoubtedly', 'integral part', 'tantalizing prospect' and 'countless precious lives'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are zero stories. All four paragraphs are generic exposition and statistics, with no person, scene or moment of the writer's own."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The accelerometer lockout already exists as iPhone Driving Focus and Android driving mode, and the essay does not acknowledge either. It also does not say why teens would keep the lockout on. Its own escape hatch ('This can be disabled beforehand in case somebody is a passenger') undoes the fix."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay opens on a statistic and closes on a generic moral: 'by reducing distracted driving accidents we can manage to save countless precious lives.' The close does not return to the opening image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rebuild paragraph 4 (ideas, 15 pts at stake): first name the existing fix, iPhone Driving Focus or Android driving mode. Then explain why it fails: it is opt-in, and its 'I'm not driving' button defeats it in one tap. Finally replace 'This can be disabled beforehand in case somebody is a passenger' with a concrete change and who makes it, for example the lockout on by default on teen-registered phones, or a parent or insurer setting. Cut 'we can take advantage of a number of ways to deter usage' and 'Though it's virtually impossible to eradicate distracted driving completely'.",
+  "Do a voice pass across all paragraphs (20 pts at stake). Delete 'profound impacts', 'In this day and age', 'undoubtedly', 'integral part of our daily lives whether we like them or not', 'tantalizing prospect', 'countless precious lives' and 'unfortunately'. Rewrite 'aren't simply vehicle operators, but...' as a plain list ('Passengers, pedestrians and cyclists die too'). Split 'not only lack experience but also are increasingly distracted' into two plain clauses. Shrink paragraph 2's textbook definition ('can be classified as simply any activity...') to one sentence.",
+  "Rewrite the last sentence (structure, 10 pts) so it returns to the opening figure instead of ending on a moral. Close on the 'almost 3,000' from paragraph 1 and what the lockout would change about it. Then cut paragraph 3's opener 'Part of the reason that we see such a balloon with the statistics' and lead that paragraph with the Common Sense Media 7-hour number, which is the strongest checkable fact the essay has."
+ ]
+}

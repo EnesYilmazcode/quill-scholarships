@@ -1,0 +1,54 @@
+{
+ "id": "pb-01",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 639,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan, but the plan gets only one sentence at the very end ('silence our phones and place them in the glove compartment prior to departure'). The other roughly 580 words are general talk about distraction and statistics."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The opening line with the sister ('Javy, can you tie my shoe, Javy, change the station') is real and specific. After that the essay leans on unsourced statistics ('110 times per day', '5% of all distracted driving accidents', '2%') and has no names, places or dates."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Lines like 'Javy, sign this paper for me' and 'the latest and greatest school gossip' sound like a real person, and there are no em dashes. But it is full of stock lines ('growing epidemic', 'let's be realistic, it's dangerous!', 'for what?'), stacked rhetorical questions and a slogan ending."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two small beats: the sister scene and an admission about checking texts ('I hear a ding, I check my message'). The sister scene is dropped after the first sentence, and nothing about the family's actual driving is ever shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The glove-compartment rule is concrete, but there's nothing on who enforces it, what happens if someone breaks it, what to do about the radio, AC or the sister's requests, or why the family will keep doing it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It is one block of text with no paragraph breaks. Statistics wander through phones, passengers and climate controls, and the essay ends on a slogan, 'Better left unread than dead', instead of returning to the sister in the car."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and ideas (about 21 points to gain): the plan is the whole prompt, but it is now one sentence at the end. Ask the writer for the real rules the family uses and build them out as the middle of the essay. Cover who puts the phones away and who checks, what happens if someone breaks the rule, and how passenger requests like the sister's 'tie my shoe, change the station' are handled (wait until stopped, or the passenger runs the radio). Use only what is actually true.",
+  "Specificity and structure (about 12 points): cut the statistics stretch, from 'Passengers account for 5%' through the radio/heater/AC paragraph with its '2% of all distracted driving accidents' and the unsourced 'six times more dangerous than driving drunk' quote, and use the space for the plan. Break the single block into paragraphs: the sister scene, his own texting habit, the plan, the close.",
+  "Ending and deduction (about 9 points): delete 'After researching and composing this essay' (-5, writing about the essay). Replace the slogan 'Better left unread than dead' with a last line that goes back to the opening drive with his sister, under the new rule."
+ ]
+}

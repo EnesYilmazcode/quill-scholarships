@@ -1,0 +1,54 @@
+{
+ "id": "pb-15",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2021",
+ "outcome": "runner-up",
+ "words": 597,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Nath.pdf",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt has four parts: Electoral College issues, popular-vote issues, campaign financing, and improvements. The first two get real treatment. Campaign financing gets half a clause ('distorts potential candidates to have their campaign financing set towards swing states'). The improvement is borrowed from Bolinger, and the essay's own position is 'we as the American people, are to remain patient and optimistic'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable details are 'in five instances throughout history' and the Bolinger citation (181). No election year, state, electoral vote count, dollar figure or swing state is named, and most claims stay abstract ('new emerging controversy and wide debate')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Inflated thesaurus prose that does not sound like a particular person. It uses 'not only X but also Y', the filler adverb 'profoundly', and phrases like 'a sundry of underlying issues', 'everlasting promise' and 'long-lasting future generations', and it ends on a tidy moral. The garbled syntax ('in order achieve such aims', 'how important really one person's ballot') reads as human but not controlled."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "This is an analytic prompt, so a case study can stand in for a story, but there are zero. No single election (such as 2000 or 2016) is examined; the 'five instances' are only counted."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It explains how ranked-choice elimination reaches 'fifty percent or more', and it notes that popular-vote campaigns would target metro areas. But it gives no reason the reform would get adopted, says nothing about who carries it out or how, and offers no fix at all for campaign financing."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Three long paragraphs, one of them an opening of pure throat-clearing. The essay ends on a generic moral instead of returning to its start: 'a new revised and finer Electoral College will be conceived with an innovative promise to maintain preexisting ideals and serve our long-lasting future generations.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the whole opening paragraph ('Characterized as a democratic approach... better the presidential electoral system', about 140 words) and use that space for campaign financing, a prompt part that now gets only half a clause. Ask Enes what he actually knows or has read about it (for example a source from the same Bolinger volume), and write a paragraph that names the problem and one concrete fix. This is worth about 12 points (answers_prompt goes from 2 to 4).",
+  "Replace the closing 'In the meantime, we as the American people, are to remain patient and optimistic...' with a reform position of his own that says who would carry it out and how: for example, whether he backs Bolinger's ranked ballot and why that beats a straight popular vote, given the metro-area problem he raised himself. The last line should come back to the 'one-person, one-vote' idea from paragraph two. This is worth about 9 points (ideas from 2 to 4, structure from 2 to 3).",
+  "Make 'in five instances throughout history' concrete with public, checkable facts from his source: name at least one of those elections, with the year and the popular-vote margin, and name the swing states where campaign money concentrates. Then cut the thesaurus filler ('profoundly', 'not only... but also', 'a sundry of', 'everlasting promise') and fix the broken clauses ('in order achieve', 'how important really one person's ballot'). This is worth about 12 points (specificity and voice each from 2 to 3 or 4, and stories from 1 to 2 or 3)."
+ ]
+}

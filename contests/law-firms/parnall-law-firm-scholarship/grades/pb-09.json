@@ -1,0 +1,54 @@
+{
+ "id": "pb-09",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 840,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2020-scholarship-winners/",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan covering him and his family members, but the plan is addressed to a generic 'you'. 'Family' appears only once, in the last line: 'for ourselves, our families, and our communities.' No family member is named and none is given a commitment."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The checkable facts are borrowed ones: Jory Mackay's RescueTime blog and the Dr. Meyer quote. His own details stop at 'Most songs are about three minutes' and '15 minutes away or less'. No people, places, car or family rule are named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real student in places: 'Not car insurance, sorry I'm not the gecko' and 'a hunk of metal and wires'. But it also has stock antithesis ('Some view technology as a distraction, others view it as a tool. The truth is...'), the slogan 'Your phone is not the master', the filler 'absolutely', and a tidy moral to finish."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two story fragments, both summaries with no scene: being 'absolutely terrified to drive' after the school statistics, and refusing to touch his phone, even to skip a song. Neither one involves his family."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan is a generic list: prepare, be patient, watch out. The one real mechanism is the claim that comfort lowers attention, but the steps never connect back to it. Nothing says who in the family does what or how anyone is held to it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The steps are spread unevenly: 'Thirdly' is buried mid-paragraph and step two is split by the 15-minutes aside. The last line, 'we will increase commuting safety for ourselves, our families, and our communities', is a generic moral and never comes back to the opening fear."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the three-step section (from 'In three simple steps' to 'make eye contact before proceeding') as a real family plan written in the first person: 'I will...' and '[family member] and I agreed...'. Name the household members who drive and the rule each one keeps. Ask Enes which family members drive and which phone or car rules they actually follow, and use only what is true. If there is no shared family rule, write it as the commitment he is making for them now, as the prompt asks.",
+  "Cut most of the multitasking paragraph: the three types of multitasking, 'He explains in detail...', and 'Some view technology as a distraction, others view it as a tool. The truth is...'. Keep the Dr. Meyer quote in one sentence. Move his own rule ('I refused to touch it while I was driving' and the three-minute song) up to sit right after the opening fear, so his real behavior comes before the research.",
+  "Give each step its own paragraph: move the '15 minutes' and gecko lines into step two and start 'Thirdly' a new paragraph. Replace the last sentence with one that returns to the opening line, 'I knew I would probably die in a vehicle', and shows how the plan answers that fear for him and his family. Also fix 'getting safety to a destination' to 'getting safely'."
+ ]
+}

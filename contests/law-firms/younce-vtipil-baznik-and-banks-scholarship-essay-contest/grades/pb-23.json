@@ -1,0 +1,54 @@
+{
+ "id": "pb-23",
+ "contest": "Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 498,
+ "source_url": "https://www.attorneync.com/scholarship/2020-scholarship-winners/",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It takes a clear position on why drivers can't stop and what to do ('I believe choice needs to be removed from the equation'), but it never says how distracted driving has affected the writer, which is the usual first part of this prompt."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only proper noun is 'David Greenfield, founder of the Center for Internet and Technology Addiction'. Otherwise it relies on vague claims like 'one of the top causes of car crashes' and lists with no numbers, dates, places or scenes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has two em dashes ('heard it—that', 'same time—our prefrontal'), a 'not X but rather Y' line ('the question isn't about whether one has internet or not, but rather the speed'), First of all/Secondly/Finally scaffolding, and a generic 'we' voice. It is saved somewhat by clumsy human touches like 'pod cast' and 'I must be entirely honest'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are zero stories. The closest it gets is a hypothetical: 'We may have even heard about accidents close by'. The opening 'Ping! Ping!' is a general scenario, not an event that happened."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names the existing fix (education) and says why it fails ('My generation knows the statistics... Yet, the majority... still answer'). It then offers a standard patch, a 'mechanical function in the phone itself', without saying who builds it, how it handles passengers, or why people won't just switch it off."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the first one is a definitions lecture rather than a story, and the last line ('I don't believe at this point that we are capable of choosing restraint for ourselves.') never returns to the opening ping."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (up to +12): replace 'Distracted driving is one of the top causes of car crashes, especially among younger people' with one real, sourced figure (for example a named NHTSA or CDC statistic with its year), and give the Greenfield claim its actual source. Ask the writer for any true detail they have, such as which app or what kind of message they personally feel pulled to check. Do not invent one.",
+  "Stories (up to +12): ask the writer whether there is a true moment behind 'Ping! Ping!', such as a time they reached for the phone at a light or rode with someone who did. If there is, put it in place of 'We've all heard it' and the visual/auditory/cognitive/manual definitions paragraph. If there isn't, cut that definitions paragraph so the essay gets to the three reasons faster.",
+  "Voice and ending (up to +10, plus the 4 em-dash points): replace both em dashes with periods or commas. Cut 'Now, the question isn't about whether one has internet or not, but rather the speed of the internet.' Drop the First of all/Secondly/Finally labels. Make the phone-lock idea concrete (does it lock automatically, and what about passengers?), and end on the opening image, with the ping arriving and the locked phone staying dark, instead of the abstract restraint line."
+ ]
+}

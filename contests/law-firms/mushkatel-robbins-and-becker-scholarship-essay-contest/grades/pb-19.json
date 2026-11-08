@@ -1,0 +1,54 @@
+{
+ "id": "pb-19",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 492,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2023/12/Carmen-Gray-Mushkatel-Robbins-Becker-PLLC-Scholarship-Application.pdf",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay states a clear position in line one ('destroyed my faith in the institutional integrity of today's federal governmental bodies') and defends it. Most of its evidence, though, comes from state and county bodies: an LA County jail and Alabama trial courts. The link to federal bodies is asserted rather than argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The jail section has checkable detail: 'videos surfaced in June 2023', '1.9 million', '1 in 4 ... within 1 year' and a cited LA Times piece. The Stevenson paragraph is abstract: 'dozens of wrongful convictions', with no client, case, year or ruling named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real student, with clumsy lines such as 'even further upset' and 'lucky enough to be released', but it leans on stock framing. Tells found: two 'X rather than Y' antitheses ('perpetuates a cycle of violence rather than interfering with one', 'protect and support ... rather than condemning'), a triplet thesis, the filler adverb 'deeply', the intensifiers 'staggering' and 'abysmal', and a tidy hopeful moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 full case studies. The LA jail videos get one list sentence and Just Mercy is summarized as a pattern, so no single case is told well enough to carry the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some mechanism is present: weak court-appointed lawyers matched with 'overzealous prosecutors' lead to wrongful sentences, and prison violence 'exacerbate[s] the elements of poverty and mental illness' that drive people back in. The way forward is generic, though: 'continued coverage ... will create enough public pressure'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clean and build from prisons to courts to legislatures, but the ending restates the thesis and adds a moral instead of returning to an opening image. The last line is 'I hope that continued coverage of this issue will create enough public pressure to encourage legislative, judicial, and prison authorities to collaborate toward a thorough restructuring of our current prison system.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and stories (about 7 points): rework the Stevenson paragraph ('Bryan Stevenson's book, Just Mercy, details dozens of wrongful convictions...' through '...enforce these sentencing caps (Stevenson)'). Replace the 'dozens' summary with the one case and the federal rulings Enes actually remembers from the book; Just Mercy covers Walter McMillian's case and the Supreme Court juvenile sentencing decisions (Graham v. Florida, 2010, and Miller v. Alabama, 2012) that Stevenson worked on. Ask Enes which of these he read and can cite. This gives the essay one story told fully and also ties the argument to a federal body, the Supreme Court. Then add one sentence after the LA Times example saying why a county jail scandal reflects on federal bodies, for example that federal oversight did not stop it, but only if Enes can source that.",
+  "Human voice (about 4 points): delete 'staggering', 'abysmal', 'deeply' and 'unfortunately'. Rewrite the two 'rather than' sentences as plain claims, for example 'Our prison system keeps the cycle of violence going.' and 'Juvenile offenders should get rehabilitation, not life sentences, for mistakes made...' (keep only one such contrast in the whole essay). Break up the triplet thesis 'Abysmal conditions..., abnormally high incarceration rates, and legal stressors' by naming the two things the essay actually covers: prisons and courts.",
+  "Structure and ending (about 2 to 3 points): cut 'I believe that personal integrity is based on basic respect...' and the 'continued coverage ... public pressure' line. End on the concrete case from fix 1, for example by naming what the Court ruled and what it failed to enforce, so the last line returns to the specific evidence instead of a moral. Also check 'the highest incarceration rates in the world' against the current Prison Policy Initiative page before submitting, since it may now list a country above the U.S.; if it does, change the wording to 'among the highest'."
+ ]
+}

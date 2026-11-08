@@ -1,0 +1,54 @@
+{
+ "id": "pb-11",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 736,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2020-scholarship-winners/",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay gives a real three-part plan with commitments ('When I drive with my parents, I will keep their devices with me and when they are in the passenger seat I will give my device to them'). It loses a point for drifting into general teen talk ('Teens are also very big with social media') that is not about the family."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only hard details are two borrowed statistics (CDC, TeenSafe). The near miss has no person, place or time ('One day... the driver decided to check their phone for who knows what'). The CDC figure leaves out 'each day', so as written it is wrong."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as human: there are clumsy real slips ('important to be responsible to take responsibility', 'slam the breaks') and no AI vocabulary or em dashes. But filler like 'Technology these days can do a lot for those who drive' and 'Being safe is more important than anything' flattens it, and no sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story: a passenger-seat near miss that ends with the writer taking the phone. It has a short sequence of events, but it sits in the middle of paragraph 2 and the plan never comes back to it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The ideas are concrete and say who acts: swap phones with the passenger, set the GPS before the car starts and listen instead of looking, text each other reminders. There is little on why current habits fail or why this family would stick to the plan, and the alarm 'every time you get out the car' is unclear."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraph 2 runs together the story, the phone plan, GPS and teen social media. The ending repeats the thesis and a statistic instead of going back to the passenger seat: 'My plan will ensure me or my brother aren't a part of this statistic and can make sure my whole family is safe and sound.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story: move the passenger-seat near miss to the very first line, replacing 'Driving is a very attentive task...' and the 'cars are dangerous weapons' sentences. Then sharpen it using only what really happened: ask the writer who the driver was (a parent, a sibling, a friend?), roughly when it was, and what road you were on, and use those real details in place of 'One day' and 'the driver'. Fix the CDC line to say 'every day' so the figure is accurate.",
+  "Structure and ending: split paragraph 2 into three paragraphs, one per part of the plan (phones out of reach, GPS set before the car starts, holding each other accountable). Cut the general sentences that are not about the family ('Technology these days can do a lot...', 'Teens are also very big with social media...', 'Sometimes devices, food, or even things on the side of the road...'). End by going back to the opening moment: the phone you took from the driver, now stated as the family rule, instead of the TeenSafe statistic.",
+  "Voice and mechanism: cut filler ('Being safe is more important than anything', 'can be the deciding factor in whether an accident happens or not') and fix 'slam the breaks' to 'brakes'. Then add a sentence or two, from the writer's own family, on why each rule will actually hold. For example, who keeps the phones on a drive with your brother, and what the reminder text says. Clarify or cut the alarm 'every time you get out the car'."
+ ]
+}

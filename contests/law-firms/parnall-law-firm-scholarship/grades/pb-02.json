@@ -1,0 +1,54 @@
+{
+ "id": "pb-02",
+ "contest": "Parnall Law Firm Scholarship",
+ "year": "2018",
+ "outcome": "runner-up",
+ "words": 605,
+ "source_url": "https://www.hurtcallbert.com/bert-gives-back/scholarships/2018-scholarship-winners/",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a family plan with a commitment from you and your family. The essay never mentions family and makes no commitment. Its plan is a habit among friends ('Something that works well with my friends and I'), so the family part gets no answer: -10 deduction applied."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real detail: 'sophomore year', 'Snapchat and Instagram', the app 'Live2Txt' and the NHTSA figures '480 of the 3,154'. The friend, street and dinner place have no names, and the opening is general claims ('the majority of us do it every day')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clumsy but human ('dosing off', 'my slightly distracted pall'). Stock framing: 'In conclusion', a culture-level lecture ('As a culture we tend to praise the man...') and a moral at the end ('As a society we need to take responsibility to end this tragedy'). No em dashes, and it has long sentences."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the friend texting at the wheel, told with a scene and a quote ('well I check the road every few seconds so its fine!'). It doesn't come until a third of the way in, it involves a friend rather than family, and the essay never comes back to it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The phone handoff (the passenger controls music and answers texts) is concrete and names who does it, and Live2Txt is a real tool. 'Apps like Uber Lyft' and 'We need to recognize when we are too tired' are generic, and none of it is set up as a family rule."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "One unbroken block that opens on generalities and closes on 'In conclusion' plus statistics. Last line: 'As a society we need to take responsibility to end this tragedy by acknowledging and reminding our friends and family of the danger of distracted driving.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the prompt (up to +18 plus the 10-point deduction): turn the handoff paragraph ('Something that works well with my friends and I...') into an actual family plan with 'I will' and 'we will' commitments for each family member. Ask Enes which rules his family really follows or would agree to (phone to the passenger, Live2Txt on every family phone, a call-for-a-ride rule). Don't make any of them up.",
+  "Restructure (up to +6 to +9): cut the opening generalities and the 'In conclusion' statistics block. Open on the sophomore-year night with the friend, then the plan, and end by going back to his line 'I check the road every few seconds', saying why the family plan doesn't rely on that.",
+  "Clean up the voice (up to +8): split the text into paragraphs, cut 'As a culture we tend to praise the man...' and the 'As a society' moral, and fix 'dosing' to 'dozing', 'pall' to 'pal', 'its fine' to 'it's fine', 'Uber Lyft' to 'Uber or Lyft' and 'my friends and I' to 'my friends and me'."
+ ]
+}

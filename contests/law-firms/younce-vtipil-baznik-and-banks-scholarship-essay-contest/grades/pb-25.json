@@ -1,0 +1,54 @@
+{
+ "id": "pb-25",
+ "contest": "Younce, Vtipil, Baznik & Banks Scholarship Essay Contest",
+ "year": "2021",
+ "outcome": "runner-up",
+ "words": 524,
+ "source_url": "https://www.attorneync.com/scholarship/2021-scholarship-winners/",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on social interaction, 'the biggest change in our daily lives will be with whom we have those social interactions', but stays personal and barely reaches 'society' beyond 'I can't help but hope that others had the same experience'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few real physical details ('ride in the car with the windows up', 'their grandmas getting sick', 'party, eat dinner in restaurants, or sleep over'), but no names, places, dates or numbers anywhere, and the central split is described only in the abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person ('once COVID finally decides to move on', 'line created in thick sharpie'), with a sentence of about 50 words and no em dashes or AI vocabulary. Tells: 'a little bit' appears 4 times, 'pretty' 3 times, a filler 'extremely', and a tidy closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no story. The essay offers 0 scenes, only generalized claims ('I know so many people who constantly claim to \"love\"...') and an imagined future."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The central reasoning has a mechanism: following the rules became a visible test of whether people care about others, so friendships re-sort around it. But it is asserted rather than shown through any one relationship that changed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Three clear paragraphs. The opening bike image is dropped, and the essay ends on a generic moral: 'as being able to find your people is so important.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2 (worth up to +14 across specificity and stories): ask the writer whether one real friendship ended or cooled over the rules. If it did, center the paragraph on that one person and moment. Cut the abstract sentences 'It's a whole new way by which to measure those who actually care...' and 'This whole pandemic has served, if nothing else, to dichotomize...' to make room. If nothing specific happened, cut those sentences and lead with the concrete list that is already there (parties, restaurants, sleepovers).",
+  "Last sentence (worth +4 on structure and voice): replace 'I can't help but hope that others had the same experience with the pandemic, as being able to find your people is so important.' with a line that goes back to the opening bike image, for example: the bike is the same, but fewer people are riding alongside. That also cuts the tidy moral.",
+  "Filler and the prompt's 'society' angle (worth +4 across voice and answers_prompt): cut 3 of the 4 uses of 'a little bit', plus 'pretty', 'fairly' and 'extremely'. In paragraph 1, add one sentence that turns the personal claim into a claim about society: the pandemic sorted social circles by who followed the restrictions."
+ ]
+}

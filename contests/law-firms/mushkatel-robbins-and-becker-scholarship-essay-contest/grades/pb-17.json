@@ -1,0 +1,54 @@
+{
+ "id": "pb-17",
+ "contest": "Mushkatel, Robbins & Becker Scholarship Essay Contest",
+ "year": "2022",
+ "outcome": "runner-up",
+ "words": 602,
+ "source_url": "https://www.phoenixlawteam.com/wp-content/uploads/2021/06/Social-Media-Kills-Scholarship-Essay-Britney-Mercado.pdf",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a crisis and explains why (\"Social media kills\", \"a massive contributor to depression and anxiety\"), but it never argues why this is the greatest crisis compared with any other."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It cites Festinger in 1954, a 2018 British study and \"one-third of those who have been cyberbullied\", but its main claim has no number: \"Suicide rates have increased substantially within the last few decades\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real student, with clumsy lines like \"This reflects on the fact that\" and \"suicidal behavior adhering to young kids\". There are no em dashes or AI vocabulary, but it uses stock framing (\"it is no coincidence\", \"cruel turmoil\") and the filler \"certainly\", and it ends on a tidy moral (\"stand together and watch the suicide rates fall\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero stories and no single case study. The argument rests on three quotes from studies, and the only person in it is the generic \"kids receive cruel messages online\"."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Upward comparison against a \"highlight reel\" and lost sleep are real mechanisms, but the cause rests on \"no coincidence\", which is correlation. The fix, \"Limiting social media usage when possible\", is a generic menu item."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay goes intro, then three causes in order. The ending returns to the opening suicide rates (\"watch the suicide rates fall because we are all humans struggling with these same insecurities\"), but the cyberbullying point and the conclusion are crammed into one paragraph. Deduction: word limit exceeded, -10 (602 words against \"600 words or less\")."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut at least 10 words so the essay is clearly under 600 and the -10 deduction goes away. Delete the restatement in paragraph 2, \"This reflects on the fact that social media is full of the highlights in a person's life so it is easy to be on social media platforms and immediately find yourself in a place of self-comparison\", because the Poling quote already says it. Also cut \"It has become a brutal place and leading people to depression or anxiety\" from paragraph 1.",
+  "Paragraph 1 says \"Suicide rates have increased substantially\" and \"one of the top leading causes of death for those between the ages of 15-19\" with no figure. Replace those with the actual rate and year from a real source (for example the CDC teen suicide data Enes used in his research), cited like the other three quotes, and ask Enes for the source. Don't invent a figure.",
+  "Answer the \"greatest\" part of the prompt. Use the space freed by fix 1 to add one or two sentences to the opening paragraph saying why this crisis outranks the others, for example because it reaches the youngest people and the most people every day. Then move the closing paragraph (\"Social media is an enabler of self-comparison...\" through the end) into its own paragraph, separate from the cyberbullying evidence."
+ ]
+}
