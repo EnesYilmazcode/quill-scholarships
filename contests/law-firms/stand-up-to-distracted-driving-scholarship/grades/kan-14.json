@@ -1,0 +1,54 @@
+{
+ "id": "kan-14",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 996,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections. The effect is the grandmother's death and the forgiveness arc, and the ideas start at 'So, how do we raise awareness?'. But the effect section drifts into general grief ('Grief is strange. It doesn't follow a timeline.') instead of saying how it changed his own driving."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are '68 years old', 'the photo of her smiling on the porch' and 'the best sweet potato pie'. There is no name, date, city or road. The driver's distraction is imagined ('scrolling through Instagram, checking a Snap'), and the crash itself is abstract: 'A distracted driver swerved and hit the front of her car.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense AI tells: 'It's not just one driver's fault—it's a culture', 'distracted driving isn't just statistics—it's stories', 'not as a monster, but as a human', 'forgiveness isn't about... It's about', 'Not to scare anyone, but to open eyes'. It also has triplets ('a culture, a mindset, a habit'), 'loved deeply', 8 em dashes, and a slogan close. The 'Always understood.' fragment is a rare human moment."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are 1.5 stories: the grandmother's crash and coma, plus a one-line slip of his own ('times I'd looked at my own phone at a red light'). Both are on topic, but the crash is told as summary with no scene, and the hospital decision gets two sentences."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Mostly the generic menu: a survivor video campaign, assemblies, a 'No Phone Drive' challenge with 'small prizes'. One idea has a real mechanism: blocking apps exist but 'not many people use them', so 'new drivers should be required to activate those settings before they even get their license'. But it never says who enforces it or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized arc: the crash, then anger, forgiveness, grief, and the ideas. The pie paragraph brings her back, but the last line is a generic moral rather than the opening image: 'So to every young driver out there: please think twice. Your phone can wait. A life cannot.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): delete all 8 em dashes. Rewrite or cut every not-X-but-Y line: 'It's not just one driver's fault—it's a culture, a mindset, a habit', 'distracted driving isn't just statistics—it's stories. It's my story.', 'not as a monster, but as a human', 'forgiveness isn't about letting someone off the hook. It's about...', and 'Not to scare anyone, but to open eyes.' Also cut the whole 'Grief is strange. It doesn't follow a timeline.' paragraph down to its one real detail (a song she liked, her cooking). Join two short sentences into at least one 45-word sentence in his own voice.",
+  "Specificity (up to +12): cut the imagined 'scrolling through Instagram, checking a Snap, replying \"lol\"' list, since the essay never says what the driver was actually doing. Ask Enes for the real facts he already knows: her name, the month and year, the city or road, how many days she was in the coma, and what he was told about the driver. Move the sweet potato pie and the porch photo up into the opening paragraph in place of 'wise, gentle, and the heart of our family'.",
+  "Ideas and ending (up to +6 for ideas, +4 for ending): cut the assemblies and survivor-podcast ideas. Spend those words on the one idea with a mechanism, requiring new drivers to turn on phone driving mode before the license is issued: who checks it (the DMV at the road test), and why it beats education alone, which his own sentence 'not many people use them' already shows. Then replace 'Your phone can wait. A life cannot.' with a closing line that returns to her, such as the empty chair or the pie from the opening."
+ ]
+}

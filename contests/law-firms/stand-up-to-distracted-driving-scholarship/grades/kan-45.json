@@ -1,0 +1,54 @@
+{
+ "id": "kan-45",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2022",
+ "outcome": "winner",
+ "words": 1102,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own answer: the impact through his medic work ('I have unfortunately encountered those who didn't survive'), and one clear idea ('have paramedics, firefighters, police officers... go and talk to high school students'). The ideas half is a single proposal without much argument behind it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: Army medic, the three triage questions quoted word for word, the seizure and alcohol reasoning, and Do Not Disturb linked to Apple CarPlay with Snapchat and Instagram muted. But the crashes are only a list ('unconscious, missing limbs, with broken bones'). No single crash has a date, place or person."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, including clumsy moments ('that have I have seen', 'Once their body finally calms down and then they start changing their story'). It has no AI vocabulary, no em dashes and several sentences over 45 words. The tells are a slogan line ('No notification or message is ever worth risking your life'), an 'All in all' wrap-up, and filler like 'drastically' and 'a huge difference'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one recurring scene: the post-crash questioning, including how patients admit they were distracted and later change their story. There is also one beat about his own behavior (his ADHD and his Do Not Disturb setup). Both are on topic, but the crash material is a summary of many crashes, not one crash told fully."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The main idea is first responders speaking at high schools, which is the standard assembly fix. Its only mechanism is 'to hear from people like first responders... would have a much larger effect'. It never says why existing talks fail or who would organize this. His strongest real fix, auto Do Not Disturb on CarPlay, is offered as a personal habit, not as the proposal."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the close starts with 'All in all' and restates the thesis. The last line is 'would have a much larger effect on young drivers and help to prevent as many of these incidents from happening in the future.' It never returns to the opening triage questions or to a patient."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (up to +9): in the fourth paragraph, give the first-responder idea a mechanism. Say why the drunk-driving lessons schools already run don't cover phones, and name who sets the talks up (for example, the local EMS agency through driver's ed). Then make the CarPlay auto Do Not Disturb setting a second, concrete ask: driver's ed requires students to turn it on before the road test. Ask the writer whether he has actually seen or done any of this before stating it as fact.",
+  "Specificity (up to +8): replace the list 'unconscious, missing limbs, with broken bones, in all kinds of different conditions' with one real crash he worked: when and where it happened, what the patient said when he asked 'were you on your phone', and what he did next. Ask the writer for the real case and don't invent one. Also cut the meta sentence 'I brought up the different kinds of injuries that have I have seen... because'.",
+  "Ending (up to +6, plus +3 for stories if the crash from fix 2 is used): cut 'All in all, as someone who has first-hand seen...'. End by bringing back the opening question, 'were you on your phone or distracted when you got in the accident?', and how often the honest answer is yes. Use the patient from fix 2 if the writer supplies one. Also drop the slogan 'No notification or message is ever worth risking your life'."
+ ]
+}

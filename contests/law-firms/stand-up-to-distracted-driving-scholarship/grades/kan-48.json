@@ -1,0 +1,54 @@
+{
+ "id": "kan-48",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2022",
+ "outcome": "winner",
+ "words": 1037,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. Part 1 is covered in a few sentences ('one of my close friends was seriously harmed... My father was also involved in a car accident'), and then the essay moves on to career plans, so the effect on his own life stays thin."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The checkable details are Saudi Arabia, 'CDC, 8 people... every day', and 'State Farm, Geico, and Progressive'. The two central events have no name, date, place or physical detail, and the citations do work the scene should do."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: four 'not only X but also Y' constructions, 'Unfortunately' used twice, 'incredible reach', 'culminates in', 'very unfair', and a tidy closing moral ('it is my duty as a future insurance professional'). No em dashes. It reads like a stiff report, not a person talking."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two stories, the friend's surgeries and his father's crash, and each gets one summary sentence with no scene. A career-plan pitch carries the essay, and a general paragraph on what crashes cost society takes up space."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The telematics pricing idea has a real mechanism ('safe driving would result in them being able to save money on auto insurance') and names why the current fix fails (premiums are priced 'solely because of their age'). The rest is a generic list: campaigns, events, booklets, ads, donations."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending restates the thesis instead of returning to Saudi Arabia, the friend or the father: 'Thus, I believe that it is my duty as a future insurance professional to raise awareness about the dangers of distracted driving and to try to stop young drivers from participating in this hazardous and potentially deadly behavior.' The works-cited list hangs off the end."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and stories (up to 21 points): the friend sentence ('one of my close friends was seriously harmed...multiple surgeries') and the father sentence are the only personal material, and both are one-line summaries. Ask Enes for the real details: the friend's first name, the year, the city or road, what he saw or heard, and what the father told him about the texting driver. Use those to expand one of the two stories into the opening paragraph. Then cut the CDC age-group sentence and the general claim that 'the sight of a deadly car accident is unfortunately very common' to make room.",
+  "Voice (up to 12 points): rewrite or cut all four 'not only...but also' sentences ('not only for me personally but also', 'Not only can insurance companies help', 'not only because that would allow them', 'not only promotes the company itself'). Delete the 'Unfortunately' at the start of both sentences that use it, replace 'incredible reach' with the plain fact (he sees these ads during basketball and soccer), and cut 'culminates in'.",
+  "Ideas, structure and ending (up to 15 points): delete the whole 'Deadly car accidents...impact our society' paragraph and the generic list (events, booklets, donating to charities). Spend those words on how the telematics discount would work, and on who has to change what for it to work. End by going back to the friend or the father instead of 'it is my duty as a future insurance professional'."
+ ]
+}

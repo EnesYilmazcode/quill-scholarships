@@ -1,0 +1,60 @@
+{
+ "id": "kan-32",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 907,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The effect on his life is the mother's crash ('our once-happy family... weren't the same anymore'), but it gets two short paragraphs, while the ideas half takes six."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The central event, 'One day, my mother was on her way to pick me up from work', has no date, place, car or injury. 'Shopping and city excursions' is the only concrete detail. 'Friends and family perished' names nobody."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Interchangeable model prose. Tells: two 'not only X but also Y' constructions; 'imperative' twice; 'unimaginable', 'catastrophic and far-reaching'; triplets ('nervousness, sadness, and dreadful flashbacks', 'physical, emotional, and financial'); a rhetorical question; 'In conclusion'; a 'Let's work together' slogan; and stray capitals after transitions ('To begin with, A number')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story, the mother's side-impact crash, told as a summary with no scene. It disappears after paragraph 2 and never carries the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu: seminars, campaigns, social media challenges, harsh laws, phone-locking tech, police presentations and parents. None of them says why the current fix fails or why teens would actually change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "List-style paragraphs, some out of place (the police paragraph and the 'new normal' paragraph). It closes with 'In conclusion' and 'Let's work together to prevent distracted driving and ensure safer roads for everyone.' The mother never comes back."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "writing about the essay",
+   "points": 0,
+   "reason": "'Miraculously doing well today is my mother, who I will use as an example.'"
+  }
+ ],
+ "fixes": [
+  "Voice (up to +16): cut paragraph 3 ('Distracted driving can have catastrophic...'), the 'new normal' technology paragraph and the whole 'In conclusion' paragraph. Rewrite the two 'not only... but also' lines and both 'imperative' sentences as plain statements. Delete 'unimaginable', 'Miraculously' and the rhetorical question. Fix the capitals after 'To begin with,', 'Furthermore,' and 'Moreover,'.",
+  "Specificity (up to +12): ask Enes for the real facts of his mother's crash (when, which road, what car, what she told him that day, what changed at home) and use only what he confirms. Replace the 'who I will use as an example' sentence with that opening. Cut 'friends and family perished' unless he can name who it was.",
+  "Ideas and ending (up to +12 across ideas and structure): cut the six-item menu down to the one idea he can argue best, probably the phone-lock tech. Say why teens switch it off and what small change would make them keep it on. Then end on his mother, not on a slogan."
+ ]
+}

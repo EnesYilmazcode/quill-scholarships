@@ -1,0 +1,54 @@
+{
+ "id": "kan-29",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 1134,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 24,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts get sections, but 'how has it affected your life' is answered only abstractly ('left an indelible mark on my life'), and the ideas are a generic list rather than a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The central event is abstract: 'My close friend... became a tragic statistic' has no name, date, place, number or physical detail anywhere in 1134 words."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense model prose: 'This essay delves', 'navigate', 'multifaceted', 'pivotal', 'fostering', 'testament', 'not abstract concepts but tangible', 'not only through... but through', 'has never been more pressing', and a dash in 'haunting presence – a stark reminder'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story, the friend's death, which is claimed but never told: no scene, no moment, and seven paragraphs of grief abstractions instead; no own-behavior beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu (school programs, influencers, PSAs, blocking apps, town halls, higher fines) that never says why the existing fixes fail or who acts; the GPS app lock is the only concrete item."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Section headings and a 'Conclusion' that restates the thesis; the last line, 'we can hope to minimize the devastating impact of distracted driving on individuals, families, and communities', never returns to the friend."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+16 possible): delete the whole Introduction ('This essay delves...' through 'never been more pressing') and the four grief paragraphs that start 'In the aftermath', 'The grieving process', 'This personal tragedy' and 'As I navigated'. Rewrite what is left in plain first person with no delve/navigate/pivotal/foster/testament/multifaceted, no 'not X but Y', and no dash. This also removes the -5 for writing about the essay.",
+  "Specificity and story (+16 and +9 possible): ask Enes for the real facts of the friend's death (first name, when and where it happened, how he heard, one true thing he remembers about the friend) and open the essay with that, in place of 'My close friend, whom I had shared countless memories and laughter with, became a tragic statistic'. Don't add anything he can't confirm. If none of this happened to him, the essay has to be rebuilt around whatever real experience he does have.",
+  "Ideas and structure (+9 and +6 possible): remove all section headings (-5 deduction) and cut the menu down to the one idea he can argue, for example the GPS/motion app lock. Say why teens switch it off today and what small change would make them keep it on. Then replace the 'Conclusion' paragraph with a closing line that comes back to the friend from the opening."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "kan-47",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2022",
+ "outcome": "winner",
+ "words": 999,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but 'how it affected you' gets only one claim, 'once you see it happen close to home it makes you think about it more seriously', and no change in the writer's own life is shown. The ideas part is a list."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The specific details are borrowed statistics ('3,142 deaths in 2019', 'five to six hours a day') and brand names. The one personal event, 'We had a student pass away... a few years ago', gives no name, school, year, place or scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock framing throughout: 'not just yourself at risk, but anyone', 'not only putting yourself at risk... but also everyone else', the punchline 'Now their destination is a hospital, or even worse, a cemetery', 'The truth of the matter is' used twice, and 'a few seconds' repeated three times. The typos ('they'ŕe', 'peak your interest', 'it's user') make it read rough, not personal."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one on-topic story, the student's death, told as a summary in about 3 sentences. It immediately widens into 'Countless families' and never comes back, so stats and app commentary carry the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu: 'stronger emphasis' in education, 'stronger enforcement', 'technology in cars to disable phones', parents setting an example, passengers speaking up. It never says why current fixes fail, who would build or require the phone lock, or why drivers would accept it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on statistics, puts the story second, then rambles through a long final paragraph that restates the thesis. The last line is a generic moral that never returns to the student: 'Doing so is an easy way to make our roads safer, protect lives, and teach our children what responsible phone usage looks like.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Move paragraph 2 (the student) to the top of the essay and cut the statistics opening down to at most one number. Then ask the writer for the real details they actually know: her first name or initials, the school, the year, the sport, how they heard the news, and anything they personally did differently afterward. Use only what they confirm, and make sure the essay's 'how it affected me' answer comes from their own changed behavior, not from 'Countless families'.",
+  "Cut the final paragraph by about two thirds. Delete both 'The truth of the matter is' sentences, the repeated 'few seconds' lines, the cemetery punchline, the 'not just... but' and 'not only... but also' constructions, and the closing moral. End on one plain sentence that brings back the student from the opening.",
+  "In the ideas paragraph, drop the vague items ('stronger emphasis', 'stronger enforcement', 'set an example') and keep the one concrete idea: phones that lock while the owner is in the driver's seat. Spend the freed space explaining why the existing driving-mode settings are easy to dismiss, who should make the lock the default (phone makers, insurers or driver's-ed programs), and why a teen driver would leave it on. Ask the writer which of these they actually believe instead of inventing a statistic."
+ ]
+}

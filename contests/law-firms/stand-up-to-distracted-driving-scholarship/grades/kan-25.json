@@ -1,0 +1,54 @@
+{
+ "id": "kan-25",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 1051,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the 'how has it affected your life' half is mostly opinion ('Even the hands-free feature for cellular devices in cars is not as safe as advertised') plus a parents complaint, with no clear effect on him. Most of the essay goes to ideas."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real details ('license after just eight sessions', 'my mom's Honda Odyssey', 'about four screens', parents as healthcare workers), but the incidents are only listed ('the crashed mailbox stories, the constant curb rashes, and some serious close calls') with no names, dates or places."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real student, with clumsy moments ('from my site', 'per se', 'Not to target any brand'). Tells found: 'Not only is this unfair to me, but', 'an opportunity rather than a setback', 'While the future is now', and the tidy moral 'It is time we shift the dynamic'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 full stories. The COVID driver's ed opening isn't about distracted driving. The friends' close calls are a one-line list. The parents eating and texting is a habit summarized with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The infotainment lock has a real trigger and incentive ('glancing at the infotainment system, too many times, or for too long, then the infotainment system locks'). The billboard idea and the vague 'student driver features' are generic menu items. The essay never says why current fixes (hands-free, parental controls) fail, or who would make the change happen."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the close repeats the prompt ('I believe these ideas could help to raise awareness of the dangers of distracted driving and prevent this behavior among young drivers'). The last line, 'into a learning opportunity for the future drivers that will be on the road', echoes the opening only faintly."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2: replace the list 'the crashed mailbox stories, the constant curb rashes, and some serious close calls all because of loud music' with ONE of those incidents told fully. Ask Enes which one really happened, whose car it was, roughly when, what was playing and what he did afterward. Then cut the general lines ('Multitasking in the car should simply include...' and 'In this technical era...') to make room. This gives part 1 a real answer and the essay a story (stories 2 to 4, answers 3 to 4, specificity 3 to 4).",
+  "Cut the 'minimalistic features' paragraph and the billboard paragraph. Use those words on the infotainment-lock idea: tie it to the Odyssey's four screens, say why hands-free mode and phone parental controls already fail (his parents text hands-free anyway), and say who would do it (automakers, or a student-driver mode parents switch on). This raises ideas 3 to 4 and tightens the structure.",
+  "Delete the closing restatement 'I believe these ideas could help to raise awareness...' and end on the opening image instead: learning to drive from a school laptop during lockdown, licensed after eight sessions, set against cars now full of screens. Also check 'about four years ago' with Enes, since peak COVID was more than four years before today. Fix 'from my site' to 'from my sight' and 'My mom' to 'my mom', and turn 'Not only is this unfair to me, but' into a plain statement."
+ ]
+}

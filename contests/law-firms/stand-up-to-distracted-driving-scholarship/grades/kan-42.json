@@ -1,0 +1,54 @@
+{
+ "id": "kan-42",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2022",
+ "outcome": "winner",
+ "words": 1010,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own paragraphs, but the ideas half is a gesture more than a position: \"I believe schools should provide speeches more than just once a year.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dated and physical (\"December 24th, 2021, on the way to church\", \"about 7 minutes left of a 45-minute drive\", \"about 55 mph\", the pick-up in the right side-view mirror, concussion with light and sound sensitivity). The friend's injury and the ideas section lose specifics."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly a real person, with clumsy honest bits (\"Not only so, but I would audibly gasp\", \"biting my lip\"). Tells: \"not only in driver's education but also in schools\", \"extremely powerful\", \"the world would be a much safer place\", and a stock \"And maybe, just maybe\" close. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories: the Christmas Eve rear-end crash told as a full scene with its anxiety aftermath and the mom's coaching, plus the friend's 2019 bike injury, which is summarized in two sentences. Both on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Generic menu: more school speakers, \"leading by example\", \"speaking up\". No named fix that fails and why, no concrete change, no one assigned to do it. \"Call their friends out\" is mentioned and never developed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc of story, aftermath, then ideas, but it opens on a generic observation and closes on a moral about statistics instead of the mirror or the crash: \"And maybe, just maybe, those numbers would drop.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas section (the 'Oftentimes, high schools will have speakers' paragraph and the 'speaking up' paragraph), worth up to 9 points: cut the generic speaker idea, or sharpen it by saying exactly why a once-a-year assembly fails and who would run the extra sessions. Better, build on what is already true in the essay: the passenger who watches the mirror and the friend who speaks up. Ask the writer which concrete habit or rule they actually believe in (for example, whether passengers in their circle really do call out a driver on the phone, and what the driver does) and develop that one idea with who does it and why people will keep doing it.",
+  "Opening and last line, worth up to 4 points: cut the first paragraph ('Lately, it seems as though everyone on the road is distracted...'), or shrink it to the 'how someone drives in the car with you' saying, and open on the right side-view mirror and \"he's going to hit us.\" Replace \"And maybe, just maybe, those numbers would drop.\" with a closing line that goes back to that mirror habit as it is now, using only what the essay already says (still checking it, catching themself, letting it go).",
+  "Stock phrasing, protects the voice score: cut \"not only in driver's education but also in schools\" (just say 'in driver's education and in school'), \"Doing so can be extremely powerful especially when it comes to a younger generation\", \"the world would be a much safer place\", and the second \"Luckily\". Fix the stray line break inside 'I / use breathing techniques' and 'several strokes / as a result'."
+ ]
+}

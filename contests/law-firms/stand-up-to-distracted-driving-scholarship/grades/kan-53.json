@@ -1,0 +1,54 @@
+{
+ "id": "kan-53",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2021",
+ "outcome": "winner",
+ "words": 1058,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the 'how has it affected your life' part opens with 'Fortunately, I have not been directly affected' and is answered with secondhand community events, after a full paragraph of generic statistics."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real anchors: NHTSA's 3,142 deaths in 2019, the Illinois State Fair goggles tent, the moose and elk in Colorado. The central community crash has no name, date, town or scene: 'a teenage girl who was killed in a single-car accident because of texting and driving.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads human because of clumsy moments ('all taken back', 'has already be done'). It still relies on stock framing: the opener 'a very serious issue in the current times', 'not only be the last for your loved ones, but also' and the moral close 'Do not be another number.' There are no em dashes and no AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are three summarized beats and none is told as a scene. The teen crash is one line, the drunk-driving crash is off-topic (impairment, not distraction), and the Colorado scenery beat is the only one from the writer's own life and it is left undeveloped."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic menu: school education, a driving simulator 'similar to a video game', a crashed-car display and two slogans. Only 'should be promoted like seat belts have been' hints at a mechanism, and it is never explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens with a thesis and statistics, the technology paragraph is tacked on with no link to the ideas, and the close is a generic moral that returns to nothing: 'Do not be another number of a life that was taken too soon because of distracted driving.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the opening paragraph of definitions and NHTSA statistics, and the sentence 'Fortunately, I have not been directly affected...' (-5 negative-disclaimer deduction). Open instead on the Colorado drive, where the driver kept looking at the mountains, moose and elk, because it is the only distraction moment the writer actually lived. Ask the writer for the real details of that drive (who was driving, which road, what nearly happened or didn't), then tell it as a short scene and make the 'affected your life' answer come from it.",
+  "Cut the drunk-driving crash ('a woman who was highly under the influence of drugs and alcohol...') because it is impairment, not distraction, and it weakens the on-topic story. Keep the teenage girl's crash as the one community story and ask the writer for the real particulars they know (the town, the year, how the news reached them) so it reads as an event rather than a summary.",
+  "Cut the slogans paragraph and the steering-wheel buttons and rumble strips paragraph. Use the space to build out the one idea with a mechanism, 'Distracted driving should be promoted like seat belts have been': say what made seat-belt education work, why current distracted-driving lessons fail, who would teach the new version and when, and how the Illinois State Fair goggles activity would be adapted for it. Then replace 'Do not be another number...' with a last line that returns to the Colorado drive from the new opening."
+ ]
+}

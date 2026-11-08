@@ -1,0 +1,60 @@
+{
+ "id": "kan-39",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 1005,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Part one gets three paragraphs, but part two is only a gesture: \"making campaigns that show the truth of how distracted driving has a high chance of ending your life\" is a general intent, not a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay has real, dated detail: the 2018 crash at a turning red with her grandma, back pain ending competitive cheer, realizing in freshman year (2019) that her mom was on \"meth and heroin\", and the boyfriend's \"high-speed car chase\". It names no places or people."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It is clearly a human voice and the clumsiness reads as real, but \"Not only X but also Y\" appears about 8 times. It also opens with a textbook definition (\"Distracted driving is the ability to be in control...\") and has generic lines like \"The reality is that no one knows what is going to happen next.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three stories (grandma crash, mom's impaired driving, boyfriend chase), which is one more than the rubric wants. The mom story is the strongest but is told as a summary. The grandma crash is about a drunk driver and blames grandma for not noticing, so it only loosely fits distraction."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic menu: scare campaigns and \"Making the police department more capable of being able to arrest someone\". It never names an existing fix, says why it fails, or says who would carry out the change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on a definition and a signpost and ends on a restated claim: \"...is just as dangerous if not more to yourself and others as being under the influence of alcohol or an uncontrolled illegal substance on the roads.\" There is no loop back to her mom or the crash."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "writing about the essay",
+   "points": 0,
+   "reason": "-5 for \"Here is why distracted driving has come to affect me in many ways throughout my life.\" (Weighted subtotal 59.0, minus 5 = 54, mid band.)"
+  }
+ ],
+ "fixes": [
+  "Rebuild the ideas paragraph around what she actually lived. She only recognized her mom's impairment after learning \"the signs of intoxication\" in freshman year. Replace the campaign and police sentences with one concrete proposal: teach passengers, not just drivers, the signs of an impaired or texting driver in the freshman health class, and say who teaches it and what a teen passenger can do in the moment. Ask her what the class covered and what she wishes she had known to do or say in the car. (Gains about 6 to 9 points across ideas and answers_prompt.)",
+  "Cut the first paragraph (the definition and \"Here is why...\") and open on the freshman-year moment she realized her mom wasn't \"just a horrible driver\". Then make the last line return to that car and her mom, not to a restated claim about substances. This removes the -5 deduction and lifts structure. (About 9 points.)",
+  "Rewrite every \"Not only... but also\" sentence as a plain statement (for example, \"Not only did I have to stop being involved in cheer, but it was also hard...\" becomes \"I had to quit cheer, and sitting through a school day hurt.\"). Cut \"The reality is that no one knows what is going to happen next.\" Also shorten the grandma crash to two sentences that keep the back pain and quitting cheer, and drop the line blaming grandma, so the mom story carries the essay. (About 6 to 7 points across voice and stories.)"
+ ]
+}

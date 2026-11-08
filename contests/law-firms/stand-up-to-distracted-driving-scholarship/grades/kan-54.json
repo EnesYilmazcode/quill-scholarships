@@ -1,0 +1,54 @@
+{
+ "id": "kan-54",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2021",
+ "outcome": "winner",
+ "words": 1064,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real answers: the friend's death ('the cause of death was stated as “texting and driving”') and several ideas. But the ideas section spreads out into a list instead of taking one clear position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The honor roll ceremony, the whispering group and the 'hot waves that rushed all the way to my head' feel real. But the friend has no name, and there is no date or place. The NSC 25% stat appears twice word for word, and the NHTSA claim that texting is 'six times more dangerous than driving while intoxicated' is shaky."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The writing is clumsy in a human way ('a hole engulfing my stomach'), but it has stock tells: two 'not only X but also Y' sentences, 'I vividly remember', 'a myriad of', 'is vital', and a three-part 'We all know...' moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the friend's death, told as a scene at the ceremony, and the writer's own habit ('eating while driving when I am running late to school'). After paragraph one the friend disappears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The phone-and-car lockout idea has a reason behind it ('laws... people will still have no physical barrier'). The rest is a generic menu: victim-family events, monthly sessions, influencers, movies."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a statistic instead of the story, repeats that statistic in the middle, adds a new 2012 statistic at the end, and closes on a moral, not the friend: 'solutions must be created and implemented soon to stop another person's life from ending.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraphs (+6): cut the influencer and movie paragraph and the victim-family events. Use the space to develop the phone-and-car lockout idea: name the phone feature that already exists for this, why teens switch it off, the small change that would make it stick, and who would make that change. Keep the defensive-driving course as a short second idea.",
+  "Opening and ending (+6): delete the NSC opening sentence, which is repeated word for word in paragraph two, and start with 'I remember being at school participating in the honor roll ceremony.' Cut the 2012 NHTSA statistic and the 'We all know someone...' triplet from the last paragraph, and end by coming back to the friend from the ceremony using only what is already in the essay, for example that he was 'always the light of the room.'",
+  "Voice and specificity (+8): rewrite 'Distracted driving has not only affected my life, but it has also affected many other families' and 'careful driving is not only to not text and drive but also...' as plain sentences. Change 'I vividly remember' to 'I remember', and replace 'myriad'. Check the 'six times more dangerous than driving while intoxicated' figure against a real NHTSA source and cut it if you can't find it. Ask the writer whether they are willing to give the friend's first name, the month and year, or the school, and add only what they confirm."
+ ]
+}

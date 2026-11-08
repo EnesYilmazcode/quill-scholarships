@@ -1,0 +1,54 @@
+{
+ "id": "kan-03",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2026",
+ "outcome": "winner",
+ "words": 1049,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections, but the 'affected you' story is a DUI crash ('a driver who had been drinking and lost control of his van'), so the link to distracted driving is stretched rather than argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts ('May 29, 2010, in Chicago's Rogers Park neighborhood', 'seven years in prison for aggravated DUI'), but they read like a news report; the writer's own memory of Calvin is only 'classrooms, playgrounds, and laughter.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense tells: 'wasn't just another name...; he was', 'isn't just about... it's about', 'isn't about fear alone, it's about empowerment', two 'not only X but also Y', stacked triplets ('one story, one classroom discussion, one decision'), stock images ('freezes time', 'plant the seeds', 'every small action adds up'), 'fundamentally', and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Calvin is one story told in summary with no scene, and the drunk-driving cause sits off the distracted-driving topic. The classroom beat is real and on topic but general ('I've shown my students short, age-appropriate videos')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Mostly the generic menu ('Social media... student-created campaigns', 'Safe Driving Week', 'simulation booths, testimonial panels, and short video contests'), with no existing fix named, no reason it fails and no incentive. Tying D.A.R.E. to distraction in class is the only concrete piece."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc that loops back to Calvin, but it ends on a tidy moral: 'then Calvin's memory will continue to save lives long after that tragic day in 2010.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): cut every antithesis and triplet. Delete 'Calvin wasn't just another name in a headline; he was someone...' and keep the plain fact that he was a classmate. Change 'distracted driving isn't just about glancing down at a phone..., it's about failing to respect the lives around us' to one direct sentence. Cut 'effective awareness isn't about fear alone, it's about empowerment', both 'not only... but also' sentences, 'freezes time', 'plant the seeds' and 'every small action adds up'. Then join two of the remaining classroom sentences into one long sentence that says what actually happens in the lesson.",
+  "Ideas (up to +9): delete the social media, Safe Driving Week and simulation-booth paragraph, which is the generic menu. Spend those words on the one real practice: how a D.A.R.E. lesson brings in distraction, and the passenger rule of 'speaking up if they ever feel unsafe in a car'. Say what already exists, why it doesn't reach ten-year-olds, and what exactly he does instead. If any of this isn't something the writer has really done, ask them before adding it.",
+  "Prompt fit and story (up to +7): the cause of Calvin's death is drinking, not distraction, and a judge will notice. Rewrite the sentence 'how someone's decision to drive distracted or under the influence could destroy a family's world' so it says outright that impairment and distraction both take the driver's attention off the road. Cut the court-record paragraph down to two sentences (date, place, what happened) and drop 'While justice was served... deep wound left in the community,' so Calvin reads as a memory rather than a news clipping."
+ ]
+}

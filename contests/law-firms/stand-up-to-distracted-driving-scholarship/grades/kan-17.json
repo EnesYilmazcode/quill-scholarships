@@ -1,0 +1,54 @@
+{
+ "id": "kan-17",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 1053,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real answers. The effect part has two crashes, and the ideas part runs five paragraphs. But much of the ideas half is about running the pantry ('I seek to provide other resources including but not limited to: hygiene products, cold storage solutions...') rather than about stopping young drivers."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: the health food store, the light pole, 'Daddy, are you ok?', 'playing games on his phone', Calumet Park and '7 youth team leaders'. Neither crash has a date, street or name, and the injuries are a list ('spinal cord injury, severe organ damage, broken bones and torn ligaments')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: the filler 'most profound effects' and 'I vividly remember', the stock phrase 'goes beyond providing immediate food aid', and grant-proposal lists in almost every paragraph ('promote healthy lifestyles, safe driving, address inequity, create partnerships, increase civic engagement and empower youth'). Legal-claim wording also shows up ('lost wages and reduced earning capacity'). The clumsy 'so I could I could exit' is the most human moment in the essay."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two on-topic stories. The age-4 crash has a scene (smoke, the father reaching over to open the door). The age-16 crash is a summary followed by a list of costs. More than half the essay is an off-topic résumé recital about the CCC Food Pantry, including SNAP/WIC help."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu: 'social media campaigns, peer-to-peer outreach, youth education workshops and school programs', flyers, 'driving simulators' and contacting policymakers. It never names why current fixes fail or why a teen would actually change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Story first and plan second, but the ending drifts into program logistics. Last line: 'I will also continue to issue regular newsletters and e-mail blasts to my community network.' It never returns to the father or the smoke."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the paragraph that starts 'Being a Youth Programs Manager at CCC's Food Pantry goes beyond...' (SNAP, WIC, hygiene products, cold storage). Cut most of the last paragraph too (cross-training, newsletters, e-mail blasts). That frees about 300 words of off-topic résumé and removes the densest list prose, which helps voice and stories.",
+  "Replace the menu in the 'I plan to partner with local businesses...' and 'My distracted driving prevention program will provide...' paragraphs with one idea that has a mechanism. Pick the single piece of the program the writer actually ran or will run, say why flyers and assemblies don't change teen behavior, and say who does what and why a teen would comply. Ask the writer which part is real and what result it had, rather than adding one.",
+  "Rewrite the close so the last line returns to the opening image of the father reaching over the writer to open the door first, tied to the one idea above. Also strip 'one of the most profound effects', 'I vividly remember' and 'Noble citizens', and fix 'so I could I could exit'. If the writer has the real date or place of either crash, ask for it to sharpen the opening."
+ ]
+}

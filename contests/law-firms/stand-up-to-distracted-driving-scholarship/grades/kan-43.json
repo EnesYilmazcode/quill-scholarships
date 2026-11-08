@@ -1,0 +1,54 @@
+{
+ "id": "kan-43",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2022",
+ "outcome": "winner",
+ "words": 2085,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 86,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts get their own sections and a clear position: 'Distracted driving has directly impacted my life by killing my cousin,' then four paragraphs of ideas, including 'I believe that all phones should have this enabled, perhaps against will.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Specific and hard to fake: Grass Valley, the green Tacoma from Grandma Anne, the oak tree, the yearly mass on February 9, Mario Kart on the GameCube, the hammer injury that made him left-handed, his full name, and the CDC figure of 3,100."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "A clearly human voice with clumsy, true moments ('costed', 'one with the Earth's lithosphere', 'as painful as it is to type'). Tells found: 'Not just a statistic, but a person' (not X but Y), punchline fragments ('A person. An entire family.' and 'This angers me. Infuriates me.'), 'truly', 'taken too soon' used twice, and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "Two stories, both on topic: Michael's death, from the funeral back to the crash and the missing officiant, plus the writer's own slip: 'Quickly reaching for my phone to respond to a text or select a different song.'"
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "One idea has a real mechanism: the phone on the passenger floor works because 'I cannot reach my phone at that point of my car regardless of how much I try.' The rest is a standard list: hefty fines, required seminars and crash photos, and forced Do Not Disturb with no reason it would get adopted."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized, but held together by 'To continue / Furthermore / Onward / To conclude' transitions, and the close lists the ideas again. Last line: 'To prevent horrific accidents like Michael who was ultimately taken too soon.' It only faintly echoes the funeral opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraphs (+6): cut the police-fine paragraph's 'award a hefty fine' and the 'short courses should be required for graduation' seminar idea, and spend those words on the phone-on-the-floor habit, the one idea with a mechanism. Say why it works when Do Not Disturb Driving doesn't, for example whether the writer ever turned that setting off or ignored it. Ask the writer for the real answer instead of assuming one.",
+  "Final paragraph (+4): delete the restated list ('Accountability must occur with police officers... All students should attend seminars...') and the 'To conclude' opener. End on an image from the opening that is already in the essay, such as the casket being lowered or the empty spot to the writer's left at the one-day wedding, instead of 'taken too soon'.",
+  "Voice cleanup (+4): cut 'Not just a statistic, but a person.', the fragment chains 'A person. An entire family.' and 'This angers me. Infuriates me.', the second 'taken too soon', and 'truly' in 'truly worth it'. Fix the slips that read as errors, not voice: 'costed' to 'cost', 'without disregard of' to 'without regard for', 'access yourself' to 'assess yourself', and 'brought joy to the us' to 'brought joy to us'."
+ ]
+}

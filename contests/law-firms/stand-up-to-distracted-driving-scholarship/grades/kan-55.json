@@ -1,0 +1,54 @@
+{
+ "id": "kan-55",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2021",
+ "outcome": "winner",
+ "words": 995,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. Part 1 is Jack's crash plus 'I still get sudden impulsive urges to check my phone', and the second half answers part 2. But the effect on the writer gets two sentences before the essay turns to statistics."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details in Jack, the red light, the pickup truck and 'paralysed from the waist down', but no date, place or scene. The data is a 2009 NHTSA figure, followed by a guess: 'the fatalities have most probably also increased'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: an opening triplet list ('dreams to pursue, places to explore, vacations to take'), stacked inflated words ('catastrophic', 'disastrous', 'multitudinal', 'bedevils', 'immensely trumps', 'plagued our modern society'), filler adverbs ('drastically', 'substantially', 'surely') and a tidy moral at the end. The clumsy grammar ('lives have been drastically suffered') is the only human texture."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are 2 beats: Jack's crash and the writer's own urge to check his phone. Both are on topic, but Jack's story is a summary with no scene, and he is dropped after paragraph 2."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Mostly a generic list: drivers-ed anecdotes, billboards, PSAs from governors, parents, autonomous cars. The boredom argument gives some reasoning, and the 20 mph lock and the 2-second eye camera are concrete. But it doesn't say that both already exist or why people turn them off."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs follow story, then problem, then ideas. Stray page-break splits ('if the / instruction', 'we need to / partially') break sentences. The ending restates instead of returning to Jack: 'eradicate the problem of distracted driving and save the lives and dreams of thousands.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (recovers up to 12): cut the opening triplet list and start on the crash itself ('Jack was texting when he ran a red light and a pickup truck hit his door'). Delete the inflated words throughout: 'catastrophic', 'disastrous', 'multitudinal', 'bedevils', 'plagued our modern society', 'immensely trumps', 'surely solve'. Drop the filler adverbs 'drastically', 'substantially' and 'dutily'. Fix the broken page-break splits.",
+  "Ideas (recovers up to 9): cut the billboard, governor-PSA and parents sentences, and build the second half on the speed-lock app. Say that phones already ship a driving mode and that people switch it off. Then ask Enes whether he uses Driving Focus himself, and what makes him override it when the urge to check hits. Use his real answer as the reason the fix fails, and make his change target that reason.",
+  "Specificity and ending (recovers up to 8 plus structure): ask Enes for the real facts about Jack, such as when it happened, where, and what Jack does now. Swap the 2009 NHTSA numbers and the 'most probably also increased' guess for a current, cited figure. Then replace the last sentence with one that comes back to Jack, using a true detail Enes supplies, not the generic 'lives and dreams of thousands'."
+ ]
+}

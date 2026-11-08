@@ -1,0 +1,54 @@
+{
+ "id": "kan-15",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 1054,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered: the crash with the cousin covers how it affected the writer, and five paragraphs give ideas. But the effect part ends in a stock line, 'It taught me how fragile life is, how fast things can change,' instead of a position on what actually changed in the writer's behavior."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The crash has no name, place, car or date beyond 'sophomore year', and 'The sound of shattering glass and crumpling metal' is generic. The only hard numbers are borrowed facts (NHTSA's 3,000 deaths in 2022, a football field in five seconds at 55 mph), not inventory from the writer's own life."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Heavy density of AI tells: 'more than a statistic or a headline', 'not just because... but because', 'didn't just damage her vehicle it damaged her confidence', 'Statistics are important, but stories resonate', 'perfect storm', 'leveraged for good', 'start meaningful conversations', 'Ultimately', 'Ironically', triplets throughout, and a tidy closing moral. Run-ons like 'headline it's personal' show where em dashes were stripped out without the sentences being rewritten."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story: the cousin's glance at a text and the rear-end crash. It has the start of a scene but is mostly summarized, the cousin never gets a name or a line of dialogue, and the story disappears after paragraph two until a brief callback."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is a generic menu: testimonies, PSAs, awareness weeks, VR simulators, influencers, hashtag challenges, pledges, posters. The only mechanism is 'these features are underutilized, especially by teens' plus an insurance-sponsored rewards app, and that gets no detail on who builds it or why teens would keep it on."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The opening is a thesis about 'one of the most preventable yet pervasive threats', and the last paragraph is a crowded block that restates the list ('Through a combination of storytelling, technology, education, and community engagement') before ending on a generic moral: 'We owe it to ourselves and to each other to put the phone down, stay alert, and make sure that every journey ends safely.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 16 points): cut the first paragraph entirely and open on the second, at 'I was in the car with my older cousin'. Then delete every 'not just X but Y' and 'didn't just X it Y' construction, plus 'perfect storm', 'leveraged for good', 'meaningful conversations', 'Statistics are important, but stories resonate' and the final two sentences. Rewrite in plain first person, and fix the run-ons ('headline it's personal', 'role models parents, older siblings') as real sentences.",
+  "Specificity (up to 12 points): ask the writer for the real details of the crash rather than inventing any. What is the cousin's name? What road or town was it, and what car? What was the text? What did the cousin say right after, and how big was the fine? Swap the generic 'shattering glass and crumpling metal' line for whatever they actually remember. Cut the NHTSA and football-field paragraph down to one sentence, or cut it.",
+  "Ideas (up to 9 points): delete the awareness-week, VR, influencer, hashtag, meme and poster sentences. Keep two ideas and develop them. First, the passenger line 'Hey, I'll text that for you', tied back to the cousin's crash. Second, phone driving mode on by default, with the insurance discount as the reason teens keep it on: say who offers it and what it is worth. Then end by returning to the cousin and the car instead of 'every journey ends safely'."
+ ]
+}

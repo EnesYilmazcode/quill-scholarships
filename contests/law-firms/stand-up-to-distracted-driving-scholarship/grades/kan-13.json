@@ -1,0 +1,54 @@
+{
+ "id": "kan-13",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 990,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 36,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The ideas half gets six paragraphs. The 'affected your life' half is never answered as a position. The closest it comes is watching TikToks and noticing his girlfriend at dinner: 'what about when she's behind the wheel?'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only hard facts are the NHTSA figures (3,275 deaths, ~325,000 injuries). The personal material is generic: 'thousands of kids on TikTok', an unnamed girlfriend in no particular scene, and a made-up example text, 'Are we still meeting at 7?'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 11 em dashes; 'isn't just a current issue'; 'We don't just use our phones—we live on them'; 'Not because... but because'; 'deeply reflective'; 'foster a culture'; the triplet 'a stage, a chat room, or a content factory'; a slogan close, 'people in our lives are worth more than the pings in our pockets'. The 'infancy' stage phrase is his own and survives."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero full stories. The girlfriend beat is a summary set at dinner, not in a car. The TikTok material is a general observation, and his own no-phone habit is a claim with no scene behind it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two ideas have real reasoning: the AI auto-reply that 'still sounds like them', and down-ranking clips filmed while driving using the same detection already used for 'copyrighted music'. But he never says that phone driving modes already exist or why teens turn them off. The rest is the generic menu (assemblies, driver's ed modules, teen influencers)."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a statistic, not a person, and ends on a generic moral with no link back to the opening: 'And I believe we will.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (recovers ~12 points, plus the -6 em-dash deduction): remove all 11 em dashes. Rewrite 'This is why distracted driving isn't just a current issue; it's a growing threat', 'We don't just use our phones—we live on them', 'deeply reflective of a cultural norm', 'foster a culture', and 'Not because I have exceptional willpower, but because...' as plain statements. Cut the last two paragraphs ('A car is not a stage...' through 'And I believe we will.') and end on one concrete sentence instead.",
+  "Answer 'how has it affected your life' first (recovers ~8 to 9 points across answering the prompt and stories): delete the NHTSA opening paragraph, or move one figure into the middle. Open on the girlfriend beat, since it is his only on-topic personal material. Ask Enes for the real version: has he actually ridden with her while she was on her phone, and what app and what moment? Use that only if it is true. If it never happened in a car, cut the 'thousands of kids on TikTok' paragraph to a single real clip he remembers, or drop it.",
+  "Ideas and ending (recovers ~6 points across ideas and structure): cut the assemblies, driver's ed and influencer paragraphs and spend those words on the AI auto-reply. Say that phone driving modes already exist, give his own reason teens switch them off (a bland 'I'm driving' reply feels rude), and say who would ship the fix (Apple, Google or carmakers). Close by going back to his 'infancy' stage line or to the girlfriend, not to a generation-wide slogan."
+ ]
+}

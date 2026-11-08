@@ -1,0 +1,54 @@
+{
+ "id": "kan-33",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 998,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections. The 'how it affected you' part is mostly abstract after the crash ('drastically changed my perception of driving'), and the ideas part is a list rather than a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There is one real scene: 'a car that had halted in front of me to make a left turn' and 'the twin babies nestled in the back seat'. It has no place, date, car, or what he pointed at, and every idea is generic ('eye-catching infographics, short videos')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense AI tells: 'not only left physical damage... but more importantly', 'profound mental imprint', 'It no longer remained just... but instead', 'underscores', 'crucial role', 'foster', 'holistic approach', 'utmost concentration', an em dash, and an 'In conclusion' moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story with a good self-implicating angle (he was the distracted driver). It is told mostly as summary ('panicked frenzy, marked by overwhelming guilt') and is dropped after paragraph 3."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Generic menu: social media challenges, personal stories, insurance discounts, eye-tracking takeover, school curriculum, simulators. Only the eye-tracking idea says how it would work. None says why the existing fix fails or who pays."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Starts with a thesis paragraph instead of the crash, uses 'In conclusion', and restates the list. The last line only gestures back: 'I might have been more prepared and might have developed a healthier relationship with driving.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Delete the pasted prompt (line one, -5) and the whole opening paragraph ('Distracted driving poses a considerable danger...'). Start at 'Newly licensed and enthusiastic'. Rewrite the crash paragraph in plain first person and cut 'panicked frenzy', 'heart-wrenching' and 'sobering wake-up call'. Ask Enes for the real specifics he remembers (what he pointed at, the car, the road or town, what the other driver said) and use only what he confirms. This recovers specificity, voice and story points.",
+  "Cut the five-item idea menu (the social media, personal stories, incentives, technology and curriculum paragraphs) down to the one idea he actually believes in, and give it a mechanism: what exists now, why teens ignore it, the small concrete change, and who does it. The incentive paragraph is the best fit, since insurance discounts give people a reason to change. Ask Enes whether his own accident led to a real insurance or parental consequence he can use as the 'why'. Strip 'crucial role', 'mitigating', 'amplify' and 'leveraging'.",
+  "Replace the 'In conclusion' paragraph with a close that returns to the opening scene: the stopped car, the left turn, the twins in the back seat. Tie that moment to the one idea he kept. Also remove the em dash in 'driving—then and now' (-2) and the 'not only... but more importantly' and 'no longer remained just... but instead' constructions in paragraphs 1 and 3."
+ ]
+}

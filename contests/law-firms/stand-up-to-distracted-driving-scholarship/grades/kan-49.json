@@ -1,0 +1,54 @@
+{
+ "id": "kan-49",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2022",
+ "outcome": "winner",
+ "words": 1078,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own paragraphs. The effect section says \"I have removed this friend from my life and when others offer to drive, I hesitate\", and three ideas follow. The ideas are stated, though, not argued as a firm position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash has real physical detail: \"August 2020\", \"check her Snapchat\", \"straddling the centerline\", the ditch, \"a dent on the driver side front bumper\", throwing up in the parking lot. It has no town, road or school name. The ideas section is all abstraction, and it ends on an uncheckable \"tenfold\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real teen, with clumsy run-ons, the tense switch \"In the passenger seat I am watching everything unfold\", \"you guessed it, it did\" and the typo \"but I will reduce\". There is no AI vocabulary and no em dashes. It loses a point for the stock opener \"Distractions are everywhere\", the slogan \"it won't happen to us\" and the tidy summary close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "It has one on-topic story told as a full scene (the Snapchat spin into the ditch) and a second small beat about his own behavior (refusing rides and telling the story). Neither story comes back in the ideas section."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It is the generic menu: crash demonstrations every year, required seminars with speakers and statistics, and eye trackers as standard equipment. Only the tech idea gives a reason (\"no extra cost\" at the base model), and \"reduce the likelihood by tenfold\" has nothing behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but it opens on a generic thesis and ends by restating the list: \"School demonstrations, seminars, classes, and widely distributed technology are some of the ways that I think would lessen the amount of accidents and the amount of people lost from distracted driving.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "The ideas section is worth about 9 points. Cut the bus/van/car/truck sentence and the \"tenfold\" claim. Rebuild the seminar idea around what he already does: \"When people ask me why I hesitate to let others drive, I tell them this story\". Name why the every-couple-of-years crash demonstration fails, which is that it only reaches some classes. Then say who would run the yearly version. Ask Enes for the real name of the school's demonstration and who puts it on. Do not invent it.",
+  "The structure fix is worth about 4 to 6 points. Delete the whole first paragraph (\"Distractions are everywhere... needs to be stopped\") and the \"Many people every year lose...\" lead-in. Open on \"In August 2020...\" and the drive. Replace the last paragraph's list with a closing line that goes back to the parking lot or the dent on the bumper, using only details already in the essay.",
+  "The specificity fix is worth about 4 points. Ask Enes for the real road or town where the car went into the ditch, the name of his school, and which car models he saw with eye or lane trackers. Put them into the existing sentences. Also cut the vague claims \"one of the leading causes\" and \"the real numbers\", or swap in a sourced statistic he picks."
+ ]
+}

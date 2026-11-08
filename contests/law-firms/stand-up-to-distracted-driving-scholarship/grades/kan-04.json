@@ -1,0 +1,54 @@
+{
+ "id": "kan-04",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2026",
+ "outcome": "winner",
+ "words": 1216,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts get their own sections: the crash and its effects in paragraphs 1-6, then ideas from 'One idea I have is to create more peer-led awareness programs' onward."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details ('on my way to voice lessons', a shoulder injury, 'unable to drive for a month', the red light), but there is no date, street, car, diagnosis or name, and kan-04's own anchor line 'I found myself constantly checking my mirrors' marks it as a 3."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 'not just a mistake; it is a poor choice' and 'Driving is not just a privilege; it is a responsibility' (not X but Y), triplets ('personal, painful, and very real', 'physical pain, emotional stress, and a temporary loss of independence'), 'ripple effect', 'Ultimately', and a tidy moral close. The typo 'an giant obstacle' is the only human roughness."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story with a thin scene ('the loud sound, the force pushing my car forward'), plus a second beat about the writer's own changed habits. After the crash it turns into summary ('I had to see doctors and follow a recovery plan')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Generic menu: peer assemblies, social media reels and challenges, and 'emphasizing empathy'. Only the Do Not Disturb idea names why the current fix fails ('not everyone uses them'), and its patch is that parents 'could encourage or even require' it, with no reason teens would comply."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the essay closes with two summary paragraphs ('Ultimately...') and a generic moral: 'If even one person decides to put away their phone while driving because of my story, then something positive can come out of a traumatic situation.' The red light and the voice lessons never come back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about +12): delete 'Driving is not just a privilege; it is a responsibility.' and rewrite 'distracted driving is not just a mistake; it is a poor choice with real consequences' as one plain claim. Break up the triplets ('personal, painful, and very real'; 'families, friendships, and entire communities'; 'physical pain, emotional stress, and a temporary loss'). Cut the whole 'Ultimately' paragraph, because it repeats paragraphs 3-4 word for word.",
+  "Ideas (about +9): cut the social media paragraph and the 'emphasizing empathy' paragraph, which are menu items. Spend those words on the Do Not Disturb While Driving idea: who in driver's ed turns it on, at what moment (for example before the road test), and why a teen would leave it on. Ask the writer what would actually make them or their friends keep it on, and do not supply a reason for them.",
+  "Specificity and ending (about +8 and +3): ask the writer for the real facts (month, intersection or road, the car, what the doctor called the shoulder injury, which rehearsal or show they missed) and put them in paragraphs 2-3. Then replace the last paragraph's generic moral with a line that goes back to the red light on the way to voice lessons. One example: what the writer does now when they stop at that same kind of light, which paragraph 5 already says they do."
+ ]
+}

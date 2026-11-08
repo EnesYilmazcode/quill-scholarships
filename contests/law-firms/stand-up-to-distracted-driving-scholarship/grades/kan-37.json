@@ -1,0 +1,54 @@
+{
+ "id": "kan-37",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 1015,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the life-impact story is a drunk-driving crash ('an intoxicated male in his 40s... charged with a DUI'), and the longest idea section is about breathalyzers, so distracted driving and young drivers get only partial answers."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash is concrete ('about 3 PM', 'breaking the entire seat', 'leaving glass in her head', 'crashed into a light pole'), but the ideas rest on vague, unsourced claims: 'hundreds of thousands of people, die', 'The numbers have drastically changed', 'thousands of lives have been saved'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clearly a real person, but there are tells: 'not only... but also' twice, the triplet 'could mean your life' x3, a slogan ending with an exclamation mark, and dictation garble that reads as careless ('Please same lessons', 'help illuminate, reckless, driving', 'an ad in a law', 'I had the driver driving a few miles faster')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories: the crash at age two, told fully, and parents teaching him to drive at 15, told as a summary. The main story is about impairment, not distraction, so it only loosely serves the prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The breathalyzer idea extends an existing fix ('people that have received a DUI must take a breathalyzer test prior to the ignition starting'), but there is no explanation of why it would work or who pays. The rest is a generic menu (hands-free laws, It Can Wait, CarPlay) with nothing aimed at young drivers."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are clear, but the ending is a generic moral that never returns to the mother or the car seat: 'The more awareness spread, the more lives we can save!'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+9 possible): the paragraph that starts 'The most important thing that I was taught' already holds the best young-driver idea, his parents' lesson in watching for other people's poor driving. Turn it into the main proposal: make that defensive-driving lesson a required part of driver's ed for permit holders, and say who teaches it and why teens would take it in. Then cut the drug-testing breathalyzer sentences and the CarPlay how-to paragraph down to one line each. Ask Enes whether he has a real habit, rule or tool his parents used that could be the concrete mechanism.",
+  "Answers the prompt (+8 possible): the crash was a DUI, so name that honestly and add one bridging sentence explaining that impaired and distracted driving both mean the driver isn't watching the road. Without that sentence, a judge reads the essay as off-topic. Ask Enes whether distraction played any real part in the crash or in his own driving since then before writing anything beyond that bridge. Also cut or source 'thousands of lives have been saved since' in Illinois: ask Enes for the real figure, or drop the claim.",
+  "Voice and structure (+8 voice, +6 structure possible): fix the dictation errors ('I had the driver driving a few miles faster' → 'Had the driver been going a few miles faster'; 'Please same lessons' → 'These same lessons'; 'illuminate' → 'eliminate'; 'an ad in a law' → 'add a law'; 'poor, driving' → 'poor driving'). Cut both 'not only... but also' constructions and the triple 'could mean your life'. Replace the last paragraph with a closing line that returns to the broken car seat or his mother in the driver's seat, using only details already in the opening."
+ ]
+}

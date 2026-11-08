@@ -1,0 +1,54 @@
+{
+ "id": "kan-05",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2026",
+ "outcome": "winner",
+ "words": 1022,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real space: the effect is the daily highway commute that changed how he drives ('now drivers must not only follow all rules of the road on their end but also preemptively take into consideration the distracted drivers'), and the ideas are trooper presence and required driver ed. The 'affected your life' part comes late and indirectly, and much of it is about other drivers rather than him."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Lake Shore Drive, US 41, I-90, twenty minutes to over an hour, a company van in the third lane, 'about a mile', 'four different times', and the Illinois driver ed trooper video. The general claims ('Most of the near misses I have seen', 'number one cause of highway accidents') have no detail behind them, and the second one has no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real person: clumsy run-ons, 'cutting up', 'The answer is clear: NO.', no em dashes, and several sentences over 45 words. Tells found: two not-X-but-Y lines ('Not to frighten but to inform us', 'Not sugar coating but making clear'), one not-only/but-also, 'I vividly remember', and a tidy closing moral. The file also has encoding garbage ('driverâ€™s', 'â€œtougherâ€')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic beats: the opening commute setup and the van story, told fully (hands on the phone at the light, drifting toward the next lane, four near misses in a mile), plus a short beat about his own habits. The van story loses force because of its long telling and the editorial line after it ('It is because of people like him...')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Both ideas come from the generic menu: more police presence and driver ed with a scary crash video. There is one real mechanism ('just the presence of a state trooper cause all the cars to follow speed limits'), but nothing on why current fixes fail, what small change he would make, or who would do it. He admits 'That video alone is not going to prevent it all'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order works (story, then ideas, then his own habits), but the middle paragraph is one huge block, and the last line is a generic moral that never returns to the sunrise drive in his dad's car: 'running a couple minutes behind is better than taking an innocent life or losing yours in an accident.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph (weight 15, score gap 3, worth up to 9 points): the trooper-presence and driver-ed-video ideas are generic. Keep his own real observation that one trooper changes how every car drives, then ask Enes what he would actually change: why the Illinois driver ed video did not stop the adults he sees on I-90, what concrete step would work, and who would run it. Do not supply an idea or a statistic for him. If he has no real answer, cut 'Of course, instead of deterring this behavior it is better to prevent it entirely' and the 'That video alone...' hedge so the section is shorter and firmer.",
+  "Cut the disclaimer in the last paragraph, 'I have been fortunate enough to despite encountering distracted drivers... I have not been in an accident myself' (recovers the -5 deduction), and start that paragraph with what he does: 'Controlling my ego and letting them pass...'. Also rewrite the two not-X-but-Y lines as plain statements: 'They wanted to inform us, not frighten us' becomes 'The trooper said the video was there to inform us,' or cut it. Cut 'Not sugar coating but making clear the consequences...' down to its point.",
+  "Ending and accuracy: replace the closing moral 'If something is that important do not leave at the last minute...' with a last line that returns to the opening image of leaving early in his dad's car to beat rush hour (use only what is already in the essay). Cut or source 'distracted driving being the number one cause of highway accidents', because a judge can check it. Split the 500-word middle paragraph after the van story. Fix the encoding garbage ('driverâ€™s' to 'driver's', 'â€œtougherâ€' to \"tougher\") before submitting."
+ ]
+}

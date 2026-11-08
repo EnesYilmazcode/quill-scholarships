@@ -1,0 +1,54 @@
+{
+ "id": "kan-34",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 1024,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 31,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but 'how has it affected your life' gets one abstract paragraph ('left an indelible mark on my life, forever altering my perception of road safety'), and about 80% of the essay is the ideas half."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The central event is abstract and matches the kan-34 anchor almost word for word: 'a close friend had lost their life in a car accident caused by a distracted driver'. There is no name, date, place, number or scene anywhere in 1,024 words."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense AI tells: 'This essay explores', profound x3, indelible, unwavering, foster x3, multi-faceted, leverage, cutting-edge, 'cut deep into the fabric', 'Let us unite', triplets ('education, technology, and advocacy'), a tidy moral close, and no clumsy or personal moments."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, the friend's death, but it is only claimed and summarized in two sentences with no scene, and it never comes back after paragraph 2. The writer's own driving never appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu the rubric caps at 2: driver's ed modules, school workshops, PSAs, 'celebrities, and social media influencers', apps, in-car monitors, nonprofits, mentoring, stricter penalties and research funding. None says why the current fix fails or why a teen would actually comply."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The ideas section is one 450-word block, the close opens with 'In conclusion' and re-lists the PSAs and apps, and the last line is a generic moral that never returns to the friend: 'Let us unite in our commitment to combat distracted driving and pave the way for a future where our roads are safer for everyone.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2 (specificity +16, stories +6): replace 'I vividly recall the day when I received the devastating news that a close friend had lost their life...' with the real facts. Ask Enes for the friend's first name, when and where it happened, how he heard, what he was doing at that moment, and one real thing he remembers about the friend. Then cut 'The pain and grief that engulfed our community were unimaginable' and 'shattered lives, broken dreams, and unfulfilled potential'. If Enes has no real friend story, cut the paragraph and ask him what actually connects him to distracted driving.",
+  "Whole essay (voice +12, deduction +5): delete paragraph 1 entirely, along with 'This essay explores...' and 'outlined in this essay'. Strike profound, indelible, unwavering, foster, multi-faceted, leveraging, cutting-edge, 'fabric of families and communities' and 'Let us unite'. Rewrite what remains in plain first person, with at least one long, loose sentence in Enes's own speech.",
+  "Ideas block and conclusion (ideas +9, structure +4): cut the ten-item menu down to the single idea Enes believes in most, such as the app that blocks notifications. Say why teens ignore the current version, then the one concrete change and who makes it, and ask Enes for his real reasoning or numbers rather than inventing them. Split that into two or three paragraphs, and replace the 'In conclusion' paragraph with two or three sentences that return to the friend from paragraph 2."
+ ]
+}

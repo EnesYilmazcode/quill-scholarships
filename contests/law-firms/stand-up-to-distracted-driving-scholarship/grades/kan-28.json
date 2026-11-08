@@ -1,0 +1,54 @@
+{
+ "id": "kan-28",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 843,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The ideas half gets three paragraphs, but the 'affected your life' half is only things seen and heard ('I see and hear about distracted driving everyday'); no effect on the writer is ever stated."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real detail (Chicago, Eliezer switching songs, Theodore texting at red lights, vent phone holders, 'using the camera as a mirror to do their makeup'), but there are no dates, places or scenes, and the opening paragraph is generic statistics."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person ('holier than all get out', '(i.e. don't speed kids)', 'They are not.'). Tells: a 'not only' construction, the slogan punchline 'Out of sight, out of mind.', 'extremely important', and a tidy moral close. No em dashes, and long sentences are present."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "No story is told in full. There are four one-line summaries (the dad's coworker, the boyfriend, the brother, the carpools), and one of them is secondhand. The carpool memory is the only one close to a scene, and it gets one sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The driving-mode auto-reply names a real cause ('overly concerned about what the other person will think if they don't respond') and a fix. The phone-storage and driver's ed ideas are standard patches with no who, how or incentive."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on a generic thesis about society, and the close is a generic moral that never comes back to a person: 'This small change in behavior could have big results, easily saving thousands of lives.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraph 1 ('Car accidents and the deaths...') and open on the carpool memory from paragraph 5 ('Growing up, I carpooled with many of my friends' parents...'). Expand it from what the writer actually remembers: ask her which parent, which car, what was on the screen, and how it felt in the front seat. That makes one real story the spine of the essay (stories 2 to 4).",
+  "Add one plain sentence that answers 'how has it affected your life' head-on, drawn from the real Theodore and Eliezer beats in paragraph 3. Ask the writer whether she said anything, changed her own phone habits, or now sets driving mode herself, and state that effect directly instead of 'nobody is perfect' (answers_prompt 3 to 4).",
+  "Replace the last paragraph with a close that returns to the carpool or to Theodore at the red light, tied to the driving-mode idea. Cut 'Out of sight, out of mind.', 'Sometimes all it takes is putting away the screen.', the 'not only' sentence, and 'extremely important' (structure 2 to 4, voice 4 to 5)."
+ ]
+}

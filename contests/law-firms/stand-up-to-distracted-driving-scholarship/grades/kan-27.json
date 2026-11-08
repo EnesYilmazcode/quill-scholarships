@@ -1,0 +1,54 @@
+{
+ "id": "kan-27",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 1197,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Part 1 gets two personal crashes and a career answer. Part 2 gets only one proposal in the second-to-last paragraph, 'motorists under the age of 21 convicted of a distracted driving violation should have driving privileges suspended and/or be required to attend educational courses', and it comes after three paragraphs of Illinois law history."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are real physical details: 'distracted by her crying child having dropped a toy in the backseat', the snack bag on the 'passenger side floorboard', the 'gravel shoulder', 'two blown tires', 'over 20 years', IDOT and the felony charge. There are no dates or places, and the '10 times more likely' statistic has no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real officer writing, with clumsy human moments ('infront', 'of which took place', 'and/or') and long sentences, and it has no AI vocabulary or em dashes. The opening 'Life experiences greatly help mold and guide an individual' is a stock line, and the closing 'must continue to work together' is a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are two on-topic stories: being hit at a red light at 16, and his own spin-out reaching for the snack bag. Both are told as scenes, which matches the 'family story plus own slip' anchor. They lose weight because they are buried between a generic history opening and three paragraphs of legislative background."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names the existing fix (Illinois device laws), says what it misses ('few efforts have gone into acknowledging the impact... on younger motorists'), and proposes a patch modeled on underage drinking and graduated licenses. It never explains why young drivers would change their behavior because of it, and the rest is the generic 'promote safe driving behaviors'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a generic thesis rather than a story. The essay proper ends on a restated moral: 'law enforcement, educators and legislative officials must continue to work together to modify laws, promote safe driving behaviors and provide for increased enforcement toward distracted driving related offenses especially among younger motorists.' After that comes an unrelated thank-you note ('Hello all- ... -Elliot Rose'). Deduction of -5 for that pasted non-essay material (subtotal 73, minus 5, gives 68, mid band)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Delete the whole thank-you note from 'Hello all-' through '-Elliot Rose'. It thanks the firm for an award he has not won yet and is not part of the essay (+5 deduction recovered, and the ending becomes judgeable). Then replace the closing 'law enforcement, educators and legislative officials must continue to work together...' sentence with one that goes back to the 16-year-old at the red light or to the snack bag on the floorboard, tied to the under-21 proposal (structure 2 to 4, +4).",
+  "Expand the under-21 idea into a mechanism by cutting most of the three Illinois law-history paragraphs (keep one sentence about the felony and suspension escalation as the existing fix). Use the space to say why a suspension or course would change a 17-year-old's behavior when the current laws haven't, and who enforces it. Ask the writer for real numbers from the traffic unit he redesigned (citations, crash changes) to support it. Do not invent them (ideas 3 to 4 or 5, +3 to +6).",
+  "Cut the opening paragraph's generic lines ('Life experiences greatly help mold and guide an individual...' and the radio and makeup history) and open directly on 'As a venturing 16 year old with a freshly minted drivers license not yet even settled in my wallet...'. Either source the '10 times more likely' statistic or drop it (voice and specificity 4 to 5, up to +8)."
+ ]
+}

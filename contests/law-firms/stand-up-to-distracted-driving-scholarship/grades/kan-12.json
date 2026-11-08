@@ -1,0 +1,54 @@
+{
+ "id": "kan-12",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 965,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered and the ideas half takes a position ('My proposal is to apply this concept to safety in driving'), but 'how has it affected your life' comes across as a list of crashes. She never says what changed in her own driving or thinking."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real physical details ('bushes and a farmer's fence hitting the windshield', 'T-boned into driver's side at 60 mph', 'In Illinois'). Ilsa's crash has no date, town or ages, and the statistics ('About 1 in 3 teens', 'some 3,000 individuals') have no sources."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This is clearly a person talking, clumsy moments included ('No, this can't be true, but it was true', 'it doesn't take an Einstein'). Tells: a triplet slogan ('fewer accidents, fewer deaths, fewer motherless children'), stiff 'herein' used twice, an inserted 'Kevin Rose' quote, and typos ('Frist', 'vison', 'friendless', 'aren't their', 'setting in a field')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three crash stories (Ilsa, her dad's crash, her mom's crash). Only Ilsa's has any scene, and the mom crash gets one line. About 300 words go to off-topic material: the better-than-average effect, Dweck, Microsoft's stock price and the Kevin Rose quote."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "She spots why the old fix fails ('They've become so routine, it's not enough'), but the 'Focused Driver's Mindset' never says what a driver would actually do differently. The fix is a committee, PSAs and an auto-reply app with no reason given for why teens would turn it on."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The ending does return to Ilsa's daughters, but the middle wanders through unrelated research. The close is a rhetorical question and contradicts the opening: 'Maybe my nieces would still have their mother had we promoted more than just \"Don't Text and Drive,\" maybe a 'Focused Driver's Mindset' vision?'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph, 'Maybe my nieces would still have their mother': the opening calls Ilsa's daughters 'my cousins', so change 'nieces' to 'cousins' (recovers the -10 contradiction deduction). Also replace all em dashes with commas or periods ('distracted driving—texting', 'two years ago—I', 'individuals—particularly distracted drivers—who've', 'individuals—say social psychologists...lawyers—to') to recover -6.",
+  "Ideas: cut the better-than-average, Carrie Dweck/Microsoft and 'Kevin Rose' paragraphs. Use the space to make one idea concrete: what a 'Focused Driver's Mindset' lesson actually asks a driver to do, when in driver's ed it happens, who teaches it, and why a teen would keep the auto-reply app on. Ask the writer what she really pictures here rather than supplying it.",
+  "Ilsa paragraph and effect on her: ask the writer for the real year, town, and the cousins' ages, and add them to the T-bone paragraph. Then add a sentence on what actually changed in her own driving since she started two years ago. Merge the dad and mom crashes into one short paragraph so Ilsa carries the essay, and fix the typos ('Frist', 'vison', 'friendless', 'aren't their', 'setting in a field', 'that that')."
+ ]
+}

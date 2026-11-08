@@ -1,0 +1,54 @@
+{
+ "id": "kan-44",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2022",
+ "outcome": "winner",
+ "words": 938,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The ideas part gets its own section ('the best way to prevent distracted driving is to require driver education in all 50 states'). The 'how has it affected you' part is split between the opening and a story buried in paragraph four, and it gets less weight than the advice."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real numbers and names ('Only 31 out of 50 US states', the Ohio study, 'He retired at the beginning of March this year', 'on her way home from the DMV'). The writer's own crash has no scene at all ('When I was young, I was in a car accident with my dad'). The '1 in 4 ... This means that about 390,000 injuries' line does not follow."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a real student, not a model: the typos ('someones', 'silence my phone') are human. But it slides into public-service-announcement second person ('Luckily, there are a couple of things to help with that!', 'If you drive, you may be asking yourself'). It also uses stock phrases ('incredibly dangerous', 'it is pertinent', 'pave the way'), and no sentence runs past 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three on-topic beats: the crash with dad, the trooper uncle, and the friend's DMV crash. Each is told as a summary with no scene. The strongest one, the friend's crash, comes after the ideas instead of leading the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The driver's-ed mandate has a partial mechanism: it names the gap ('in many states only minors are required') and cites the Ohio study. The rest is the generic list (do not disturb, Bluetooth, social media, 'express your concerns to them kindly'). The Bluetooth advice also says you can 'text messages while staying focused,' which undercuts the essay's own point."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The thesis lands mid-paragraph one, the stories and ideas take turns, and the ending is a generic moral that never returns to the dad or the friend: 'Do not be the one responsible for the loss of someones loved one and take driver's education. Drive safe!'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Lead with the friend's DMV crash, which is now in paragraph four ('Last year one of my closest friends had finally received her driver's license...'). Move the opening paragraph's statistics and thesis to after it. Cut the second-person lines ('Luckily, there are a couple of things to help with that!', 'If you drive, you may be asking yourself...') and replace them with the writer's own reaction. Ask the writer what they actually remember of that day or of the crash with their dad, rather than inventing a scene. This helps voice, stories and structure.",
+  "Narrow the ideas to the driver's-ed mandate and drop the rest of the list (social media, 'express your concerns to them kindly', Bluetooth). Then say who acts (state legislatures, or the Secretary of State's office already mentioned), why the current rule fails (it covers only minors), and what changes. Ask the writer for the Ohio study's actual numbers to replace 'fewer accidents, injuries, and fatalities.' Fix or cut the '1 in 4 ... This means that about 390,000 injuries' leap and the claim that Bluetooth texting keeps you focused.",
+  "Replace the closing paragraph ('If you have the opportunity to take driver's education, do it... Drive safe!') with one or two sentences that return to the opening person: the dad, the uncle's patrol years, or the friend who 'had taken all the right steps.' Tie that person back to the driver's-ed argument instead of ending on a slogan."
+ ]
+}

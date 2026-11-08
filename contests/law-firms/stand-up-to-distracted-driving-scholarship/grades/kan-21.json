@@ -1,0 +1,54 @@
+{
+ "id": "kan-21",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 999,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real answers. The effect part goes past the scare to a lasting cost: \"She is no longer able to allow me to drive her car because she is triggered every time from that experience.\" The ideas part covers two tactics, but neither is defended against why current campaigns fail."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash has real physical detail (\"spring break in 2022\", \"road trip to Kentucky\", \"About one hour into our trip\", \"dirt and rock pebbles flying onto our window\", the ditch), but there is no road, town or car. Most of the other numbers are borrowed statistics (1.6 million, 3,000, 4.8 hours, 7-8 times), not things only the writer would know."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a real student, with clumsy, honest moments (\"window shield\", \"With the grace of God\", \"infuriated me\"). The frame is a school report, though: an APA-cited thesis intro and a list of tactics, filler adverbs (\"truly\", \"deeply\"), \"not only young drivers, but all drivers\", \"Overall,\" and an \"In conclusion\" restatement."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story, the Kentucky spin-out, told as a full scene with a lasting effect (the mother's PTSD and the delayed license). There is no second beat from the writer's own driving, and the story is buried behind a statistics opener."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a stock menu: a social media campaign posted \"three to four times per day\" showing wrecks, and slogan bumper stickers that might go viral like \"fidget spinners\". The ad-frequency citation adds a little reasoning, but there is no named existing fix, no reason it fails, and no one who would do or pay for it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It is organized as intro, story, idea, idea, conclusion, but it opens on a statistic and ends with a restatement: \"In conclusion, distracted driving can be reduced through the use of social media, and social trends... making bumper stickers a popular trend will heavily influence young drivers to drive the right way.\" The mother and the ditch never come back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraphs 3 and 4 (about 9 points): cut the \"released at least three times a day\" posting plan and the fidget spinner and Stanley cup examples. Rebuild each idea in four steps: what is being done now, why teens ignore it, the one small change, and who carries it out. Ask the writer what would actually have stopped the driver who ran them off the road, or what they themselves see teens ignore, and use their real answer. Don't make up a program.",
+  "Opening paragraph (about 8 points across voice and specificity): delete the stat-and-citation intro (\"1.6 million...\", the Miller and Zois quote, and the \"Some ways to help prevent...\" thesis list). Open on the spin instead: \"About one hour into our trip, a car drifted over into our lane.\" Also cut \"truly\", \"deeply\", \"Overall,\" and the \"not only... but\" sentence. Ask the writer for real details to sharpen the scene, like the highway or nearest town and what their mother said in the ditch. Use only what they confirm.",
+  "Final paragraph (about 6 points): replace the \"In conclusion...\" restatement with a closing that goes back to the opening person. Build it from facts already in the essay: their mother can no longer ride as a passenger, and the writer can't drive for her when she is tired. Tie the bumper sticker or video idea back to the driver who never stopped. Add nothing new."
+ ]
+}

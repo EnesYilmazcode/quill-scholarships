@@ -1,0 +1,54 @@
+{
+ "id": "kan-16",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 1075,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. 'How it affected you' gets eight paragraphs. The ideas part gets one paragraph, and it opens on a stock line instead of a position: 'Distracted driving is one of the greatest dangers among young drivers today.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The story is dated and physical: 'On August 5th, 2020', 'khaki tan button up', 'her 2019 red Lexus SUV', 'three days and two nights in the ICU'. The ideas paragraph loses that and falls back on 'a raffle or discounts from popular shopping markets'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, clumsy parts included ('there must be one serious dent in the car though'). Tells: a 'not only... but others' construction, the 'did more than break a few bones... but change the lives of us all' antithesis, and a tidy moral at the end. No em dashes and no AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story, told fully with scene and dialogue, and fully on topic. It has no second beat from the writer's own behavior. The recovery and lawsuit are told as summary ('Flash forward six more months')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It is a generic menu: 'a wave of social media marketing', 'content on Instagram or snapchat', raffles, Chipotle and AutoZone discounts. Nobody is named to run it, there is no way to check who qualifies, and it never says why the existing fixes fail. The AutoZone point about friends into cars is the only grounded reason."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Story first, then ideas, is the right order. But the reflection paragraph comes before the 'Flash forward' recovery, and the close is a generic moral that never brings back the brother or the stop sign: 'I hope that no one person or family ever has to burden the mistakes of someone while distracted driving and that we can create awareness for this issue and hopefully change.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph (+6): cut the menu (Instagram/snapchat content, raffle, 'popular shopping markets', Chipotle) and build the whole paragraph on the one idea grounded in the writer's real life, the AutoZone car-parts discount for friends who are into cars. Say who would run it, what a young driver has to do to earn it, how that would be checked, and why a discount changes behavior when a post doesn't. Ask the writer which of these details are real; don't make up program specifics. Replace the opener 'Distracted driving is one of the greatest dangers among young drivers today.' with the writer's actual position.",
+  "Ending (+4): replace the last paragraph's 'safe community' line and the 'I hope that no one person or family...' moral with a close that returns to the opening. That could be the brother back on his feet, or the stop sign 'a few blocks from our house', using only facts already in the essay. Also move the 'Flash forward six more months' paragraph up so it comes right after the year in the dark room, before the reflection paragraph.",
+  "Voice (+4): cut 'One small mistake such as being on your phone while driving can not only change the life of yourself but others.' and rewrite 'the car did more than break a few bones and leave some scars but change the lives of us all' as a plain statement of what changed in the house. Also cut 'absolutely' from the first line and fix the stray comma in 'till, he would be tired'."
+ ]
+}

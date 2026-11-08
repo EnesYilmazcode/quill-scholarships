@@ -1,0 +1,54 @@
+{
+ "id": "kan-51",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2021",
+ "outcome": "winner",
+ "words": 1314,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but 'how has it affected your life' gets one hedged paragraph ('While I never had to experience or witness anything bad happening...') while about 900 words go to ideas."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "No names, places, dates or real numbers anywhere. The one felt detail is 'the sudden tightening of my seatbelt', and the only statistic, 'A million people died in the past year', is invented and far off."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Sounds like a real student ('Ughhhh. I hate this song') with no em dashes or AI vocabulary, but it uses 'Not only would you have been injured, but so would the person in front', piles up repetitive 'They need to' and 'They can do this' lines, and ends on a tidy summary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero real stories. The opening crash is a second-person hypothetical ('You rammed right into the other car'), and the personal section is a list of generic sightings ('I have seen people...') with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is mostly a generic menu: statistics with dots, interviews, social media, put your phone on silent, eat before driving. It briefly notes why raw statistics fail ('it still is a number in your head'). The one original idea, having students name a habit they see or do and teach others, gets no detail on who runs it or why teens would do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but several ideas paragraphs overlap. The close restates instead of returning to the radio image: 'These drivers then need to consciously realize their driving habits and then apply tips to help them not get distracted while driving.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story (up to 21 points). Cut the second-person radio hypothetical and the 'I have seen people...' list in paragraph 3, and build the opening around the one real moment already in the draft, 'the sudden tightening of my seatbelt'. Ask Enes for the true details of that moment (where it was, roughly when, who was driving, what the other driver was doing) and tell it as a single scene. Also cut the disclaimer 'While I never had to experience or witness anything bad happening' (-5 under his rule).",
+  "Ideas and mechanism (up to 9 points), plus a false number. Delete the 'A million people died in the past year' line. It cannot be true (US distracted-driving deaths are about 3,000 a year), so cut it or replace it with a real sourced figure. Then cut the generic menu (dots, interviews, social media, silent mode, eating tips) down to the habit-spotting project, and explain it fully: who runs it (the driver's ed instructor or a class period), what the student turns in, and why a teen would actually change after naming their own habit when an assembly doesn't change them.",
+  "Voice and ending (up to 6 points). Remove 'Not only would you have been injured, but so would the person in front' and the strings of 'They need to' and 'They can do this in many ways' sentences. Replace the final summary paragraph with a closing line that goes back to the real seatbelt moment from the new opening, rather than restating 'videos, infographics, speeches, personal accounts, projects'."
+ ]
+}

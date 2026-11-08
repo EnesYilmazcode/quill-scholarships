@@ -1,0 +1,54 @@
+{
+ "id": "kan-36",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 1165,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched: the effect through the four family deaths and the 2:42 am drive, and ideas through playlists, a checklist and influencers. But a whole paragraph goes off topic into general safety ('There should also be a main message of safety in general'), and the main personal story is about falling asleep, not distraction."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The sleep story is concrete ('2:42 am', 'Six Flags trip in Gurney, Illinois', 'lived 7 miles from me', 'hit a telephone pole, and drove into a pond'). The '4 family members' get one clause, and the statistics ('almost 3700', '12%') have no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person, clumsy at times ('the only thing I can do is be angry for the next 5 minutes'), with no em dashes and no AI words. Tells: one 'won't just save our own lives, but also' and a tidy moral at the end. No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Two story beats: his drowsy drive and the student who died. Both are about falling asleep, not distraction. The four family deaths, the most on-topic material, are mentioned and never told. His own past texting gets one line ('I was that person too')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The playlist, 'turn notifications off' and a 'set checklist' are small, concrete fixes, but they get two sentences. The rest is a generic menu: 'Teens, especially influencers', 'make the really hard stats... available'. Nothing says why the current fixes fail or why people would actually change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The strongest story is buried in the second-to-last section, a paragraph breaks mid-sentence ('and / hope'), the ideas are scattered across four paragraphs, and the close is a generic moral: 'By doing this, we won't just save our own lives, but also the lives of friends and family.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Reorder the essay (structure 2 to 4 and stories 2 to 3, up to about 10 points): open with the 2:42 am Gurnee drive and the student 7 miles away, which are true and specific. Then go straight to the four family deaths and his own past texting. Move the '3700 per day' statistics after that. Join the broken 'and / hope' paragraph, and end by coming back to the drive home or the pond instead of 'we won't just save our own lives'. Ask Enes whether he wants to add real names or years for the four family members; don't invent any.",
+  "Cut the off-topic material and build out the one real idea (prompt 3 to 4 and ideas 2 to 3, about 10 points): delete the safety-in-general paragraph (seatbelts, brakes, single-car crashes, speeding) and the line 'Phones, speeding, and talking all help out the world in extraordinary ways'. Cut or shrink the influencer idea. Use that space to expand the pre-loaded playlist, notifications-off and pre-drive checklist routine he already uses: say who sets it up (for example, a parent or driver's ed at permit time) and why it works when 'just don't text' does not.",
+  "Fix the deductions (about 15 points): the line 'Just 3 years ago in 2019' cannot be true in a 2026 application, so check with Enes and use the real year or say 'In 2019'. Cut 'writing this paper now is making me come up with more solutions' (writing about the essay). Also correct 'Gurney' to 'Gurnee'."
+ ]
+}

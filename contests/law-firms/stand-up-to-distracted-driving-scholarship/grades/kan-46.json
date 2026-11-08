@@ -1,0 +1,54 @@
+{
+ "id": "kan-46",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2022",
+ "outcome": "winner",
+ "words": 1037,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections ('Distracted driving has affected me personally in several different ways', then three ideas). But the 'affected you' half begins only in paragraph 2, after a block of statistics, and the first way is a vague 'someone in front of me either weaves in their lane'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: the left turn on green at the intersection, 'I had just said goodbye to this friend moments before', the Life 360 alerts for speeding and hard stops, and 'free coffee, shake, or fries'. There are no names, dates or places, the mom's crash is one line ('one of her friends'), and the 26%/58% figures lean on borrowed authority. The 58% figure (AAA, all distraction) is credited to NSC under 'talking and texting'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This reads as a real student, not model prose: clumsy grammar ('The most common occurrences that I see on the road is'), a stray '..', and no AI vocabulary or em dashes. It is wrapped in stock school framing: 'Unfortunately,' as the opener, 'That fact is both shocking and tragic', a triplet list ('put the phone down, stopped using the GPS, or quit adjusting the music channels'), and the tidy moral 'education is the key'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three-plus beats: generic road observations, the friend's intersection crash (half a scene), the mom's crash at 16 (summary only), and his own Life 360 promise. All are on topic, but none is told fully and the friend story ends in a lesson paragraph."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Life 360 idea names an existing fix, says why it fails ('not all teens may want an app like Life 360'), and offers an incentive (fuel points, free fries), but never says who pays or runs it. Then come the generic menu items: speakers at high schools, and a class with 'law enforcement' and 'videos'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on statistics instead of a story. The ideas are numbered 'third way' like a five-paragraph template. The ending restates the thesis instead of returning to a person: 'I know that education is the key and when people understand the importance of staying off their phone or fidgeting with the controls, the percentage of distracted drivers will decrease.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the opening statistics paragraph and open on the friend's crash ('I had just said goodbye to this friend moments before...'), told as a scene in the order it happened. Move the one statistic you can source correctly into the ideas section, and either fix the 58% attribution (it is AAA's figure for all distraction, not NSC's for phones) or drop it. This lifts stories, structure and answers_prompt.",
+  "Cut the speakers and safe-driving-class paragraphs (generic menu ideas) and spend those words on the Life 360 incentive: who funds the fuel points (ask the writer whether their family's insurer or a local gas station actually offers anything like this), and why teens would accept tracking for a reward when they refuse it for safety. Keep only facts the writer confirms.",
+  "Replace the closing 'education is the key' paragraph with a last line that returns to the friend at the intersection or the mom at 16, using only what already appears in the essay. Also delete stock lines like 'That fact is both shocking and tragic' and 'Unfortunately,' at the start."
+ ]
+}

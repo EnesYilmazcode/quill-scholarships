@@ -1,0 +1,54 @@
+{
+ "id": "kan-24",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 1019,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get a real answer. The effect is stated plainly ('Because of my brother's accident, I have never picked up my phone while driving') and two concrete ideas follow, but the 'affected' half is mostly told in summary and is never measured against the writer's life after those months."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: he 'rear-ended the car in front of him and totaled our shared car while adjusting the volume of his music, looking away from the road for two seconds', the call came right after Driver's Ed, and the essay names CarPlay and a button on the underside of the wheel. But there is no name, date, place or car around the central event, and 'drivers ages 18-34' has no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human clumsiness and one real simile ('as easy as holding onto water with bare hands') sit inside stock framing: filler adverbs ('deeply wrong', 'deeply affected', 'incredible loss'), a balanced antithesis ('doesn't cause ADHD, but does sustain it'), the slogan 'New problems require new solutions', generic phrases like 'the universally experienced feeling of freedom', and a closing paragraph that only sums up. There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are two stories and both are on topic: the brother's crash, with its months of fear afterward, and the Driver's Ed scene where students tune out the video but listen to the teacher's own story. The crash is mostly summary rather than a scene, and the essay drops it after paragraph one."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Idea 1 says why the existing fix fails (students 'zoned out' during the video but 'perk[ed] up' for the teacher's story) and adds paid jobs for crash victims, which gives it an incentive. Idea 2 names the existing fix (CarPlay), says why it fails ('faulty when it comes to hearing the operator') and offers a small physical change. It never says who would build or require the button, and the Zoom version is thin."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs follow a clear order, but the ending only restates the thesis and never comes back to the brother. It also contains a broken link ('With that precaution in mind, young drivers are unable to be away from their devices'). The last line: 'these two methods may be applied to raise awareness and prevent the behavior of distracted driving among young drivers.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (up to +8): In paragraph 1, ask the writer for the real facts the essay leaves out (the brother's name, the year or season, the road or town, the car they shared, and what the mother actually said on the call) and put them into the crash sentences in place of 'told me the news of how my brother got into a car accident'. In paragraph 4, either cite a source for 'drivers ages 18-34' and the dopamine/ADHD claim or cut both. Do not make up any of these details.",
+  "Voice (up to +8): Cut the filler adverbs and stock phrases: 'deeply wrong' becomes 'wrong', 'incredible loss' becomes 'loss', and 'the universally experienced feeling of freedom' is cut. Delete 'New problems require new solutions' and the 'doesn't cause ADHD, but does sustain it' antithesis. Also trim the repeated lesson at the end of paragraph 1: 'I was taught a lesson from my brother, terrible as it was.' and 'Because of my brother's accident...' say the same thing, so keep only the second.",
+  "Ending (up to +4): Replace the summary final paragraph with a short close that comes back to the opening using facts already in the essay. The brother looked away for two seconds to adjust his music volume, and that is exactly what the steering-wheel button would let a driver do without taking their eyes off the road. End on the brother and those two seconds, not on 'these two methods may be applied'. While rewriting, fix 'due from a paralyzing collision' and the 'With that precaution in mind, young drivers are unable...' sentence."
+ ]
+}

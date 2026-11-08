@@ -1,0 +1,54 @@
+{
+ "id": "kan-19",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 1230,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 34,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the essay never says the crash was caused by a distracted driver. It only says 'one reckless moment' and 'a moment of inattention'. The ideas part is a closing gesture: 'It's a multifaceted issue, and the solutions need to be equally varied and impactful.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Roosevelt University and the school counseling major are the only proper nouns. The injuries are 'a broken bone or two'. No date, road, other driver, named school or event, and no numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense AI tells. There are about 15 em dashes. Not-X-but-Y appears in 'begins not with a decision, but with a moment' and 'wasn't just a car crash—it was'. Filler words include 'truly' and 'deeply passionate'. AI vocabulary includes 'navigate' and 'multifaceted'. There are triplets, punchline paragraph endings ('I was a survivor.') and a slogan ending, 'turning pain into purpose'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story, the crash, told as a stock summary ('screech of tires, the sickening crunch of metal'). It is not clearly tied to distracted driving. The rest is a summary of her growth, with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu: social media posts, school talks, 'coordinating events'. The emotional-awareness idea names a cause (stress, peer pressure), but it gives no concrete change and doesn't say who does it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are clear, but the ideas only arrive at the very end. The essay closes on a restated thesis instead of returning to the crash: 'we can make a real difference.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 16 points): remove every em dash. Rewrite the not-X-but-Y lines, starting with the opening 'The story begins not with a decision, but with a moment—' and continuing with 'wasn't just a car crash—it was', 'wasn't just about raising awareness—it was' and 'I am no longer just a student—I am an advocate'. Delete 'truly', 'deeply', 'multifaceted', 'navigate' and the closing slogan 'turning pain into purpose'. Cut the one-line punchlines such as 'I was a survivor.' and 'So, I took action.'",
+  "Specificity and the first prompt part (worth up to 20 points): in paragraphs 1 and 2, ask the writer for the real facts and put them in. Was the other driver distracted, and by what? What was the date and street? What was the actual injury, in place of 'a broken bone or two'? Replace the stock sounds ('screech of tires... crunch of metal'), and the line 'I don't remember much else... ' that then lists details anyway, with whatever she really remembers. If the crash was not caused by distracted driving, say plainly what did cause it, so the judge isn't left guessing.",
+  "Ideas and ending (worth up to 15 points): cut the generic final paragraph ('It's a multifaceted issue...'). Replace it with the real advocacy she already mentions: which schools she spoke at, how many students, which organization, which event. Ask her for those names and numbers. Then turn the emotional-awareness point into one concrete change she would make as a school counselor, and end by going back to the drive to Roosevelt from the opening."
+ ]
+}

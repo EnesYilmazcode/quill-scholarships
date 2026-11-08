@@ -1,0 +1,54 @@
+{
+ "id": "kan-22",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 1002,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get a real answer, but the ideas part is a single proposal buried mid-paragraph: \"If driving schools created a crash simulation or required new drivers to look at a staged scene of a car accident\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong details: December 2022, two days after the license, 3 minutes away, 9 people in a car with 4 open seats, T-boned into a tree, the airbag that did not deploy, a friend of 7 years whose family sued. The aftermath is vague (\"multiple court dates\", \"months\"), and \"hundreds of people each year\" understates the real figure, which is in the thousands."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The story reads as human (\"And I offered to drive them\"), but it carries a lot of stock phrasing: \"vividly recall\", \"deeply ingrained\", two uses of not-only-but (\"Not only can it end people's lives, but it can also\"), \"way bigger issues than just\", and a tidy closing moral (\"lifelong reminder\", \"forever grateful\", \"every single day as a gift\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story told as a scene, and it makes a fresh point: the distraction was music and a crowded car, not a phone. The lawsuit and the lost friendship stay on topic. It loses a point because the third paragraph retells the aftermath as a list instead of showing it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The crash simulation or staged scene is the generic idea the rubric caps at 2. It gives a reason (\"it wasn't tangible\") but names no driving school, no change to the course, nobody responsible for it, and nothing that would make teens change their behavior beyond \"invoke fear\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a generic line (\"Growing up, I remember hearing about people being distracted while driving\"). Paragraph 3 is one block that mixes aftermath, a statistic and the idea. The last line is a generic moral: \"served as a very important life lesson\". DEDUCTION -10: the dates conflict. A license in December 2022, starting college in fall 2024 and \"When I was a high school sophomore getting my driver's license\" cannot all be true. Subtotal 66, minus 10, total 56."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the timeline contradiction (worth 10 points). With a license in December 2022 and college in fall 2024, the writer was a junior then, not a sophomore. Ask Enes which detail is correct, and change or cut \"When I was a high school sophomore getting my driver's license\" so it matches.",
+  "Cut the stock moral and the slop (voice 3 to 5, about 8 points). Delete the whole closing run from \"In the aftermath of my accident, I was forced to deal with\" through \"a very important life lesson\", along with \"Distracted driving is a huge issue\" (it appears twice), \"vividly recall\", \"deeply ingrained\" and both not-only-but sentences. End instead on the essay's real image: the intersection by the house, which the writer still hesitates at. That also lifts the structure score.",
+  "Build the idea on the essay's own insight (ideas 2 to 3 or 4, about 3 to 6 points). The writer did not know that passengers and loud music count as distraction. Replace the staged-crash idea, or narrow it to one thing: driver's ed should teach passenger and music distraction, not only phones, with a concrete step, such as a parent-signed passenger limit for the first six months, and say who enforces it. Move it into its own paragraph and drop the generic \"hundreds of people each year\" line. Ask Enes for any real driver's-ed details before adding specifics."
+ ]
+}

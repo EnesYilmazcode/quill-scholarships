@@ -1,0 +1,54 @@
+{
+ "id": "kan-30",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 1019,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The impact part leans on what happened to others ('it still gets to them') and never says plainly what changed for him until paragraph 9's 'I use my phone occasionally'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has real anchors: '70 mph', 'Honda Civic', the Illinois one-passenger rule, and fines of '$150' and '$500'. But the baseball crash is only 'crashed into a tree', and the statistics have no source ('19,937', '6 times more deadly than driving while drunk', '5.2% to 2.5%')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are human moments ('What's wild is', 'AND being distractedby'). They are buried under AI tells: 'incredibly' twice, 'profoundly', 'fostering', 'multifaceted', 'comprehensive, sustained, and multifaceted' (a triplet), 'In summary', and a tidy moral at the end ('turn statistics into stories of lives saved')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Three beats, all on topic: the sister and mom on the interstate, the center fielder's crash, and his own phone habit. Both crashes are told as summaries with no scene, and 'On the flip side' frames the second one as a reversal it isn't."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Four of the ideas paragraphs are the generic menu: peer programs, incentives, social media campaigns, influencers. The only mechanisms are his phone-out-of-sight habit and the Illinois fines, and both are tacked onto the end."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on a statistic instead of a story and closes with 'In summary' plus a restated thesis. The last line, 'The goal is to turn statistics into stories of lives saved, and communities united in making safety a top priority on our roads.', never returns to his sister or the team."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the four generic ideas paragraphs (peer-to-peer, incentives, social media, influencers). They hold most of the AI tells. Rebuild the ideas section on what is already true in paragraph 9: he keeps his phone where he can't see or hear it and uses the iPhone driving focus, and Illinois fines run $150 then $500. Ask Enes why he thinks the fines changed behavior, and what would actually get teammates like the center fielder to turn the driving focus on. Turn those answers into one or two specific proposals.",
+  "Delete the opening statistic paragraph and the 'In summary' paragraph. Start with the interstate crash ('My mom and sister got caught up in...'), and end by coming back to his sister or the baseball team instead of 'turn statistics into stories'. Also cut 'incredibly', 'profoundly', 'fostering', 'multifaceted' and the 'comprehensive, sustained, and multifaceted approach' line. Fix 'distractedby' and 'do not driving focus'.",
+  "Ask Enes for a source for each statistic ('19,937' per day, '6 times more deadly than driving while drunk', '5.2% to 2.5%'). Cut any he can't source, because the drunk-driving comparison is a commonly repeated claim that may not hold up. Then ask him what really happened after the center fielder's crash (injuries, missed games, how the team took it). Use only what he confirms to sharpen that paragraph, and cut the repeated cause sentence ('This was due to being distracted by disobeying the law...')."
+ ]
+}

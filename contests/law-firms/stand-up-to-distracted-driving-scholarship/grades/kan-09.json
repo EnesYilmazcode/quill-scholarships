@@ -1,0 +1,54 @@
+{
+ "id": "kan-09",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 1038,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 30,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The effect half is answered by the coffee near miss. The ideas half gets only a gesture ('initiating conversations about the often-overlooked aspects') with no plan for young drivers, and three paragraphs drift to scholarship need ('I am a strong investment because...')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The one real detail ('My friend looking down to grab her coffee', the driver ahead 'braking in order to turn') has no name, date, place, road or car. The rest is abstract ('significant personal growth', 'more significant, systemic changes')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense tells: the kan-09 anchor line word for word ('I am passionate about promoting awareness around distracted driving'), 'multifaceted', 'foster/fostering', 'journey', 'not just about... but also', 'not merely... but', 'thereby enhancing', 'In conclusion', 3 em dashes, and a tidy closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One on-topic story (the friend's coffee lurch) is told in a single summary sentence with no scene. The writer's own beat (the 'scone' habit) is only claimed, and about 40% of the essay is off-topic scholarship and career material."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It explains why eating is risky ('taking at least one hand off the wheel... diverting mental attention'), and the only fix is a personal habit (pull over before 'unwrapping that granola bar'). It names no existing fix, gives no reason other young drivers would change, and offers no action anyone else could take."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens with 'In conclusion' and briefly returns to the friend, then closes on a generic moral: 'prompting others to re-evaluate their habits and join a movement toward safer driving conditions for all.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the three off-topic paragraphs ('This scholarship would support...', 'I am a strong investment...', 'Gaining a background in psychology...') and use those ~250 words on the ideas half. Build on what actually happened: the rule of stopping to eat before driving that spread to the friend group. Say why phone-focused campaigns miss eating and drinking, give one concrete change aimed at young drivers, and say who would carry it out. Ask the writer for the real idea and any real details of how the friends adopted the rule. Do not invent results.",
+  "Strip the AI tells. Delete 'I am passionate about promoting awareness around distracted driving', 'multifaceted', 'foster/fostering', 'My journey toward', 'thereby enhancing the safety of myself and others', 'not just about... but also', and 'not merely... but'. Replace all 3 em dashes ('veins—an', 'myself—and others—at') with commas or periods to recover the -6 deduction. Rewrite the last paragraph without 'In conclusion'.",
+  "Sharpen the opening scene and the ending. In paragraph 1, keep the lurch and the coffee, then cut the four abstract sentences after it ('Distracted driving is a multifaceted problem...' through '...thereby enhancing'). Ask the writer for the real particulars (the friend's first name, where they were driving, what was said right after) and use only what they confirm. End on the friend who no longer drinks coffee at the wheel instead of 'join a movement toward safer driving conditions for all.'"
+ ]
+}

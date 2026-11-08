@@ -1,0 +1,54 @@
+{
+ "id": "kan-07",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 1163,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered at length: the crash, the injury, the lost friendship and the fear of driving cover 'affected your life', and five paragraphs give ideas. The ideas part is a list, though, not a position the essay argues for."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay has no date, place, injury, name or number. The one solid detail is 'I take rideshares to get to work, to school, and to care for my grandmother'. The crash itself is stock: 'crunching metal, shattering glass'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are many tells. About 12 em dashes. 'Isn't just' and 'not just' framing: 'isn't just about texting', 'didn't just break bones', 'isn't just a statistic—it's a story', 'not just informative but unforgettable'. Triplets: 'emotional, financial, and psychological'. A slogan: 'broke trust and connection'. Stock phrases: 'resonates more deeply', 'changed my life forever'. It ends on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story: the friend checks her phone, the crash, the hospital, the friendship falls apart. It is told mostly as a summary ('the tension between us grew') with almost no scene, and the story disappears after paragraph 4."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu: survivor panels, VR simulations, a hashtag and pledge, mentorship programs, mental health in driver's ed. No idea says who would do it, what it costs, or why teens would actually change. Only 'warning messages that people scroll past' points at why the current fix fails."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the essay drifts into abstract preaching ('Ultimately, the goal is...'). It closes on a generic moral instead of returning to the friend or the car: 'their attention is the most valuable thing they can give while driving—and that every life on the road depends on it.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 to 12 pts, removes the -6 em dash deduction): delete every em dash. Cut paragraph 5 ('Distracted driving isn't just about texting...') and the 'Ultimately, the goal is not just...' paragraph entirely. Rewrite every 'isn't just X / not just X but Y' line as one plain claim. 'Distracted driving didn't just break bones—it broke trust and connection' should become a literal sentence about what happened with the friend, and should say 'bones' only if bones really broke. Use the freed words on the real material already in paragraphs 3 and 4.",
+  "Specificity (+8 pts): ask the writer for the real facts behind the summary lines, and put in only the ones that are true. Ask what the injury actually was, how many weeks recovery took, roughly what the rideshares cost in a week, and what the friend said when the money talk started. Also cut the stock crash sounds ('crunching metal, shattering glass') unless the writer actually remembers them. The rideshares-to-care-for-my-grandmother line is the strongest detail in the essay, so move it earlier and make it concrete.",
+  "Ideas and ending (+6 to 9 pts): cut the VR, hashtag/pledge and mentorship paragraphs, which are menu items any entrant would list. Keep the one idea this essay has earned: survivors telling young drivers about the aftermath, not the crash itself (rideshare costs, a friendship ending over medical bills, being afraid to learn to drive). Say who runs it and why it beats the posters people scroll past. Then replace the last paragraph with a close that returns to the friend looking down at her phone, so the ending pays off the opening instead of restating a moral."
+ ]
+}

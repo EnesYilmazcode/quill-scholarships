@@ -1,0 +1,54 @@
+{
+ "id": "kan-11",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 1041,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. Part one is the ticket and the course ('My life has been affected by distracted driving since it has made me reevaluate my views'), and part two is a long list of ideas. But the central event is speeding, which the essay has to stretch to count ('speeding is a distraction in and of itself')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are his own habits ('changed music on my phone', 'checked notifications at red lights', 'glanced at GPS directions') and one NHTSA figure. There is no date, place, course name, speed, appointment or named testimonial."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "It reads like paraphraser and model prose. Paragraphs are duplicated with synonyms swapped ('I realized I wasn't as safe as I believed' and 'I became aware that I was not as secure as I had thought'). It has 4 em dashes, 'not just me but also', 'not only helps... but also', 'profoundly', 'sobering, eye-opening', 'quiet epidemic', 'ubiquitous presence', 'blessing in disguise', 'emotional resonance' and a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are 2 beats: the speeding ticket and course, and his own phone habits. The course is summarized with no scene, and the main story is about speeding rather than distraction."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It is a generic menu: peer-led programs, a social media 'Digital Detox Drive', parent workshops, VR simulations and speakers. The insurance discount idea is the only one with an incentive, and it gets two vague sentences with no who, how much or why it would work."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paste damage breaks the structure. Whole paragraphs repeat, a stat sentence is split across two paragraphs ('I think the following suggestions could have a significant impact: involving distracted drivers in 2023'), and paragraph breaks are missing. It does return to the ticket, but it ends on a generic moral: 'we can collectively build a future in which young drivers actively choose to avoid distracted driving in addition to being aware of its dangers.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): Delete the duplicated block, from the second 'I was compelled to consider my own behaviors' through the second 'quiet epidemic' paragraph, and remove the stray fragment 'involving distracted drivers in 2023. Of those, a sizable percentage were younger than 25.' from the ideas paragraph. Then rewrite the rest in Enes's own words. Replace all 4 em dashes with commas or periods, cut 'not just... but also' and 'not only... but also', and drop 'profoundly', 'sobering, eye-opening', 'quiet epidemic', 'ubiquitous presence', 'emotional resonance' and 'blessing in disguise'.",
+  "Specificity (up to +12): Ask Enes for the real details of the ticket and course. Get the month and year, the road or town, how fast he was going against the limit, what he was late for, the course's actual name or provider, and one testimonial line he still remembers word for word. Put them in the first two paragraphs in place of 'a required driver improvement course' and 'real testimonials from people whose lives were shattered'. Keep his honest red-light and GPS habits, and ask him what he actually changed afterward, such as a phone mount or Do Not Disturb.",
+  "Ideas (up to +9): Cut the five-item menu (peer-led programs, Digital Detox Drive, parent workshops, VR and speakers, incentives) down to the insurance and app incentive idea. Develop it as name the fix, why it fails, small change, who does it: course lessons fade (he can say his own did until the ticket), so insurers should give a set discount for phone-free driving tracked by an app teens already have. Then end on the ticket instead of 'collectively build a future'."
+ ]
+}

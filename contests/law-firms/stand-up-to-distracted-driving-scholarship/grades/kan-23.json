@@ -1,0 +1,54 @@
+{
+ "id": "kan-23",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 1032,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real answers: the effect is the loss of Jamal ('I lost my best friend, Jamal, to a distracted driver'), and several paragraphs cover ideas. But the ideas part is mostly a list of past activities, not a clear position on what would actually prevent the behavior."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real detail: Chicago, friends since kindergarten, 'my basketball in hand' at the park, the driver admitting to a text. Missing: the date, the street, Jamal's age, the school's name, and what the city council actually changed. 'Hundreds of people' and 'quickly gained traction' can't be checked."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Opens with 'more than a statistic' and 'deeply impacted'. Also has 'profound loss', 'heart-wrenching', 'palpable', 'crucial message', 'not just statistics', the slogan 'lives over likes', the triplet 'solidarity, remembrance, and a powerful reminder', five em dashes and a tidy closing moral. The waiting-at-the-park paragraph is the only part that sounds like a person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real story, Jamal's death, with a short scene (waiting, unanswered calls). After that, about 60% of the essay is an activism list (assemblies, pledge wall, campaign, walk, council). The story stops after paragraph 4."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu: assemblies with crash videos, a pledge wristband, a social media campaign, billboards, PSAs, 'local celebrities endorsing the cause' and 'harsher penalties'. It never says why any of these would change a teen's behavior, or why existing fixes fail."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear order: story, then action, then future plans. The close brings Jamal back but ends on a slogan instead of an image: 'Let's put down our phones, focus on the road, and drive with purpose—because every life is worth it.' It also ends with a letter-style 'Sincerely' sign-off."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): Cut the opening sentence ('Distracted driving is more than a statistic...') and the self-introduction 'I am here to share my story—a story that reflects...'. Open on the existing park scene: 'I remember waiting for him, my basketball in hand, staring at my phone, wondering why he was late.' Remove all five em dashes, 'deeply', 'profound', 'heart-wrenching', 'palpable', 'lives over likes' and the 'Let's put down our phones...' closer. Delete 'Sincerely, Bricen Ward'.",
+  "Ideas (+6 to 9 possible): Replace the future-plans paragraph (billboards, PSAs, celebrities, scholarship) with one idea he has actually seen work, and explain why. Ask Bricen what really happened with the pledge: how many students signed, whether anyone kept wearing the wristband, and what he noticed. Then state who should do it and why a teen would actually comply. Cut the 'Safe Driving Wall' and the memorial-walk paragraph to make room.",
+  "Specificity and structure (+4 to 8 possible): Ask Bricen for the real details: the month and year, the intersection or street where Jamal was hit, his school's name, the follower or signup counts for 'Drive Focused', and exactly what the city council voted on. Put those in place of 'a sunny afternoon', 'hundreds of people' and 'agreed to review'. Then end on the opening image of the park and the basketball instead of a slogan."
+ ]
+}

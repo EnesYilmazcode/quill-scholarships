@@ -1,0 +1,54 @@
+{
+ "id": "kan-18",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 1035,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the 'affected your life' half opens with \"I haven't been distracted while driving\" and spends most of its space on drunk driving, which the essay itself admits \"isn't the same thing\". Distracted driving only shows up in the mother's \"phone in hand\" and the writer's own phone in the backseat."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some details are real and unfakeable: the mother is a bus driver, there are five siblings, the boyfriend totaled the car, the phone goes in the backseat, and the first highway drive had the boyfriend on the bumper. They are buried under copied penalty lists from dmv.org and addictioncenter.com, and the distracted-driving moments have no scene, date or place."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It clearly sounds like a real person, with clumsy run-ons and an honest \"I'd rather not face the consequences of doing wrong\". There is no AI vocabulary and no em dashes. The tells are \"not only do better but also spread the message\", the stock \"lives could be at stake\", and the closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are four stories: the mother driving with her phone (one summary sentence, \"at times this results in us dodging accidents\"), the boyfriend's drunk driving (off topic), a drunk-driving tweet (off topic) and the Memento plot (off topic). The only on-topic story is never told as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The answer is a generic menu: seven named kinds of activism, then \"a short video or film\" in a \"sci fi or fantasy\" style. There is no audience, no channel, no account of why existing PSAs fail beyond \"wouldn't pique most audience's interest\", and nothing about who does it or how it changes what a driver does with their phone."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are long and the story keeps wandering. The essay ends on a generic moral that never returns to the mother or the backseat phone: \"it is safest to be fully conscious and aware to prevent causing danger to yourself and others.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the opening disclaimer \"I haven't been distracted while driving\" and both penalty lists from dmv.org (\"expulsion or suspension... denial of security clearance\"). Open instead on the sentence about the mother: \"My mother's occupation is a bus driver... at times she drives with her phone in hand, and at times this results in us dodging accidents.\" Move the backseat-phone habit right after it as the writer's response. This puts the one real distracted-driving story first and answers part 1 directly (about 13 points across answers_prompt, stories and the disclaimer deduction).",
+  "Cut the drunk-driving tweet paragraph and the addictioncenter.com quote, and cut the boyfriend material to one sentence, or drop it, since the essay already says DUI \"isn't the same thing\". Also cut \"It terrified me because I don't know how to drive defensively\", which is a second negative disclaimer. The words this frees up should go to the mother's phone story using only what the writer actually remembers, not new details (about 9 points across stories, specificity and the deduction).",
+  "Replace the list of seven activism types and the garbled Memento sentence (\"it didn't receive good feedback from just my peers and myself because it gained a FIPRESCI award\") with two plain sentences. They should say what the short film would show about a driver reaching for a phone, and why a film student can reach young drivers in a way a PSA does not. Then end by returning to the opening: the mother's phone in hand, or the writer's phone in the backseat. Do not end on the general safety moral (about 6 points across ideas and structure)."
+ ]
+}

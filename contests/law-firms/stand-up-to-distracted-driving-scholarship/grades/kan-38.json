@@ -1,0 +1,54 @@
+{
+ "id": "kan-38",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 1246,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Part one gets about 1,000 words. Part two (ideas for young drivers) gets only a gesture in the last paragraph: 'I am excited to give back to adolescents to share the crucial responsibilities that should be taken for a community's and an individual's safety.' It names no idea."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and physical: 'January 23rd, 2022 at 5:34 p.m.', the smoking airbag, the 6-foot 50-year-old man at the window, 'An 18-year-old uninsured boy hit me head-on, going 60 mph', the full list of fractures, 3 weeks in hospital."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash scene sounds like a real person, with clumsy tense shifts and 'Was it my fault?'. It is wrapped in stock framing: the brag opener 'the most hardworking student... you will encounter', 'dive deeper into the journey', 'little did I know', 'growing into a greater version of myself', and 'the best version of themself' as the closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story, the head-on crash, told fully as a scene, with its aftermath. It loses points for the off-topic opening self-promotion and the social-work career material, which pull away from the prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "Intent with no idea: 'I am fighting for justice' and 'excited to guide individuals'. It names no existing fix, no reason that fix fails, no concrete change and no one who would carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens with a thesis about the writer's work ethic instead of the story. The ending is a generic moral that never returns to the crash: 'I am excited to guide individuals into the best version of themself.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the last paragraph as a real answer to the second half of the prompt (recovers up to 24 points across criteria 1 and 5). Replace 'I am excited to give back to adolescents to share the crucial responsibilities...' with one or two concrete ideas the writer actually plans to use as a school social worker. Each should name what schools or teens do now, why it fails, the specific change, and who does it. Ask the writer for her real ideas instead of supplying them.",
+  "Cut the whole first paragraph ('I strongly believe that I am the most hardworking student... I will explain to you why.') and open directly on 'On January 23rd, 2022 at 5:34 p.m.' This removes the off-topic brag and the stock opener, and puts the strongest material first (criteria 3, 4 and 6).",
+  "Close on an image already in the essay instead of 'the best version of themself'. Bring back the question she asked the rescuers, 'Was it my fault?', or the 18-year-old driver, and tie it to what she will tell teen drivers. While revising, cut the remaining stock phrases: 'little did I know', 'dive deeper into the journey', 'growing into a greater version of myself' (criteria 6 and 3)."
+ ]
+}

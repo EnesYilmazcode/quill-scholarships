@@ -1,0 +1,54 @@
+{
+ "id": "kan-01",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2026",
+ "outcome": "winner",
+ "words": 1004,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections. The effect half is a real answer ('The accident changed my sense of safety'). The ideas half is a menu ('Schools and community groups can play an important role by hosting assemblies') rather than a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The crash half is strong: 2019, grandmother's new Cadillac, 'as though rocks were stuck inside it, even though she had been wearing her glasses', the stop sign, a car 'nearly a block away', no insurance, the driver calling his mother. The last four paragraphs drop to generic claims with no names or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The human story is wrapped in heavy stock framing. Tells found: the exact kan-01 antithesis 'It took away my sense of safety, but it gave me awareness and purpose'; triplets ('angry, confused, and powerless', 'physical injury, emotional trauma, and fear'); the filler adverb 'truly'; clichés ('as if time stood still', 'moments I will never forget'); boilerplate ('powerful tool', 'critical role', 'play an important role'). It also ends on a tidy moral, and no sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story, told fully with scenes, and it carries the first 70% of the essay. The link to distraction is admitted to be a guess ('I don't know exactly what the other driver was doing'), the hospital and insurance paragraph drifts, and there is no second beat from the writer's own behavior."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu: assemblies with speakers, social media videos and challenges, parents modeling good habits. Only 'Parents can also require teens to use drive-safe modes' is concrete, and it gets one sentence with no reason why teens would keep it on."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc: story, then aftermath, then ideas. But the close is a generic moral that never returns to the busy morning, the grandmother or the Cadillac: 'No text message or song on the radio is worth my time or my life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas section (+9 possible): cut the assembly paragraph and the social media paragraph and build the ideas section around the one concrete idea, 'Parents can also require teens to use drive-safe modes'. Name the feature (iPhone Driving Focus or Android Driving Mode), say why teens switch it off, and give one small change and who makes it, such as parents setting it to turn on automatically through Screen Time. Ask the writer which feature their family actually uses or would use, rather than making one up. Also add the missing period after 'take the issue more seriously'.",
+  "Voice (+12 possible): delete 'It took away my sense of safety, but it gave me awareness and purpose' and the line before it. Delete 'as if time stood still', 'moments I will never forget' and 'truly'. Break up the triplets 'angry, confused, and powerless' and 'physical injury, emotional trauma, and fear' into one concrete feeling each. Replace 'play an important role', 'powerful tool' and 'critical role' with plain verbs. Merge two short sentences in the crash paragraph into one sentence of 45+ words that runs through the impact in order.",
+  "Ending (+4 possible): replace the last paragraph's moral with a line that returns to the opening, the grandmother proud of her new Cadillac on a routine morning. Ask the writer what really happened afterward (did she drive again, was the car repaired, does he still scan intersections on that route) and end on that true detail instead of 'No text message or song on the radio is worth my time or my life.'"
+ ]
+}

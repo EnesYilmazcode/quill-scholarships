@@ -1,0 +1,54 @@
+{
+ "id": "kan-35",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 942,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get an answer: the hit-and-run story covers 'affected your life' and three body paragraphs cover ideas. But it never shows that the truck driver was distracted ('the dangers of distracted or negligent driving'), so the effect on his life is only loosely tied to distracted driving, and the VR paragraph is about 'driving under the influence'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The central event is vague: 'one of my family members', 'Almost one year from today', 'a cool evening afternoon', with no relation, place or date. The only hard details are the outside citations: the NHTSA figure of 42,795, Kass (2011), Steinberger and Watling (2017) and Agrawal et al. (2018)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "It reads as interchangeable model prose. Tells found: 'not only grappling... but also wrestling', triplets ('shock, confusion, and the surge of adrenaline', 'disoriented, disheveled', 'reduce crashes, save lives, and create a safer driving environment'), 'navigate', 'deeper understanding', 'equip', 'profound sense of injustice', 'In this essay, I will explore', 'In conclusion', and a moral to close every paragraph."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story, the family member rear-ended at a red light by a hit-and-run truck. It is told as a summary in stock phrases ('hurtling across the intersection'), never says the crash came from distraction, and disappears after paragraph one."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gamification comes closest to a mechanism, with points for 'payment for gas, discount on insurance... express lanes'. Mindfulness addresses stress, not phones, and the VR idea is the generic menu item and is aimed at drunk driving. Nobody is named to carry out any of the three ideas."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens with 'In conclusion' and the last paragraph restates the thesis. The last line nods back to the family only in general terms: 'prevent other individuals from going through the same pain and trauma that my family experienced.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+16 possible): Delete the sentence 'In this essay, I will explore three novel ways...', which also removes the -5 deduction. Rewrite 'leaving my family not only grappling... but also wrestling...' as one plain sentence. Cut the triplets ('shock, confusion, and the surge of adrenaline', 'reduce crashes, save lives, and create a safer driving environment for all') and the closing moral sentence of each body paragraph ('By tapping into the human psyche...', 'By incorporating VR technology...'). Replace the 'In conclusion' paragraph with one sentence that brings back the family member at the red light.",
+  "Specificity (+12 possible): In paragraph one, replace 'one of my family members', 'Almost one year from today' and 'a cool evening afternoon' with the real relation, month and intersection or city. Ask the writer for these, since the crash happened. Also ask what police or witnesses said about the truck driver's behavior. If nothing showed the driver was distracted, reword it honestly as a hit-and-run instead of implying distraction.",
+  "Ideas (+6 possible): Cut the VR paragraph's drunk-driving example ('simulate what it is like to drive under the influence') and the mindfulness stress angle, or tie them directly to phones. Build out the gamification paragraph instead: say which existing apps or insurer programs already track driving, why teens ignore them, and who would fund the gas or insurance points and express-lane access."
+ ]
+}

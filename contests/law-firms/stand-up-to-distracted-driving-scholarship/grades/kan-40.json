@@ -1,0 +1,54 @@
+{
+ "id": "kan-40",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 985,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections, and the impact part is direct: \"my mother was pronounced dead on the scene.\" But the essay opens with a generic thesis before it answers, and the impact section drifts into general statements (\"Distracted driving can affect anyone\") instead of saying how her death changed the writer's own life."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: \"May 6, 2020\", \"he leaned over to plug in his phone\" and \"only one bulletin board.\" But the mother has no name, there is no place, and nothing about her is shown beyond \"She was my best friend.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some of it sounds like a real person, such as \"(who really is an amazing guy)\". The tells: a stock opener (\"something that affects everyone everyday\"), \"It would be beneficial\" used three times, a triplet thesis, slogan lines, and a closing moral (\"small insignificant steps, but they will save lives\"). No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, and it is on topic: the mother's death and the forgiven neighbor. It is told as a summary with no scene, and it disappears after paragraph two. The rest of the essay never refers back to it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The phone lockout has a real mechanism: it detects the Bluetooth or aux connection plus motion and limits the phone to the home screen. The other two ideas are a generic menu (assemblies, newsletters, billboards, a story website). The essay never says why existing fixes fail or who would make manufacturers act."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clearly organized, but the essay opens on an abstraction and ends by restating the thesis instead of returning to the mother: \"They are all steps closer to preventing the threats of distracted driving.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the generic first paragraph (\"Distracted driving is something that affects everyone everyday...\") and the closing paragraph (\"Educational programs, posting reminders...\"). Open on \"On May 6, 2020...\". End by tying the phone-lockout idea back to the neighbor leaning over to plug in his phone. The lockout would not have stopped that exact reach, and saying so honestly makes a stronger close than the moral. This raises structure from 2 to 4 and adds to voice.",
+  "Turn the summary in paragraph two into lived detail, using only what the writer actually remembers. Ask the writer for their mother's name, where the walk was, and how they learned the news. Ask what changed in their own daily life or driving afterward, and put that in place of \"Distracted driving can affect anyone, and it will continue to.\" This raises specificity and stories by about one point each, and the essay's affect-your-life answer.",
+  "Strip the stock phrasing. Replace every \"It would be beneficial\" with a plain verb (\"Schools should hold...\"). Cut the slogan lines and \"The roads can only really be as safe as the safest driver.\" Shrink the assembly, newsletter and billboard paragraphs to one sentence each and give the space to the phone lockout. In that paragraph, say why it has to be on by default rather than optional, and who should require it."
+ ]
+}

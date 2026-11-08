@@ -1,0 +1,54 @@
+{
+ "id": "kan-20",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 1057,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real answers: the effect (friends lost in 2009, the sister's 2022 crash, her own 15 hours a week of driving) and the ideas (mock crash, police on TikTok, community events, leading by example). The ideas part trails off into a gesture: \"Whichever route is taken, I think the awareness would be beneficial.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The details are strong and hard to invent: a 17 year old sister, a head-on collision with a grain truck, the driver choosing a deep ditch, a broken hand, daughters aged five and nine, and students naming exactly three distractions. It loses a point because the two friends are never named and the source \"(Wilson Cassidy)\" can't be checked."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person (\"a swatting match between my kids\", \"to be frank, they already know\"), but it has the usual tells: \"not just limit distractions, but to truly be paying attention\", \"not only my safety, but\", \"not only be heard, but also be seen\" and \"of utmost importance\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are four on-topic beats: the sister's crash told as a full scene, the friends' crash in summary, the mock-accident scene and her own slips. The sister story carries the essay, but four beats is more than the rubric's one or two, and the list of jobs and school reads a little like a résumé."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "She explains why the old fix fails (\"Simply telling students... is not enough... they already know\") and why the mock crash worked (seeing it, six months after a real loss). After that come the standard fixes: police on TikTok, a game booth, an assembly. Nobody is named to do them and nothing gives people a reason to change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The order works: story, then her own driving, then ideas. But the ending talks about the essay instead of returning to the sister or the truck driver: \"I hope the ideas given in this essay can be beneficial and spark ideas throughout American communities.\" A photo caption follows it."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the last two sentences of the final paragraph (\"Below is a picture...\" and \"I hope the ideas given in this essay...\") and the photo caption. Those lines cost the -5 for writing about the essay and drag the ending down. In their place, end on the opening: move a short version of the grain truck driver steering into the ditch, which is already in paragraph one, to the very end, next to her own pledge not to pick up the phone with her daughters in the car.",
+  "Turn the ideas section into one sharp proposal built on the mock crash, the only idea she has actually lived. Keep the real details she already gives (state and local emergency services, local lawyers, parent actors, the whole school outside, six months after her friends died). Cut the generic list (\"a game booth at a local festival, or doing a hands-on demonstration at a school assembly. Whichever route is taken...\"). Ask her for any real facts about who organized the event, when in the school year it was held, and what she would change as a teacher now. Don't make any of it up.",
+  "Remove the stock phrasing: change \"not just limit distractions, but to truly be paying attention\" to a plain statement, cut \"not only... but also be seen\" and \"of utmost importance\", and either drop the vague TikTok citation \"(Wilson Cassidy)\" or name the real source. The Dallas police TikTok figure can carry that point on its own."
+ ]
+}

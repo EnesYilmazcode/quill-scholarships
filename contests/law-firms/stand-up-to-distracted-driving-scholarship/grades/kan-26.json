@@ -1,0 +1,54 @@
+{
+ "id": "kan-26",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 939,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections: 'affected me physically / socially / academically' covers the effect, and two paragraphs cover ideas. But the ideas part is a list, not a position: 'Actions such as educational campaigns, public service announcements, community involvement, and the use of social media and apps'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The story half has dated, checkable detail: 'Monday, September 30, 2019', 'a distracted, 16-year- old driver', 'en route to swim practice', 'MRI, CT scan, EKG', 'incompletes in all of my classes', '3.58 GPA'. The ideas half has no names, places or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The sentence frame 'My being on Concussion Protocol affected me socially/academically' repeats. There are triplets and lists ('perseverance, hard work, determination, and strong organizational skills'), the stock words 'crucial' and 'highly effective', 'aforementioned', a Maya Angelou quote standing in for a moral, and a tidy closing summary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story and it is on topic. Only the opening sentences are a scene ('The side of my head collided forcefully with the window'). The rest is an inventory of effects, and it drifts toward a résumé ('3.58 GPA while obtaining First Honors recognition')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu: assemblies, VR simulators, PSAs, billboards, rallies, hashtags, apps. The one idea with a mechanism, 'reduced fines or insurance discounts for young drivers who go a certain period without distracted driving incidents', gets one sentence. It never says who does it, how much the discount is, or why the existing fix fails."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear: story first, ideas last. The ending restates instead of returning to the crash or to swimming: 'A combination of the aforementioned strategies, tailored to the specific needs and demographics of the target audience, can be highly effective in raising awareness of the dangers of distracted driving and preventing such instances among young drivers.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas, last two paragraphs (+9 to +12 points across ideas and answers): cut the menu (assemblies, VR simulators, PSAs, billboards, rallies, safety fairs, hashtags) down to the one idea that has a mechanism, the insurance discount or reduced fine for a clean period. Expand it to say why awareness campaigns fail (he already had driver's ed, and the 16-year-old who hit him had it too), who offers the discount (insurers or the state DMV), and what the driver has to do to earn it. Ask the writer whether they have a real opinion or experience behind this idea before adding any detail.",
+  "Voice, throughout (+8 to +12 points): replace the repeated frame 'My being on Concussion Protocol affected me socially/academically' with plain openings, such as starting the swimming paragraph on what he missed. Cut the Maya Angelou quote and the 'perseverance, hard work, determination' sentence. Cut 'crucial', 'highly effective' and 'aforementioned'. Keep the real specifics he already has (vestibular therapy twice a week, the incompletes, PTSD and memory loss), because they carry the voice.",
+  "Ending, last sentence (+4 points): delete the 'combination of the aforementioned strategies' sentence. Close by going back to the opening: the September 30 drive to swim practice, or getting back in the pool. Use only what actually happened, for example tying the insurance-discount idea back to the 16-year-old driver. Also cut or shorten the '3.58 GPA while obtaining First Honors' line so the story stays on the crash and not on a résumé."
+ ]
+}

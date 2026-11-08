@@ -1,0 +1,54 @@
+{
+ "id": "kan-52",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2021",
+ "outcome": "winner",
+ "words": 1121,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The effect is the friend's death ('her friend's life had been taken at the young age of 36') plus his own red-light habit. The ideas part comes late and leans on a pledge and gadgets more than a clear position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some real anchors: 'Twelve years ago', 'age of 36', 'three children', '50 feet', 'Spotify, Snapchat'. But the friend, the place and the crash have no name, and the whole middle section ('our society runs at a speed...') has no checkable detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real moments ('makes my blood run cold', 'whip out a cellphone', the sneeze fear) sit inside stock essay framing. Tells: a 'not X... Rather Y' turn ('isn't the product of malicious intent... Rather, it is'), a chain of connectors (Therefore x3, Consequently, Furthermore, Sadly x2, In fact, Overall), 'ripple effect' and 'at an alarming rate'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two on-topic beats: the friend's death, told mostly as summary with one scene (mother crying, then the funeral), and his own red-light slip. Both disappear after paragraph 3, and two middle paragraphs are general commentary on society."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The pledge plus 'ripple effect' is intent, not a mechanism. The phone-settings idea spots a real gap ('I am not sure if many people are aware of their existence') but never names the setting, who spreads it or how. The car mount is a product recommendation."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on the 50-foot sneeze image but closes with an 'Overall' restatement and a generic moral: 'Afterall, my motivation to do so comes from a desire to save lives and create safer streets for everyone.' Neither the sneeze nor the friend comes back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (worth about 9 points): in paragraph 4, cut everything from 'In my opinion, social influence is one of the strongest tools' to 'possibly influence their behavior.' Make the phone-settings paragraph the main idea. Replace 'certain security preferences' with the exact setting he actually uses (ask Enes for its name and what it blocks). Then state plainly who would turn it on, when, and why it beats a PSA, using his own line that most people don't know it exists.",
+  "Specificity and voice (worth about 8 each): cut the general commentary in paragraphs 3 and 4 ('Nowadays, I think our society runs at a speed...', 'I think it is a shame...', 'People die at the hands of distracted driving at an alarming rate'). Move his admission about using red lights for other tasks so it sits right after the funeral paragraph. Delete the connectors Therefore, Consequently, Furthermore, Sadly and In fact, and rewrite 'isn't the product of malicious intent... Rather, it is something' as one plain sentence.",
+  "Ending (worth about 6): replace the whole 'Overall...' paragraph, especially 'save lives and create safer streets for everyone', with a closing line that brings back the 50-foot sneeze or the friend from the opening. For example, compare the sneeze he can't control with the phone check he can. Build it only from material already in the essay."
+ ]
+}

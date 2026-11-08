@@ -1,0 +1,54 @@
+{
+ "id": "kan-06",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 1105,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own section, but the 'how it affected you' half stays general: 'it has changed the way I view responsibility, safety, and my own role'. The only behavior change named is a list of distractions that 'suddenly felt unacceptable'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The central event is 'someone close to my family' hit by a red-light runner looking at a phone. It has no name, relationship, date, place, injury or scene, and every idea after it is a category with no specifics: 'gift cards, or badges'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense model prose. It uses 'not just a driver's issue, it is a community issue', 'not just the physical damage, but', 'not just a problem to be solved; it is a behavior to be transformed', 'not only myself but also', filler like 'deeply' and 'truly' (twice), and triplets ('realistic, relatable, and engaging'). Most paragraphs end on a slogan ('When safety becomes rewarding, positive habits develop more quickly') and it closes on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story, told only as a summary ('Schedules changed, financial pressure increased'). There is no scene and no moment of the writer's own behavior, and after paragraph one the story drops out except for 'Personal stories like the one my family experienced'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real insight: 'many teens either disable these features or forget to use them', followed by an incentive patch. That patch sits inside a six-item generic menu (testimonials, simulators, pledges, posters, crashed-car displays, family rules), and none of them says who pays, how much, or why it would work."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Organized but menu-shaped, and the close restates the thesis instead of returning to the family member. Last line: 'with collective effort and thoughtful solutions, we can significantly reduce its impact and protect the lives of drivers, passengers, and families everywhere.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 to +16): cut the first paragraph ('Distracted driving is often discussed as a statistic...' through '...the people around me') so the essay opens on 'My awareness of distracted driving became personal when...'. Then rewrite every 'not just X, it is Y' and 'not only... but also' as one plain claim, delete 'truly' and 'deeply', and cut the whole 'Ultimately...' paragraph. Paragraphs should end on a fact, not a slogan.",
+  "Specificity and story (+10 to +14): ask Enes who 'someone close to my family' really was, and when and where the crash happened. Replace the vague phrase with only what he confirms. Swap the summary 'Schedules changed, financial pressure increased' for whatever single real change he remembers. Turn 'skipping a song, glancing at a notification, or checking a GPS app' into the one habit he actually gave up, and use it as the second beat. Add nothing he cannot confirm.",
+  "Ideas and ending (+6 to +9): cut the menu down to the app-lock idea, the only one with a stated failure ('many teens either disable these features or forget to use them'). Delete the simulator, pledge, poster and crashed-car paragraphs. Use the freed space to say who runs the incentive (the school parking office, for example) and why a teen would keep the lock on. Then replace the last paragraph with one or two sentences that return to the family member from the opening."
+ ]
+}

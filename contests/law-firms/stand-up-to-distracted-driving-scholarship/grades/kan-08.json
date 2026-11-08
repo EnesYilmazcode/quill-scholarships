@@ -1,0 +1,54 @@
+{
+ "id": "kan-08",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 1063,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections: the effect ('that moment changed the way I view driving, forever', the children, the husband's daily driving, her own Do Not Disturb habit) and the ideas. But the ideas half is a list of gestures more than a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real details: children 'ages 7, 11, and 13', a husband who is 'a service manager for an HVAC company', the expressway, Do Not Disturb. But the central crash is 'A few years ago' with no place, year or car, and the statistic is a vague 'Hundreds of thousands of accidents'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several AI tells: 'not only shook... but it also', 'not just about the safety of my own kids, but', 'incredibly effective', 'reflect deeply', 'the message hits differently', 'maybe, just maybe', 'the road is a shared space, and it demands shared respect', and the triplet 'raise awareness, set an example, and use my voice'. Human moments ('I say a little prayer', 'Hey, can I respond for you?') are buried under them."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (the rear-end crash at a red light) plus her own habit change. The crash is told as a summary in three sentences with no scene, and the second half of the essay drops it completely."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are the generic menu: driver's ed curriculum, 'virtual reality or interactive lessons', 'Teen-led campaigns', 'TikToks, or Instagram reels'. Only the speak-up idea ('something my husband and myself do to each other') comes from her own life, and even that has no mechanism for why teens would actually do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Section headings break up the essay, and 'How Distracted Driving Has Affected Me' shows up after the effect has already been covered. The ending is a generic moral that never returns to the red light: 'And maybe, just maybe, that's where real change begins.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 8 points): cut 'not only... but it also' (habits paragraph), 'not just about... but' (mother paragraph), 'not just for ourselves, but' (shared-road paragraph), 'incredibly', 'reflect deeply', 'the message hits differently', 'maybe, just maybe' and 'the road is a shared space, and it demands shared respect'. Replace each one with the plain claim in her own words, the way she wrote 'I say a little prayer that he comes back home safely'.",
+  "Ideas (worth up to 6 points): cut the VR, teen-led clubs and TikTok paragraphs. Build the ideas half around the one idea she actually practices, the 'Hey, can I respond for you?' rule between her and her husband. Say why it works when PSAs don't, and how a family or a driver's ed class could adopt it. Ask her for the real details of how that habit started and whether her 13-year-old already uses it.",
+  "Format and ending (5-point deduction plus up to 2 structure points): delete all three headings ('How Distracted Driving Has Affected Me', 'Raising Awareness and Changing Behavior', 'My Vision for the Future'). Replace the closing 'This scholarship opportunity has allowed me...' paragraph with a last line that goes back to sitting stopped at the red light. Also ask her for the real year, road and city of the crash so it can replace 'A few years ago'."
+ ]
+}

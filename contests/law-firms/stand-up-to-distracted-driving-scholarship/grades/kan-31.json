@@ -1,0 +1,54 @@
+{
+ "id": "kan-31",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 1000,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 79,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts get their own sections: the effect ('This incident left me with a pretty significant fear of driving... I outright refused to do for a long time') and five dated, argued ideas."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong inventory facts ('blue Hyundai Tiburon', '1998 Lincoln Towncar', 'soft palate', 'around $20'), but the friend's death has no name or place, and the plane-crash stat is waved off as 'may or may not be true'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real person ('gobbled up all the soft, blue metal', 'I did not want to end up like Greg'). No em dashes or AI vocabulary. Stock lines pull it down: 'a certain level of tragic loss that resides in that reality', the First/Secondly/Third/Additionally/Finally scaffold, and the pun-moral close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the brother's 2014 crash, told as a full scene, and the friend's death, summarized in two sentences. The writer's own fear and therapy tie them together, but 'Greg' is named only once, mid-essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The insurance idea has a real mechanism (people opt out because 'being watched by big brother' outweighs '$20', so raise it to $100). Billboards are a generic menu item, and the two-semester driver's ed idea is about skills, not distraction."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Story first, ideas in the middle, but the close is a generic moral that never returns to the brother or the Tiburon: 'implementing just one of them would mean America is on the road to a safer destination.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+6): cut the billboard paragraph and the two-semester driver's ed paragraph, which is about parking and merging, not phones. Use the space on the insurance idea, which is the strongest: ask Enes for the real name of his insurer and its app so the '$20' line becomes checkable, then say who acts and why the $100 package pays for itself. Keep the touchscreen and driving-age paragraphs but shorten them.",
+  "Ending (+4): replace the last paragraph ('While distracted driving might be impossible... safer destination') with a short close that comes back to Greg and the crumpled blue Tiburon from the opening, using only facts already in the essay. Drop the 'on the road' pun.",
+  "Voice and accuracy (+4): cut the opening line 'there is a certain level of tragic loss that resides in that reality' and the plane-crash sentence ('While this may or may not be true'). Name Greg the first time the brother appears. Ask Enes to confirm the injury wording: 'torn away from his upper and lower mandible' is anatomically off, because the soft palate attaches to the hard palate, not the jaw. Fix 'crashed their car... which took his life' so the pronouns match."
+ ]
+}

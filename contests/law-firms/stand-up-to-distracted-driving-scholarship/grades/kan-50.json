@@ -1,0 +1,54 @@
+{
+ "id": "kan-50",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2022",
+ "outcome": "winner",
+ "words": 1012,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the 'affected your life' half is spread across general observations like 'Distracted driving has impacted a lot of drivers ever since mobile phones were introduced into society'. The ideas half comes down to 'it is up to the individual to control themselves better'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real physical details: the fan strength, the deer crossing, the coyote, 'a person walking a very fluffy dog', Twitter notifications. But nothing has a name, place, date or number around it, and the red light near miss is one line."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds clearly human and a bit clumsy ('whilst', 'death of ourself', 'help you remind you'), with no em dashes or AI vocabulary. It repeats the 'not just X, it comes from Y' frame three times ('does not just come from the forms of phones', 'isn't just phone distractions', 'does not just come from eliminating devices... it comes from within'), and no sentence reaches 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero fully told stories. The red light near miss with friends gets one sentence and the anxiety of driving parents gets a short beat. The rest is general passenger observation and advice."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The main idea is willpower ('Self control comes from within'), and the essay rejects fixes outright: 'There is not much you can invent that makes a person's self control stronger'. The co-pilot passenger idea is concrete but gives no reason people would adopt it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The self-control point loops across five paragraphs, and the essay opens on a general claim rather than a scene. It ends by restating the thesis: 'or you can work on yourself, and your self control.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+9): Move the one-sentence red light near miss ('once, whilst I was driving some friends home from an event, I almost ran a red light...') to the opening in place of 'Distracted driving has impacted a lot of drivers ever since mobile phones were introduced into society', and expand it into a full scene. Ask the writer for the real details: what distracted them in that moment, where the intersection was, what the friends said, and what they did differently afterward. Cut the general rubbernecking and crowded-car paragraph to make room.",
+  "Ideas (+9): Cut 'There is not much you can invent that makes a person's self control stronger' and the repeated self-control paragraphs ('Self control comes from within...', 'Distractions come from allowing yourself...'). Build the ideas section around the co-pilot passenger idea the essay already has: name the rule (the passenger handles the phone, music and climate controls), why it works better than willpower, and who sets it up (driver's ed, parents with new drivers). Ask the writer whether they have actually used a rule like this, and keep only what is true.",
+  "Structure and specificity (+6 to +8): Merge the three 'not just phones, it comes from within' passages into one paragraph. Then close by returning to the opening red light scene, for example what the writer now does when friends are in the car, instead of 'or you can work on yourself, and your self control.' Keep the true anxiety-with-parents beat as the second, smaller story, and ask the writer for one concrete detail from it (what the parent said, or how long they sat in silence)."
+ ]
+}

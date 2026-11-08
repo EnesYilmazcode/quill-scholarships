@@ -1,0 +1,54 @@
+{
+ "id": "kan-02",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2026",
+ "outcome": "winner",
+ "words": 1210,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are answered, but late and thinly. The effect on his life shows up in the sixth paragraph ('I'm familiar with the victims of distracted driving'), after four paragraphs of NHTSA, NSC and Groth statistics, and the ideas part is a short list."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Plenty of numbers ('0.3% to 7.7%', '$10,000 fine', 'Verizon Safely Go and AT&T DriveMode'), but they are borrowed statistics. The personal material has no names, dates, places or physical details: 'My mom's cousin was a motorcyclist', 'A family friend of ours was killed'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Reads like a research report, not a person talking. Tells: filler adverbs ('Surprisingly', 'Alarmingly', 'Sadly'), a stock moral ('We also must lead by example... return home each night'), 'sobering realities', and the slogan 'It is the \"new drunk driving.\"' No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are four brief mentions (the cousin, the family friend, the oldest brother's damage estimates, the EMT brother) and none becomes a scene. The paragraph on opiate addiction drifts off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu: apps that block texting, 'billboards for example', 'Share my advice to new drivers'. It never says why current fixes fail or why teens would actually turn on DriveMode."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Statistics come first and the story comes late. The essay ends on a minor aside: 'Drinking something is also distracting, but in my opinion, this is less distracting than other activities.' It never returns to an opening person or image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut most of paragraphs 1 to 3 (the NSC age trend breakdown, the list of distracting foods, and the Groth statistics), keeping only one or two numbers. Move the family paragraph to the top. Ask Enes which of the four people he knows best (the mom's cousin, the family friend, the oldest brother or the EMT brother) and what really happened: the name, year, road and what the brother saw or told him. Then tell that one story fully. This lifts specificity, stories and answering the prompt.",
+  "Replace the ideas paragraph ('I would advocate for use of phone features... billboards for example') with one idea worked through: name Verizon Safely Go or AT&T DriveMode, say why teens turn it off, propose one small change and say who makes it. Ask Enes whether he or his brothers use these apps and what really makes them stick.",
+  "Delete the stock lines 'We also must lead by example...return home each night', 'These are both sobering realities' and 'It is the \"new drunk driving.\"', plus the adverbs 'Surprisingly', 'Alarmingly' and 'Sadly'. End by returning to the person from the opening story instead of closing on the line about drinking. Cut the opiate addiction paragraph unless Enes can tie it to someone he knows."
+ ]
+}

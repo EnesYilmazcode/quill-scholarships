@@ -1,0 +1,54 @@
+{
+ "id": "kan-10",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 1003,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get a real answer: the effect ('distracted driving today affects me more than ever... I am constantly focusing on being a defensive driver') and an idea ('a requirement to \"renew\" or retake the 8 hour class I took at least every 2-5 years'). But the effect is told through a speeding stop, not a distraction event, and the answer to part 2 shows up late."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few real numbers ('age 16', '8 hour class', 'now 19') and a few real moments ('skipping a song', 'walking back to my window with a pamphlet'). The turning point stays abstract: 'Car crashes, real life scenarios, and true tragedies' does not name a single case, place or person from the class."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real person, with clumsy honest lines like 'what is there not to be in love with?' and 'My jaw dropped in shock'. Tells: three 'not only X but' constructions, 'truly' five times, a slogan close ('It all begins with you.') and a generic thesis opener ('affects and could change the trajectory of everyone's life'). No em dashes; ' - ' is a spaced hyphen."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are 2 stories: the writer's own phone habits (on topic) and the traffic stop leading to the class (told as a scene). But the stop was for speeding, and the class, which is the real turning point, is summarized rather than shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names why one-time training fails ('the excitement... can override the harsh reality and with time, become overcomfortable') and offers a fix: retake the class. The fix stays vague ('every 2-5 years', with no one named to require it), and the parent-modeling idea is a wish with no mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on a generic claim, not the story, and the 'Change begins with one becoming aware...' paragraph drifts. A stray paragraph break splits 'my / \"consequence.\"'. The last line, 'It all begins with you.', is a slogan that never returns to the officer, the pamphlet or the class."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Structure and stories: cut the opening paragraph ('Distracted driving is something that affects...some never make it.') and start on the phone habits paragraph ('Freshly 16, picking up friends...'), then the stop. Delete the closing 'It all begins with you.' and the 'Change begins with one becoming aware... mom/dad/sister/grandparent/etc.' paragraph. End instead on the 8 hour class: the pamphlet, or 'I left that room a completely different person and driver.' Also fix the stray break between 'my' and '\"consequence.\"'.",
+  "Voice: delete 'truly' all five times. Rewrite the three 'not only... but' sentences as plain statements (e.g. 'All things I never knew put me and everyone around me at risk.'). Cut the doubled phrasing in 'the idea and concept of', 'a different level and form of independence' and 'completely different person and driver'. Make sure 'With this, this supports the idea' reads as one clean sentence.",
+  "Specificity and ideas: in the class paragraph, ask the writer which case or slide from the presentation they still remember, and use only that real one in place of 'Car crashes, real life scenarios, and true tragedies'. In the ideas section, pick one interval instead of '2-5 years', say who would require the retake (for example, tying it to license renewal at the DMV), and cut the parent paragraph down to one sentence or drop it."
+ ]
+}

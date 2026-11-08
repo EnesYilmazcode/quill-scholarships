@@ -1,0 +1,54 @@
+{
+ "id": "kan-41",
+ "contest": "Stand Up to Distracted Driving Scholarship",
+ "year": "Fall 2022",
+ "outcome": "winner",
+ "words": 2904,
+ "source_url": "https://www.kanoski.com/scholarship-past-winners",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own sections: how it affected the writer ('it has had a profound impact on someone very close to me in my life: my mother') and ideas (NHTSA campaign, passengers, apps). The personal part is about the mother's life more than the writer's own habits."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong and unfakeable details: 'hit her head on in a Ford F-150', 'compound fracture of her left leg, almost losing the leg at her hip', 'doing four heads of hair before school'. Weakened by generic stats and misspellings ('NHSTA', 'Driving Awareness Month')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real voice comes through in the mother paragraph, but stock framing surrounds it: 'profound impact', 'No message is that important that it can't wait', 'There isn't a text so important', 'To remain safe and keep others safe is the most important thing', a slogan ('out of sight (or sound!), out of mind'), a tidy moral ending, and typos ('beucase', 'while drive', 'dangers of driver')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story: the mother's crash, told as a summary with no scene. The writer's own phone use shows up only as a hypothetical ('even my mind when we decide to look at our phones'), not a real second beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It spots why the existing fix fails ('There are ways to prevent distraction while driving but they are all voluntary') and offers one small idea (an app that shows statistics and then offers the safe-driving toggle). The rest is a standard menu: awareness campaigns, officers educating drivers, passengers holding the phone. Nobody is named to carry the ideas out and there is no incentive."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The entire 1,452-word essay is pasted twice, so the reader sees the full arc again after the ending. The last line ('the children that were left unborn because the mother died due to a meaningless text like \"lol\"') returns to the mother, not the opening quotes, and it is a moral rather than a payoff."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the stock lines in paragraphs 3 to 6 and keep what is left concrete. Delete 'No message is that important that it can't wait until it can be safely sent and received', 'There isn't a text so important that the driver has to be the one who answers it', 'To remain safe and keep others safe is the most important thing for the driver to focus on', 'People need to understand these dangers and stop participating in distracted driving behavior', and 'Distracted driving shouldn't even be an issue to be considered'. Replace 'profound impact on someone very close to me in my life' with simply 'my mother'. Fix 'beucase', 'while drive', 'dangers of driver' and 'NHSTA'.",
+  "Delete the second full copy of the essay (everything from the repeated '\"I thought the road was clear…\"' onward). Then cut the hypothetical quotes from the opening and start on the mother's crash ('Before I was born, my mom was in a very serious accident...'). That way the closing line about the mother and the 'lol' text pays off the opening instead of restating a moral.",
+  "Make the app idea the centerpiece of the ideas half and cut the generic campaign and officer material down to a sentence. Say who builds it or turns it on (a phone maker as a default, a driver's ed course, or parents through Life 360, which the essay already names) and why teens would keep it on. Ask the writer whether they really use Do Not Disturb or Life 360 while driving, or catch themselves reaching for the phone. If so, put that true detail in place of the hypothetical 'even my mind' line. Do not add any moment that did not happen."
+ ]
+}
