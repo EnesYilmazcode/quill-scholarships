@@ -1,0 +1,54 @@
+{
+ "id": "pa-01",
+ "contest": "The Humanist Essay Contest",
+ "year": "2014",
+ "outcome": "winner",
+ "words": 1846,
+ "source_url": "https://thehumanist.com/features/articles/the-importance-of-music-education",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The contest asks for humanist themes, but the essay is a standard music-education argument (\"Music education should be a required component in all schools due to the proven academic, social, and personal benefits\"). It never names humanism or links music to reason, ethics or human flourishing, beyond quoting Confucius on 'human nature'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The evidence is heavy and checkable: 'sixty-three points higher on the verbal section and forty-four points higher on the math sections', '162 sixth graders', the No Child Left Behind core-subject list and named researchers. It loses a point because the detail is all secondhand and there is no first-hand fact from the writer."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock school-report voice: a run of rhetorical questions in a triplet pattern, 'In an ever-changing world', 'Needless to say', 'on their journey to success', 'All in all', 'Evidently', a 'not only... but' construction, two em dashes, and a closing quote used as the moral. The Backstreet Boys citation is the only odd, human-sounding moment."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no full stories. The only person in the essay is Manna Varghese, in two sentences ('When she is angry or frustrated, she likes to play flute or piano to relax'), and the writer's own experience never appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some real mechanisms: transfer ('rhythm training emphasizes proportions, patterns, fractions, and ratios') and ensemble accountability ('When one person does not practice... it reflects upon the whole ensemble'). The policy fix stays vague: 'By transferring some of the funding from traditional academic classes to music classes' says nothing about who does it, how much, or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear sections (academic, career, social, personal, counterargument), and the closing 'What would life be like without music?' echoes the opening 'What if' questions. But it ends on a borrowed moral, not the writer's own image: 'Plato said it best: \"Music gives a soul to the universe, wings to the mind, flight to imagination, and life to everything.\"' Weighted subtotal 53.0, minus 4 for two em dashes = 49 (low)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers the prompt (up to +12): the thesis sentence ending 'due to the proven academic, social, and personal benefits that it provides' frames music as a test-score booster, not a humanist theme. Ask Enes (or the writer) for their real reason music matters to a human life without appeal to the supernatural, such as expression, shared human creation, or flourishing through reason and effort. Rewrite the thesis and the Confucius paragraph around that, and cut the No Child Left Behind and SAT-to-acceptance-letter lines down to supporting evidence.",
+  "Human voice (up to +12): delete the four-question opening and the 'Fortunately... Unfortunately' setup, then open on the thesis or the Varghese interview. Cut 'In an ever-changing world', 'Needless to say', 'on their journey to success', 'All in all', 'Evidently' and 'Clearly'. Replace the 'Imagine it for a moment. No listening to music on the radio...' list and the Plato quote with one plain sentence of the writer's own conclusion. Remove both em dashes ('ugly ducklings of school curriculums—the last', 'self-esteem—both qualities'), which is worth +4 alone.",
+  "Stories (up to +9): the Manna Varghese interview is the only first-hand material, and it is buried in two sentences near the end. Ask for the real interview notes and expand that paragraph using only what she actually said, then move it to the front as the opening scene. If the writer actually plays in an ensemble or conducted, ask for that real detail rather than inventing one, and cut the Backstreet Boys and Willie Jolley career paragraph to make room."
+ ]
+}

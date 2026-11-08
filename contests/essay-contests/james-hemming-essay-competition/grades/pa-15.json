@@ -1,0 +1,54 @@
+{
+ "id": "pa-15",
+ "contest": "James Hemming Essay Competition",
+ "year": "2009",
+ "outcome": "runner-up",
+ "words": 1415,
+ "source_url": "https://humanists.uk/wp-content/uploads/Hemming-2009-Third-Prize.pdf",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position in the first paragraph ('Living – in other words, experience – is fundamental to the concept of meaning, but is not sufficient'), but Hemming's quote is never named or quoted again, and two of the seven paragraphs argue about God rather than about living."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It names Aristotle, Bentham, Hume and Camus and quotes 'The birth of a daughter is a loss', but the citation reads 'Ecclesiastics 22:3' (the verse is Ecclesiasticus/Sirach 22:3), Hume and Camus are paraphrased and never quoted, and the examples are generic (a fish, bacteria, UFOs)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real sixth-former, with clumsy human moments ('Where lays any firm evidence') and plenty of sentences over 45 words. Tells: the stock phrase 'cannot be overstated', 'fundamental' used 4 times, 'intrinsically' twice, 'Indeed' 4 times, heavy semicolon chaining, and six spaced dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "No case study carries the argument. Camus's Sisyphus is cited only in a footnote and never told, and the fish and bacteria examples get one line each."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is a real chain of reasoning: empiricism, so no access to objective meaning, so meaning must come from free will and rebellion against the absurd, with basic needs as a precondition. But 'god is an extrapolation of human qualities' is asserted, not argued, and the essay never tests its claim that living is not sufficient against an opposing view."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organised and the close echoes the opening's 'face absurdity, and defeat it', but it restates the thesis rather than paying it off: 'Rather, meaning comes from its active, continuous rejection.' Footnote text also sits in the middle of a sentence ('...no access to objectivity 1 Treatise of Human Nature... merely by virtue')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Give the essay one case study that carries the argument (worth up to +9). Camus's Sisyphus is already cited, so tell it in 3 or 4 sentences in the 'This, as Camus pointed out' paragraph: the boulder, the endless repetition, and Camus's line that 'one must imagine Sisyphus happy'. That shows rebellion against the absurd in action instead of just naming it. To make room, cut the UFO sentence and shorten the 'god is not seen as a murdering brute' passage.",
+  "Make the sources checkable (worth up to +8). Correct the citation to 'Ecclesiasticus (Sirach) 22:3'. Replace the Hume paraphrase ('Even morality, as Hume suggested') with a short direct quote from Book 3 of the Treatise. Quote Hemming's actual sentence again in the closing paragraph, so the conclusion speaks to 'meaning comes in living' and not only to absurdity. Move all three footnotes out of the body text to the end.",
+  "Remove the voice tells and dashes (recovers the -6 deduction and tightens the voice). Replace all six spaced dashes with commas or colons, for example 'Living, in other words experience, is fundamental'. Cut 'The importance of free will in the creation of meaning cannot be overstated' and start that paragraph with 'Animals do not have the capacity of free will'. Keep 'fundamental' once and 'Indeed' at most once."
+ ]
+}

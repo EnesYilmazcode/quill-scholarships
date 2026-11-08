@@ -1,0 +1,54 @@
+{
+ "id": "pa-14",
+ "contest": "James Hemming Essay Competition",
+ "year": "2009",
+ "outcome": "runner-up",
+ "words": 1498,
+ "source_url": "https://humanists.uk/wp-content/uploads/Hemming-2009-Second-Prize.pdf",
+ "total": 78,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The essay says what 'meaning' is, splits it from 'value', and takes a qualified position: \"It is therefore true that 'in life, the meaning comes from living'. But by this we should not think merely of survival and success\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sourced Russell quote, Hamlet, Hannibal as a Carthaginian tactician sent into exile, arete and ergon, and \"Around 100 billion of us\". The later paragraphs go vague: \"the emancipators, the reformers, the magnanimous and the altruistic\" names nobody."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real student, with long sentences, a typo (\"a capacity to make choose\") and hedges like \"it seems to me\". Tells found: \"It is not a utopian vision, but a progressive and working one\" (not X but Y), \"cultural tapestry\", the triplet \"improvement, greatness and equality\", and a tidy moral with \"Instead, we should aim to live our lives\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so a case study does the job of a story. There are three short ones (the isolated prisoner thought experiment, the rock on the shore, Hannibal), and none carries the argument: Hannibal gets three sentences and is dropped before the meaning/value synthesis."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The meaning-versus-value distinction does real work: meaning is self-given, and value is \"designated upon us externally\". The jump to \"It follows that ensuring the freedom of all becomes a moral imperative\" is stated rather than argued."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "It opens on Hamlet's soliloquy and the last line pays it off: \"Where we do not suffer the slings and arrows of outrageous fortune, but take arms against a sea of troubles and by opposing them, end them.\" Weighted subtotal 83.0, then -5 for writing about the essay (\"In this short space I have attempted to recast traditional ideas\"), total 78, band high."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Make Hannibal carry the argument instead of being a three-sentence aside. Cut the unnamed list \"Consider the emancipators, the reformers, the magnanimous and the altruistic\" and test the meaning/value synthesis on Hannibal directly: his self-chosen meaning (military excellence) against his contested value (the armies that \"killed thousands\", exile). If Enes has a different real case he studied that fits better, ask him for it rather than adding one.",
+  "Delete the self-referential opening of the last paragraph, \"In this short space I have attempted to recast traditional ideas in the light of the widely held views of today, namely...\". Begin that paragraph directly with the claim: \"Today most of us deny any objective source of moral authority and see the universe as matter-of-fact. But if we view...\". This recovers the -5 deduction.",
+  "Clean up the voice tells and the errors. Rewrite \"It is not a utopian vision, but a progressive and working one\" as a plain statement (\"It is a working vision, one where we create our own worth\"). Replace \"cultural tapestry\" with something concrete such as \"to add to what people read\". Fix \"a capacity to make choose\" to \"a capacity to choose\". Fix the misquote \"the meaning comes from living\" to match the prompt's \"comes in living\". Change \"manifestation- eating\" to use commas or a colon."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pa-02",
+ "contest": "The Humanist Essay Contest",
+ "year": "2014",
+ "outcome": "runner-up",
+ "words": 1983,
+ "source_url": "https://thehumanist.com/features/articles/the-semantics-of-happiness",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Humanist themes are handled with a clear position, but the explicit link to humanism waits until the second-to-last paragraph: \"In some respects, the scientific study of happiness is quite in keeping with the beliefs of humanism\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Every claim carries a name, number or quote a stranger could check: \"397 subjects\", the Dunn and Norton chocolate study, Gilbert's Shakespeare and Adam Smith close, Banaji's implicit association test, and the Humanist Manifesto III text."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There is a real wry voice (\"a pizza night with the girlfriends\", \"inexpertly but devotedly studying protein synthesis in yeast\"). But there are 8 em dashes and repeated not-X-but-Y lines (\"not that it is incorrect but that it is unnecessary\", \"not because of hindsight bias but because it is truly obvious\", \"not only to exercise our abilities but\"), plus the filler adverb \"truly\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so the case studies (Stanford, Happy Money, Gilbert, then Banaji and Fernald as the contrast) do the work of a story. There is one small personal beat, the summer in the yeast lab, but it comes only in the last paragraph."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The essay explains why, not just that. It answers the hindsight-bias objection, points to the missing consensus definition, makes an opportunity-cost argument against the \"it is at least harmless\" view, and explains popularity through the Gold Rush pull. The opportunity-cost claim is asserted more than shown."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The order is clear (problem, examples, objection, alternatives, why it is popular, humanism), and the Gold Rush pays off the earlier \"Gold-Rush-like trend\". The last line ends on a general moral rather than the opening Stanford sentence: \"there are some things that we must simply blunder through by own intuition, that no amount of research and TED talks can guide us through.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the name errors, which cost the -10 fact deduction. The essay calls the same researcher \"Jennifer Aaker\" and then \"Aaken\", contradicting itself. Check these against the sources: \"Ectoff\" should be Etcoff, \"Ferland\" should be Fernald, and \"Mazharin\" should be Mahzarin. Also check the Gilbert talk's view count (\"over five hundred thousand\") against its source, and fix the typo \"by own intuition\" (should be \"by our own intuition\").",
+  "Remove all 8 em dashes (-6 deduction, and they lower the voice score) by changing them to commas, parentheses or periods. For example: \"this sentence, and the article it precedes, presents\". Also rewrite the three not-X-but-Y lines as plain statements. For example, change \"The problem with Dunn and Norton's work is not that it is incorrect but that it is unnecessary\" to \"Dunn and Norton's work is correct, and unnecessary.\" Drop \"truly\" from \"truly obvious\".",
+  "Bring the humanist frame in earlier. Move one sentence about the Humanist Manifesto's \"best method, not the only method\" idea up into the third paragraph, right after the conundrum is set up, so the reader knows from the start that this is a humanist argument. Then rewrite the last line to return to the opening Stanford sentence, \"The quest for meaning is a key part of what makes us human\", instead of ending on a general moral."
+ ]
+}

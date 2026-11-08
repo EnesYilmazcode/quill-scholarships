@@ -1,0 +1,60 @@
+{
+ "id": "pa-13",
+ "contest": "James Hemming Essay Competition",
+ "year": "2009",
+ "outcome": "winner",
+ "words": 1487,
+ "source_url": "https://humanists.uk/wp-content/uploads/Hemming-2009-First-Prize.pdf",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It explains Hemming's claim, tests it, and takes a clear position by amending it: \"if we alter the quotation to 'in life, the meaning also comes in living', Hemming's idea lives on\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sourced quotes with page numbers (Hemming p.180, pp.188-189; Eagleton p.81, p.88; Solomon p.12) and dated figures, but the Freud claim has no citation and the 'reason' and 'potential' counterexamples are only asserted."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Long sentences and real argument, but there are stock tells: \"The distinction is subtle but significant\", \"In life, the meaning doesn't just come in living\", \"This, however, is not the end of the story\", and the door metaphor used four times (shuts the door, reopens the door, door swings open)."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so Hemming's argument is the case study and it is examined closely. But there is no concrete worked example; the Kaye canvas framing is only a metaphor."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Clear chain of reasoning: meaning comes from commitment, but universal sources (reason, potential) reopen a 'meaning of life'. The subjectivist rebuttal is waved away (\"This claim is quickly rebutted\") without an argument."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending returns to the opening Kaye canvas: \"It allows our great big canvas of life to be transformed into a work of art.\" But the paragraphs run as long blocks, the footnotes break into the body, and the last line is a tidy moral."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "em dash",
+   "points": 0,
+   "reason": "-6: dashes used as em dashes in \"life – your stint in existence –\" and \"there is no source of significance that we all share – there is no meaning of life\". Subtotal 77, minus 6, gives 71 (mid band)."
+  }
+ ],
+ "fixes": [
+  "Fix the Freud sentence in paragraph 1: \"the whole intention of the life-instincts, Eros, is to return to a death-like state\" gets Freud wrong. That return-to-death urge is the death drive, which Freud set against Eros. Either rewrite it to name the death drive and cite the text (Beyond the Pleasure Principle, 1920), or cut the sentence and open the list of candidates with Eagleton's happiness. A philosophy judge will spot this error.",
+  "Replace \"This claim is quickly rebutted by pointing out that people's judgements on meaning are informed and created logically\" with two or three sentences that actually argue the point: say why reasons for finding meaning can be shared and tested, and answer the obvious reply that agreeing on something does not make it universal. In the same spot, add one line on how Hemming might answer the 'reason' and 'potential' objection (for example, that having an ability gives no meaning until you commit to using it). This lifts ideas from 4 to 5.",
+  "Remove the voice tells: swap the dashes in \"life – your stint in existence –\" and \"share – there is no meaning\" for commas or a colon (recovers 6 points). Keep one door metaphor and cut the rest. Replace \"The distinction is subtle but significant\" and \"doesn't just come in living\" with plain statements of the claim. Split the long middle block into separate paragraphs for exposition, objection, counter-objection and verdict."
+ ]
+}

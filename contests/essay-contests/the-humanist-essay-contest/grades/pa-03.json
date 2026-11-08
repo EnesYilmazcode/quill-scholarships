@@ -1,0 +1,54 @@
+{
+ "id": "pa-03",
+ "contest": "The Humanist Essay Contest",
+ "year": "2014",
+ "outcome": "runner-up",
+ "words": 1514,
+ "source_url": "https://thehumanist.com/features/articles/the-silent-polar-bear",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The open humanist-themes prompt is met through animal ethics. But the essay never says why this is a humanist question about human reason, responsibility or compassion. The closest it gets is a single line: \"Why aren't I doing anything?\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong, checkable anchors: the San Francisco Zoo, the email forwarded to the public relations manager, Bill Travers coining zoochosis in 1992, the listed symptoms, and the child asking \"Why doesn't he do anything?\" Two figures are unsourced and weaken it: the \"estimated 1,000\" bears and the scientist \"Alison Ames\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The writer is clearly real, with clumsy moments like \"is able recognize\" and \"Just as the sun, it takes\". But there are stock tells: \"vividly\" used twice, \"deeply shamed\", \"not only... but\", triplets such as \"heartbroken, enraged and ultimately deeply shamed\" and \"vocal, persistent, rousing\", a run of \"The purpose of X is..., not...\" antitheses, and a slogan for a closing line. No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One central story, the silent polar bear across childhood visits, carries the essay. Two on-topic beats support it: the ignored email and the recent return visit. The cut-ins of encyclopedia facts and the line about the homeless man interrupt the scenes rather than add to them."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The harm has a mechanism: 40-mile swims set against a 40-yard pool, plus the zoochosis symptoms matched to what the writer saw. But the conservation counterargument is waved off in one line, \"Polar bears need their space\". The moral claim \"not moral, not ethical, and does not benefit the commonwealth\" comes with no reasoning, and the only plan is \"I will be a lifelong champion.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens on the stroller at the zoo, and the silence motif comes back in the last line, \"My purpose now is to be vocal, persistent, rousing. Anything but silent.\" That is a real loop-back, but it lands as a slogan. The middle repeats the same facts and the phrase \"hard, wet stone floor\" until it stops working."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers the prompt (+8): in the paragraph after the return visit (\"Why aren't I doing anything?\"), replace \"The treatment of this polar bear is not moral, not ethical, and does not benefit the commonwealth\" with two or three plain sentences on the humanist question the essay already raises: what we owe a mind that can suffer, and why it is on people, not a god or the zoo, to act on what reason and evidence show. Ask Enes what he actually believes here instead of writing it for him.",
+  "Human voice (+8): cut \"Even now, I vividly remember\", the second \"vividly\", \"deeply\" and \"not only... but\". Break up the triplets (\"heartbroken, enraged and ultimately deeply shamed\" and \"vocal, persistent, rousing\"). Collapse the three \"The purpose of X is..., not...\" sentences into one. Fix \"is able recognize\" and \"Just as the sun, it takes\". Merge two related short sentences in the zoochosis section so at least one sentence runs past 45 words.",
+  "Ideas with a mechanism (+6): in the \"Many well-meaning zoo patrons\" paragraph, engage the real conservation case instead of dismissing it. Then replace \"I will be a lifelong champion\" with whatever Enes actually did or would push for after the PR reply. Ask him for it, don't invent it. Also cite or cut the \"estimated 1,000\" figure and the Alison Ames claim, since the contest scores research."
+ ]
+}
