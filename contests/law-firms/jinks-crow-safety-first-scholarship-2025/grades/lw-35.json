@@ -1,0 +1,54 @@
+{
+ "id": "lw-35",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 499,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers distracted, speeding/reckless and impaired driving in separate paragraphs, but each answer is a general claim rather than a position. The speeding paragraph wanders: \"For example, my major concerns' is road rage, drinking and driving.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There are no names, places, dates, numbers or physical details anywhere. The central claims stay abstract: \"Even a brief distraction can lead to a crash that may seriously harm or even kill another driver.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "AI tells are dense. \"Not only X but also Y\" appears twice. There is \"not just an individual decision; it is a shared responsibility\" and the AI word \"foster\". It also has stock phrases (\"chain reaction\", \"culture of safety\", \"significant and widespread effects\"), \"To sum up\", a tidy moral, and a slogan ending each paragraph."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories and no scene, person or moment from the writer's life. The only first-person line is a garbled list of concerns."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "One real mechanism: speeding cuts the time drivers have to react to \"pedestrians on the road or another vehicle stopping unexpectedly.\" Everything else asserts that something is dangerous without saying why, and the only remedy offered is \"understand the importance of driving sober.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay opens on a thesis rather than a story. The close restates that thesis after \"To sum up\" and ends: \"ultimately encouraging a safety-focused culture that benefits the entire community.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): Rewrite every sentence built on \"not only... but also\" or \"not just X; it is Y\". That includes paragraph 2's last line, paragraph 4's \"These actions don't only affect the individual\", and both versions in the conclusion. Replace each with one plain claim. Cut \"foster\", \"chain reaction\", \"culture of safety\" and \"To sum up\". Delete the slogan sentence that ends each body paragraph so the paragraph ends on its last concrete point.",
+  "Specificity and story (up to +28 combined): Fix or delete the broken sentence in paragraph 3, \"For example, my major concerns' is road rage, drinking and driving.\" Then ask Enes why road rage and drunk driving are his main worries. Is there a real road, drive, person or moment behind them? If there is, open the essay with it in his own words, in place of the opening thesis paragraph. If there is not, keep the essay general rather than make one up.",
+  "Structure (up to +6): Replace the whole closing paragraph, which repeats the first one, with a short ending. If paragraph 1 has become a real moment from Enes, the ending should return to that moment. If no story is added, end on the one concrete mechanism the essay has, the lost reaction time from speeding. Do not end on \"benefits the entire community.\""
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-29",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 526,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 35,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Each danger (texting, road rage, DUI, speeding) gets a paragraph, but each 'answer' is a slogan, not a position: \"Texting and driving is not worth losing your life.\" \"It is not worth it.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The one real event has no name, date, town or road: \"A few years ago in my community four young girls were involved in an accident with a drunk driver.\" Everything else is general (\"rear end another car, hit a pedestrian, run off the road, run a red light, etc.\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as a real person and has none of the AI vocabulary, but it is stock PSA phrasing: \"not a big deal, but it is\", \"Last but not least\", \"etc.\", \"Drive safely!\". No sentence goes over 45 words, the longest is about 32."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story (the drunk-driving crash), told as a four-sentence summary with no scene, buried in paragraph three. The rest of the essay doesn't lean on it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "The essay only gives orders with no reason anyone would follow them: \"Be patient and respond when the car is in park,\" \"It is best to remain calm,\" \"I wish that everyone... would have a designated driver.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "A list of four habits with a broken paragraph break (the DUI topic starts at the end of the road-rage paragraph). It ends on a generic moral instead of returning to the opening: \"Making it to and from your destination is one of the biggest blessings in this world. Drive safely!\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut \"Statistics show that texting and driving is the leading cause of most vehicular accidents.\" It is unsourced and false as stated, since distraction is a minority of crashes. That -10 for an untrue fact is the single largest deduction, and it gets removed. If you keep a number, ask the writer for a real source and cite it.",
+  "Move the drunk-driving paragraph to the very start and make it the essay's spine. Ask the writer for the true details they actually know (the year, the town or road, how they knew the girls, what changed at school afterward), then end the essay by coming back to those two girls instead of \"Drive safely!\". This raises specificity, stories and structure together.",
+  "Replace the four commands (\"Be patient...\", \"remain calm\", \"should never be done\", \"It is not worth it\") with one concrete change and a reason people would actually do it. Ask the writer whether their community did anything real after the crash, such as a ride program or a school policy, and build that paragraph from it. Cut the speeding and road-rage paragraphs down to make room."
+ ]
+}

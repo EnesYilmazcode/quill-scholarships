@@ -1,0 +1,54 @@
+{
+ "id": "lw-23",
+ "contest": "Law Office of Neil Burns Distracted Driving Scholarship 2016",
+ "year": "2016",
+ "outcome": "finalist",
+ "words": 1239,
+ "source_url": "https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-claudia-m/",
+ "total": 36,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is clearly an Option C article aimed at young drivers ('why would you risk your life for something that can wait?'). But most of it lists statistics, and it only speaks to the reader directly in the last paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are many cited numbers and named cases (Taylor Sauer, Alexander Heit's 'ill tw'), but none of them are the writer's own. Some are wrong or garbled: '3,154 people were killed... in motor vehicle crashes' is really the 2013 count of deaths in distraction-related crashes, the rapper's name 'Ervin McInnes' is misspelled, and 'Carnegie Melon' is misspelled."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock persuasive-essay voice: it opens with 'Did you know', uses 'shocking' six times, stacks rhetorical questions ('Were these texts really that urgent? Could they not have waited? Were they worth a life?'), and ends on a tidy moral. It never sounds like a specific person, and it has typos ('starting at something', 'goods news', a quote that is never closed)."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "It has five borrowed case studies (Sanford, McInnes, Bothe, Sauer, Heit), each told in two or three lines. None gets a full scene, and there is no story from the writer's own life. The Heit unfinished text is the strongest one, but it is buried in the fourth paragraph."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The visual, manual and cognitive breakdown gives a real reason why texting is the worst distraction. But the fix is a generic pledge ('making the personal commitment to drive \"phone-free\"') with no reason anyone would actually keep it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It moves from statistics to distraction types, then more statistics, then cases, then a moral. The last line is a generic moral that never returns to the Heit text or the opening: 'you put your safety as the first priority and can avoid becoming one of these tragic and shocking statistics.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Correct the false fact in sentence 2 (-10): change it to say that 3,154 people were killed and about 424,000 injured in crashes involving distracted drivers in 2013. Also check every name and number against its source: the rapper's name is McKinness, not McInnes, and 'Carnegie Melon' should be 'Carnegie Mellon'. Separately, replace the five dash asides (–) with commas or parentheses (-6 for dashes).",
+  "Restructure around the Heit case (stories 2→4, structure 2→4, about +10): open with the unfinished text 'Sounds good my man, seeya soon, ill tw' and his parents releasing the photo. Cut paragraph 1 down to the two or three strongest figures (6 teens a day, 23 times more likely, 5 seconds at 55 mph). Drop McInnes, whose crash was about drinking, not texting. End by coming back to that unfinished 'ill tw'. Ask Enes whether he has a real moment of his own with a phone behind the wheel or as a passenger; use it only if it actually happened.",
+  "Fix the voice (2→4, +8): delete all six 'shocking's, 'Did you know', 'simply put', 'Sadly', and the run of three rhetorical questions. Combine some of the short stat sentences into one longer sentence spoken to the reader. In the closing paragraph, replace the generic pledge with one concrete step and say why teens would keep it, for example turning on the phone's built-in driving mode so it auto-silences texts. Then proofread the typos ('starting at', 'goods news', the unclosed quote)."
+ ]
+}

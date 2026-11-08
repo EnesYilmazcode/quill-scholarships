@@ -1,0 +1,54 @@
+{
+ "id": "lw-30",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 455,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It touches impaired, distracted and reckless driving, but only as a generic list of dangers with no position of its own: \"Another bad habit we do a lot is eating and drinking while driving\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable fact is one NHTSA statistic (\"nearly 30 people die in drunk driving crashes every day\"). Every other claim is abstract, with no names, places, dates or physical detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: \"not only jeopardizes... but also puts\", \"isn't just there for looks\", triplets (\"devastating accidents, severe legal repercussions, and lasting emotional trauma\"), \"devastating\" twice, \"crucial\", \"deeply grateful\", \"simple yet effective\". The few human moments are clumsy, such as \"falling below the speed limit\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. The essay is a list of four bad habits with no person, event or moment from the writer's life."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "Every remedy is just 'don't do it' (\"You shouldn't eat and drink while driving\") or a hope to \"spread awareness\". No fix is named, there is no reason why current fixes fail, and nobody is named to act."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are organized by habit but have no arc, and the essay closes on scholarship thanks instead of returning to the opening: \"make our roads safe for everyone.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the generic habit paragraphs (eating and drinking, the two speed-limit paragraphs, and the 'physical dangers are undeniable' paragraph) and ask Enes whether he has a real, true moment with one of these habits, such as something he saw or did himself. If he does, build the essay around that one habit. If he doesn't, narrow to one habit and go deeper rather than wider (stories 1 to 3+, specificity 2 to 3+).",
+  "Replace 'You shouldn't eat and drink while driving' and 'spread awareness' with one concrete change for the habit he keeps. Name the existing fix (for example, phone Do Not Disturb While Driving), say why people ignore it, and say who should change what. Ask Enes which fix he actually uses or has seen fail instead of making one up (ideas 1 to 3+).",
+  "Strip the AI tells: rewrite 'not only jeopardizes your own life but also puts' as a plain sentence, delete 'isn't just there for looks', 'crucial', 'simple yet effective' and the triplet in paragraph 2, and fix 'falling below the speed limit' (he means going over it). Then replace the final 'deeply grateful for the opportunity' paragraph with a closing line that returns to the opening image or statistic (voice 2 to 4, structure 2 to 4)."
+ ]
+}

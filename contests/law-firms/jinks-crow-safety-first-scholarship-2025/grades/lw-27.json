@@ -1,0 +1,54 @@
+{
+ "id": "lw-27",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 487,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Explains why safe driving matters (accidents, cost, lives), but impaired and reckless driving get only a list mention: \"reckless driving, speeding, distracted driving, or driving under influence.\" The third reason, \"save lives,\" never gets its own paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: \"in June 2023 the state of Alabama passed the Hands-Free Law,\" the WHO 1.3 million figure, the off-ramp fender bender, and the box behind the mirror. The crash itself has no place, speed or aftermath, and the box's data is never reported."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real student, but in stock school-essay framing: a definition opener, a stack of Therefore/Furthermore transitions, \"not only driving for myself but for others,\" \"In conclusion,\" and a tidy closing moral. It also has slips: \"behind the whee\" and \"the benefits... deals.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic beats, the fender bender and the monitoring box. Both are told as summary with no scene, and the crash gets one sentence before the lesson: \"The incident taught me the importance of staying alert.\""
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasons are generic (prevent accidents, reduce cost, save lives). The only mechanism is \"This tool makes me more conscious of my driving,\" with no explanation of how or what changed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are clear, but the essay opens on a definition, closes with \"In conclusion,\" and ends on a restated moral instead of returning to the opening or the crash: \"I hope to be the kind of driver who helps make the roads safer for everyone.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Monitoring-box paragraph (\"A safe driving box was installed...\"): replace \"This tool makes me more conscious of my driving\" with what the box actually reported and what the writer changed because of it. Ask the writer for the real numbers or flags, such as hard-braking counts or phone-use alerts, and whether the insurer gave a discount. Then add one sentence on why being measured changes behavior when a law like Alabama's Hands-Free Law alone does not. This turns the cost paragraph into a real mechanism (ideas 2 to 4).",
+  "Fender-bender sentence (\"As a result of not decreasing my speed...\"): ask the writer for the real details, including which interstate or exit, roughly what speed, and what they do differently on off-ramps now. Use those to sharpen the sentence, and move the crash to the opening in place of the definition sentence \"Safe driving is important because it helps keep everyone safe.\" Then give impaired and reckless driving at least a sentence each of the writer's own view instead of a list item (specificity and answers-prompt gains).",
+  "Final paragraph: cut \"In conclusion\" and the generic close \"I hope to be the kind of driver who helps make the roads safer for everyone.\" End by returning to the off-ramp (what the writer now does at that kind of exit) or to the box behind the mirror. Fix \"behind the whee\" to \"behind the wheel\" and \"the benefits... deals\" to \"deal,\" and drop the Therefore/Furthermore openers in paragraphs 2 and 3."
+ ]
+}

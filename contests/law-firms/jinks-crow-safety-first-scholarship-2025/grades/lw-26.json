@@ -1,0 +1,54 @@
+{
+ "id": "lw-26",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 391,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "It covers speeding and drunk driving but never mentions distracted driving. Half the essay is a list of other rules (headlights, stop signs, yellow lights): \"Another rule I believe is critical is having your headlights on when you're driving at night.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "No names, places, dates or real numbers. The one statistic has no source and cannot be checked: \"The average percent of people that speed in the U.S. increases everyday\". \"Many states give tickets\" names no state."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clumsy but clearly human (\"just people wanting to dance with death literally\"), with no AI vocabulary and no em dashes. It leans on stock lines (\"a gift and also a curse\"), it reads as generic advice rather than a person, and no sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. Every paragraph speaks to a general \"you\" or \"people\" and never shows the writer."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Rules are stated, not explained. The yellow-light paragraph gives a partial reason, but \"You should have a partner to drive on the road\" is unexplained and does not follow from what comes before it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The last paragraph crams in three topics, and the essay stops on advice instead of ending: \"...just to keep the road and you safe from getting a ticket.\" It never returns to the \"golden rule\" opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and ideas (about 21 points): cut the third paragraph's headlights and stop-sign material. Use that space for distracted driving, which the prompt names and the essay never mentions, and argue why people still speed, drink and look at phones and what would actually stop them. If Enes has a real experience on any of these, ask him for it instead of writing one.",
+  "Specificity (about 16 points): delete \"The average percent of people that speed in the U.S. increases everyday\" and \"many states give tickets\", or replace them with one sourced figure and one named state's actual law. Ask Enes which ones he can verify.",
+  "Structure (about 6 points): cut \"You should have a partner to drive on the road\". Replace the closing ticket line with a final sentence that goes back to the opening's \"golden rule\" of speeding, so the essay ends on its main point instead of on a yellow light."
+ ]
+}

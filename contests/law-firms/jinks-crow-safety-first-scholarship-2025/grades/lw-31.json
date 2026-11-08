@@ -1,0 +1,54 @@
+{
+ "id": "lw-31",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 500,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 26,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt names three dangers, but distracted driving gets one clause ('Avoid distractions'), impaired driving is mixed up with peer pressure ('going under the influence of the people around you'), and reckless driving is never named. Paragraph 1 is about what driving is ('the ability to convey a person to their desired destination')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The essay has no names, places, numbers, dates or scenes. The closest it gets to a concrete detail is 'traffic laws made from state legislatures' and 'bad weathering conditions'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The awkward phrasing reads as human ('have an aspect of requisite basic knowledge of understanding'), but the prose could fit any essay on the topic. Tells found: 'not only yourself, but those around you', 'plays a crucial role', 'it is vital', the 'skill, responsibility and knowledge' triplet, 'To conclude', two em dashes, repeated filler ('vehicle or car' twice), and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "0 stories. The whole essay is general advice in the second person ('As a driver, you have to take into consideration the lives that are at stake'), with no event from the writer's life."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "It says to obey laws, avoid distractions and know your car, but never explains why those habits fail now or what would change them ('Traffic laws exist in the world so people won't be endangered')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "There are three paragraphs, but the middle one is a single block covering three topics, and the close opens with 'To conclude' and repeats the thesis. Last line: 'A driver can make such a difference and impact the lives of many, so it is vital for people to have care in each of their choices on the road.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the prompt by name (about +12, criterion 1). Cut all of paragraph 1 from 'Driving is a key skill' through 'Those boundaries and precautions are what can be corresponded to safety.' Then split paragraph 2 into three short sections headed in the text by distracted, impaired and reckless driving. Rewrite 'going under the influence of the people around you' so it plainly means alcohol or drugs, or plainly means peer pressure, whichever Enes meant. Ask Enes what he actually thinks makes each one dangerous, using only his own views and experience.",
+  "Remove the stock phrasing and the em dashes (about +8 on voice, plus 4 deduction points back). Delete 'not only yourself, but those around you', 'plays a crucial role', 'it is vital', 'To conclude', and the second 'vehicle or car'. Replace 'Any choice you— the driver—make' with 'Any choice you make as the driver'. Join two of the short claims into one longer, plainer sentence in his own words.",
+  "Rebuild the last paragraph so it stops repeating the thesis (about +4, criterion 6). Cut the sentences from 'As the driver who has full control' through the final line, since they repeat each other. End on 'People put trust in you who are driving to make careful decisions putting their lives into your hands', tightened to something like 'Everyone in and around your car is trusting you with their life', so the essay closes on its strongest idea instead of a moral."
+ ]
+}

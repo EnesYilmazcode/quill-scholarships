@@ -1,0 +1,54 @@
+{
+ "id": "lw-36",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 494,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Gives distracted, speeding and impaired driving a paragraph each, and takes a position: \"driving is a social trust that can affect families, friends, or entire communities.\" Each paragraph only describes the danger and never explains it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable fact is \"more than 3,500 people were killed in 2021\" (NHTSA). Everything else is abstract: \"a child playing in their yard\", \"One careless night can ruin many lives.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Reads like model prose, with garbled paraphrase lines. Tells: \"not only risking... They are potentially risking\", \"Safe driving is not just about obeying a law\", \"certainly not just respect\". Filler words: certainly x2, perhaps, potentially x2, generally, nonetheless, simply. Triplets: \"judgment, coordination, and awareness\". Broken sentences: \"They may also be speeds well over the posted speed limit\", \"These individuals may be a moral or biological obligation\". No sentence goes over 45 words, and it ends on a neat moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. There is no person, place or event from the writer's life, only hypotheticals (\"A driver speeding through a residential neighborhood could gamble with a child\")."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says that these behaviors are dangerous but not why people still do them or what would change that. \"As we know, fast driving affects reaction time\" and \"A driver can decide not to text\" are claims with no mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Five tidy paragraphs, but the second half of paragraph 4 and all of paragraph 5 restate the thesis. The last line is a generic moral: \"To drive safely is to become part of a desirable community that is respectful and protective.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 to +16): Rewrite or cut the broken sentences: \"They may also be speeds well over the posted speed limit\", \"These individuals may be a moral or biological obligation\", \"One decision made while driving intoxicated, speed, or texting\". Cut every \"not only / not just\" frame (para 2 \"they are not only risking... They are potentially risking\", para 4 \"Safe driving is not just about obeying a law\", para 5 \"certainly not just respect for their own life\"). Delete the filler words certainly, perhaps, potentially, generally, nonetheless and simply. Merge the short choppy sentences in para 3 into one longer sentence.",
+  "Specificity and mechanism (+8 to +10): Para 3 \"As we know, fast driving affects reaction time and severity of crashes\" and para 4 \"alcohol or drugs affect an individual's judgment\" have no numbers. Swap in real, cited figures (NHTSA's yearly speeding and drunk-driving death counts), the same way para 2 uses the 2021 figure. Change \"more than 3,500\" to the exact cited number. In each paragraph, add one plain sentence on why people do it anyway (para 3 already starts: \"Many drivers believe they are in control\"). Don't use generic advice.",
+  "Structure (+4): Cut the second half of para 4 (\"Safe driving on the other hand can apply to anyone... cascading effect on loved ones\"), which repeats the thesis. Also cut the last two sentences of para 5 (\"Ultimately, it is generally understood... respectful and protective\"). End on the opening line's own image, \"looking at a text, running a yellow light, or driving after a drink... change a life in a second\", instead of a moral."
+ ]
+}

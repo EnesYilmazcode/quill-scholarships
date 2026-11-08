@@ -1,0 +1,54 @@
+{
+ "id": "lw-25",
+ "contest": "Law Office of Neil Burns Distracted Driving Scholarship 2016",
+ "year": "2016",
+ "outcome": "finalist",
+ "words": 1746,
+ "source_url": "https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-ayoola-w/",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Picks option C and keeps speaking to young drivers throughout, ending with 'no text message, Twitter update, Tumblr reblog, or SnapChat is worth your life.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Plenty of checkable figures ('Alaska... fines of up to $10,000', 'In California, the fine is only $20', '37 seconds... only looking at the road for 11 seconds', DriveMode at '15 miles per hour'). But they are all research, with no personal detail, and several are out of date ('61 percent... as of 2013', 'Windows Phone 8.1'). Leftover footnote markers ('pregnancy,i', 'States.iii') are still in the text."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A human, conversational tone ('This is not so!'), but it uses stock framing. Tells: 'not only receiving fines, but also jail time', 'not just your freedom', 'The bottom line is this:', the filler words 'exceptionally' and 'highly recommend', two em dashes, and the essay talks about itself ('In writing this essay')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Only one small personal beat, the younger sister who 'will often ask them to write a brief response'. It is told as a summary with no scene. Everything else is statistics and advice."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why red-light texting fails (the honk leads to 'suddenly speeding up or slowing down, jerking the wheel') and why hiding the phone in a lap makes things worse. The fixes are a standard list, though: passengers, pulling over, Siri, apps, airplane mode, with no reason a teen would actually adopt them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized as risks, then rebuttal, then tips. It opens on the critics of millennials but never returns to them, and closes on a general moral: 'Any person communicating with you will be more distraught if something bad happened to you than they would ever be from you not responding to their text right away.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+9 possible): Move the younger-sister paragraph ('I got this tip from observing my younger sister...') to the opening, replacing the millennial-critics opening. Ask the writer for the real details: what she actually says to passengers, a specific drive when it happened, and whether the writer has texted at a red light. Cut the generic fine and jail paragraphs to make room. Do not add any scene the writer cannot confirm.",
+  "Voice (+8 possible): Delete 'In writing this essay, I naturally thought it important...' and the 'This whole essay has been about...' aside (-5 deduction). Replace both em dashes in 'endangers your life—as well as the lives of others—not just your freedom' with commas and drop the 'not just' contrast (-4 deduction). Rewrite 'not only receiving fines, but also jail time' as 'now facing jail time as well'. Cut 'The bottom line is this:', 'exceptionally' and 'highly recommend'. Strip the footnote markers (i, ii, iii...), and fix the typo 'havepractical'.",
+  "Ideas and ending (+6 and +4 possible): Choose the one tip the writer actually uses (likely the sister's passenger rule or a built-in phone driving mode). Say why teens skip it today and what makes it stick. Ask the writer for current, real phone features, since Windows Phone, Cortana, Vokul and the 2013 smartphone figure are out of date. Then end on the sister or the reader's own red-light habit instead of the general 'more distraught' moral."
+ ]
+}

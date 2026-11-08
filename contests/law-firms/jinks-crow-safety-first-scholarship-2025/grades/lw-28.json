@@ -1,0 +1,54 @@
+{
+ "id": "lw-28",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 361,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It covers distracted driving (\"texting, dancing to music, or even putting on make-up\") and reckless driving (running stop signs, road rage), and it says safe driving matters. Impaired driving never comes up, and the 'why it matters' part is only a claim: \"Safe driving is important to all of us.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay has no names, places, dates or numbers. The only physical details are a generic list (\"texting, dancing to music, or even putting on make-up\") and \"speed, road signs, and even pedestrians\". \"I've witnessed many times\" stands in for a scene that never comes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a plain student. There are no em dashes and no AI vocabulary, and slips like \"I've witnessed many times; people\" sound human. Against that: a \"not only looking out for ourselves, but also for those\" construction, a triplet (\"looking twice, slowing down, or keeping your eyes on the road\"), a tidy moral close, and no sentence over 45 words in 361 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero stories told as scenes. One on-topic beat (\"I learned a lot from watching how my parents drive\") is given only as a summary, and the road-rage paragraph is a general claim with no personal tie."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay mostly states intent (\"it is the responsibility of each of us\", \"Safe driving must become a normal activity\"). It hints at one mechanism, new drivers copying the parent who drives them, but never says why that works or what should change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but they are a list of topics with no arc, and the essay opens on a general claim instead of a story. The last line, \"This way, everyone can get where they need to be on time and alive.\", loosely echoes the opening commute line but works as a moral rather than a payoff."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story (+12 to +14): the parents paragraph is the only real material, so make it the opening. Delete the first paragraph (\"Safe driving is important to all of us... safely.\"). Then ask Enes which parent it was and one specific habit he actually watched them do (for example, how they handled stop signs or pedestrians), and write that one true habit out in full in place of the list \"speed, road signs, and even pedestrians\".",
+  "Ideas with a mechanism (+6): cut the vague paragraphs \"These dangerous types of driving activities...\" and \"I think it is the responsibility of each of us...\". In their place, sharpen the parent-modeling idea he already has. Say why new drivers copy what they see from the passenger seat more than what they hear in a class, and what a parent could do differently on drives with a learner. Use only reasoning Enes agrees he believes.",
+  "Voice and ending (+6): cut the road-rage paragraph, since it has no detail or personal link. Rewrite \"we are not only looking out for ourselves, but also for those...\" as a plain sentence. Replace the closing moral (\"This way, everyone can get where they need to be on time and alive.\") with a last line that returns to the parent habit from the new opening. Also ask Enes whether the source page expects impaired driving to be covered, because the essay doesn't mention it."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-22",
+ "contest": "Law Office of Neil Burns Distracted Driving Scholarship 2016",
+ "year": "2016",
+ "outcome": "finalist",
+ "words": 1608,
+ "source_url": "https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-john-f/",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Option A has one part, and the whole essay is a first-person story about being hit by a distracted driver: \"The man who had hit me had been distracted, and nothing I could have done would have protected me from this incident.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Plenty of real, physical detail: Tucson, the red shirt, the hole smashed through the helmet, classical music in the elderly man's sedan, the church phone number, Kaohsiung and Taipei, Saguaro National Park. But there is no date, no bill amount and no injury specifics."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Long, clumsy, human sentences (\"out of some sort of vain self-reliant principle\") sit inside stock framing. Tells: a triplet (\"no way I could have been more careful, no way I could have avoided him, no way I could have been safe\"), punchlines closing paragraphs (\"I personally learned that distracted driving has consequences.\"), padded adjectives (\"Skilled and professional paramedics\", \"another talented team\"), \"various and sundry\" and \"byzantine\", and a tidy moral at the end. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story carries the essay: the crash, then the aftermath (pain, insurance, the first ride back). It is told in scene and on topic. It loses a point because a 168-word abstract preamble comes before it and the wisdom-teeth aside slightly dilutes it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It reasons about why the harm lasts (physical, financial and psychological costs, and \"a wheel turned a few degrees to the side such that a car moved a few feet to the right\"). But the conclusions stay general (\"distracted driving is not something to take lightly\") and give no mechanism a reader could act on."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clearly organized by kind of cost, but it opens on an abstract essay about complacency and ends on a generic moral instead of the bike or the sound: \"Taking that to heart will help others avoid easily prevented pain and suffering.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): cut the paragraph-ending morals. These are \"I personally learned that distracted driving has consequences.\", \"It was a frustrating realization that even a minor accident sets you back seriously.\", \"Psychological pain can be unseen, unreasonable, and seemingly inconsequential...\" and \"Taking that to heart will help others avoid easily prevented pain and suffering.\" Shorten the \"no way... no way... no way\" triplet to one clause. Remove the padding adjectives \"Skilled and professional\", \"talented\", \"various and sundry\" and \"byzantine\", and let the scenes stand on their own.",
+  "Structure (up to +4): delete most of paragraph 1, from \"We become complacent though\" through \"how serious an issue this is\", and open on the ride itself or the \"vaguely disconcerting sound behind me\". Then rewrite the final paragraph to return to that sound and the first ride on the new bicycle (the cringe at every passing car), instead of the list of reasons he was lucky and the generic moral.",
+  "Specificity (up to +4): ask Enes for the real date or month of the crash, the actual ambulance or hospital bill, and his real injuries. Put them where the essay now says \"This summer\", \"stunned at how much money gets involved\" and \"every cut and bruise\". If he cannot confirm a number, leave it out rather than estimate."
+ ]
+}

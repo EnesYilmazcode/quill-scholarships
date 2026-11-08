@@ -1,0 +1,54 @@
+{
+ "id": "lw-34",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 647,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 34,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Covers why safe driving matters, but impaired and reckless driving get one list line each: \"avoid distractions like texting, and never drive impaired.\" It never takes a position of its own."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are Roderic Scott (2016) and Life 360. The rest is abstract, like the unsourced \"According to road safety statistics, many car crashes are the result of avoidable behaviors.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "AI tells: \"more than just following traffic laws\", \"not only for their own safety but\", the triplet \"protecting lives, preserving futures, and keeping our community safe\", \"deeply emotional\", \"truly mean\", \"Moreover\" twice, 4 em dashes, \"In conclusion\" and a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero personal stories and one secondhand case. Rod Scott gets three summary sentences and no scene. The parent waiting at home is a hypothetical \"Imagine\", not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Mostly a generic menu (stay alert, obey limits, parents review rules). Life 360's speed tracking is the one real mechanism, but the essay never says why it would change a teen's behavior."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on a general rite-of-passage line and ends on a generic moral that restates the thesis: \"we show our family and friends how much they truly mean to us.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 possible): cut the stock framing sentence by sentence. Delete \"Safe driving is more than just following traffic laws—it's about protecting lives, preserving futures, and keeping our community safe\", \"The driver's responsibility is not only...\", both \"Moreover\" openers, \"deeply\" and \"truly\". Remove all 4 em dashes (-6 recovered). Replace the whole \"In conclusion, safe driving is not just a personal duty—it is a social one\" paragraph with a plain closing sentence in the writer's own words.",
+  "Specificity and story (+14 possible): move the Roderic Scott paragraph to the opening and expand it from facts the writer actually knows. Ask the writer how they learned about Rod (school, town, news, someone who knew him), the real name of the law, and what it changed. Then cut the generic opener (\"Driving is a beautiful rite of passage\") and the unsourced \"According to road safety statistics\" line. Verify the Roderic Scott facts against a source before submitting.",
+  "Ideas and ending (+10 possible): turn the Life 360 paragraph into the essay's one idea. Ask the writer whether their family actually uses it and what it changed about how they drive, then state why speed sharing works where a parent's lecture doesn't. Close by returning to Rod and the backseat seatbelt law instead of the generic moral about loved ones."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-32",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 494,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Texting, speeding and impaired driving each get their own paragraph, and the importance part is stated outright (\"Every driver has a job to do: keep the roads safe\"), but each answer is a general claim rather than an argued position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "No proper noun, number, date or place in 494 words; every example is hypothetical (\"If a child runs into the street, or a car suddenly stops\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Four 'not just' antitheses (\"is not just about protecting yourself\", \"not just the people in the car, but also\", \"about more than just rules\", \"not just about you\"), slogan closers (\"It's just not worth it.\", \"That's a powerful thing.\"), a tidy 'Together, we can' moral, and no sentence over 45 words; it could have been written by anyone."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories; the only people in it are hypothetical ('You could hit another car', 'Think about your loved ones')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It gives a little cause and effect (\"going too fast makes it harder to stop in time\", \"Alcohol and drugs slow down your brain\"), but the remedy is just to try harder (\"Wait to read that text\"), with no fix, reason it works, or actor named."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are ordered clearly, but the essay opens on a thesis and ends by restating it with an 'In the end' closer: \"And we can make sure that everyone gets home safely.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+16 possible): in the texting, speeding and impaired-driving paragraphs, swap each hypothetical ('You could miss a red light', 'Many people have died') for one sourced, checkable figure, such as NHTSA's yearly deaths from distracted, speed-related or alcohol-impaired crashes, with the year and source named. Ask Enes whether any real, checkable detail from his own driving applies, such as his state, the car he drives, or a rule he actually follows, and use it only if it is true.",
+  "Voice (+12 possible): rewrite all four 'not just X / more than just X' sentences as direct claims, cut the slogan closers 'It's just not worth it.', 'That's a powerful thing.' and 'That's something we all want.', and merge the choppy runs ('You can't think clearly. You can't react quickly.') into at least one long sentence that reasons through a single point.",
+  "Structure (+6 possible): delete the final paragraph ('In the end, safe driving is not just about you... everyone gets home safely') and the 'We all share the road' paragraph, which repeat the opening. End on the most concrete line already in the essay ('Take a few extra seconds to check the road. Wait to read that text.') so the close returns to the opening's 'not texting, not speeding' instead of restating the thesis."
+ ]
+}

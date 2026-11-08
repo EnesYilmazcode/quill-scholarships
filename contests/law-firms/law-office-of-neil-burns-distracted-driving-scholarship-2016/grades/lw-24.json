@@ -1,0 +1,54 @@
+{
+ "id": "lw-24",
+ "contest": "Law Office of Neil Burns Distracted Driving Scholarship 2016",
+ "year": "2016",
+ "outcome": "finalist",
+ "words": 1299,
+ "source_url": "https://www.boston-injury-lawyer-blog.com/2016/04/scholarship-finalist-alyssa-n/",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Option A is answered fully with two distracted-driving stories ('Kenneth (Kenny) Paul Clary was the victim of a distracted driver'), but the Seal Beach shooting and the college résumé paragraph are not about distracted driving."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The details are dated and physical: 'February 3rd, 2006', 'a woman in a Mitsubishi', 'May 7th, 2011', 'looking at the prescription number on a bottle of pills while on the phone with her pharmacist', 'nearly sixty miles per hour', tibia, femur, pelvis, fibula."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly sounds like a real person, including clumsy moments ('Kadin never met met me', 'I still had no idea what was going on'). The tells are the 'Not only because of... but because' construction, filler praise ('amazingly talented, and all around incredible', 'a true miracle', 'so blessed') and a generic first sentence. No em dashes, and several sentences run over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Four stories plus a résumé. Kenny's death and Kadin's crash are strong and on topic. The phone call with the cruel girl is a fair third beat. The Seal Beach shooting is off topic, and the paragraph listing UCLA, the NC A&T scholarship and the CSULB majors is a résumé recital."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The prompt has no ideas part, so this scores the central reasoning. It stays at 'they inspire me' and 'Distracted driving affects lives differently' and never explains what the distraction did or what it changed in the writer."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay is organized chronologically, but it opens on a generic thesis and closes by restating paragraph 2: 'Brittnee, Kyle, and Kadin have always been, and will always be my greatest inspirations.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the Seal Beach sentence ('In a more recent time, Kyle's best friend, Kaesen lost his mother...') and shorten the paragraph that begins 'Brittnee graduated from California, Los Angeles (UCLA)...' to one clause per sibling. That keeps the essay on Kenny and Kadin, the two distracted-driving stories, and lifts the stories and answers-the-prompt scores.",
+  "Replace the closing line 'Brittnee, Kyle, and Kadin have always been, and will always be my greatest inspirations' with an image already in the essay. Either the family sleeping together on the living-room floor or Kadin's nightly 'I love you so much!' would work. Also cut the generic first sentence ('Distracted drivers are the cost of many lives lost throughout the world') so the essay opens on the phone call at Great Aunt Mai's.",
+  "Cut the stock phrasing: 'Not only because of their intelligence, perseverance, athletic talent, and kind hearts, but because...', 'amazingly talented, and all around incredible', 'a true miracle', 'so blessed', 'each and every day'. Then use the freed words to say plainly what the two distractions were, a dropped phone and a pill bottle on a call, and what the writer now does differently because of them. Ask the writer for that last part rather than writing it for them."
+ ]
+}

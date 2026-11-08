@@ -1,0 +1,60 @@
+{
+ "id": "lw-33",
+ "contest": "Jinks Crow Safety First Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 505,
+ "source_url": "https://www.jinkscrow.com/scholarship-winners-essays",
+ "total": 31,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Covers texting, speeding and DUI, but DUI gets two sentences ('Driving while under the influence not only ruins your life...') and 'importance of safe driving' is asserted, not argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only specifics are a pasted stat block from 'the Parnell Law Firm'; no names, places or physical details from the writer's life, and '11 teens die from texting and driving every day' is a widely disputed figure."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock opener 'In an age of technology and electric cars', two 'not only X but also Y' constructions, 'Most notably', triplets ('texting and driving, DUI, and speeding') repeated three times; reads as a generic report."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories; every paragraph is general claims about 'people' and 'you'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "'Set an example' and 'spread awareness' are intent, not mechanisms; the one concrete beat ('text or call someone once you get to a safe location') has no reason anyone would actually do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Three paragraphs with no arc; ends mid-list: '...ask for help to get home when you have a little too much to drink simply because you value your life and others.' Nothing returns to the opening."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10: 'you will be arrested for a felony charge' is false as a blanket claim, since a first DUI with no injury is a misdemeanor in most US states."
+  }
+ ],
+ "fixes": [
+  "Cut the opening stat block (from 'According to research done by the Parnell Law Firm' to 'admitted to texting and driving') down to the one figure that has a primary source, such as NHTSA or CDC, and drop '11 teens die... every day' and '6 times as deadly'. Then ask Enes whether there is a real moment from his own driving or a family member's that the essay could open on. Do not write one for him. This recovers specificity and stories, the two largest gaps.",
+  "Rewrite paragraph 3's 'set an example / spread awareness' steps as one mechanism: name the existing fix (awareness campaigns), say why it fails (the essay's own 94%-know-but-35%-still-text gap shows that awareness alone does not work), and give one concrete habit with a reason people will keep it, such as phone in the back seat or Do Not Disturb While Driving set to turn on automatically. Then cut the second 'The second step' sentence, which repeats the first.",
+  "Fix 'you will be arrested for a felony charge' (change it to 'can face criminal charges' or cut it). Strip both 'not only X but also Y' sentences and the 'In an age of technology and electric cars' opener. Replace the last sentence with a short line that comes back to the 94% vs 35% gap from the opening, so the ending pays off the start instead of trailing off in a list."
+ ]
+}
