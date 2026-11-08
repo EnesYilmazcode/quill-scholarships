@@ -1,0 +1,54 @@
+{
+ "id": "law-11",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 1245,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2025-winner-sophia-mendoza",
+ "total": 31,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the definition belongs to someone else ('Traditionally, the American Dream has been defined by...'). He never gives his own. The attainability answer only arrives in the closing paragraph: 'I don't believe it is attainable today as it once was.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only general markers appear: 'New York, San Francisco, and Los Angeles', 'In 2020 and 2021', 'the Federal Reserve raising interest rates'. There are no figures, no prices or rates, and no detail from the writer's own life."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Reads like interchangeable model prose. Tells: 'skyrocketing/skyrocketed' used 5 times, 'profound impact', 'In conclusion', a textbook gloss ('Inflation refers to the general increase in the prices...'), stacked triplets ('hard work, determination, and ambition'), 7 em dashes and no personal 'I' moment."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories. The whole essay is general economic exposition with no person, family, or scene in it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Gives standard cause and effect ('the same amount of money now buys less', higher Fed rates leading to higher mortgage rates) but goes no further than textbook explanation. 'Until the systemic issues... are addressed' is intent, not reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are organized but have no arc. The ending restates the thesis with 'In conclusion' and a generic moral: 'it will be increasingly difficult for future generations to attain the American Dream in the way it was originally envisioned.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace paragraphs 1 to 2 (the textbook definition and the mid-20th-century history) with Enes's own definition of the American Dream, framed through his real first-gen family situation from his file and NUMBERS.md. Ask him which true details to use. Then give a direct yes, no, or partly answer to 'attainable today' in the first paragraph, not only in the conclusion. This addresses answers_prompt, stories and specificity (about 30 points at stake).",
+  "Cut the generic economics paragraphs (inflation definition, big-city housing, rent, tuition) down to one paragraph. Wherever a claim stays, attach a real figure Enes can verify or a real cost he or his family actually faced, asked from him and not estimated. Delete 'Inflation refers to...' and the 'In simple terms' gloss entirely.",
+  "Voice pass: remove all 7 em dashes (-6 recovered), change 'skyrocketing' everywhere, and delete 'profound', 'In conclusion' and the closing moral. Rewrite the last paragraph so it comes back to the person or image the new opening introduces, instead of restating the thesis."
+ ]
+}

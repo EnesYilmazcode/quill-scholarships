@@ -1,0 +1,54 @@
+{
+ "id": "law-12",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 996,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2025-winner-caitlin-hyers",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay defines the American Dream as \"the idea that everyone has the freedom and opportunity for a better life\" and quotes the OED. It never takes a position on whether the Dream is attainable today. \"the land of opportunity\" in the last line is the closest it gets. The -10 deduction for a prompt part with no answer applies."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and numbers: \"Cork City\", \"orphaned by age 8 after losing both parents to tuberculosis\", \"a one-room apartment in Queens\", \"It took him three weeks\", \"diesel mechanic\", \"Pharm.D. program at St. John's University\", \"five homecooked dinners\". The volunteer section and the conclusion lose this and go abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The family story reads human and slightly clumsy (\"the third lamb of the ewe that always had triplets\"). Tells found: three \"not only... but\" constructions (\"not only a dream for the immigrants... but\", \"not only pursue my dreams but also\", \"will not only affect us but\"), \"In conclusion\", a tidy moral (\"we cannot let the adversities of life hold us back\"), stock phrases (\"forever thankful\", \"wonderful causes\") and a dictionary-definition close. There is also needless repetition: the barefoot walk to school is told twice, and the sister is \"twelve-year-old\" and \"at age 12\" in the same sentence."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the grandparents' emigration, is on topic and detailed but told entirely as summary with no single scene. The second block is an off-topic résumé list of church, library and donation-drive roles, which the rubric flags as a flaw."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is some mechanism in the past: the green card required a \"useful trade\", and that is why the diesel trade got them in. The definition itself is generic and borrowed from the OED. There is no reasoning about today's conditions, cost, or who can still reach the Dream."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on the grandparents, then pivots to a volunteer list and an \"In conclusion\" restatement. The last line, \"For this, I am forever thankful to my grandparents and to the United States for being the land of opportunity.\", is a generic moral and does not return to the opening image of the barefoot walk to school."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the second question directly (+12 on criterion 1 plus the 10-point deduction recovered). Replace the volunteer paragraph (\"My grandparents' story has influenced me... wonderful causes.\") with the writer's actual yes, no or 'yes, but' on whether the Dream is attainable today. Ask the writer for their real view and for real reasons from their own path: what the Pharm.D. costs, whether a trade like their grandfather's diesel work still opens the door, and what is harder now than in the 1950s. Do not supply a position for them.",
+  "Cut the stock phrasing (+8 on voice). Delete or rewrite the three \"not only... but\" sentences, \"In conclusion\", \"I have learned the value of being an overcomer\", \"wonderful causes\" and \"forever thankful\". Remove the second barefoot-to-school sentence and the duplicated \"age 12\". In the clause \"raise him and his brother Cork village\", ask the writer what word or place is missing rather than guessing at it.",
+  "Rebuild the ending (+6 on structure, plus gains on ideas). Cut the OED quote and the conclusion paragraph's moral. End on a real image already in the essay: the grandfather riding the subway for three weeks, his pride as a homeowner, or the free government shoes. Set it beside the writer's St. John's acceptance so that the last line returns to the opening instead of restating the thesis."
+ ]
+}

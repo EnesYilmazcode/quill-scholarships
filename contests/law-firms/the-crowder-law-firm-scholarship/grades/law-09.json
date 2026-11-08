@@ -1,0 +1,54 @@
+{
+ "id": "law-09",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 1141,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2024-winner-luke-zelich",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts get their own section and a clear position: the definition is 'the attainment of enough power to realize one's economic and political goals' and the answer to whether it is attainable is 'The answer, unfortunately, is no.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Names Locke, Google, Apple, Amazon, Microsoft, the IRS and the SEC, but nothing comes from the writer's own life. Several claims are wrong or unsupported: the '99% of our personalities' figure, 'judgeships, which are elected positions,' 'no new American car manufacturers in the last 30 years' (Tesla, Rivian and Lucid exist), and 'no third party since the Civil War has ever won a general election.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real person's clumsy moments come through ('Let's stop here and think about this deeper though', 'a simple as', 'the question remains if the American Dream achievable'). But it leans on 'not X but Y' at least four times ('not about freedom, it is about power', 'not freedom, but constant interaction', 'not the attainment of freedom, but', 'not free... but social beings') and closes with a tidy summary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories. A personal 'how do you define' prompt gets only abstract argument, and the Ford/GM and IRS examples are claims, not a worked case study."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The causal chains are real (wealth leads to lobbying, which leads to weak antitrust enforcement, which shuts out competitors; winner-take-all voting wastes votes and blocks third parties), but they rest on false evidence and repeat familiar arguments without a fresh angle."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the ending opens with 'To summarize' and restates the thesis instead of coming back to the freedom-versus-power image: 'There are simply too many pre-existing forces that have muscled out the average American.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix or cut the false and unprovable claims (-10 deduction, plus specificity). Delete 'Think, why have there been no new American car manufacturers in the last 30 years...' or rewrite it without the false premise, since Tesla, Rivian and Lucid exist. Change 'Even judgeships, which are elected positions in the United States' to name state judicial elections only. Cut 'as much as 99% of our personalities' unless Enes has the source. Soften the third-party Civil War line, or tie it to presidential elections and check it.",
+  "Give the essay a real personal anchor (specificity and stories, about 21 points available). Ask Enes for a true moment from his own or his family's life where money or political access decided what was possible, using his first-gen and financial facts in NUMBERS.md. Put it in the opening paragraph in place of the abstract definition of freedom, and cut the Locke paragraph to two sentences to make room under 1,000 words.",
+  "Remove the AI patterns and rebuild the ending (voice and structure, about 12 points). Rewrite the four 'not X but Y' sentences in paragraphs 1 and 2 as plain claims (for example, 'The American Dream is about power.'). Replace the 'To summarize' paragraph with one or two sentences that return to the opening idea, or to Enes's own case if he adds one, instead of listing the reasons again."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "law-19",
+ "contest": "Ramsay Law Firm Scholarship",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 557,
+ "source_url": "https://www.ramsaylawfirm.com/scholarship-winners/",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts are answered: reason for college ('I made it my mission to contribute meaningfully to educational advancement'), career ('a career as an instructional designer') and the injury's impact. But the reason for college is a slogan, and the essay never says how a workers' comp delay leads to instructional design."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The checkable facts are WGU, ECU, a neck injury on the job, a delayed workers' comp claim, homelessness and 'my last year of middle school'. Everything else is abstract ('bureaucratic delays and systemic inefficiencies'), with no length of delay, no place, no named person and no scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense with AI tells: 'not only a professional milestone, but also', 'not just a trial... but also a rigorous test', 'not only convey knowledge but also foster', 'transformative' twice, 'foster', 'harness', 'indelible mark', 'cornerstone', 'empower', triplets ('accessible, engaging, and effective'), 'In conclusion' and a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one on-topic story (injury, then the delayed claim, then homelessness), but it is told in a single summary sentence with no scene, and four of the seven paragraphs are abstract mission statements."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Intent with no mechanism: 'collaborate with educators and policymakers to implement solutions that can alleviate the adverse effects of systemic delays'. It names no tool, no audience and no change, and never explains why instructional design would fix the workers' comp failure it describes."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are orderly, but the father's injury is buried in paragraph 3 and the essay closes on a generic 'In conclusion' moral: 'By embracing education and technology, I aim to transform obstacles into opportunities, creating a brighter, more inclusive future.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+16 possible): strip every stock construction. Rewrite the three 'not only/not just X but also Y' sentences as plain claims. Delete 'transformative', 'harness', 'foster', 'indelible mark', 'cornerstone', 'empower' and 'profound', and cut paragraphs 6 and 7 ('My passion for education is, therefore...' and 'In conclusion...') entirely. They add nothing the earlier paragraphs don't say. Also remove the title line and the stray opening quotation mark.",
+  "Specificity (+12 possible): replace 'bureaucratic delays and systemic inefficiencies could devastate lives' with the real facts. Ask the writer how long the claim took, where the family stayed while homeless, what his father did for work, and what he himself did that year. Then use those answers in paragraph 3 and open the essay with that paragraph instead of the WGU/ECU résumé sentence.",
+  "Ideas and ending (+9 to +12 possible): in paragraph 5, replace 'collaborate with educators and policymakers to implement solutions' with the one concrete thing he actually wants to build, and say why it would have helped a family like his. Ask him what that is; it might be a plain-language course on filing a claim. Then end on his father or that year rather than 'a brighter, more inclusive future'."
+ ]
+}

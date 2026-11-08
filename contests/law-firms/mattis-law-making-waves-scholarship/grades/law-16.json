@@ -1,0 +1,54 @@
+{
+ "id": "law-16",
+ "contest": "Mattis Law Making Waves Scholarship",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 691,
+ "source_url": "https://www.sdfamilylaw.com/scholarship/scholarship-winners.html",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Challenges get real answers (failed classes, finances) and 'excited to first become a CAN... apply... PA program' covers what she looks forward to. 'How do you plan to apply yourself' only gets 'making up those classes' and 'work this summer', and the social future is never mentioned."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Unfakeable details: the second-grade nurse's 'That's why your stomach hurts,' 'arrested with 1,000 cash,' 'left on the third attempt,' four daughters, dialysis, paralyzed from the waist down. No dates, school name or class names around the study plan."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person, clumsy parts included ('praying to die,' 'here I am'). Tells: three 'not only' constructions, two em dashes, and a generic hobby opener ('I love to dance, swim, and read')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two strong stories (the nurse, and the father's gun plan), but both explain why she chose the field rather than how she will apply herself. The family dialysis paragraph reads as a summary, not a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real mechanism: a doctor's office is 'the least suspicious place for an abuser to suspect an escape,' and shelters can partner with clinics. Her own plan for applying herself has no mechanism beyond 'work' and 'hopefully get a scholarship.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on a hobby list and drifts between motive, research, struggles and money. The last line, 'I have a lot of plans for my future, and I will get there one way or another,' never returns to the nurse or the shelter. Subtotal 66, minus 4 for two em dashes ('survivors—that', 'others—the')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add a paragraph on how she will apply herself, then cut 'I have a lot of plans for my future, and I will get there one way or another' and end on the second-grade nurse instead: as the CNA/PA she plans to be, she won't be the one who says 'That's why your stomach hurts.' Ask Alis for real study habits, which classes she is retaking, and how she plans to balance work hours with school.",
+  "Delete the opener 'Hello, my name is Alis Gutierrez. I love to dance, swim, and read, and I really love the beach.' and start with 'As a young girl in second grade...' so the strongest scene comes first. Also answer the 'social future' part with whatever she actually looks forward to socially (ask her), and fix 'CAN' to 'CNA'.",
+  "Replace the three 'not only... but also' sentences and the two em dashes with plain sentences (e.g. 'My oldest sister has her son, and her father recently moved in...'; 'My family and I are domestic violence survivors. That is why...'). Shorten the dialysis paragraph to the one fact that matters: money for this semester is tight."
+ ]
+}

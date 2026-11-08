@@ -1,0 +1,54 @@
+{
+ "id": "law-10",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2025",
+ "outcome": "winner",
+ "words": 925,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2025-winner-carolina-de-la-torre",
+ "total": 35,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the definition is a textbook one ('the promise of prosperity, success, and upward mobility achieved through hard work') and never the writer's own. The attainability answer is a hedge buried in paragraph 7: 'it is important to acknowledge that the American Dream is not entirely out of reach.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only real facts are 'A Mexican immigrant' and 'ten years ago, he was deported'. Everything else is abstract ('According to recent studies' names no study), and the father has no job, place, year or remembered moment."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "This is interchangeable model prose. Tells: 'deeply ingrained in the fabric of American culture', 'beacon of hope', 'not only disrupted... but also highlighted', 'vividly illustrates', 'underscores', 'exemplifies', 'poignant reminder', 'This essay explores', stacked 'Furthermore/Additionally', and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, the father's deportation, and it is on topic. It is told as a summary with no scene ('The impact of his deportation was profound'), it is pushed to paragraph 5 of 9, and the generic barrier paragraphs carry the essay instead."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names barriers like inequality, education cost and immigration policy, but gives no reason why any fix would work. The ideas stop at a generic list: 'Efforts to reform education, improve economic opportunities, and address systemic barriers are essential.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It is organized as a five-paragraph report, opening on a thesis and closing by restating it. The last line touches the father only as a moral: 'My father's experience serves as a poignant reminder of the challenges faced by many and highlight s the importance of striving for a society where the dream can be realized by all.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice and story (most points): delete paragraphs 1 to 4, the definition, history, mobility and education essays, and the 'This essay explores' sentence, which costs -5 on its own. Open on the deportation paragraph instead. In that paragraph, cut every abstract sentence ('The impact of his deportation was profound', 'This experience underscores...', 'This personal story exemplifies...'). Then ask the writer for the real details to put in their place: his job, the city, the writer's age, and what changed at home the week after. Do not invent any of it.",
+  "Answers the prompt: right after the father's story, add a definition in the writer's own words, drawn from what the family actually lost, and a plain yes or no on attainability with one honest condition. That replaces the hedged 'not entirely out of reach' paragraph. Also cut 'According to recent studies', or ask the writer for the actual source and number.",
+  "Structure and ending: replace the last paragraph, which restates the thesis and ends on 'poignant reminder', with a close that comes back to the father as a person, using a real detail the writer gives from the story above. Fix the 'highlight s' typo, and remove the remaining 'Furthermore/Additionally' openers and the 'not only... but also' line."
+ ]
+}

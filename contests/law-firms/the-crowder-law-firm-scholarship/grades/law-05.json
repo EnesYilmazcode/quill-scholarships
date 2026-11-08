@@ -1,0 +1,54 @@
+{
+ "id": "law-05",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 728,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2023-winner-juan-suarez",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay spends about 700 words defining the Dream and answers whether it is attainable in one closing line with no argument: \"So, would I say that the American Dream is still achievable today? Absolutely, my parents are walking proof\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has checkable résumé facts (age 4, Texas Tech, accounting and finance, eight AP classes, elected Vice President), but the immigration story stays abstract except for \"having to ignore sneers as they spoke Spanish in a public setting\", with no place, year or moment."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Found: stock lists (\"hope, ambition, sacrifice, and resilience\", \"challenges, sacrifices, and endeavors\"), the \"not based on their success but rather mine\" not-X-but-Y pattern, the filler adverb \"truly\", inflated wording (\"ripe young age\", \"encompasses\", \"unwavering determination\", \"graciously carry\") and a tidy moral to close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one on-topic story, the move from Mexico, but it is summarized with no scene, and the longest paragraph is a résumé list (NHS, basketball and rugby, fraternity VP, master's plans) that pushes it aside."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says the Dream is attainable but never explains why it is today, or what makes it harder or easier now; \"I am the American Dream\" is a claim with no reasoning behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but the ending repeats the thesis instead of going back to the day the writer left Mexico at age 4. Last line: \"my parents are walking proof of the American Dream and what is possible, I am the American Dream.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 possible): Rewrite paragraph 5 (\"As a child of Mexican immigrant parents, the American Dream represents a blend of hope, ambition, sacrifice, and resilience... a deep sense of gratitude\"). Cut the lists and abstract nouns and replace them with one or two plain sentences about what the writer's parents actually gave up. Also remove \"ripe young age\", \"truly\", \"graciously\", \"unwavering\" and \"encompasses\" throughout, and turn \"not based on their success but rather mine\" into a direct statement.",
+  "Stories (+9 possible): Cut paragraph 4's résumé list (NHS, leadership mentor program, basketball and rugby, fraternity positions, master's plans) down to one sentence naming Texas Tech and the double major. Spend the freed words on the one real moment already in the essay, the sneers while the parents spoke Spanish, and ask the writer where and when that actually happened. Only use details they confirm.",
+  "Answers prompt and ideas (+8 and +6 possible): Turn the closing \"So, would I say...? Absolutely\" into its own paragraph that takes a position and gives a reason. For example, the Dream is attainable but costs some families more, which paragraph 3 already shows. End on the age-4 departure image so the close loops back to the opening. Also check the line \"I plan on graduating in 2025\", which is out of date for a 2026 submission, and ask the writer for the correct year."
+ ]
+}

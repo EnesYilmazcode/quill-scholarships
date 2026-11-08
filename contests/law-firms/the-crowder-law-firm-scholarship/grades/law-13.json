@@ -1,0 +1,60 @@
+{
+ "id": "law-13",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2025",
+ "outcome": "winner",
+ "words": 976,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2025-winner-katie-hall",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Defines the Dream in line one, but the attainability half is a hedge that contradicts itself: \"Although the American Dream is still attainable today... Is the dream still alive? Perhaps, but it looks quite different.\" The rest of that paragraph complains about modern culture instead of arguing a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong in places: named grandparents (Walter and Martha Lange), ten days on stormy seas, a service station, learning English from newspapers, a washing machine for his mother, a savings account added to each Christmas and birthday. The war hardships are a list, though (\"starvation, hiding from air raids, living in concentration camps\"), and the closing paragraphs have no detail at all."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Typos and earnest phrasing read as a real student, but the stock framing is heavy: \"grit and determination\" three times, \"beautiful legacy\", the slogan \"With great freedom comes great responsibility\", the not-X-but-Y line \"this is not just true for immigrants, but for American society as a whole\", a triplet list of virtues, and \"this great nation\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic family story (the grandparents' immigration) with two small beats (the washing machine, the savings account), but it is told as a summary with no scene. The Thanksgiving and pioneer paragraph is generic filler that pushes the family out of the middle."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "One real reason is given for why giving back belongs to the Dream (it is a way to \"say 'thank you' for the opportunity\"). But the claim that the Dream has changed is asserted with no reasoning: \"our American culture has shifted to be self-sufficient with a focus on entitlement, instant gratification and self-care.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear paragraphs, and the last line returns to the grandparents from the opening: \"I believe my grandparents would be proud to know that their lives and legacy have impacted future generations in keeping the spirit of the American Dream alive.\" It loses a point for the law enforcement line dropped in at the end and the moral-style close."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "dash used as an em dash",
+   "points": 0,
+   "reason": "-2: \"willing to give and serve in various ways – they were active in their church\". Weighted subtotal 63.0 minus 2 gives 61, mid band."
+  }
+ ],
+ "fixes": [
+  "Rewrite the attainability paragraph (\"Although the American Dream is still attainable today... Is the dream still alive? Perhaps\") so it takes one clear position in its first sentence. Then argue it with the grandparents' own path: which of the real steps they took (cleaning houses, the service station job, \"Take care of the pennies\", buying a car and a home) would or would not work for someone arriving today, and why. Ask the writer which comparisons they can honestly stand behind; don't supply facts. This lifts answers_prompt and ideas_mechanism (up to about 17 points).",
+  "Cut the Thanksgiving, colonial and pioneer paragraph (\"I love the stories of the first Thanks giving...\") and use the freed space to slow down the washing machine moment or the savings account, using only details the writer actually knows (when it happened, what his mother said). That turns summary into the essay's one scene and raises stories and specificity.",
+  "Clear out the stock phrasing. Use \"grit and determination\" once at most, delete \"With great freedom comes great responsibility\" and \"this great nation\", rewrite \"not just true for immigrants, but for American society as a whole\" as a plain statement, and replace the en dash in \"various ways – they were\" with a period. This raises human_voice and removes the -2 deduction."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "law-03",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2022",
+ "outcome": "winner",
+ "words": 890,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2022-winner",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Defines the dream plainly ('the hope of a better tomorrow... it's not given, it's earned'), but the attainability half is only asserted ('today it is still alive and well', 'there's no other place in the world') and never argued, with no concession about cost or who finds it harder today."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable details: Zimbabwe hyperinflation, herding cattle, sharing a plate with seven siblings, sleeping 4-5 hours, 2016, rejoining after 16 years, Bayer/Dow/Microsoft, the moldy apartment, two years without running water. The father's business ('a thriving business that has gone on to create another business') stays vague."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has human moments ('you name it', 'Only in America my son'), but tells pile up: 3 em dashes, the antithesis 'it's not given, it's earned', 'navigated', a four-part 'different...' list, filler résumé phrasing ('help realize the impact that has helped people's lives', 'nurture and fuel'), and a tidy moral at the close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories. The father's immigration story is strong and on topic. The second half becomes a résumé recital (three Fortune 500 companies, Rease, the accelerator, the Stanford concentrations) that lists achievements instead of showing the dream at work."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay never explains why the dream is still attainable or what makes it work. It points to two success stories and asserts 'no other place in the world... conducive enough like this', with no reasoning about the conditions behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear and the close returns to the father, but it ends on a generic slogan: 'It lives on in every single person that dares to dream big enough in this amazing country.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt (+8): with the words freed up by fix 2, replace the bare 'today it is still alive and well' and 'there's no other place in the world...' with one paragraph that takes a position on whether the dream is attainable today. Argue from facts already in the essay (the 4-5 hours of sleep, the biases he faced, the decade it took) and admit what it costs. Ask the writer for his real view on whether the path is harder now than it was in his father's time, and for whom.",
+  "Stories (+6): cut the Fortune 500 paragraph and the accelerator paragraph down to one sentence each. Keep Rease only through its true origin (the asthmatic immigrant in a moldy apartment), since that ties the second half back to the immigrant story. Drop the Stanford concentration names ('Technology and Engineering Management or Decision Analysis and Risk Analysis').",
+  "Voice and deductions (+11 in deductions, plus voice): remove all 3 em dashes. Delete 'I share my father's story and mine to provide evidence to the American Dream.' Cut 'it's not given, it's earned', 'navigated', 'help realize the impact that has helped people's lives' and 'nurture and fuel'. End on the father's real line 'Only in America my son' instead of 'every single person that dares to dream big enough in this amazing country.'"
+ ]
+}

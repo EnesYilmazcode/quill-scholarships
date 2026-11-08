@@ -1,0 +1,60 @@
+{
+ "id": "law-08",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2024",
+ "outcome": "winner",
+ "words": 997,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2024-winner-dianne-lee-dunn",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The definition is clear in paragraph one (\"anything is possible if you are willing to work hard\"). Attainability only gets the last clause (\"proof that the American Dream is still very much attainable today, no matter your circumstances!\"), with no argument and no admission of what it costs."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: Colombia, eighteen, a son who turned five two weeks before school started, a nineteen-year delay, a \"Widowmaker\" heart attack in March. The biggest events are only summaries, though: \"literally robbed and then later kidnapped and miraculously released!\" and \"horrific obstacles\" get no scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, with asides like \"What an unrealistic expectation!\", \"flabbergasted\" and \"my husband even teaches there!\". The tells are a \"It's not that... It's that\" antithesis, a four-item values list (\"morality, family, work ethic, and devotion\"), the slogan \"I am the product of the American Dream\", and a moral at the end. There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are at least five stories: the mother's immigration and abandonment, the brother as a lawyer, the sister as a therapist, the homeschooled kindergartener, and the heart attack. On top of that, a full paragraph lists volunteer work like a résumé. None of the stories is told as a scene, and the volunteer paragraph is off-topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay asserts that hard work plus freedom makes the dream possible, but it never explains how. It doesn't say what let the mother rise, what was hard about it, or why it would still work for someone arriving today."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The ending brings the mother back, which echoes the opening, but it closes on a tidy exclamation: \"proof that the American Dream is still very much attainable today, no matter your circumstances!\" The middle drifts through siblings, homeschooling and a list of activities."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "negative disclaimer",
+   "points": 0,
+   "reason": "-5: \"However, I did not intend to wait until the last minute to apply for this scholarship.\" Subtotal 58.0 minus 5 = 53, mid band."
+  }
+ ],
+ "fixes": [
+  "Stories (+6): Cut the volunteer paragraph (\"I have already accomplished a lot... foster care\") and shrink the brother and sister paragraph to one sentence. Use the roughly 200 words this frees up to tell the mother's story more fully, with the facts already in the essay: arriving at eighteen, pregnant and speaking no English, the abandonment, and the rise to Senior Executive. That one story should carry the essay.",
+  "Answers the prompt (+8) and ideas (+6): Move the attainability answer out of the closing clause and into its own paragraph before the heart attack. Argue it from her own evidence: say what the mother's path cost her and what specifically made it possible here (the freedom to choose homeschooling, a degree she can return to after nineteen years). Concede that it is harder for some people, then take a position.",
+  "Voice, structure and the deduction (+5 and up to +4): Delete \"However, I did not intend to wait until the last minute to apply for this scholarship.\" Rewrite \"It's not that we don't appreciate... It's that\" as a plain statement. Replace the slogan ending \"no matter your circumstances!\" with a last line that returns to the eighteen-year-old in the first sentence."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "law-01",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 1139,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2023-winner-grace-schuler",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are answered. The definition is clear: \"putting your knowledge and expertise to work to help others become their best selves\". The attainability answer is a conditional gesture: \"If we agree that the ultimate American Dream is... then yes, I believe anyone can achieve this.\" The real argument only comes in the hospitality section near the end, and about 450 middle words are a Speak Out! résumé."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong on checkable facts: \"Speak Out!\", \"600+ hours\", \"100+ middle-school participants, seven of whom earned tuition scholarships\", \"lector in front of 500 people\", Drexel Women in Business, Rotary International and a sourced Marriott quote. Points lost for the unsourced \"only about 10% of the world's 7 billion people actually enjoy it\" and the pasted URLs, which stand in for detail instead of supplying it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a real person but leans on stock phrasing. Tells: the filler adverb \"truly\" twice; clichés such as \"through hard work and determination, I conquered my fear\", \"make the world a better place\" and \"build up, not knock down\"; the meta setup \"I'd like to share the history of how it came to be with you now\"; and four spaced dashes. No AI vocabulary or chatbot residue."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories. Speak Out! is told as a list of achievements (hours, reach, press links, a list of organizations), and it only connects to the American Dream through the claim that it \"is my achievement of The American Dream so far\". The hospitality coworkers story (same uniform as the day before, arriving hungry, managers providing showers and a meal) is the strongest on-topic material, but it arrives last and is told as a summary with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The hospitality section has a real mechanism: concrete supports (shower, clean uniforms, a free hot meal) lead to loyalty, which leads to \"great retention and commitment\", backed by the Marriott quote. The rest is assertion, for example \"anyone can achieve this, in ways great or small\", with no reasoning about who cannot achieve it or why."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are clear, but the arc wanders: definition, then the speaking story, then an event-planning goal, then coworkers, then Marriott. The last line is \"Thank you for considering me for your scholarship.\" It never returns to the opening adage \"To whom much is given, much is expected.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Move the hospitality coworkers paragraph to the front, or cut the Speak Out! section to about 150 words, so the attainability question gets its argument early. It is the essay's best on-topic material and its only real mechanism. Delete \"I'd like to share the history of how it came to be with you now\", the three URLs, and the 200,000-reach and organization lists, because they turn the story into a résumé (stories +2 levels, answers_prompt +1).",
+  "Replace the closing \"Thank you for considering me for your scholarship.\" with a line that ties the Marriott or coworker point back to the opening adage \"To whom much is given, much is expected\", using only facts already in the essay. Also drop the conditional \"If we agree that...\" and state the attainability position plainly (structure +2 to 3 levels, answers_prompt +1).",
+  "Remove the four spaced dashes (\"Dream – putting\", \"fear – and realized\", \"employ – especially\", \"Dream – from soda\") and use commas or periods instead (+6 deduction recovered). Cut \"truly\", \"through hard work and determination\" and \"make the world a better place\". Either cut the unsourced \"10% of the world's 7 billion\" statistic or ask the writer for its real source (voice +1, specificity +1)."
+ ]
+}

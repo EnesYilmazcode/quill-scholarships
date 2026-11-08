@@ -1,0 +1,54 @@
+{
+ "id": "law-07",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 909,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2024-winner-pedro",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched but late and split. The definition only arrives in the last line ('The \"American Dream\" is the hope that we will live and die for bigger things'), and the attainability answer is one hedged paragraph about the economic version ('they can be obtainable but the costs are way higher'), not about his own definition."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete items are textbook history (1920s, 1929, two wars, Cold War, civil rights). Nothing personal is named: no country, school, class, year or person. 'This can be seen through many examples of people disappointed' names no example."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes or delve-type words, and the non-native phrasing reads as real ('exemption of problems', 'here or out'). But it relies on stock framing: 'profound impacts', 'This has a good and a bad side', 'not only me but the whole world', 'rooted deep within the American soil', and a slogan close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. 'When I learned about US History' and 'Now that I live here' hint at an immigrant arc but get one sentence each, and the essay is carried by a history survey."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "One real mechanism: Hollywood exports a picture of America that both gives oppressed people hope and sells 'an idea of perfection'. The attainability claim ('impossible to have financial stability... without sacrificing') is asserted with no reason or case, and 'turn their eyes to the values' is intent, not a mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The chronological order is clear, but the essay opens on the term's history and ends on a moral ('This is what I will carry here or out as my own.') without returning to the opening image. The first four paragraphs are background before any position appears."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories and specificity (about 15 points available): move 'When I learned about US History, I knew I was looking at a great nation' and 'Now that I live here' to the opening paragraph, and cut paragraphs 2 to 4 (1920s, 1929, Cold War, Hollywood) down to two sentences that only support his argument. Ask Enes for the real nouns behind those two sentences (which country he learned it in, which class or book, when he moved) and use only what he confirms.",
+  "Answers the prompt (about 8 points available): put his definition and a plain yes or no in the first paragraph, and replace the hedged 'If we are talking about these views... I believe they can be obtainable but the costs are way higher' with a direct answer to whether HIS definition ('live and die for bigger things') is attainable today. Back the 'costs' claim with something he has actually seen, or cut it.",
+  "Voice and ending (about 6 points available): cut the stock lines 'shortly after these profound impacts', 'This has a good and a bad side', 'not only me but the whole world witnessed', and fix 'frugal aspects' (wrong word: he means trivial or material). Rewrite the last line so it goes back to wherever the new opening starts (his first encounter with US history) instead of ending on a slogan."
+ ]
+}

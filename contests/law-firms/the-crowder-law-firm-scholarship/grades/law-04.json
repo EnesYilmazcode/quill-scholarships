@@ -1,0 +1,54 @@
+{
+ "id": "law-04",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Fall 2023",
+ "outcome": "winner",
+ "words": 1000,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-fall-2023-winner-anna-la",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get an answer and a clear position (\"I believe that the American dream is now more accessible than ever\"), but the attainability half is one thin paragraph against three on the definition, and it never weighs any obstacle."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are Vietnam, a \"small, southern town\", Berry College and a triple major. Both parents' stories stay abstract (\"had a difficult childhood\", \"lost her degree\"), with no names, places, years or scenes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real voice comes through (\"yes, and how's that going for you?\", \"belonged.\"), but it is buried under a triplet opening, \"fostered\", \"truly love\", \"illuminates my world and guides my judgment\", and long runs of \"I learned that...\". It ends on a balanced antithesis: \"while you are not yet where you want to be, you are not where you used to be\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Three stories are summarized and none is told as a scene: father, mother, and her own arrival. The third paragraph turns into a résumé list (\"leadership roles... public speaking, designing websites, and my podcast\")."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The case for attainability is just \"most homes have access to the internet now\" plus calling people lazy. It never explains how access becomes mobility, and it never squares this with her mother losing her degree."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The opening names curiosity first, but the body takes it last. \"These three words\" closes paragraph 3 rather than the essay, which ends on a generic moral: \"The American dream means numerous things to distinct people, but I am grateful for it and for the opportunity to be able to create my own American dream.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (up to +12): in paragraphs 1 and 2, cut the \"I learned that...\" chains (about eight sentences) and keep the facts already in the essay: she gave up a degree she had earned, left Vietnam, and started over without English. Ask the writer for the real degree, job or year so those lines can name it. Nothing new should be invented.",
+  "Voice (up to +8): cut \"fostered my love for helping others\", \"It is what illuminates my world and guides my judgment\", \"truly love\", and the closing antithesis \"while you are not yet where you want to be, you are not where you used to be\". Keep the blunt lines that sound like her (\"how's that going for you?\") and merge the short \"This is why...\" sentences into one longer sentence in her own voice.",
+  "Prompt, ideas and structure (up to +10): in paragraph 4, replace \"people will use the excuse... laziness\" with reasoning drawn from her mother's lost degree, admitting the path is not equal before saying it can still be done. Then reorder the body to match the opening (curiosity, resoluteness, gratitude). Replace the last line with one that brings back the three words and her parents' first days in America."
+ ]
+}

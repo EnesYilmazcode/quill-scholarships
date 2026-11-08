@@ -1,0 +1,54 @@
+{
+ "id": "law-06",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2024",
+ "outcome": "winner",
+ "words": 1063,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2024-winner-elizabeth-bank",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The definition is clear and revised ('using that opportunity to give brighter futures to others'), but whether it is attainable today gets one closing line, 'the American dream is absolutely alive because I am a living product of it', with no argument and no admission of what it costs."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: 'Over 120 visible Geminid meteors per hour', 38 miles on the Trans-Catalina Trail, 12,441 feet, '50 volunteers and 235.5 hours', Upper Newport Bay, Dean's Honor List. The great uncle's story has no name, city or year, and his disability gets only one clause."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 4 em dashes; 'more than just equal opportunity, but'; 'not as a fairytale, but as a legacy'; the filler words 'truly' and 'incredibly'; the stock phrases 'the greatest gift of all' and 'standing on the shoulders'; a triplet ('language barriers, disapproval, and discrimination'). The middle reads like an awards list."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One strong on-topic story (the great uncle's war, immigration and meteor-shower death), then about 450 words of résumé (BSA treks, awards, the Eagle project, Cool Block, UCI) that only loosely connect to the American Dream."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reframe (opportunity becomes a dream once you use it for others) is a real idea, but the essay never explains why the dream is or isn't reachable today. It states that it is and rests on 'I am a living product of it'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, and it opens on po-po's lap, but the ending restates and thanks the reader instead of returning to her or the meteors. Last line: 'Thank you for this opportunity to continue to share my hope and American dream with my community and the world around me.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 12 points): remove all 4 em dashes. Rewrite 'the American Dream is more than just equal opportunity, but using that opportunity...' as a plain statement. Cut 'not as a fairytale, but as a legacy that I continue to grow', 'truly special', 'incredibly proud', 'the greatest gift of all' and 'standing on the shoulders of my ancestors'. Let at least one sentence about the great uncle run long and plain, the way you would tell it out loud.",
+  "Answers the prompt and mechanism (about 17 points combined): replace the final paragraph with a real paragraph on whether the dream is attainable today. Use only true material, such as what the great uncle's path took (war, giving up his schooling, his family's disapproval) compared with what yours took (UCI, Dean's Honor List). Say plainly what is harder or easier now, and why. Ask the writer for her actual view and any real barrier she has seen; do not invent one.",
+  "Stories and ending (about 8 points): cut the Cool Block paragraph and the lists of awards and treks down to one clause each. Keep only the Upper Newport Bay exhibit, and connect it explicitly to the great uncle's habit of sharing science with others. Delete the 'Thank you for this opportunity' line and end on a true callback to po-po's stories or the Geminid night."
+ ]
+}

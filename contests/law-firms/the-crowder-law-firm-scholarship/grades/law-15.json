@@ -1,0 +1,54 @@
+{
+ "id": "law-15",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 1124,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2026-winner-alexa-ramirez",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The definition gets several paragraphs. The 'attainable today' half gets one garbled line near the end, 'So, do I believe the American Dream is attainable today, but only if we allow it to look different for everyone.' It is a gesture, not an argued position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real anchors exist: El Salvador and Mexico, 'every other winter', the Christ image on the wall, 'sixteen hours a week', Moody, the dad losing his job, the brother at Texas Tech. Whole stretches stay abstract, though, like 'The growing cost of living and educational fees remain challenging' and 'I have also come across many different stories.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 'It is not just my dream, but', 'Not in a way that ever felt wrong, but in a way', 'UT is more than just a school', 'navigate', and filler adverbs ('deeply', 'truly' x4, 'immensely'). Triplets close the paragraphs ('sacrifice, responsibility, and resilience'; 'pride, resiliency, family, and faith'). Human moments like 'my father, as mysterious as he wants to be' get buried."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "About five summarized beats (heritage, identity doubt, church routine, arriving at UT, dad's job loss, Moody) and no scene. The strongest thread, the mother saying 'Gracias a Dios' and blessing the Christ image, is never developed into the spine."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It shows that the dream is hard (16 hours of work, the dad's job loss, two kids in college) but never explains why it is still attainable or what makes it so. 'It is built through sacrifice, responsibility, and resilience' is a slogan, not reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but the essay opens on a generic 'Everybody's definition' list. It closes with a scholarship pitch, 'everything I do is for the individuals who made it possible for me to be here', which restates the theme instead of returning to an image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 12 points): strip the stock framing line by line. Change 'It is not just my dream, but the continuation of my parents' dream' to 'My dream is the second half of my parents' dream.' Cut 'Not in a way that ever felt wrong, but in a way that made me adaptable and proud.' Change 'UT is more than just a school or program. It feels like home because of the people there' to the plain second sentence. Delete every 'truly', 'deeply' and 'immensely', and change 'navigate two different worlds' to 'switch between Spanish at home and English at school' only if that is accurate. Drop the closing triplets ('sacrifice, responsibility, and resilience'; 'pride, resiliency, family, and faith').",
+  "Answer the second question (worth up to 8 points): rewrite the broken 'So, do I believe...' sentence as a direct position, e.g. 'Yes, I believe it is attainable, but not on the terms the phrase promises.' Move it to the top of the money paragraph so the writer's own facts become the argument: sixteen hours a week of work for rent, the dad losing his job this summer, parents also supporting a brother at Texas Tech. Ask the writer what specifically makes them still say yes (what is paying the gap, what has worked) rather than inventing a reason.",
+  "Make 'Gracias a Dios' the spine and close the loop (worth up to 10 points across stories and structure): cut the generic opening list ('For some, it is becoming a homeowner...') and open on the mother saying 'Gracias a Dios' and blessing the Christ image when she leaves the house. Cut the vague 'many different stories' lines in the Moody paragraph. Replace the scholarship-pitch last paragraph with one line that brings back the mother's phrase, now said by the writer at UT."
+ ]
+}

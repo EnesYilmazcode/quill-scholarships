@@ -1,0 +1,54 @@
+{
+ "id": "law-02",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2023",
+ "outcome": "winner",
+ "words": 648,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2023-winner-malia-mancini",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched. The definition gets a garbled opening line, but the attainability question gets only a slogan with no argument: \"So, is the American Dream still attainable today? It absolutely is. Life is what one makes of it.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real proper nouns and numbers (4.22 GPA, Orlando, FL, Rise Dance Club, Tustin Chapter of National Charity League), but they are résumé facts. The one real event, the dad's COVID job change, has no detail at all."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clumsy grammar reads as human (\"shall impede on one's ability\", \"ultimately lead him\"), but it is wrapped in stock lists and slogans: \"a student, a friend, a daughter, a sister, a person\", \"drive, hard work, resilience, perseverance, and love\", \"Work hard, love hard, play hard\", and the filler \"truly amazing\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no scenes. The GPA, dance titles and NCL paragraphs are a résumé recital. The one possible story (dad starting a home business after an insecure COVID job) is a single summary sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The central claim \"anyone who sets goals and defines a path will achieve those goals\" is asserted, never reasoned. Nothing addresses why the dream might be harder now, or what makes it work for some families and not others."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The middle is a list of achievements cut off from the definition. The close restates a generic moral instead of returning to any person or image: \"we will live fulfilled lives, successful lives, and we will have achieved the American Dream.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the dance team, Rise Dance Club and National Charity League paragraphs, about 120 words. Use that space for the family story already in the essay: the dad's COVID job change and the move to a home-based business. Ask the writer for the real details (what the job was, the month it happened, what the business is, what changed at home) so it plays as a scene, not one sentence. This is the core American Dream story the essay already has.",
+  "Rewrite the attainability paragraph (\"So, is the American Dream still attainable today? It absolutely is.\") into an argued answer. Concede what is harder today, which the essay's own facts support (a middle-class family, a job that was not secure), then explain why it is still attainable, using the parents' example as the evidence. Cut the slogans \"Life is what one makes of it\" and \"all else will fall into place\".",
+  "Fix the opening sentence, which currently says the opposite of what is meant (\"anyone... shall impede on one's ability to succeed\"). Make it say that no category should limit anyone's chance to succeed, and tie that definition to the parents. Then cut the stacked lists and filler (\"a student, a friend, a daughter, a sister, a person\", \"drive, hard work, resilience, perseverance, and love\", \"truly amazing\") down to the single quality the family story actually shows."
+ ]
+}

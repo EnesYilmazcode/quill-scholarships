@@ -1,0 +1,54 @@
+{
+ "id": "law-18",
+ "contest": "Mattis Law Making Waves Scholarship",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 412,
+ "source_url": "https://www.sdfamilylaw.com/scholarship/scholarship-winners.html",
+ "total": 28,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The 'how will you apply yourself' part gets a career statement and a course list ('Yoga beginning/intermediate, pilates, and weight training'). Challenges are only implied ('42-year-old single mother of two and full-time student with a full-time job') and there is no plan for facing them. The 'what are you most looking forward to' part is never answered (-10 deduction)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real anchors: 'Nineteen years of sobriety', 'Santa Barbara City College', '42-year-old', 'twin boys', 'ADC classes'. But no professor, course moment, date or scene is named, and most claims stay general ('fallen and gotten up so many times that I've lost count')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice sounds like a real person ('just fascinated by people in general', 'soul tenders'). Tells: 'not only at myself... but also', the filler 'I feel blessed every day', list triplets ('love, smile, communicate'), a stock moral ('just as important as the next') and a letter-style sign-off."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories. The recovery and the professors who 'bent over backward' are stated as claims with no scene, and paragraph 2 is a list of virtues ('the man on the street... my twin boys... a random stranger')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay explains why she chose counseling (her own recovery) but not how she will apply herself or handle the load. 'I strive to help others' and 'I like to touch base on important issues' state intent with no method."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraph 1 is a dense block covering career, sobriety, courses and professors, followed by two short paragraphs that list traits. The essay ends as a letter, 'I thank you for taking the time to read this... one day at a time. Thank you,', and never returns to the counselor goal as an earned close."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add the missing 'looking forward to' answer and bring the essay over the 500-word minimum (it is 412 words, which costs -10 for the length and -10 for the missing part). Ask the writer what she is actually looking forward to, for example a specific ADC course, an internship or practicum, the certification, or her first client as a counselor. Write a new paragraph from her real answer and put it before the closing.",
+  "Replace paragraph 2 ('I have a colorful background... just as important as the next') with a challenges-and-plan paragraph. Ask the writer how a normal week works with full-time work, full-time school and twin boys, and what she does when ADC classes are 'heavy on the heart and mind'. Use her real routine: hours, the schedule she keeps, and who or what she relies on.",
+  "Turn one stated claim into a real scene. Ask the writer which professor 'bent over backward' and what exactly they did, or about one real moment at her counseling and caretaking job. Then change the ending from 'I thank you for taking the time to read this... Thank you,' to a line that comes back to the nineteen years of sobriety and the counselor she plans to become. Drop the letter sign-off and the 'not only... but also' sentence."
+ ]
+}

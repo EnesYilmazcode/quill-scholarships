@@ -1,0 +1,54 @@
+{
+ "id": "law-17",
+ "contest": "Mattis Law Making Waves Scholarship",
+ "year": "2024",
+ "outcome": "winner",
+ "words": 982,
+ "source_url": "https://www.sdfamilylaw.com/scholarship/scholarship-winners.html",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "About 600 of the 982 words list past activities. The challenge part is a gesture ('I am confident I can find the perfect balance'), and 'looking forward to' gets only 'this fresh, new, and exciting chapter of my life'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real numbers and names ('$200', '70+ vigorous hours', 'over $30,000 per year', 'Mayor Darrell Steinberg'), but no dated scene or physical moment anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 'I vividly remember', 'transformative power of education', 'a plethora of awards', 'not only within my school but also', 'will not only unite... but it'll also', 'bigger and better', an em dash, and the slogan close 'Together, let's strive for a change.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, the grandparents' immigration, but it is told as a summary. The rest is a résumé recital (Key Club roles, dances, ASB, Yearbook, LGI), which the rubric flags as off-topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan for applying himself is a city-wide cleanup advertised with 'posters and utilizing social media platforms', which is a generic menu. The answer to the money problem is a full-time campus job with no explanation of how that fits around classes."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay never comes back to the grandparents or the $200. It ends on a generic moral: 'Together, let's strive for a change.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and stories (about 16 points): cut most of paragraphs 4 and 5, meaning the list of Key Club titles, the dance-planning inventory, Yearbook and LGI. Keep one line saying he was Key Club president and ran cleanups. Use the freed 300+ words on the two parts that are now gestures: what a full-time job plus classes will actually look like week to week, and what he is looking forward to at SF State. Ask the writer for the real details (hours, job, schedule, the class or community he wants) instead of filling them in.",
+  "Human voice (about 12 points): delete 'vividly', 'transformative power of education', 'plethora', 'bigger and better', 'spectacular cause' and 'everlasting'. Rewrite both 'not only... but also' sentences as plain statements. Remove the em dash after 'awards'. Fix the run-on 'family and meIf chosen'. Cut the exclamation mark and the line 'Together, let's strive for a change.'",
+  "Structure (about 6 points): replace the final two paragraphs with a close that returns to the opening: the grandparents' $200 and 70-hour restaurant weeks, set beside his own plan to work full time through college. That answers 'apply yourself' with the family's own example and avoids a closing moral."
+ ]
+}

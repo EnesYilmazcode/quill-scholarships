@@ -1,0 +1,54 @@
+{
+ "id": "law-14",
+ "contest": "The Crowder Law Firm Scholarship",
+ "year": "Spring 2026",
+ "outcome": "winner",
+ "words": 907,
+ "source_url": "https://www.crowdercriminalfirm.com/scholarship-spring-2026-winner-carla-suarez-delgado",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It answers both parts plainly and early. The definition is 'freedom, sacrifice, and service', and the essay takes a position on whether the dream is attainable while admitting the cost: 'The path is not equal, and the effort required is often greater.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Real proper nouns carry the facts: Cuba, Nicaragua, Honduras, Guatemala, Mexico, Grand Island, Nebraska, IHOP and the CNA class. But the key moments stay abstract ('I faced fear, exhaustion, and uncertainty every single day', 'many uncomfortable situations'), with no date, quoted line or physical detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It has a lot of stock framing. 'Not X but Y' and 'not just' patterns: 'not about money', 'not handed to you', 'not just a career', 'not only to become... but also'. Triplets: 'resilience, confidence, and responsibility', 'freedom, sacrifice, and service'. There are slogans ('transforming pain into purpose', 'lift others as you rise', 'living proof'), the filler adverbs 'truly' and 'genuinely', and paragraphs that end on a moral. No sentence runs over 45 words, and five words are fused where punctuation is missing ('freedomthe', 'reliefbut', 'youyou', 'careerit', 'transformationfrom')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are four on-topic beats: the journey, the IHOP job, the CNA class and helping new arrivals. Each is told as a summary, with no scene. IHOP comes closest ('went home crying more than once'), but the next paragraph turns it straight into a list of lessons."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names barriers (language, money, discrimination) and shows a real path: a serving job taught the English, and a short CNA class led to nursing. But the case for 'attainable' falls back on 'for those willing to work hard, educate themselves, and remain resilient' instead of explaining why that path works."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and in time order, but the essay opens with a definition instead of a scene. The last line restates the thesis instead of returning to an opening image: 'I am living proof that with determination, resilience, and a desire to help others, the American Dream can still be achieved.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice, worth about 12 points: fix the five fused words with a comma or a period ('It is about freedom, the freedom to become whoever you want to be.', 'I felt relief. I also felt afraid.'). Then cut each 'not X but Y' line: change 'nursing is not just a career, it is a way to serve others' to 'I want to be a nurse.' Change 'the American Dream is not handed to you, you must fight for it' to a plain statement or cut it. Delete the whole 'That job taught me much more than English' paragraph, which only lists lessons, and the slogan lines 'transforming pain into purpose' and 'lift others as you rise'. Remove 'truly' and 'genuinely'. Join two related sentences in the IHOP or border paragraph into one long sentence so at least one runs over 45 words.",
+  "Structure and stories, worth about 8 points: open on the hardest concrete moment already in the essay (the senior-year classroom in Grand Island where they could not follow the teacher, or the IHOP shifts that ended in tears) and move the 'For me, the American Dream is...' definition after it. End on that same classroom or IHOP image set against today's act of 'translating, explaining a form'. Delete the last paragraph, which only restates the thesis.",
+  "Specificity and reasoning, worth about 6 points: in the 'attainable today' paragraph, replace the generic 'opportunities still exist for those willing to work hard...' with the essay's own facts. A serving job paid while it taught English, and a CNA class was a short, reachable first step into nursing. Ask the writer for the real details they already know (the year they arrived, how long the CNA class lasted, which college they attend now) and use only what they confirm. Do not invent any."
+ ]
+}
