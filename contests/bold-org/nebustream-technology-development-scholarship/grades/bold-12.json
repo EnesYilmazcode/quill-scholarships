@@ -1,0 +1,54 @@
+{
+ "id": "bold-12",
+ "contest": "Nebustream Technology Development Scholarship",
+ "year": "August 2026",
+ "outcome": "winner",
+ "words": 559,
+ "source_url": "https://bold.org/students/kiyoshi-yang/",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The wall, how he handled it and how he kept going are all covered, but the last part (how the mindset drives his IT interest today) gets only a closing gesture: \"I'm still pushing through and hoping to make it into Cybersecurity instead.\" It never says why that mindset leads to cybersecurity."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable details are California, AP Computer Science, freshman year and \"a B\". There is no course name, no language, no state he moved from and no single program that failed. \"my programs were running slower than everyone elses\" is a generic claim, not a scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It clearly sounds like a real person: run-on sentences, typos (\"stayed though them\", \"elses\", lowercase \"i\") and honest clumsiness. It has no AI vocabulary, no em dashes and no \"not X but Y\". The closing \"But that was all I need.\" is close to a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic arc: moving away from his CS classes, then falling behind classmates in college. It is told entirely as a summary across \"the next few semesters\", with no single moment, class or assignment shown as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The method of persisting is stated, not explained: \"I used it to decide that I could get to their level if I tried. I stuck with it and studied on my own.\" It never says what he actually changed in how he studied or why it worked."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 1,
+   "reason": "The essay is a single paragraph of about 560 words with no arc. This is the bold-12 anchor file itself. The last line, \"But that was all I need.\", does not return to the opening (the freshman intro class or the move)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+12 possible). Replace the generic lines with real names from Enes. Ask him for the state he moved from, the name and language of the freshman intro class, the college course where he \"barely passed the class with a B\", and one real assignment that failed or ran slower than his classmates' (what it was meant to do and what went wrong). Put the course and assignment into the sentences \"I stuck with it and studied on my own\" and \"my programs were running slower than everyone elses\". Also ask whether a B was really \"barely passed\", or rewrite that phrase so it is accurate.",
+  "Cut the two negative disclaimers (+10 deductions recovered). Delete \"I recognize my ability to code is worse than the average student but i still pushed on\" and \"that put me in a spot where I knew I was the worst student in those classes\". Replace them with the plain fact of the gap, such as \"most of my classmates had already taken AP Computer Science\". The essay can keep the struggle without ranking himself last.",
+  "Ideas, prompt part 4 and structure together (+9 ideas, +8 answers, +8 structure possible). Split the block into 4 paragraphs: the move, the first college class, what he did to keep going, and why he is choosing cybersecurity. In the third paragraph, swap \"I could get to their level if I tried\" for the concrete thing he really did differently (ask Enes: office hours, a study group, rewriting assignments, specific resources). In the last paragraph, ask Enes why cybersecurity fits the stubbornness he describes. End by tying it back to the freshman intro class he had to leave, instead of \"But that was all I need.\""
+ ]
+}

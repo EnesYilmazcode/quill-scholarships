@@ -1,0 +1,54 @@
+{
+ "id": "bold-11",
+ "contest": "Nebustream Technology Development Scholarship",
+ "year": "August 2026",
+ "outcome": "winner",
+ "words": 450,
+ "source_url": "https://bold.org/students/jada-jackson-56/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The wall, the handling and the keep-going parts are covered, but the CS part only gets a gesture: \"As I continue to learn about the world of computer science, I take my lessons and struggle with me.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real details (\"AP Calculus AB\", \"a dark blue F in my digital gradebook\", the second-grade tutor), but the recovery has no grade, no concept, no tutor name and no number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: \"a sign of strength, not weakness\" (antithesis), \"not only improved my grade but also\", the triplet \"resilience, humility, and perseverance\", \"meticulously\", the slogan \"nothing worth fighting for ever is\", a tidy moral paragraph, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (failing the AP Calc test). The F gets a real scene, but the comeback is a summary: \"Step by step, I relearned the concepts, rebuilt my confidence, and finally saw my efforts pay off.\""
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Studying alone did not work and tutoring did, which is real reasoning, but it turns into stock lessons (\"setbacks do not define my abilities\"), and the essay never explains how this mindset drives an interest in cybersecurity."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 15,
+   "score": 2,
+   "reason": "The paragraphs run together with no breaks, and the essay opens on \"I thought I had conquered my fear of math\" but ends on a generic moral that never comes back to that: \"knowing how to persevere in the face of challenge will help guide me through my next four years as a student.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about +12): delete the lesson block from \"This experience taught me that even 100% effort does not guarantee success\" through \"keep me grounded and prepared to pursue my goals.\" Put one or two plain sentences in its place, using the writer's real answers: what grade they ended the year with, and what the tutor did differently from studying alone. Cut \"meticulously\", \"not only...but also\", \"strength, not weakness\" and \"nothing worth fighting for ever is\".",
+  "Answers the prompt (about +8): the CS paragraph is only a promise. Ask the writer for one real moment in computer science or cybersecurity (a lab, a bug, a class, a CTF) where they caught themselves going 'I can do it alone' and asked for help instead. Put that moment in place of \"As I continue to learn about the world of computer science, I take my lessons and struggle with me.\" Only use it if it really happened.",
+  "Structure and specificity (about +6): add paragraph breaks after \"overcome my fears.\", \"overcome my fear.\", \"such a blow.\" and \"pay off.\". Then rewrite the last sentence so it comes back to the opening line (\"I thought I had conquered my fear of math\") or to the dark blue F, instead of \"my next four years as a student.\""
+ ]
+}

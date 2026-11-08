@@ -1,0 +1,54 @@
+{
+ "id": "boldb-19",
+ "contest": "Jeannine Schroeder Women in Public Service Memorial Scholarship",
+ "year": "June 2023",
+ "outcome": "winner",
+ "words": 577,
+ "source_url": "https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names concrete work early and plainly ('started my social activist group with my Uncle Wayne in 2014', 'offer spare rooms in my apartment', library volunteer), but the Kensington drug paragraph drifts into opinion ('It's only a matter of time') with no work of his attached."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Good proper nouns and numbers (Richard Allen projects, Uncle Wayne, 2014, every Thursday, Mcpherson Square Branch, Kensington), but no scene, date or physical detail around the central events; the murders get one abstract sentence."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as a real person, with clumsy honest lines ('This is astonishing'), but it has one em dash ('heart and mind — not the pocket'), stock lines ('go for it and pursue their dreams', 'break to this vicious cycle'), a tidy closing moral, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told. The strongest material ('At the ages of 10 and 14, I saw people in my neighborhood murdered', the police honking) is summarized in a line each, and the library and contractor lines read as a résumé list."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasoning is intent without a mechanism: 'raise people's levels of consciousness', 'Preventing drug use could raise their consciousness'. It never explains how protests, sign-holding or housing people actually change an outcome."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs wander from activism to housing to library to Kensington drugs, and the ending is a generic moral that never returns to the Richard Allen projects: 'Motivation is only temporary while inspiration can stay with someone forever and enable them to change within themselves.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+9): Pick one true moment and tell it as a scene in paragraphs 2 or 5. Either the age-10 or age-14 event in the Richard Allen projects, or a real Thursday protest where a police car honked. Ask the writer for what actually happened (where, who, what was said), and cut the generic library line 'Whatever they want to be, they should go for it and pursue their dreams.' to make room.",
+  "Mechanism (+9): Replace the Kensington paragraph's 'Preventing drug use could raise their consciousness... It's only a matter of time.' with how his own work actually reaches people. Ask the writer for the real facts: how many people attend on Thursdays, how many people he has housed and for how long, and what 'assisting people in getting programs' concretely involved. Say why that works where other efforts don't.",
+  "Ending and voice (+6, recovers the -2 deduction): Cut the final motivation/inspiration paragraph and end on an image that returns to the opening, such as the Richard Allen projects or the 10-year-old reading Malcolm X, set against what his group does now. Change 'heart and mind — not the pocket' to 'heart and mind, not the pocket'."
+ ]
+}

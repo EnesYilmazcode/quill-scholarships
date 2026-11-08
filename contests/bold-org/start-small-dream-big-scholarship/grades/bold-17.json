@@ -1,0 +1,60 @@
+{
+ "id": "bold-17",
+ "contest": "Start Small, Dream BIG Scholarship",
+ "year": "March 2026",
+ "outcome": "winner",
+ "words": 415,
+ "source_url": "https://bold.org/students/tayloramery/",
+ "total": 35,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Each part gets its own block: the idea ('opening my first coffeehouse and cocktail bar'), the money ('equipment purchases, initial inventory, licensing and permitting costs') and the theme ('I am starting with one location, one community'). The 'about yourself' part is only 'a 21-year-old entrepreneur from a small town in Connecticut'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There is no town name, café name, dollar figure, past job, date or menu item. The only proof of preparation is 'hands-on experience, research, and planning' and 'years of preparation', and neither says what was done."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: filler adverbs ('deeply resonates', 'thoughtfully sourced', 'executing thoughtfully'); not-X-but-Y framing ('a deliberate step into entrepreneurship rather than a spontaneous venture', 'prioritizes sustainability over rapid expansion'); triplets ('gather, connect, and feel a sense of belonging', 'endures, grows, and continues'); stock words ('curated', 'lasting economic and social impact', 'critical role'); and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. 'Entrepreneurship has been a natural strength of mine from an early age' claims a story but never tells one."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "One real mechanism ('operating across multiple dayparts... to increase revenue stability'). The rest is a list of costs with no amounts, no reason the town needs this café, and no plan for 'controlled overhead'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay uses three paragraphs although the prompt says 'two paragraphs or less'. The last line restates the thesis instead of returning to an opening image: 'continues to serve the community that inspired it in the first place.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "stated length/format limit exceeded",
+   "points": 0,
+   "reason": "-10: the prompt allows 'two paragraphs or less' and the essay has three (the scholarship paragraph and the theme paragraph are separate blocks). Subtotal 45.0 minus 10 = 35, low band."
+  }
+ ],
+ "fixes": [
+  "Specificity (+12 possible): replace 'Through hands-on experience, research, and planning' and 'This project represents years of preparation' with the real facts. Ask Enes for the town's name, the café or bar jobs he has held and for how long, any real numbers he has (startup budget, cost of the espresso machine, lease quotes, hours planned), and a working name for the place. Then in the scholarship paragraph, swap the generic list 'equipment purchases, initial inventory, licensing and permitting costs' for which of those costs this award would actually cover and how much it is.",
+  "Voice (+12 possible): cut 'deeply', 'thoughtfully' (twice), 'curated', 'critical role', 'lasting economic and social impact', and both 'rather than' contrasts. Break up the triplets 'gather, connect, and feel a sense of belonging' and 'endures, grows, and continues'. Write the theme paragraph the way Enes would say it out loud, and join two short sentences into one long one so at least one runs past 45 words.",
+  "Structure and stories (+10 deduction, +6 structure, up to +12 stories): merge into two paragraphs, with paragraph 1 covering who he is and the idea and paragraph 2 covering the money and the theme. Ask Enes for the real reason he is drawn to coffeehouses, such as a specific place or job, and if one exists, use it to replace 'Entrepreneurship has been a natural strength of mine from an early age'. Then end on that same real place or person instead of 'the community that inspired it in the first place'."
+ ]
+}

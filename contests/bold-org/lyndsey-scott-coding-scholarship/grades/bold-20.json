@@ -1,0 +1,54 @@
+{
+ "id": "bold-20",
+ "contest": "Lyndsey Scott Coding+ Scholarship",
+ "year": "May 2025",
+ "outcome": "winner",
+ "words": 543,
+ "source_url": "https://bold.org/students/njeri-gachoka/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers all three parts: CS goals ('I aim to pursue a PhD in robotics and artificial intelligence'), non-CS interests (Formula SAE, furniture, Kenya housing) and how they combine ('applying computational techniques to revolutionize architectural design'). But the non-CS half lists activities and never states a goal, and the PhD goal is repeated."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real proper nouns (First Tech Challenge, VEX, the UCSC autonomous vehicles subteam, Formula SAE Electric, Kenya, CAD), but there are no numbers, no named robot, car or furniture piece, and no fact about a single housing design."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy AI phrasing: 'irresistible urge', 'profound satisfaction', 'intricate dance between hardware and software', 'invaluable lessons', 'crystallized my belief', 'perfect synthesis', 'push the boundaries', 'revolutionize', and 'isn't just about writing code; it's about'. It also has a stack of triplets, a tidy moral at the end, and dashes used as em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero stories told as scenes. The Kenya housing work with his father, the best material here, is summarized in abstractions ('balance structural integrity, cost-effectiveness, and cultural considerations'), and the rest is a résumé list of teams."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The combined goal ('systems that combine generative AI, physical modeling, and real-world constraints to rapidly iterate on building designs') is a buzzword menu. It never says what problem in low-cost housing it solves, why current tools fail, or who would use it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, and the ending returns to the opening theme of building, but as a restated moral instead of an image: 'to use technology and engineering to solve real-world problems and improve lives.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 12 points): cut or rewrite every stock phrase in plain words. Replace 'irresistible urge', 'profound satisfaction', 'intricate dance', 'invaluable lessons', 'crystallized my belief', 'perfect synthesis', 'push the boundaries' and 'revolutionize'. Delete the 'isn't just about writing code; it's about' sentence. Replace the three spaced dashes ('high school – first', 'fundamentally human – it's', 'to be human – it's') with periods or commas, which also recovers the 6-point dash deduction. Let at least one sentence run long and plain, the way Enes talks.",
+  "Story and specificity (worth up to 17 points): make the Kenya housing paragraph the center of the essay and move it to the top in place of the generic 'From a young age' opener. Ask Enes for the real facts of one design: where it is for, a real cost or material number, and one decision he and his father argued over or changed. Then tell that one moment and cut the furniture and Formula SAE lines down to a clause each.",
+  "Ideas (worth up to 9 points): in the 'Looking to the future' paragraph, delete the repeated 'which is why I plan to pursue a PhD in robotics' sentence and 'push the boundaries'. Tie the generative-design goal to the one real problem from the Kenya work (for example, how long one CAD iteration takes them now, if Enes can confirm it). Say what the tool would do that the current CAD workflow can't, and who would use it. End on that housing image, not on the 'to build is to be human' moral."
+ ]
+}

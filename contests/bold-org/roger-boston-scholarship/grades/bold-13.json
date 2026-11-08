@@ -1,0 +1,54 @@
+{
+ "id": "bold-13",
+ "contest": "Roger Boston Scholarship",
+ "year": "October 2022",
+ "outcome": "winner",
+ "words": 472,
+ "source_url": "https://bold.org/students/griffin-matejka/",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get an answer: the goal is 'a computer science degree at Lincoln Land Community College. My main focus is cybersecurity', and the help is 'continue to go to school full time for the spring semester'. But the goals don't appear until paragraph 4, and how the scholarship helps gets only three sentences at the end."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns: '16 year old Dell Latitude D620', 'failed hard-drive', 'gardener II', 'Washington Park Botanical Garden', 'Commodore 64 lab', 'Java and C++'. The course paragraphs fall back to abstractions like 'the care that is put into each course'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real human moments ('(with varying degrees of success.)', 'I just couldn't bear to see it go'). But the essay opens with a stock line ('I have always been fascinated by technology'), uses filler ('really', 'especially', 'particularly'), a tidy moral ('This experience was very rewarding'), a triplet ('complete my degree faster, start my career sooner, and spend more time with my family') and 'incredible blessing'. Some 'appreciate' and 'enjoy' words repeat, and no sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "The laptop repair is the right story but is told as a summary with no scene. The clock teardown, printer troubleshooting and plant questions spread attention across four small beats, and the horticulture-teaching material is off the academic-goals topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says the aid allows full-time study and therefore 'complete my degree faster', but never explains why cybersecurity, or how networking and criminal law connect to it. The aid-to-goal link is stated, not reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraph 4 ends on 'the computer programming course that I took last semester' and paragraph 5 restarts with 'Last semester...', which is redundant. The close is a generic thank-you that never returns to the circuit boards or the D620: 'Thank you for your time, consideration, and generosity!'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ending and mechanism (paragraph 6): cut 'My family is very important to me, so I would consider any aid to be an incredible blessing. Thank you for your time, consideration, and generosity!' Move 'Your generosity would allow me to continue to go to school full time for the spring semester' up into paragraph 4, right after the cybersecurity sentence, so the goal and the help sit together. Close by returning to the D620 the opening set up: you are still doing schoolwork on a 16-year-old laptop you rebuilt yourself, and finishing the degree full time is the next step. Use only facts already in the essay.",
+  "Voice (paragraphs 1, 2 and 6): delete 'I have always been fascinated by technology.' and open on 'As a child, I would puzzle over old circuit boards...'. Cut 'Eventually, this curiosity turned into a passion.' and 'This experience was very rewarding'. Strip 'really', 'especially' and 'particularly', and break up the closing triplet. Merge two short sentences in the laptop paragraph into one longer, natural sentence so at least one sentence runs over 45 words.",
+  "Structure and stories (paragraphs 3 to 5): cut the duplicate 'I especially appreciated the computer programming course that I took last semester' and merge paragraphs 4 and 5 into one paragraph built around the Commodore 64 lab. In paragraph 3, cut the horticulture-teaching sentences and keep only the printer troubleshooting for your manager, as the bridge from repairing devices to helping people with technology."
+ ]
+}

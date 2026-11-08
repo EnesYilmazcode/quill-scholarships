@@ -1,0 +1,54 @@
+{
+ "id": "boldb-16",
+ "contest": "Jeannine Schroeder Women in Public Service Memorial Scholarship",
+ "year": "June 2025",
+ "outcome": "winner",
+ "words": 441,
+ "source_url": "https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Answers in the first line: \"I am working to address the critical issue of low youth voter turnout\". It names a real role, \"Community Organizer with Rhizome\", but the \"how\" is a list of activities and never says what the writer personally did."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some details can be checked: Rhizome, Nashville, Tennessee State University, the Census figures (50% vs 66%) and the Student Voice Campaign. But there are no names, dates or counts of students registered or workshops run, and the writer's own work stays abstract: \"workshops, storytelling sessions, and community events\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Heavy AI patterns. \"not only affects... but threatens\"; \"isn't just to increase voter turnout—it's to build\"; \"isn't a seasonal effort... it's a sustained movement\"; \"doesn't just inherit... but actively builds\". Also the filler word \"truly\", the stock line \"planting seeds of agency\", the triplet \"too young, too powerless, or too disconnected\", one-line slogan paragraphs, and the closing slogan \"Our voices are strong. Our votes are louder.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "No story told as a scene. The essay claims one (\"grew up feeling unheard and overlooked\") and never shows it. The Student Voice Campaign is summarized, not told, and no student, conversation or moment appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Lists the causes (\"lack of political education, voter suppression tactics, apathy\") but never ties a cause to a specific fix or explains why the fix works. The plan is the generic \"write policy that makes voter registration and civic education more accessible nationwide\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are clear, but one-line punchline paragraphs break up the flow. The ending is a slogan, \"And we are just getting started.\", and never comes back to the opening line about feeling \"unheard and overlooked\"."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 to +16 points): cut every contrast frame. Change \"not only affects our democracy but threatens...\" to one plain claim. Delete the paragraph \"Our goal isn't just to increase voter turnout—it's to build lifelong civic engagement.\" and the whole \"To me, empowering youth voters isn't a seasonal effort...\" paragraph. Remove \"truly\" and \"planting seeds of agency and confidence\". Replace all 6 em dashes with commas or periods, which also wins back the 6-point deduction. Merge the one-line paragraphs (\"That's why I've committed...\", \"But what remains true is this...\") into the paragraphs around them.",
+  "Specificity and story (+8 to +10 points): in the Rhizome paragraph, swap the list \"workshops, storytelling sessions, and community events\" for what the writer actually did and how much of it, such as the real number of students registered, the schools or event, and one issue a student actually organized around. Ask the writer for the real figures and the real moment rather than supplying any. Cut the Census paragraph down to one sentence so this real work has room.",
+  "Ending (+4 points): delete \"Our voices are strong. Our votes are louder. And we are just getting started.\" and end on the opening's \"grew up feeling unheard and overlooked\", tied to the writer's real current work at Rhizome. Also cut \"But more than that... too young, too powerless, or too disconnected\" so the ending is not a triplet."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bold-14",
+ "contest": "Scholar Dudes in Computer Science Scholarship",
+ "year": "March 2023",
+ "outcome": "winner",
+ "words": 402,
+ "source_url": "https://bold.org/students/andre-o-harris/",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The answer is only stated outright in the first and last lines ('computer science chose me' and 'because it's what my everyday life is based on'). The middle lists projects without saying why they led to a CS degree."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong concrete detail: 6th grade STEM school, Scratch until 2020, mining tycoon ported to Unity, the particle system, a Mersenne prime finder in Snap then C#, and the ATM with a 16-digit card and 4-digit PIN. The feelings stay generic ('deep interest', 'proud of my progress')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Plain and mostly human, but it has a stock opener ('computer science chose me'), the filler 'deep interest', flat verdicts ('The decision was wise', 'I am proud of my progress so far') and an 'Overall,' close. No sentence reaches 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no scene, only a list of four projects (tycoon game, magic survival game, prime finder, ATM). The mining tycoon that 'grew so complex' is the one possible story, and it is told in two lines."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay shows that he kept building things but never explains why. Nothing says what about the tycoon outgrowing Scratch or the prime finder made CS the degree, and the mental health app is only named."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are orderly and chronological. The last line, 'Overall, I chose to pursue a degree in computer science because it's what my everyday life is based on, and my interest in what is possible continually grows.', restates the answer instead of returning to 'computer science chose me' or the video games."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Story and reasoning (+12 possible): Expand the mining tycoon sentences in paragraph 2 into the one real story: the moment the game got too complex for Scratch and he had to move it to Unity. Ask Enes what actually broke or ran out in Scratch and what learning Unity felt like, then say plainly that this is when coding stopped being a class assignment. To keep within the 400-word minimum, cut most of the ATM paragraph's feature list (register, log in, withdraw, deposit, log out) and the line 'I have no other Visual Studio projects in the works right now, but I am searching for ideas on programs to create.'",
+  "Answering the prompt and the deduction (+5 to +9): Delete 'I don't have a clear career goal right now' (-5 negative disclaimer). Ask Enes why a mental health app matters to him and put his real reason in one sentence, so the career goal ties back to why he picked CS.",
+  "Ending and voice (+4 to +8): Replace the 'Overall, ...' closing sentence with a line that returns to the opener, 'computer science chose me', by way of the actual games (from Scratch to a Steam release he is aiming for). Also cut 'deep interest', 'The decision was wise' and 'I am proud of my progress so far', and let the details carry those points."
+ ]
+}

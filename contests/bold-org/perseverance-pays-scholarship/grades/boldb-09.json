@@ -1,0 +1,54 @@
+{
+ "id": "boldb-09",
+ "contest": "Perseverance Pays Scholarship",
+ "year": "September 2022",
+ "outcome": "winner",
+ "words": 230,
+ "source_url": "https://bold.org/scholarships/perseverance-pays-scholarship/",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Names the challenge and how it blocks the dream ('keeps me from continuing my studies for my Bachelors in Biology'), but the strength part gets one sentence: 'the little thought of hope that started to shine recently with a new job in animal care.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete anchors are 'Bachelors in Biology' and 'a new job in animal care'. There are no dates, places, names or physical moments, and the depression is described in general terms ('cannot get out of bed')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Clearly human: clumsy wording and typos ('loose motivation', 'once and a while', 'do impulsive and risky choices'), no em dashes, no AI vocabulary or contrast tics. It loses a point for stock lines ('Depression is no joke', 'the void of depression') and for having no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no scene, only claims of a situation. Three sentences describe depression in general ('Depression makes someone loose motivation...') instead of the writer's own experience, and the job that gives hope is mentioned in passing."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says that hope came from the animal care job but never explains why or how it gave the writer the strength to keep trying. The cause-and-effect lines are generic statements about depression."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 1,
+   "reason": "A single block with no paragraphs. It opens on strangers' smiles and ends on 'continue my college education with a little bit more ease', with no return to the opening image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the three generic sentences in the middle ('Depression is no joke...', 'Depression makes someone loose motivation...', 'Depression also makes you do impulsive...'). Use that space for the strength part, built from the writer's own real account of the animal care job: what they do there and why it brings back hope. Ask the writer for these details rather than supplying them. This lifts answers_prompt, stories and reasoning together.",
+  "Split the block into three paragraphs: (1) the hidden struggle behind the smile, (2) how the illnesses and money problems stalled the Biology degree and work with animals, (3) the job and what it changed. End by returning to the opening line about smiling while hiding something, instead of 'with a little bit more ease'.",
+  "Fix the errors: 'loose' to 'lose', 'once and a while' to 'once in a while', 'do impulsive and risky choices' to 'make impulsive and risky choices', 'illnesses that makes' and 'issues that makes' to 'make', and 'Bachelors' to 'bachelor's degree'. Also cut the vague 'and many more illnesses' and the hedging 'Hopefully' at the start of the last sentence."
+ ]
+}

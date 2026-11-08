@@ -1,0 +1,54 @@
+{
+ "id": "bold-16",
+ "contest": "Spark the Change Scholarship",
+ "year": "May 2026",
+ "outcome": "winner",
+ "words": 563,
+ "source_url": "https://bold.org/students/cjcariaso/",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Past giving back gets four paragraphs. The future plan ('scale the impact... into a nationwide organization') and the academic goal ('study business') only get one sentence each, in a closing paragraph that reads like a pasted summary."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has real proper nouns (U.S. Olympic Training Center in Chula Vista, TrainChulaAZ, Tucson, USABMX certified, gumball machine, aerodynamic number plate) but no numbers at all: no rider counts, trip counts, years or league size."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The Celine Dion line sounds human, but the rest has many tells: 'not a payday, but hearing' (not X but Y), the slogan 'Purpose, not profit, is the true gold medal', five list triplets ('leadership, organization, and execution', 'discipline, confidence, teamwork, and resilience'...), 'values that extend far beyond the track', 'one of the most meaningful ways', and a tidy moral. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Five summarized items (vending, number plate, coaching, Chula Vista trips, Beginner League) read as a résumé tour. None is told as a scene, and the vending and number-plate ventures are only loosely tied to giving back."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Chula Vista piece has a real mechanism (Arizona has no pro-level track, so he organized group trips there and that became a club). Reusing old prototypes as clinic rewards is a nice concrete touch. The future plan is a generic 'nationwide organization' with no revenue model, first step or reason it would work."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The 'real mansion worth building' line pays off the opening, but then another paragraph follows that restates the essay. The actual last line is a list: 'using sport to teach confidence, discipline, and opportunity to the next generation.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Criterion 1 plus 4, about 9 points: move the last paragraph's plan and academic goal up to sit right after the Beginner League paragraph and give them a full paragraph of their own. Ask Enes for the real details: which school and business program, what the first step toward more leagues is (a second city? a fee or sponsor model that pays for it?), and how the business funds the free or community side. Then cut the closing recap paragraph so the essay ends on the mansion line.",
+  "Criterion 3 plus 2, about 8 points: cut 'For me, the true reward is not a payday, but hearing...', 'values that extend far beyond the track', and 'Coaching quickly became one of the most meaningful ways I could give back'. Trim each triplet to the one word that is actually true for him. Swap 'Purpose, not profit, is the true gold medal' for a plain sentence. Ask Enes for real numbers to fill the space: riders coached weekly, trips organized, riders in the Beginner League, and the year each started.",
+  "Criterion 4, about 6 points: cut the number-plate venture to one clause (or drop it) and keep the vending detail only where it pays off, in the nutrition line. Spend those words telling the Chula Vista story with real facts from Enes: what he actually did to get access and what 'contributing to the reopening' concretely meant. Also fix the contradiction where vending is called 'profitable' but then 'these ventures did not succeed financially'. Ask Enes which one is true."
+ ]
+}

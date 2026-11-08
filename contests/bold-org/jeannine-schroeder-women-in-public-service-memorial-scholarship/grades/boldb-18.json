@@ -1,0 +1,54 @@
+{
+ "id": "boldb-18",
+ "contest": "Jeannine Schroeder Women in Public Service Memorial Scholarship",
+ "year": "May 2024",
+ "outcome": "winner",
+ "words": 600,
+ "source_url": "https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/",
+ "total": 40,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The work is listed, but the essay never names one social issue. It moves between criminal justice, gun control and immigration ('I advocated for immigration reform... memorandums that promoted gun control... hearings that promoted criminal justice reform'). The answer starts only after about 60% of the essay."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The backstory has solid details: 'Addis Ababa, 1999', '300 dollars', 'Aurora, Colorado', 'George Junior Republic School', 'Congresswoman Diana DeGette'. The work itself has no numbers, no named young person or letter, and no outcome: 'I cook and bake with youth involved with the prison system to uplift them'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Overwritten stock imagery throughout: 'copper-colored eyes', 'rough carbon rock... gleaming diamond', 'seeds of courage implanted within my heart', 'my ears tingled with fascination'. There is a stock pivot ('However, I cultivated these feelings into action'), a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One full story, the mother's flight and the ring, is about immigration and courage, not the issue the writer works on. The actual work is a résumé list of four activities (Compass, STRONG Youth, Prison Reform Education Project, the DeGette internship) with no scene in any of them."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is intent and activity but no reasoning. The essay never says why cooking clubs or published inmate letters change anything, what problem they fix, or what came of them ('to spread awareness of the criminal justice system's horrors')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay opens and closes on the Capitol and the ring, but the order is muddled: the Capitol scene comes first, then Cornell, then 'I took a deep breath as I walked into the Capitol'. The last line is a moral: 'As I wear the ring of my mother's affliction, I am reminded of its igniting courage.' Deduction: -10 because a fact cannot be true. 'Sixteen years after her transition, it is now 2014' contradicts 'Addis Ababa, 1999', which is 15 years earlier."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the date error in 'Sixteen years after her transition, it is now 2014'. 1999 to 2014 is fifteen years, so ask the writer which year or count is correct. This recovers the 10-point deduction.",
+  "Cut the mother's backstory (paragraphs 2 through 4: the Addis Ababa flight, the motel and the 'carbon rock... diamond' line) down to two or three sentences. Use the space for one activity told in full, ideally the Prison Reform Education Project letters or the Compass clubs at George Junior Republic. Ask the writer for a real letter or session they remember, real counts (letters published, students, sessions) and why that work matters to the issue. Name one issue plainly near the top (for example, criminal justice reform). This lifts stories, ideas and answers-prompt by about 20 points.",
+  "Remove the purple prose and stock phrasing: 'blood-stained white marble steps', 'copper-colored eyes', 'light-brown right hand', 'ears tingled with fascination', 'seeds of courage implanted within my heart', 'However, I cultivated these feelings into action'. Replace the closing moral with a plain line that brings back the ring or the Capitol through something the writer actually did there. This lifts voice and ending by about 14 points."
+ ]
+}

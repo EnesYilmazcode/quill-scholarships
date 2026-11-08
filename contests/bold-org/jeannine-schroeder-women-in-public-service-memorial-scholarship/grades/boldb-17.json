@@ -1,0 +1,54 @@
+{
+ "id": "boldb-17",
+ "contest": "Jeannine Schroeder Women in Public Service Memorial Scholarship",
+ "year": "May 2024",
+ "outcome": "winner",
+ "words": 500,
+ "source_url": "https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The social issue (recidivism driven by untreated trauma) is named, but the 'how are you working' part is mostly a plan for later ('I aspire to transition into a role where I can implement trauma-informed mental health programming') rather than what the writer does now."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable fact is 'five-year anniversary as a Correctional Officer'. There is no facility, no program name, no inmate interaction, no course or degree, and no number beyond that one."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "AI tells throughout: 'delving', 'profound impact', 'fostering', 'truly confront', 'meaningful impact', and the 'not just as an enforcer of rules but as a catalyst' construction. One real human line survives: 'her pain is still her primary motivator'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero scenes. The mother's trauma and the writer's own ('not valuable unless I was achieving') are each a one-line summary, and no moment from five years on the job is ever shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It spots why the current fix fails ('perpetuates a cycle of punishment... limiting their opportunities for growth'), then offers only 'trauma-informed mental health programming', with no specific program, no one who runs it, and no reason it would work."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clearly ordered, and the ending echoes 'community at large' from the opening, but as a generic moral: 'fostering change that resonates inside of institutions, as well as in the community at large.' It does not return to the mother or the officer."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story (up to 21 pts): in paragraph 3, replace 'I have seen firsthand... the profound impact of trauma on individuals' with one real exchange with an incarcerated person from the five years. Ask the writer for the actual moment, what was said, and the unit or facility. Also ask what 'my knowledge and practice in the field of psychology' actually means (a degree, a course, a certification, and where) and name it.",
+  "Voice (up to 12 pts): cut 'delving into the root causes... was necessitated' (paragraph 2), 'profound impact' (paragraph 3), 'not just as an enforcer of rules but as a catalyst for positive change' (paragraph 4), and 'truly confront... fostering change that resonates' (last line). Say each one plainly, the way 'her pain is still her primary motivator' is said. Merge the two clipped sentences in paragraph 1 into one longer spoken sentence.",
+  "Answer the 'how are you working' part and give a mechanism (up to 17 pts): replace the paragraph 5 aspiration with what the writer does on shifts now, then name the specific trauma-informed approach they want, why the current system's version fails, and who would run it. Ask the writer for the real details rather than supplying any. End by returning to the mother or to the incarcerated person from fix 1 instead of 'the community at large'."
+ ]
+}

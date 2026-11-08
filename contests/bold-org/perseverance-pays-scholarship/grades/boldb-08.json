@@ -1,0 +1,54 @@
+{
+ "id": "boldb-08",
+ "contest": "Perseverance Pays Scholarship",
+ "year": "September 2022",
+ "outcome": "winner",
+ "words": 584,
+ "source_url": "https://bold.org/scholarships/perseverance-pays-scholarship/",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The challenge and the strength are both covered, but how it affected her dreams is only implied by 'I have re-enrolled in beauty school', and the two years of addiction are one sentence: 'I continued down that path for two years.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The loss is dated and named ('February 5th 2016 I lost my best friend', Brandon and Taylor, Clayton, dominos, the article that could not identify the driver), but the addiction, the recovery and beauty school get no detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clumsy in a real person's way ('Something I never had, being that I am the oldest'), but it uses the filler 'truly' and stock lines like 'Minutes felt like hours', 'fight my demons', 'a better version of myself than I was yesterday', 'the beauty of the other side', with three 'I will' slogans in a row and 'riddles' used twice. There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: Taylor's death, told as a scene from the show to the phone call, and her father's death with her promise to him. The 2005 move takes up a full paragraph before the story starts."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says she found strength but not how: 'My father stepped in to help me find serenity in sobriety at this point' and 'Getting sober was not an easy journey' never explain what actually worked."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The order is clear, but the ending is a generic moral that never comes back to Taylor or her father: 'make it to see the beauty of the other side.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2/3 (raises answers_prompt and ideas_mechanism, about 10 points): replace 'My father stepped in to help me find serenity in sobriety at this point' and 'Getting sober was not an easy journey' with what her father actually did and what actually kept her sober. Ask the writer for the real details, such as what he said, where he took her, or what the first sober month looked like. Then add one plain sentence on how those two years affected beauty school, for example whether she enrolled earlier and dropped out. Ask her for the facts. Don't invent them.",
+  "Last paragraph (raises structure_ending and human_voice, about 6 points): cut 'I fight my demons constantly to continue being a better version of myself than I was yesterday. I owe it to myself.' and 'the beauty of the other side'. End on her father's promise or on Taylor and the band, the people the essay opens with. One option is to move 'During his last week of life I promised him I would fight to make a name for myself in the beauty industry' so it becomes the closing line.",
+  "Paragraph 1 (raises human_voice and frees space for fix 1): cut 'very big and bold', 'truly' and 'Something I never had, being that I am the oldest of four kids', and shorten the move to two sentences so the essay reaches February 2016 sooner. In paragraph 3, merge the three 'I will' lines into one and drop the second 'riddles'."
+ ]
+}

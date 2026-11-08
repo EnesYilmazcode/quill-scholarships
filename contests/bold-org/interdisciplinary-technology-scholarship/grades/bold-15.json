@@ -1,0 +1,54 @@
+{
+ "id": "bold-15",
+ "contest": "Interdisciplinary Technology Scholarship",
+ "year": "July 2022",
+ "outcome": "winner",
+ "words": 400,
+ "source_url": "https://bold.org/students/taylor-hendrickson/",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Background and a second field are both covered, but the 'another field' is information systems, which is still technology. 'How technology can help you achieve your passions' gets one closing gesture: 'without computers and technology none of this would be possible'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Proper nouns appear only as a résumé list (JavaScript, Photoshop, Premiere, After Effects, Maya). The essay names no project, no actual certificate, no date and no scene: 'the certificates that I have earned by testing using Adobe and Microsoft programs'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as human because of the clumsy bits ('hand and hand', the fragment 'Including finance and information systems.', the opening exclamation). It is still padded with generic filler: 'remarkable' twice, 'so fascinating', 'Computers and technology will never be irrelevant in our world.' It has no AI vocabulary and no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are no stories. Paragraph 1 is a list of skills and paragraphs 2 and 3 are plans, with no moment where the writer actually built, broke or protected anything."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "The essay states intent but gives no idea of how: 'if I could use my skill set in technology to ensure that certain databases are being properly protected that would be a dream come true'. It never says which databases, what threat or what method."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay ends on a generic moral that doesn't connect back to the opening: 'I know that without computers and technology none of this would be possible and I would not be able to achieve my goals or follow my passions in my future occupation.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1, the run from 'I have learned how to professionally edit photos' through 'Maya software': cut the list down to the single project Taylor is proudest of. Ask Taylor what it actually was (which animation or video, made for what or whom, and which certificate exam was passed and when), then tell that one real project in 3 to 4 concrete sentences. This adds a story and specificity (about +20 points).",
+  "Paragraph 3, 'ensure that certain databases are being properly protected': replace it with the real reason behind the cybersecurity interest and a concrete plan. Ask Taylor what first drew them to security (a class, a job, something they saw) and which kind of business data they want to protect and how (for example, a named course or tool from the U of U information systems program). Then write a separate paragraph on how technology serves the business/finance passion. This answers the prompt's last part and gives the ideas a mechanism (about +18 points).",
+  "Cut the generic lines 'Computers and technology will never be irrelevant in our world. Technology will keep expanding and will give us more to build our world upon.' and the final sentence. Use the freed words to close by returning to the opening 'I have loved computers ever since I can remember' through the same real project from fix 1. Also remove the second 'remarkable' and the 'I always thought' repetition in the first two sentences (about +6 points)."
+ ]
+}

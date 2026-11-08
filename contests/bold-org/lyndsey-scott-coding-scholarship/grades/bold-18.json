@@ -1,0 +1,54 @@
+{
+ "id": "bold-18",
+ "contest": "Lyndsey Scott Coding+ Scholarship",
+ "year": "May 2026",
+ "outcome": "winner",
+ "words": 560,
+ "source_url": "https://bold.org/students/ade-o-la/",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "All three parts get their own section and a clear position: 'My computer science goals center on...', 'My non computer science goals revolve around...', 'My vision is to build a fintech social enterprise...'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Many details can be checked: 'top 400 of 2,600 schools', '$1,000 classroom grant', '13% of Hillsborough County', '18,000 student members across 28 counties', '15,000 books'. They are all résumé numbers, though, with no physical scene, and 'various organizations' is vague."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Heavy AI tells: three 'didn't just / don't just / doesn't just X but Y' contrasts, 'isn't just efficient or elegant but purposeful and equitable', 'genuinely', 'navigate', 'democratize', stacked triplets, 'Technology alone doesn't solve problems.' It reads like interchangeable model prose with no clumsy or personal moment, and has no sentence over 45 words despite running 560."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes. The grocery tracker is described as a feature list, and UiPath, Samsung, DECA and TalaNgAklat are listed like a résumé."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The grocery tracker has a real mechanism (coupon application, EBT balance tracking with expiration alerts). The combined fintech goal is a generic menu: 'sophisticated software engineering... business acumen... cultural competence... entrepreneurial grit'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Clear paragraphs, but the ending is a generic moral that never returns to the grocery tracker or the families: 'proving that the most powerful code isn't just efficient or elegant but purposeful and equitable.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+16 max): delete the three 'didn't just / don't just / doesn't just ... but' sentences in paragraphs 5 and 6 and keep only the plain action lists that follow them ('I analyzed their business processes...', 'I manage international logistics...'). Cut 'genuinely', 'democratize', 'navigate' and 'Technology alone doesn't solve problems.' Merge two short related sentences so at least one runs past 45 words.",
+  "Stories (+9 max): drop the DECA and TalaNgAklat résumé lines, or shrink them to one clause, and use the space for the grocery tracker. Ask Enes for the real moment the idea started (who, which store, what the EBT problem was) and tell that one true moment instead of listing app features.",
+  "Structure (+6 max): replace the whole last paragraph with a closing line that returns to the grocery tracker and the low-income families from paragraph 1. For example, state plainly that the fintech goal is the same tracker idea at a larger scale, using only true details Enes confirms."
+ ]
+}

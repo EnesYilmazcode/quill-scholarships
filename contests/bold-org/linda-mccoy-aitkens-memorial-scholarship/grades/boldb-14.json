@@ -1,0 +1,54 @@
+{
+ "id": "boldb-14",
+ "contest": "Linda McCoy-Aitkens Memorial Scholarship",
+ "year": "November 2024",
+ "outcome": "winner",
+ "words": 486,
+ "source_url": "https://bold.org/scholarships/linda-mccoy-aitkens-memorial-scholarship/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the question in line one (\"What are your dreams, and how can I help you achieve them?\") and links its absence to a finance goal, but the childhood part stays general: \"the focus was often on day-to-day survival\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete facts are \"single-parent household\", \"financially unstable\" and a chore list. The essay names no person, place, age, school, number or quoted moment."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Several AI tells: \"deeply passionate\", \"in a profound way\", \"significant impact\", \"truly\", \"more than just numbers it's a tool\", \"not just for myself but for others\", \"dream big\", a tidy moral at the end and one em dash. No sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "0 stories. The essay only claims an experience (\"I often felt that there wasn't enough attention on what I truly wanted\") and never shows a moment of it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "\"financial education is key to breaking cycles of poverty\" is stated as a fact, not explained. The essay never says how the missing question led to finance in particular, as opposed to any other field."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but paragraphs 2 and 5 repeat paragraph 1. The last line restates the goal instead of returning to the opening: \"create a life that reflects their true aspirations.\" Deduction applied: -2 for the em dash in \"survival—making\" (subtotal 43, total 41, band low)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 if raised to 4): cut \"deeply passionate\", \"in a profound way\", \"has had a significant impact on me\", \"truly\", \"dream big\", \"more than just numbers it's a tool for empowerment, security, and building a future\" and \"not just for myself but for others as well\". Turn the em dash in \"survival—making\" into a period or colon. Join two or three of the short claim sentences into one long sentence in Enes's own speaking rhythm.",
+  "Specificity (+12 if raised to 5): in paragraph 1, replace \"the focus was often on day-to-day survival\" and \"a financially unstable environment\" with the real facts Enes confirms, such as which parent, what the money pressure looked like, and what adults actually asked him instead. Ask him for each fact. Do not write any of them yourself, and leave out anything he cannot confirm.",
+  "Structure and ideas (+4 to +7): delete paragraph 2, which repeats paragraph 1, and delete the final paragraph, which repeats paragraph 4. In paragraph 3, keep one sentence on why finance answers the missing question. End on the existing line \"I want to be the person who asks, 'What are your dreams, and how can I help you achieve them?'\" so the last line returns to the opening question."
+ ]
+}

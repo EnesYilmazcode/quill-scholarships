@@ -1,0 +1,54 @@
+{
+ "id": "boldb-15",
+ "contest": "Jeannine Schroeder Women in Public Service Memorial Scholarship",
+ "year": "June 2025",
+ "outcome": "winner",
+ "words": 468,
+ "source_url": "https://bold.org/scholarships/jeannine-schroeder-women-in-public-service-memorial-scholarship/",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay touches the 'how are you working' part only with a general list ('provide peer support, organize mental health awareness campaigns, and facilitate honest conversations'). Most of its length goes to majors, future jobs and how the funds would be used."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are George Washington University, the two majors and minor, and 'generalized anxiety disorder at age five.' The nonprofit work has no name, place, date, number or person attached."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 'isn't just academic — it's deeply personal' and 'not just with food and shelter, but' (not-X-but-Y), the filler 'deeply', several triplets ('tools to process grief, rebuild identity, and feel safe again'), the slogans 'showing up consistently is revolutionary' and 'advocate fiercely', a tidy moral close, and four em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no full stories. There is one summarized personal history (the diagnosis at five, 'panic attacks, depressive episodes') and a claim of nonprofit work with no scene. 'Jeannie's legacy' appears with no explanation."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan is a generic list ('trauma-informed policy, gender equity, and mental health infrastructure'), and the only lesson given is 'connection and understanding go a long way.' It never names the current fix for girls in refugee camps or explains why that fix fails."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay is two long blocks with a funding paragraph inside the close. It ends on a generic moral ('That's what I want to do — for the girls who don't yet know they're worth saving and for the future we all deserve.') instead of returning to the 'human right' opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "The nonprofit sentence ('I've worked with youth-focused nonprofit groups to provide peer support, organize mental health awareness campaigns...') is the essay's only answer to 'how are you working.' Ask the writer for the real details: the group's name, what they did there, how often, for how long, and one actual session or campaign they remember. Then rebuild this into the central paragraph. Cut the career-wish list ('Department of Defense, USAID...') and the funds paragraph to make room. This lifts answers_prompt, specificity and stories (about 18 points).",
+  "Remove the stock phrasing. Delete 'My interest isn't just academic — it's deeply personal,' 'Sometimes, showing up consistently is revolutionary,' 'advocate fiercely,' and the 'That's why...' triplet. Replace all four em dashes with periods or commas. Cut the closing moral 'I believe the world becomes more beautiful when we fight to make it safer.' This lifts voice by about 8 points and recovers the -6 em dash deduction.",
+  "Either explain 'Jeannie's legacy' (ask the writer who Jeannie is and how she connects to the scholarship) or cut it. Then end on the writer's own concrete work, or go back to the opening 'mental health is a human right' line with something they have actually done, instead of 'the future we all deserve.' This lifts structure and stories by about 6 points."
+ ]
+}

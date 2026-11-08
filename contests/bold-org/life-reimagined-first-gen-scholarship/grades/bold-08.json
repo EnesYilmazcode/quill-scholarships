@@ -1,0 +1,54 @@
+{
+ "id": "bold-08",
+ "contest": "Life Reimagined First-Gen Scholarship",
+ "year": "March 2020",
+ "outcome": "winner",
+ "words": 1207,
+ "source_url": "https://bold.org/students/destini-hinton/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All four parts get their own numbered section, and the challenge answer takes an honest position ('I don't think I have yet, I'm still working on it'). Part 4 says what a mentor would mean but not much about how she would use the year: 'cultivate skills that will help me clear the path to my degree'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and physical details: The Life We Bury, instructor Amy Milnes, Jayde, Kole with 'a lazy eye', his mother Danielle, the summer camp, the stress seizure, the Japanese and international affairs double major, JET ALT, the UN. Section 4's mentorship plan has no named skill, person or activity."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 5,
+   "reason": "This sounds like a real person, clumsy parts included: 'She had a tendency to be emotionally and verbally abusive and believed in rough love', 'Im kind of writing my own story'. There are no em dashes, no 'not X but Y' and no AI vocabulary, and several sentences run over 45 words. Mild slogan tells: 'We all had weights to fight against', 'Everyone has a right to be happy in their lives'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two main stories. The Kole story is a full on-topic scene (crying in the yard, the friend who said he 'looked weird', walking out). The leaving-home story is mostly summary ('my mother constantly showing up to harass me'), with no single scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The book section explains why the book mattered: reading it in class with 'brutal honesty from my classmates' showed her she wasn't alone. The mentorship section gives a reason but no mechanism ('someone in my corner, rooting for me'). It never says what she would ask a mentor for or how often they would meet."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Four clearly separated sections in the prompt's order. The last line, 'To say I did it, but not without help.', is a general moral and doesn't return to the book's 'weights' or the opening image. Section 3 also ends on a direct thank-you to the committee instead of a close."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut about 210 words to get under the prompt's stated 1,000-word maximum (the -10 deduction, 79 down to 69). Places to trim: in section 1, the plot sentence 'On the surface the more obvious themes of justice, truth and redemption...' and most of the 'From the start the narrator introduces us...' list. In section 4, the repeated ideas in 'All my life I have listened and watched the things around me and the story's they tell. My parents stories, their friends...' and 'Steps like going out on your own, going for what you believe in...'.",
+  "In section 4, replace 'I would use this time with them to cultivate skills that will help me clear the path to my degree and therefore my future' with 2 or 3 concrete things she really plans to do with a mentor. Ask the writer for the real ones (for example, help preparing a JET application, finding interpreting practice, or managing money while living on her own). Do not invent them.",
+  "Rework the ending so it returns to the opening. Replace 'Everyone has a right to be happy in their lives...' through 'To say I did it, but not without help.' with a closing line that uses the section 1 image of the people closest to her being 'my weights', set against a mentor as the opposite. Also cut 'This essay, this scholarship is part of my conquering process. So thank you for being a part of my journey.' from section 3, and fix the typos ('story's', 'Im', 'dont', 'wont', 'Jobs', 'she wanted' with a lowercase s)."
+ ]
+}

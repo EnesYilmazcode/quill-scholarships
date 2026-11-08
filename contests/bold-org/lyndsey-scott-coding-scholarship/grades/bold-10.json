@@ -1,0 +1,54 @@
+{
+ "id": "bold-10",
+ "contest": "Lyndsey Scott Coding+ Scholarship",
+ "year": "May 2026",
+ "outcome": "winner",
+ "words": 472,
+ "source_url": "https://bold.org/students/susan-hirego/",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The CS goal is plain ('graduate-level AI research, specifically in the field of Algorithmic Equity') and so is the combination (RegoNow, the Innovation Center). The non-CS goal is never named as a goal; it only appears as past work at Rego Foundation."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: 'over 8,000 young women across Uganda', Rego Foundation, RegoNow, HTML/CSS/JS. But the key example is a hypothetical woman, and '100% repayment rate' is framed as what an AI 'would' see, not a real figure."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several stock contrast lines: 'wasn't driven by a classroom assignment, but by', 'I didn't just learn to program; I learned', 'I am not looking to join... ; I am here to re-engineer'. Jargon: 'social architecture', 'leveraging', 'ground-truth edge', 'systematically left offline'. Slogan closer, one em dash, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes. The domestic violence origin gets one clause, Rego's growth is a summary, and 'the women I sit with every week' is a claim with no moment attached."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Real mechanism: standard credit scoring flags 'no bank account, no credit history'. Savings-circle records digitized by RegoNow become the alternative data, so the writer builds the dataset first. The Innovation Center paragraph is vaguer ('ecosystem', 'hybrid incubator')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear order from origin to goal to example to plan, and 'architecture' comes back at the end. But the close is a slogan, not the opening person or image: 'I am here to re-engineer the points of entry for those who have been systematically left offline.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): rewrite the three contrast sentences as plain statements. Use 'I started coding after domestic violence because I needed something consistent' in place of the 'wasn't driven by... but by' line. Cut 'I didn't just learn to program;' and keep the second half. Replace the closing two sentences with one plain line about what he will build and for whom. Also cut 'social architecture', 'leveraging', 'ground-truth edge' and the em dash in 'hybrid incubator—a production house' (use a period or comma). Merge two sentences in paragraph 3 so at least one runs over 45 words.",
+  "Stories (up to +9): move 'the women I sit with every week' up into paragraph 3. Ask Enes for one real savings-circle meeting or one real member whose savings RegoNow now records, and tell it in two or three sentences there. Cut the opening line 'I view code as the most efficient tool for social architecture' so the essay opens on the real origin (the search for structure after the violence) instead of a thesis.",
+  "Specificity and prompt coverage (up to +8 and +4): in paragraph 4, ask Enes whether the weekly-contribution and repayment figures are real RegoNow data. If they are, state them as fact with the number of circles or members. If not, cut '100% repayment rate'. Then add one plain sentence naming his non-CS goal in his own words, e.g. what Rego Foundation should reach in Uganda by a date he actually plans, so the second part of the prompt gets its own answer."
+ ]
+}

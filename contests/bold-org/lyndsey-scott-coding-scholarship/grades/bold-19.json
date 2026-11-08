@@ -1,0 +1,54 @@
+{
+ "id": "bold-19",
+ "contest": "Lyndsey Scott Coding+ Scholarship",
+ "year": "May 2026",
+ "outcome": "winner",
+ "words": 411,
+ "source_url": "https://bold.org/students/meien-li/",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "CS goal and the combination are answered plainly (\"become a researcher focused on ethical AI\", \"master's degree in Machine Learning at Carnegie Mellon\"), but the non-CS part describes an interest rather than a goal: \"I am deeply committed to painting and visual art\" never says what he wants to do with art."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real proper nouns (Professor Mark Stamp, Responsible Computing Club, Carnegie Mellon, the three workshop topics), but no numbers, dataset size, results, tool name or painting detail. \"I built a complete Machine Learning pipeline\" lists stages and gives no facts."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several AI tells: the filler adverb \"deeply committed\", the stock phrases \"bridge the gap between abstract algorithms and real-world impact\" and \"reinforced my commitment to building socially responsible systems\", the triplet \"patterns, emotion, and human experience\", the antithesis \"support rather than exploit\", and moral-style paragraph closers. No sentence runs over 45 words, and nothing sounds like a specific person talking."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "No story with a scene, only two summaries: the Stamp detection project and the club role. The art half has no moment at all. \"Many artists are concerned...\" is a general claim, not something he lived."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "He names real problems (training on art without consent, imitating an artist's style) but gives no reason his work addresses them. \"explored how feature-based models can address challenges relevant to artists\" does not say which features, what the detector catches, or who would use it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and in a sensible order, but the ending restates instead of returning to the opening: \"I aim to develop AI systems that scale responsibly and support rather than exploit human creativity.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice, about 8 points. Cut every stock phrase: \"deeply committed\", \"bridge the gap between abstract algorithms and real-world impact, ensuring systems are both powerful and responsible\", \"These experiences reinforced my commitment to building socially responsible systems\", \"These issues have shown me that technological development requires diverse perspectives\". Replace each with a plain statement of what he did or thinks, and merge two short sentences in the Stamp paragraph into one longer, natural sentence.",
+  "Specificity and stories, about 6 points. Rewrite the Stamp paragraph using real facts from Enes: how many images were in the dataset, where they came from, which features the model used, the accuracy or the surprising failure, and what he actually painted or which artist's case made him care. Ask him for these. Do not invent them. Move the sharpest true detail into the first sentence, replacing \"My goal is to shape how intelligent systems behave...\".",
+  "Answers the prompt and the ending, about 6 points. Turn the art paragraph into a stated non-CS goal: ask Enes what he wants to do with painting (keep exhibiting, teach, build a portfolio) and say it plainly. Then replace the last sentence with one that returns to his own painting or the detection project from the opening, instead of \"support rather than exploit human creativity\"."
+ ]
+}

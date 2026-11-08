@@ -1,0 +1,54 @@
+{
+ "id": "bold-09",
+ "contest": "LiveYourDash Entrepreneurs Scholarship",
+ "year": "December 2025",
+ "outcome": "winner",
+ "words": 531,
+ "source_url": "https://bold.org/students/anna-melnyk-1/",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own paragraph and a plain answer: 'What excites me most about being an entrepreneur is the opportunity to create something that is fully my own' and 'I was inspired to pursue this path by both my passion for psychology and the kids I work with every week.' Both answers are general claims, not a firm position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has a few real anchors ('AP Psychology', 'a 5th grade girl', 'around 15 students', 'flyers and online posts'), but no names, place, dates, rates, subjects or results. The hard parts are a generic list: 'when a student loses focus, or a parent has concerns'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Four 'not X but Y' turns ('not just reviewing homework but', 'wasn't just something I enjoyed, but', 'not about comfort—it's about persistence', 'not just numbers or profit. It's about'), triplets ('believing... working... caring', 'leadership, impact, and purpose'), 'deep satisfaction', 'journey' used twice, and a slogan ending most paragraphs."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the 5th grader, then word of mouth bringing more families), but it is told as a summary with no scene. The girl never says or does anything you can see, and she disappears after paragraph 1."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says that it excites them but not why it works: 'didn't come from luck or chance—it came from my effort, consistency, and refusal to give up' is a claim with no reasoning. Nothing about pricing, scheduling, or how one family led to the next beyond 'word of mouth'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are in a sensible order, but the essay closes on a generic scholarship ask and a slogan, 'turn this small tutoring business into a lifelong journey of leadership, impact, and purpose', and never comes back to the 5th grade girl."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): remove all 5 em dashes (-6 deduction: 'her — not', 'to me—I', 'smoothly—when', 'comfort—it's', 'chance—it'), using commas or periods instead. Rewrite the four 'not X but Y' sentences as plain statements, e.g. 'I helped with her homework, and I pushed her when she doubted herself.' Cut the slogan triplets in paragraphs 5 and 6.",
+  "Mechanism (up to +9): in paragraph 4, cut 'There is a deep satisfaction... refusal to give up' and replace it with how the business actually works. Ask the writer for the real details: how the second family found them, what they charge, how they fit 15 students into one week, and what the lesson plans contain. Then say which of those parts excites them and why.",
+  "Specificity and ending (up to +8, plus +6 if the ending improves): ask the writer for real anchors they can confirm (the girl's subject or one thing she said, her grade before and after, the neighborhood or town, the year it started). Put them into paragraph 1. Then replace the final paragraph's 'lifelong journey of leadership, impact, and purpose' with a closing line that comes back to that first student."
+ ]
+}
