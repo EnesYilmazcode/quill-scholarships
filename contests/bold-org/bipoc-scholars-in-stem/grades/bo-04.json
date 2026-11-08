@@ -1,0 +1,54 @@
+{
+ "id": "bo-04",
+ "contest": "BIPOC Scholars in STEM",
+ "year": "Nov 20, 2024",
+ "outcome": "winner",
+ "words": 600,
+ "source_url": "https://bold.org/scholarships/bipoc-scholars-in-stem",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay states three promises, explains the money situation (\"Being disabled by Multiple Sclerosis, my mother... it took away her ability to work\") and links the scholarship to \"internships in the Data Analytics field\". But the scholarship only fits into promise 2, and promise 3 never says what she will actually commit to."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: \"another bottle of vodka under the sink\", MS, ballet class, and \"frizzy\", \"untamed\" and \"nappy\". But the essay has no numbers, school, intended college or dollar amounts, and the money is only \"her check in the mail for existing, it doesn't seem like much.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real person (\"It was like having the 'Lite' version of a video game\"). Tells found: three uses of \"not only... but\", stock phrases (\"dig deep\", \"the real kicker\", \"pay it forward\", \"take it to the grave\"), a semicolon triplet (\"bad habits; consistent problems; troubling relationships\") and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three thin beats instead of one full story: a one-line ballet moment, a family money situation that is mostly summary, and a hair and identity memory. Section 3 drifts toward her college essay topic (\"I'm currently focusing my college essay on that topic\") and never ties back to a promise."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Only promise 2 has a causal chain (scholarship, then college, then internships that \"require you to be in college to even apply\", then a job). Discipline is a slogan (\"Motivation can only get you so far\"), and promise 3 never says how she will stay true to herself."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay is three numbered blocks with a generic close that does not return to the ballet opening: \"I know my future self will be beyond grateful for the work I've pushed so hard for.\" The -5 deduction for the numbered headings (\"1. Discipline.\", \"2. Financial management.\", \"3. Staying true to myself...\") is included in the total."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Finish section 3 and tie each promise to the scholarship. Cut \"So much so, that I'm currently focusing my college essay on that topic. To share a snippet of my feelings,\" and after the \"Lite version\" line, add one or two sentences on what she will actually do to stay true to herself. Then add one sentence to sections 1 and 3 explaining how the scholarship supports that promise. Ask the writer for her real commitments; do not invent them.",
+  "Ask the writer for real checkable facts and put them in place of the vague lines. Replace \"it doesn't seem like much\" with the actual monthly disability amount or household income if she will share it. Name her intended college and Data Analytics major and the yearly cost the scholarship offsets. Replace \"helped me be financially smart\" with one real habit her dad taught her. Keep only details she confirms.",
+  "Remove the numbered headings and start each section with its quoted line instead. Cut the three \"not only... but\" constructions and the stock phrases (\"real kicker\", \"dig deep\", \"pay it forward\", \"take it to the grave\"). Replace the final sentence with a line that returns to the opening \"I'm quitting, this is it\" from ballet class, showing she stayed."
+ ]
+}

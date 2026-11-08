@@ -1,0 +1,54 @@
+{
+ "id": "bo-05",
+ "contest": "BIPOC Scholars in STEM",
+ "year": "Nov 20, 2024",
+ "outcome": "winner",
+ "words": 515,
+ "source_url": "https://bold.org/scholarships/bipoc-scholars-in-stem",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The three promises appear once as abstract nouns ('I will commit to focus, excellence, and passion') and are never developed. The body is organized by goals instead of promises. Financial circumstances get only 'considering transferring for financial reasons' and 'student loan debt', and the baton image is never used."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few proper nouns (EPA, Anime Club, Swing Dance Club, green synthesis of pesticides, plastics and pharmaceuticals). There is no school name, dollar amount, loan figure, GPA, hours worked or named professor or lab, and no physical detail anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay is stacked with triplets ('focus, excellence, and passion', 'academic, professional, and personal journeys', 'rigorous, specialized, and practical', 'agriculture, construction, and manufacturing'). It also uses stock phrasing ('fuel my focus', 'journeys', 'outstanding chemistry department I trust and respect') and has no sentence near 45 words. It reads like a goals statement, not a person talking. No em dashes and no banned vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no full story. The one real beat is the transfer decision ('I prioritized the chemistry class schedules and electives'), and it is told as a one-sentence summary with no scene. The rest is a list of plans and clubs."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some of the reasoning explains why: cheaper colleges offered 'only evening classes', and less debt means he won't have to 'prioritize a high salary'. The loan-principal sentence is muddled, though, and the EPA paragraph says it 'will improve waste management' without saying how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear but don't match the three promises. The last line just repeats the thesis: 'By committing to focus, excellence, and passion, I will secure a better future for myself, supported by the financial freedom a scholarship provides.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+12 possible): ask the writer for the real numbers and names behind the claims already in the essay, and put them in place of the abstractions. These are the current university's name, the tuition gap that made transferring tempting, the current or expected loan total, and how many hours a week he works now in the jobs 'unrelated to my professional interests'. Use the real figures in the transfer sentence in paragraph 3 and in the loan paragraph.",
+  "Answers the prompt (+8 possible): rebuild the body so each paragraph opens with one promise to his future self, said plainly ('I promise to...'), and attaches the matching material he already has. Focus goes with the chemistry-schedule transfer choice, excellence with GPA and lab work, passion with the clubs and reading. Then turn the loan paragraph into a real financial-circumstances section built from the facts in fix 1. Cut the separate 'employment goals' paragraph down to the EPA goal in one sentence to make room.",
+  "Human voice (+12 possible): delete the opening two paragraphs of definitions ('Focus is critical...', 'Excellence ensures...', 'Passion will fuel...') and break up every three-item list. Keep one item, or the most specific two, from 'pesticides, plastics, and pharmaceuticals', 'agriculture, construction, and manufacturing' and 'rigorous, specialized, and practical'. Then rewrite the last line so it returns to the prompt's baton image or the transfer decision instead of repeating the thesis."
+ ]
+}

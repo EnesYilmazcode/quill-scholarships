@@ -1,0 +1,54 @@
+{
+ "id": "bo-21",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 587,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 36,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for one unexpected person and a specific story, but the essay names a team ('This team was the Event Horizon Telescope') and never names an individual or tells a story of meeting one. An extra -10 is taken off the total for the missing person."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The science facts are checkable ('6.5 billion solar mass', '53 million light-years', '5 petabytes', 'April 2017'), but the personal part stays abstract: 'When I first learned about the EHT' has no date, place or source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock triplets ('language, discipline, and culture', 'class, race, and gender'), filler ('immense power', 'existential awe', 'traversing this path', 'pave the way'), a slogan-style moral, no sentence over 45 words, and typos ('draw on conjure', 'I will a member')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero personal stories. Two paragraphs summarize the EHT, and paragraphs 5 and 6 list a résumé (Vanderbilt course, capstone, Duke FOCUS) instead of showing the influence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says the EHT 'reminded me of why I got into computer science' but never explains how. The only link is one line about computer scientists 'creating new algorithms to sift through' data."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The ending comes back to the EHT, but as a general moral: 'we would all do well to remember the EHT and the great heights we can reach when we hold each other up.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the prompt's main ask: name one real person. Ask the writer whether a specific EHT member, such as a computer scientist whose algorithm work they read about or watched, is the person who actually influenced them. Put that person's name and how the writer first came across them in place of paragraph 3 ('This gigantic collaboration serves as a reminder...'), which is the most generic paragraph. Do not pick or invent a person for them.",
+  "Make paragraph 4 the story. Ask the writer for the real details of 'When I first learned about the EHT' (where they were, what they saw or read, and what they did next), then cut paragraph 5's Vanderbilt and capstone list down to one clause that ties back to that moment.",
+  "Clean the voice. Fix 'draw on conjure' and 'I will a member'. Cut the triplets and 'pave the way'/'traversing this path'. Replace the closing moral with a last line that names the same person from the opening, and merge two short sentences so at least one runs past 45 words."
+ ]
+}

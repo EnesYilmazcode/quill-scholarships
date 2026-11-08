@@ -1,0 +1,54 @@
+{
+ "id": "bo-19",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 404,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 36,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for an unexpected person, but the essay never names one. The influence it credits is a machine: 'The journey of innovation that first began with the Lely Astronaut A5'. A 'specific story that shows how they impacted you' cannot be answered without a person, so that part is missed too."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real nouns and numbers: 'four Lely Astronaut A5 devices', 'the 500-head herd', 'Our 50-year-old dairy cattle herd', Brown University, Applied Mathematics. But there is no date, no named person and no physical scene of a single moment."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: a 'not only ... yet it also' construction, the filler 'truly outstanding', the triplet 'efficiency, sustainability, and resilience', and stock phrases ('harnessing the potential', 'journey of innovation', 'a renaissance can be sparked', 'new era of farming'). The tidy moral ending and the absence of any sentence over 45 words also count against it. Clumsy word choices ('urging one step closer', 'dared into') are the only human texture."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no story about a person, only one story, and it is told as a summary: the farm installed robotic milkers, which cut labor and gave the family more time together. There is no scene, and no person acts in it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It explains one real mechanism: cows walk into the robot on their own, so nobody has to be there 'hours upon hours'. The reasoning about the writer's own path stays at intent: 'It would be my dream to continue developing technologies in order to protect the integrity of family-owned agriculture.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, and the close loops back to the opening idea of dying family farms. But it ends on a generic moral, not on a person or image: 'allowing for their legacies to continue living on throughout the years.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Biggest gain (fixes the 'answers the prompt' and 'stories' scores and removes the -10 for the missing person): ask the writer who actually pushed for or championed the Lely robots, whether the grandfather, one of the sons or someone outside the family. Then rewrite paragraphs 3 and 4 around that real person: what they said or did and how it turned the writer toward Applied Math. Use only details the writer confirms.",
+  "Cut paragraph 1 ('It should be no surprise that family farming is a dying field...'), which is generic and has no person in it. Open on paragraph 2's real detail, the 50-year-old herd split between the grandfather and his sons, so the essay starts with the family and gets to the influencer within the first 100 words.",
+  "Rewrite paragraphs 6 and 7 without the AI phrases. Remove 'truly outstanding', 'harnessing the potential within data and technologies', 'efficiency, sustainability, and resilience', 'a renaissance can be sparked' and 'not only ... yet it also'. End on a plain sentence that brings back the person or the four robots in the free-stall barn instead of a moral about legacies."
+ ]
+}

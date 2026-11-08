@@ -1,0 +1,54 @@
+{
+ "id": "bo-15",
+ "contest": "Dr. Andy Nieto Memorial First Generation Opportunity and Excellence Scholarship",
+ "year": "Oct 12, 2023",
+ "outcome": "winner",
+ "words": 813,
+ "source_url": "https://bold.org/scholarships/dr-andy-nieto-memorial-first-generation-opportunity-and-excellence-scholarship",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Every part gets a mention, but 'the importance of being a first-generation college student' gets one line ('I believe in the importance of higher education') and 'the impact of advanced education' is a list of outcomes ('less debt, have access to more networking and research opportunities') with no argument behind it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real details ('two suitcases', 'Promise Plus Program', 'priority registration, on-campus dining cards, book grants', 'Arduino', 'UCLA'), but the community college is never named, no Arduino project is named, and nothing is dated."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Found these tells: 'vividly remember', 'navigate the application process', 'tremendous, to say the least', 'marked another turning point', the triplet 'resilience, determination, and appreciation', and a tidy moral at the end ('shaped who I am today, and no one can take that part of my identity away'). The essay is saved from a 1 by plain human lines like 'does a bunch of cool things' and 'I didn't even get accepted into any of my safety schools'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (arriving with his mother, rejected by every UC/CSU safety school, community college instead), but it is told as a summary with no scene. The engineering origin is a summary of a class, not a moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says that he likes engineering, not why: 'hands-on person' and 'enjoyed reading data sheets' are asserted, the Material Science link is a general 'semiconductors' claim, and 'greatly reduce the energy consumption of modern electrified vehicles' has no stated mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order is clear and chronological, but the ending restates a generic moral instead of returning to the two suitcases or his mother: 'these challenges have shaped who I am today, and no one can take that part of my identity away from me.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the last paragraph (6 voice points + 4 structure points): cut 'shaped my resilience, determination, and appreciation' and 'shaped who I am today, and no one can take that part of my identity away from me', and end on the opening image instead: the two suitcases, or his mother working extra hours, set against where he is now (transferring to UCLA EE). In the same pass, cut 'vividly remember', change 'navigate' to 'get through', and cut 'tremendous, to say the least' and 'marked another turning point in my life'.",
+  "Ask Enes for the real names and objects and put them in place of the abstractions (up to 8 specificity points): the name of his community college; the name of the Arduino class and one actual project he built with his peers, plus the specific data sheet or part he enjoyed reading; and which UC class requirement he almost missed. Swap each one into the sentence that currently stays generic. Do not invent any of them.",
+  "Replace the one-line 'I believe in the importance of higher education' with a plain argument for the two parts that are only gestures (up to 8 answers-prompt points + 3 mechanism points): what a degree changes for his mother and him concretely (the Promise Plus counselors already show this), and why first-gen students like him almost miss the UC classes. Then trim the EV sentence to what he actually knows about drive trains, or ask him for the real reason he cares about them, instead of keeping 'greatly reduce energy consumption'."
+ ]
+}

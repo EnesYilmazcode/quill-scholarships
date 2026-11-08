@@ -1,0 +1,54 @@
+{
+ "id": "bo-23",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 598,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 0,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for an unexpected person and a specific story about how they shaped the writer. The essay names no person. It is about a technology instead: 'one of my favorite inventions of this decade relates to something rather unexpected: fungi.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The checkable facts are about a company ('Ecovative', 'AirMycelium', '2012', 'synthetic bacon, faux leather, packing foam'). The writer's own detail is general: 'catching frogs in my backyard', 'wandering the woods identifying every species'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock words recur: 'intricate' three times, 'revolutionary' twice, 'in tandem with' twice, 'astonishing'. It also has the setup 'However, by definition', 'tallest tree to the humblest plant', the slogan 'fungi are the future, and I aspire to be a part of it', and three hyphens used as em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No story about a person. There are only two habit summaries, the frogs as a child and the woods now, and neither is told as a scene. Three of the five paragraphs read like a report on Ecovative."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay tries to explain how AirMycelium works, but the explanation is wrong ('cytokinesis' is cell division, not hyphae filling space). Why the writer chose the field is never reasoned. It is stated as fascination: 'Humanity has so much left to learn from fungi.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay opens with a definition and ends on a generic moral: 'It's inevitable; fungi are the future, and I aspire to be a part of it.' It never comes back to a person or an image from the opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fixes up to +46 (criteria 1, 2, 4, 6 and the -20 for unanswered parts). Paragraph 1 (the definition of technology) and paragraphs 2 and 3 (mycelium and Ecovative) answer a different prompt. Ask the writer who the real unexpected person was. It may be whoever was behind the frog-catching or the woods walks, but only the writer can say. Ask for one real moment with that person. Then rebuild the essay around that person and moment: open on the person, keep at most two sentences of fungi science, and end by returning to them. Do not invent a person or a scene.",
+  "Fixes the -10 for a fact that cannot be true. Paragraph 3 says AirMycelium 'takes advantage of a natural process known as cytokinesis, in which mycelium fills all available space'. Cytokinesis is cell division, so cut the sentence or reword it as hyphae growing to fill the space. Also check the 2012 date for AirMycelium against an Ecovative source before keeping it.",
+  "Fixes about +12 for voice plus the -6 em-dash deduction. Replace the three dash-hyphens ('chemical reactions-', 'construction materials-', 'our future-') with commas or periods. Cut 'sustainably revolutionary', the repeated 'intricate' and 'in tandem with', 'astonishing', and the closing 'It's inevitable; fungi are the future, and I aspire to be a part of it.' Let one of the woods-walk details, which are true, carry a longer and plainer sentence."
+ ]
+}

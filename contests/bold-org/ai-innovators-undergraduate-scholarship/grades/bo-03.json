@@ -1,0 +1,54 @@
+{
+ "id": "bo-03",
+ "contest": "AI Innovators Undergraduate Scholarship",
+ "year": "Jan 15, 2024",
+ "outcome": "winner",
+ "words": 761,
+ "source_url": "https://bold.org/scholarships/ai-innovators-undergraduate-scholarship",
+ "total": 40,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Part 1 (interest, past experience, aspirations) gets a real answer. Part 2 is blended into the statement, and its required pieces (problem, AI technologies, process, outcome, impact) are only gestured at: 'the sensitive nature of our work restricts me from sharing specific details' leaves outcome and impact as 'aims to significantly enhance the efficiency and accuracy'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are some proper nouns (Embry-Riddle, DIA, Lieutenant Colonel Shields, 'Neural Networks', USCENTCOM, OSINT), but every claim around them is abstract. It names no model, dataset, tool, number, date, hackathon or conference, and it never says what he built."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense with AI tells: 'not just academic; it was', 'not only enriched... but have also', 'not only a personal achievement but also an enabler', 'testament', 'delve', 'transformative' (twice), 'invaluable' (twice), 'foster'-style stock phrases ('collaborative culture that encourages open dialogue'), triplets in nearly every paragraph, and no clumsy or personal moment anywhere."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one on-topic setting (the DIA internship), but it comes as a résumé summary with no scene. It has no moment, no problem he got stuck on and no thing he did, and the paragraphs on partnerships and conferences add more recital."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It lists generic aims ('automating routine tasks, enhancing data analytics capabilities, and developing predictive models') with no explanation of why any approach works or what he changed. The future plans ('quantum computing and AI ethics') come with no reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized but not split into the two required submissions. It opens on the first engineering course and ends on a funding wish list: 'attend international conferences, and collaborate with experts across the globe.' Nothing loops back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Split the text into the two separate 500-word submissions the prompt asks for. In Part 2, replace paragraphs 3 and 4 ('While the sensitive nature...' and 'Our project is a collaborative initiative...') with plain answers to its five parts: the problem, the AI technologies used, his own process, the outcome and the impact. Ask Enes which unclassified details he can truthfully share (model type, public or OSINT tools, what he personally built, any result he is allowed to state). Do not invent any of these.",
+  "Do a voice pass across every paragraph. Cut every 'not just X; it was Y' and 'not only... but also' construction, 'testament', 'delve', both uses of 'transformative' and 'invaluable', and stock phrases such as 'collaborative culture that encourages open dialogue and creative problem-solving' and 'make meaningful contributions to a field that has the potential to redefine our world'. Replace them with flat, first-person statements of what he did.",
+  "Cut the final two paragraphs (the conferences, hackathons and 'leading experts' recital, and the generic scholarship-money wish list). Ask Enes for one real hackathon, course project or DIA moment that he can name, and end Part 1 on how that specific thing ties to his stated goal of leading AI work in national security."
+ ]
+}

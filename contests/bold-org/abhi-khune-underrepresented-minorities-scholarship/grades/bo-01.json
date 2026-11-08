@@ -1,0 +1,54 @@
+{
+ "id": "bo-01",
+ "contest": "Abhi Khune Underrepresented Minorities Scholarship",
+ "year": "Apr 1, 2023",
+ "outcome": "winner",
+ "words": 599,
+ "source_url": "https://bold.org/scholarships/Abhi-Khune-underrepresented-minorities-scholarship",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "All three parts are touched. 'What attracted you' gets the riddles paragraph and 'impact' gets the app and the accessibility goals, but 'about yourself' is never answered plainly: it only shows up as 'women of color' and 'several friends and family members whose capabilities are limited'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are '(especially in c++)' and the app's feature list. The app has no name and no stage, there is no school, course, date or number, and the disabled friends and family are never described."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The 'In computer science X, while in riddles Y' pattern repeats four times. 'Cybersecurity measures that ... can help' repeats three times, there are list triplets ('misogyny, intellectual stereotypes, lack of resources, and discrimination'), and the paragraph closes with a summary sentence. The only human moments are the c++ aside and the slip 'underemployment'. There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no stories, only claims. 'From a young age, I loved riddles' has no scene, and the app ('I am currently working on creating an app') is stated but never shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The app has concrete features (job-offer sharing, company reviews, pay transparency) and a clear builder, but nothing explains why women would use it. The cybersecurity section is a generic chain with no mechanism: 'proper security features can be more accessible to users who rely on assistive technology'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "One giant paragraph merges the women-in-CS app and the disability and cybersecurity topics. The essay ends on 'My goal for the current year is to ensure that people with disabilities have equal access to technology and can use it safely and securely.', which never returns to the riddles opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+12): ask the writer for the real facts and put them in the app sentence 'I am currently working on creating an app that will serve as a safe space...': the app's name, how far along it is (a mockup, a first build, how many testers), what it is built with, and the course or project where she hit the c++ errors. Also ask which friend or family member's needs drew her to accessibility, and name that relationship in place of 'several friends and family members whose capabilities are limited'.",
+  "Voice (+12): cut the four 'In computer science..., while in riddles...' comparisons in paragraph 2 down to one sentence and keep the c++ aside. In the cybersecurity section, delete the generic chain from 'People with disabilities may rely on the use of technology' through 'Cybersecurity helps protect personal information, ensures accessibility, and provides more opportunities', then use the space for the one concrete security or accessibility problem she actually cares about.",
+  "Stories and structure (+6 and +6): ask the writer for the real moment behind 'From a young age, I loved riddles' (a specific riddle, or the first program that finally ran) and open on it. Split the long paragraph into an app paragraph and an accessibility paragraph. End by bringing the opening riddle back, not on 'My goal for the current year...'."
+ ]
+}

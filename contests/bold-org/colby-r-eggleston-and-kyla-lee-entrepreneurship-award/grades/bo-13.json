@@ -1,0 +1,54 @@
+{
+ "id": "bo-13",
+ "contest": "Colby R. Eggleston and Kyla Lee Entrepreneurship Award",
+ "year": "Aug 25, 2023",
+ "outcome": "winner",
+ "words": 589,
+ "source_url": "https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Welfare and development are answered through the past Hedgehog Beanies story. The business he 'could start' locally gets only a few vague lines at the end ('I want to initiate my own not-for-profit that does just that'), with no name, no New Haven anchor and no development steps."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable details: New Haven, CT parks, hockey referee earnings, orders filled until 3am on school nights, 18,000 hats, $25,000 donated. But the newspaper, the store partners and the receiving organizations are never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The hockey parents aside sounds human. Tells: a meta opener ('I feel like this essay question was speaking directly to me'), filler adverbs ('truly', 'incredibly formative journey', 'really passionate'), and stock lines ('I failed a bunch but kept learning', 'way out of my comfort zone'). There are three exclamation points and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story with a real arc: winter food in parks, then the beanie launch, the media surge, 3am fulfillment and the switch to partnerships. Most of it is summary, though. The conversations with homeless people in their twenties get one line and no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The past model has mechanism (buy-one-give-one, suppliers who agreed once he 'shared my story', store and farmers market channels). The future business is a stable-housing nonprofit 'in partnership with other community organizations', with no how, no who, no funding and no first step."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs follow a clear chronology, but the essay opens on the prompt and ends on an ask: 'I would love the support to get this going!' It never returns to the New Haven parks or the people in their twenties."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and Ideas (up to +14): the last paragraph ('As to the future...' through 'get this going!') is where the prompt's 'what business' and 'how would you develop it' must live, and right now it is four vague sentences. Cut paragraph 1 entirely (about 70 words freed) and use the space to state the real planned nonprofit: its name if one exists, that it starts in New Haven, which existing organizations he has already worked with through the $25,000 in donations, and the actual first steps he plans. Ask Enes for these real details rather than inventing them.",
+  "Human voice and deduction (+5 recovered, up to +8 on voice): delete the meta opener ('I feel like this essay question was speaking directly to me... This is my story of the business I did create and my even bigger plans ahead.'), which is a -5 'writing about the essay' hit. Open on paragraph 2's 'Eight years ago...' instead. Also cut 'truly', 'incredibly formative journey', 'really passionate', 'It was cool connecting with those who really cared about this issue' and the exclamation points, and merge two short sentences in the partnerships paragraph into one long, concrete one.",
+  "Structure (up to +6): replace 'I would love the support to get this going!' with a closing line that goes back to the opening, the New Haven parks and the people in their twenties who said a stable home was the barrier, so that the nonprofit reads as the answer to what he heard there. Also name the real newspaper and one real partner store in the media and partnerships paragraphs if Enes can confirm them."
+ ]
+}

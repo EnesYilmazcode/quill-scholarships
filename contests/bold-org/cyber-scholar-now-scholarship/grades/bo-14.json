@@ -1,0 +1,54 @@
+{
+ "id": "bo-14",
+ "contest": "Cyber Scholar Now Scholarship",
+ "year": "May 15, 2025",
+ "outcome": "winner",
+ "words": 416,
+ "source_url": "https://bold.org/scholarships/cyber-scholar-now-scholarship",
+ "total": 34,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The major is named, but the 'why' gets one generic line: 'it combines my love for computer science with practical applications in various fields.' About half the essay is about financial need and GPA instead, as in 'Winning this scholarship would ease the financial burden on my family'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few real nouns (Prairie View A&M, 3.5 GPA, Los Angeles, Tesla or Meta), but nothing concrete about the major itself: no class, project, tool or moment. The name of the major also changes from 'Management Information systems' to 'Management Information Sciences'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The opening paragraph sounds like a real person ('since Im from the \"Hood\"'). After that it turns into stock phrases: 'passionate about breaking barriers', 'making a difference' (used twice), 'role model', 'positive impact', 'importance of representation and diversity', 'Despite these obstacles'. It also has typos ('Im', 'i've', 'strides')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are no stories, only claims: 'I have faced many challenges, from depression and anxiety to racial norms and obesity' is a list with no scene. The GPA and community service paragraph reads like a résumé."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "The essay never explains why MIS rather than CS, or how the major leads to the cybersecurity goal. 'A degree in this branch opens many opportunities' states a hope but gives no reason."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the 'why this major' paragraph is buried third. The close is a generic sign-off that never returns to the LA stereotype opening: 'Thank you for considering my application.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 3: replace 'it combines my love for computer science with practical applications in various fields' with the writer's real reason for choosing MIS over CS. Ask her for the actual moment, class or person that pointed her toward MIS and cybersecurity, and use only what she confirms. Then move this paragraph up to sit right after the opening. (This fixes answers_prompt and ideas_mechanism, worth about 18 points.)",
+  "Cut the off-topic need and résumé material: the whole last paragraph ('Winning this scholarship would ease the financial burden... Thank you for considering my application.') and paragraph 4's 'I worked hard to overcome challenges and stay focused on my goals.' Use the freed words to connect the cybersecurity analyst goal to MIS coursework she has actually taken or will take (ask her which). (This fixes stories and specificity, worth about 10 points.)",
+  "Delete the stock lines 'passionate about breaking barriers in the tech industry and making a difference', 'make a positive impact on the tech industry', and 'making a difference in the world'. Use one name for the major throughout ('Management Information Systems'), fix 'Im', 'i've' and 'strides' ('strives'), and end on a line that returns to the opening 'Hood' stereotype in her own words. (This fixes voice and the ending, worth about 10 points.)"
+ ]
+}

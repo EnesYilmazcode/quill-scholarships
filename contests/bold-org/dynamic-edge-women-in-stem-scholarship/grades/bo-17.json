@@ -1,0 +1,54 @@
+{
+ "id": "bo-17",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 599,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 0,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for an unexpected person and a specific story about them, but no person is ever named. The essay is about a favorite technology instead: \"Among the many technological innovations of the past decade, LiDAR drones stand out as my favorite.\" This reads like an answer to a different prompt."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There are no names, dates, places or numbers. Every claim is generic, such as \"unveiled hidden ruins and ancient cities buried under dense forests\" and \"track changes in vegetation with remarkable accuracy.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense AI tells: \"more than just,\" \"not only instruments of precision but as allies,\" \"isn't just about coding or servers—it's about,\" \"not just innovation, but regeneration\" and \"not only data but hope.\" It also uses leverage, profound, deeply, Moreover, a triplet list in every paragraph, 6 em dashes and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. There is no scene, moment or person, only claims of intent like \"As someone dedicated to environmental remediation.\""
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It gives one real reason (LiDAR \"see[s]\" through plant cover without clearing land). The rest is a generic benefits menu (cleaner air, pollinators, eco-tourism, drugs) and doesn't explain why anyone acts."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the ending is a generic moral, not a return to the opening: \"I aspire to be a catalyst for healing, blending technology, ecology, and community to bring back balance and beauty to the world around us\" (it also has no final period)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Criteria 1, 2, 4 (~44 points plus the -20 deduction for two unanswered prompt parts): the essay never answers the prompt. Delete paragraphs 1 to 5 (the LiDAR tour, the remediation plan, the community benefits list, and the 'Moreover' collaboration paragraph). Ask Enes who the real unexpected person was who pushed him toward CS, and for one real moment with them (where, when, what was said). Build the whole 400 to 600 words around that one person and that one moment. If the ecology angle is true for him, keep it only if it is part of that person's story.",
+  "Fact gate (-10): cut every line that cannot be true of Enes. That means 'As a future Dynamic Woman in I.T.', 'As a woman in the information technology field', and 'As a Dynamic Woman in STEM'. These look carried over from a different scholarship's essay. Check with Enes whether this draft is his at all before revising it.",
+  "Criterion 3 (up to 16 points) and the em-dash deduction (-6): remove all 6 em dashes. Cut every 'not just X but Y' and 'not only X but Y' construction ('more than just a leap', 'isn't just about coding or servers', 'not just innovation, but regeneration', 'not only data but hope'). Strike leverage, profound, deeply, remarkable, Moreover and 'Not to mention'. End on the person from the opening, not on a 'catalyst for healing' moral."
+ ]
+}

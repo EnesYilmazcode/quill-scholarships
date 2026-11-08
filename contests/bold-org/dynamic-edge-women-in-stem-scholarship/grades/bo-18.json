@@ -1,0 +1,54 @@
+{
+ "id": "bo-18",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 432,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 34,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for an unexpected person, but the essay is about a technology. The person gets one sentence, 'someone in my school who once relied on a wheelchair', and is never named or shown as unexpected. Most of the essay covers ER plans and diversity goals."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete image is 'now walking confidently through the halls of high school'. There is no name, grade, date, or anything the classmate said. The ER section uses abstractions like 'automated diagnostic machines for non-critical cases'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "'Not only X but also Y' appears twice. AI vocabulary includes 'pivotal', 'fostering', 'realm', 'paramount', 'groundbreaking', 'revolutionary', 'cutting-edge' and 'beacon of hope'. It uses triplets like 'diligent research, relentless dedication, and inclusivity', a dash, and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, and it is only claimed. 'I have witnessed someone in my school...' is a summary with no scene. The opening hospital room is imagined, not something that happened."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names a real problem ('influx of patients, often outnumbering the available medical staff'). The fix is a generic menu ('automated diagnostic machines', 'surgical assistance systems') with no reason it would work and no one who would build it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay drifts from the hypothetical patient to 3D printing, then the ER, identity and ambition. It ends on a generic moral that never returns to the classmate: 'I strive to leave a lasting impact on the world.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and stories (about 18 points): cut paragraph 1, the imagined hospital room, and the 'beacon of hope' sentences. Open with the classmate instead, now the subject of the essay. Ask the writer for the real details: the classmate's name or how they knew each other, when the prosthetic appeared, and the first moment they saw it. Then build the essay around that one moment and why a classmate, not a doctor, was the unexpected influence.",
+  "Human voice (about 16 points): delete both 'not only... but also' sentences, the triplet 'diligent research, relentless dedication, and inclusivity', and the words 'pivotal', 'catalyzes', 'realm', 'paramount', 'groundbreaking', 'revolutionary', 'cutting-edge' and 'fostering'. Replace the dash in 'dual commitment – to advance' with a period. Rewrite the remaining claims as plain sentences about what the writer saw and decided.",
+  "Structure and focus (about 10 points): cut the 'Through diligent research' and 'My overall ambition' paragraphs. Shrink the Latina paragraph to one sentence. Keep the ER automation idea short, and tie it to what the prosthetic taught the writer about technology. End by returning to the classmate in the hallway instead of 'leave a lasting impact on the world.'"
+ ]
+}

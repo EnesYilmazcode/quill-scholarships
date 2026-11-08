@@ -1,0 +1,54 @@
+{
+ "id": "bo-07",
+ "contest": "Chadwick D. McNab Memorial Scholarship",
+ "year": "Nov 14, 2023",
+ "outcome": "winner",
+ "words": 517,
+ "source_url": "https://bold.org/scholarships/chadwick-d-mcnab-memorial-scholarship",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The project half gets most of the essay. The 'how technology inspires you' half gets one closing paragraph that ends in a gesture: 'inspire me to want to continue using technology for positive change through games and interactive experiences.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and numbers: Simcoach Games, Next Stop, Unreal Engine, six weeks, two artists, two programmers and one level designer, the University of Pittsburgh study, NPCs 'walking only on sidewalks or crosswalks'. The unsupported line 'helping millions of people' pulls it down."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human moments ('sitting down in the bus without flying off as soon as it moved', 'a random town') sit inside stock framing: an 'Imagine...' opener, 'Needless to say', the rhetorical 'The coolest part of this project?', the filler adverb 'incredibly rewarding', 'navigate' used twice, the tidy moral 'That's a pretty great feeling.', and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic. The bus mishap is told as a one-line summary with no scene. The Next Stop build carries the essay with concrete tasks."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It shows why realism matters (the app, the stop wire, the NPCs). It never explains why technology in particular inspires him beyond 'something meaningful' and 'positive change'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear, but the loop-back happens a paragraph early ('I took my struggles with public transportation...'). The essay ends on a generic moral: 'inspire me to want to continue using technology for positive change through games and interactive experiences.' Deduction: -5 for writing about the essay ('To answer how working in technology inspires me')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rebuild the last paragraph (+8 on criterion 1 and +5 for removing the deduction). Cut 'To answer how working in technology inspires me, I think back to' and open directly on the researcher's line 'Thank you. We hope this game helps a lot of people.' Then replace 'the fulfillment of creating something meaningful... positive change through games and interactive experiences' with the real thing that inspires him now. Ask Enes what he is building or studying today that connects to Next Stop. Do not write a generic statement of purpose.",
+  "Strip the AI and stock phrasing (+4 on voice). Cut 'Needless to say,' 'The coolest part of this project?' and 'That's a pretty great feeling.' Change 'incredibly rewarding' to plain words. Replace both uses of 'navigate' with 'get around' or 'ride'. Swap 'millions of people' for the real scope of the Pitt study, and ask Enes for the actual number of participants or what the study compared. Join two short sentences in the build paragraph so at least one runs past 45 words.",
+  "Make the ending return to the opening using facts already in the essay (+4 on structure). Merge or cut the 'I took my struggles...' paragraph. Close on the stop request wire: he forgot to pull it in week one, and later programmed 'pulling the stop request wire' for players. Also fix the missing period after 'as needed' and the capital M in 'It's Moments'."
+ ]
+}

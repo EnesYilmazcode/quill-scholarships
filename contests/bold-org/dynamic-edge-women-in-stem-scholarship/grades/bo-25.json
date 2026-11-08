@@ -1,0 +1,54 @@
+{
+ "id": "bo-25",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 558,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 17,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for an unexpected person and a story about them. The essay never names a person; it describes Mesobot, the ocean twilight zone and fisheries. Deductions: -10 for no person named and -10 for no story about that person's influence, so -20 on top of a weighted subtotal of 37."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The robot details are real and checkable: \"250 kilogram, 1.5 meters tall\", \"one thousand meters\", \"epipolar geometry\". But they describe Mesobot, not the writer. The only personal fact is \"As a Tennessean\", with no names, dates or places from the writer's own life."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It reads like a nature-documentary report. Tells found: \"a plethora of other animals\", \"return from whence they came\", \"shrouded in mystery\", \"looming climate crisis\", \"critical need\", \"Earth's final frontier\" and \"push the boundaries of what is possible\". It does have sentences over 45 words and no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are zero stories. No scene, no person and no moment of influence. The closest thing is the claim \"my childhood interest in marine biology\", with nothing to show it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It explains why Mesobot's design works: large, low-powered thrusters cause \"minimal hydrodynamic disturbance\", so scientists can watch animals behave naturally. It never explains why or how anyone changed the writer's decision, and that is the reasoning this prompt asks for."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay drifts from the ocean to the robot to fisheries statistics to college plans. The last line, \"one of the best ways for me to explore it is to build a vehicle to push the boundaries of what is possible.\", is a stock slogan and does not return to the sunset opening or to any person."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the actual prompt (about 36 points recovered: 16 on criterion 1, 20 in deductions). Ask the writer who the real, unexpected person was who led them toward robotics or engineering, maybe the person who first showed them Mesobot or the twilight zone, and what really happened between them. Make room by cutting paragraph 1 (the sunset and animal list) down to one or two lines, then tell that true story in paragraphs 1 and 3. Do not invent a person or a scene.",
+  "Cut paragraph 4 completely (\"More than eighty percent of the world's oceans...\" through the krill sentence). It adds about 90 words of seafood and overfishing statistics that answer no part of the prompt. Use that space for the person's influence, and turn paragraph 2 into two or three sentences on the one Mesobot detail that person helped the writer understand.",
+  "Replace the stock phrasing. Change \"plethora\", \"from whence they came\", \"shrouded in mystery\", \"looming climate crisis\", \"Earth's final frontier\" and \"push the boundaries of what is possible\" into plain words. Rewrite the last sentence so it brings back the person (or the first-paragraph image tied to them) instead of a slogan."
+ ]
+}

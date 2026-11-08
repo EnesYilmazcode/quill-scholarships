@@ -1,0 +1,54 @@
+{
+ "id": "bo-20",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 588,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 30,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for an unexpected person who influenced the writer and a story showing how. The essay names four What3Words founders only as inventors ('Chris Sheldrick, Jack Waley-Cohen, Mohan Ganesalingam, and Michael Dent divided the world into 57 trillion squares') and never says that anyone influenced the writer's choice. The influence part gets no answer (-10 deduction applied), and the rest of the essay is a product overview."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has checkable facts about the app: '57 trillion squares, three meters by three meters', '50 different languages', and 'The Los Angeles City Fire Department has saved over 170 lost and injured hikers.' But there is no specific detail about the writer: no date, place or moment when this mattered to them."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It reads like a brochure or user manual ('Click the Find Me icon and the app generates 3-Words'). It uses stock phrases like 'utilized to save the lives of countless people' and 'safe and responsible use of technology', and makes flat claims ('I feel technology such as this is critical'). Almost nothing sounds like a specific person talking."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are zero stories. The prompt explicitly asks for 'a specific story', but the essay gives only the app's origin ('built out of necessity to deliver band equipment') and general rescue statistics, with no scene involving the writer."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains how the tool works offline (satellite fix, compass mode, offline navigation) and names a real barrier ('subscriptions for services and a lack of personal smart technologies are creating inequity'). The proposed change is vague: getting the app 'on visitors' phones', with no detail on who does it or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a career vision rather than a person or a story. The middle repeats the Find Me steps twice. It ends on a new policy point instead of returning to the opening: 'However, currently, subscriptions for services and a lack of personal smart technologies are creating inequity in people that can be located and saved.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the prompt from the first paragraph (about +26 points: criterion 1 gap of 4 x 20 plus the -10 deduction). Replace the opening 'I envision taking STEM into nature...' with the real person who influenced the writer and why they were unexpected. Ask the writer who that was and how they came across them. If it really was a What3Words founder, such as Chris Sheldrick, ask how and when the writer first heard of him and what changed their plans. Do not invent an encounter.",
+  "Cut most of paragraphs 2 and 3 (the how-to steps: 'If there is a cell phone signal click Find Me...', 'Enter the 3-Words in compass mode...', and the second Find Me explanation) to roughly two sentences. Use the 150 to 200 words this frees for the true story the writer gives you about that person's effect on them (about +18 points across stories and voice). Ask the writer for the real moment. Do not add one.",
+  "Rewrite the last paragraph so it ends by returning to the person named at the start and to the ranger goal, and drop the new inequity point or move it earlier (about +4 to 6 points). Also cut stock phrases such as 'utilized to save the lives of countless people' and 'make the experience for visitors safer and more enjoyable' and replace them with the writer's plain wording."
+ ]
+}

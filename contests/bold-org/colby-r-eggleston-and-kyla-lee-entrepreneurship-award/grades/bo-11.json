@@ -1,0 +1,54 @@
+{
+ "id": "bo-11",
+ "contest": "Colby R. Eggleston and Kyla Lee Entrepreneurship Award",
+ "year": "Aug 25, 2023",
+ "outcome": "winner",
+ "words": 467,
+ "source_url": "https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get their own paragraph (the ATM business, 'My company helps my community by empowering other small businesses', and 'I need to further develop my company by...'). The welfare part leans on slogan ('the world would just be one big Walmart') more than on an argument."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: 'summer of 2022', 'almost 3%', farmers' markets, flea markets, the cash vaulter, door-to-door sales. But there is no town, no machine count, no named store or event, no per-transaction fee, and no real savings figure. 'Thousands annually' is a guess and not a checked number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The body reads like a real operator: the clumsy fragment 'When I make my money from their customers...' and 'any good location will demand this.' The tells are 'I didn't just stop at' (an 'isn't just X' construction plus a comma splice), 'empowering', 'charm and spark', and a stock closer: 'leverage my college degree when I forge my path as an entrepreneur'. No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (his own ATM business), but it is told entirely as summary. There is no scene: no first install, no first festival, no owner's reaction shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The mechanism is clear and real. Stores skip the ~3% card fees, the customer pays the transaction fee, and he shares part of that fee to win good locations. Cold calling is named as the bottleneck to growth and a cash vaulter as the way to automate. The marketing plan itself is generic ('a website and social media marketing', 'find what other people in my industry are doing')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Three clean paragraphs map to the three prompt parts, but the ending drifts to college instead of returning to the ATMs or the stores: 'I can't wait to leverage my college degree when I forge my path as an entrepreneur.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8): in paragraph 1, replace 'can save them thousands annually' and the unnamed 'local businesses' with real figures and names. Ask Enes for the town, how many machines he runs, one named store or market that hosts one, the fee he charges per withdrawal, and one store's actual yearly card-fee savings. He has 133 words of room under the 600 limit.",
+  "Voice (+8): cut the last two sentences ('Hopefully, my school will help...' and 'I can't wait to leverage my college degree when I forge my path as an entrepreneur') and end on the vaulter step stated plainly. Rewrite 'I didn't just stop at stationary ATMs, farmers' markets...' as 'I also put ATMs at farmers' markets, flea markets and street festivals, where vendors need cash.' Swap 'empowering' and 'charm and spark' for what he actually saw. Join the fragment 'When I make my money...' to the sentence before it with 'because'.",
+  "Welfare and ending (+6): replace 'Small businesses are the charm and spark... one big Walmart' with one real owner's reaction to the no-rent, revenue-share deal (ask Enes which owner and what they said). Then end the essay on that store or the summer 2022 start, so the last line returns to the opening instead of to college."
+ ]
+}

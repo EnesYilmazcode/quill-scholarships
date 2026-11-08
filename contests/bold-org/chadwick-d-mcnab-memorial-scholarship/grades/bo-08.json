@@ -1,0 +1,54 @@
+{
+ "id": "bo-08",
+ "contest": "Chadwick D. McNab Memorial Scholarship",
+ "year": "Nov 14, 2023",
+ "outcome": "winner",
+ "words": 503,
+ "source_url": "https://bold.org/scholarships/chadwick-d-mcnab-memorial-scholarship",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The robotics project is answered in full. The 'how technology inspires you' part gets only stock lines near the end: 'Working in engineering and technology constantly inspires me to push myself out of my comfort zone and work to create things from ideas in my head.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real anchors ('over $21,000 in grants', 'from ten to thirty members', 'Java', 'eighth grade'). It never names the team, the competition, the robot, or a single grant or sponsor, and the electronics work is described only as duties."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes, and one sentence runs over 45 words. It still reads like a résumé, with stock phrases: 'took it upon myself', 'an enriching experience', 'both soft and technical skills', 'level up my creations', 'make a lasting impact on important issues in my community', and a tidy moral at the close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (rebuilding the team), but it is told as a list of responsibilities ('I conducted regular meetings', 'supervise the construction') with no moment or scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The project has a cause and a fix (no experience, so a grant spreadsheet and self-teaching), but why technology inspires him is asserted, not explained. Nothing ties the inspiration to anything he actually built or coded."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending is a generic moral that never returns to the eighth grader who joined 'as a useful introduction to programming': 'I am excited to learn more that will help me improve and level up my creations and make a lasting impact on important issues in my community.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph, sentences 3 to 5 ('Working in engineering and technology constantly inspires me...' through '...important issues in my community'): cut the comfort-zone, soft-and-technical-skills and lasting-impact lines. Answer the inspiration part using what the essay already contains: what it was like to go from YouTube tutorials to the Java code that moved the robot, or watching less experienced members follow his instructions. If a more specific real example exists, such as a named community issue or a named college project, ask Enes for it rather than writing one in.",
+  "Move the two strongest facts up to where the actions happen. Put '$21,000 in grants' at the end of paragraph 2, next to the spreadsheet and committee, and 'ten to thirty members' at the end of paragraph 3. Then cut résumé phrasing like 'Using my writing and organization skills', 'took it upon myself' and 'to check that our team was putting in sufficient effort'. Ask Enes for the team or competition name and one real grant or sponsor name to replace 'all possible grants and sponsors'.",
+  "Make the last line return to the opening: the eighth grader who joined for 'a useful introduction to programming' and to 'meet new people' now leaves a team that keeps his system after he graduated. That loop is already true from paragraph 2 ('remain with the team now that I have graduated'). Also split the 60-word sentence in paragraph 3 ('With an already small attendance roster...') so the Java and API work reads as his own work and not a list of duties."
+ ]
+}

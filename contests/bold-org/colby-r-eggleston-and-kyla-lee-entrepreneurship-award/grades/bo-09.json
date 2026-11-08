@@ -1,0 +1,54 @@
+{
+ "id": "bo-09",
+ "contest": "Colby R. Eggleston and Kyla Lee Entrepreneurship Award",
+ "year": "Aug 25, 2023",
+ "outcome": "winner",
+ "words": 596,
+ "source_url": "https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The business (WeyeZE) and how it was developed are answered. The local welfare part gets one gesture, \"my business will help many people including those in my local community\", while the reasoning is about \"underdeveloped countries\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: \"March 2018 article in the New York Times\", \"$550 microgrant\", \"over $60,000 in non-dilutive funding\", \"50 people in February of 2024\", NCSSM and its classes. Nothing concrete is said about rural North Carolina."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The Barbie parachute aside and \"if you'll forgive the pun\" sound like a person. Tells: a dictionary-definition opener, \"not just sight, but clear vision\" (the not-X-but-Y pattern), \"make the world a better place\", and \"most importantly\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic origin story (the NYT article plus the writer's own myopia), but it is told as a summary with no scene. Paragraph 4 drifts into a résumé recital of dual enrollment, classes and internships."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives some product mechanism (a base corrective lens plus \"essentially, stickers\") and one causal chain (no vision, no reading, no development). It never says who pays, the price, or how a kit reaches a person in the community."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The inventor/Barbie opening is never brought back. The last line is a generic moral: \"I will continue to develop my business with creativity and always the motivation to make the world a better place with my business.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2: replace \"my business will help many people including those in my local community\" and \"its purpose is to benefit others in their basic right which is not just sight, but clear vision\" with the real local picture. Ask the writer for the county or town, how far the nearest optometrist is, and who the 50 pilot participants are. That turns the welfare part from a gesture into an answer.",
+  "Cut the stock phrasing to recover voice points. Delete the opening dictionary definition (\"An inventor is someone who creates something new and creative...\") and start on the Barbie parachute line. Cut \"not just sight, but clear vision\", \"most importantly\" and \"always the motivation to make the world a better place\".",
+  "Reshape the back half. Trim paragraph 4's enrollment and class list to one clause. Use the freed words for the real price of a kit and how it gets to people (ask the writer). Replace the final sentence with a line that brings back the opening inventor image, tied to the February pilot."
+ ]
+}

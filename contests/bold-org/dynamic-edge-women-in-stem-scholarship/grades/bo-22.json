@@ -1,0 +1,54 @@
+{
+ "id": "bo-22",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 456,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 17,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for an unexpected person and a specific story about them. The essay answers a different question: 'My favorite tech invention of the last 10 years is the 3D-printed heart sleeve'. No person is ever named. Deducted -10 per missing part (person, story), -20 total."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few checkable facts ('As of 2014', 'as the Independent calls it', 'as recent as 2020', 'flip phones to the very first iPhone', 'clunky early-generation Macs to sleek Dell computers'). The central claims stay abstract: 'Heart disease is one of the leading causes of death in America' and 'could help significantly reduce these numbers'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The computer-lab memory sounds like a real person. Stock framing surrounds it: 'straight out of a science-fiction movie', 'pushes the boundaries humans have established', the filler 'incredibly captivating', 'hot topic', 'utilize', and a rhetorical-question hook. No sentence goes over 45 words. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are zero stories. Seeing the device ('I marveled at the design') is a reaction, not a scene. The phone and computer-lab upgrade is a passing memory with no person in it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay raises real questions ('if an individual is brain dead... should this device still be operating') but never reasons through them. The influence on the writer's career is only stated: 'it combines fields that I'm interested in'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The first paragraph is about 300 words in one block. The ending, 'I want to utilize innovations in biology and technology to improve quality of life for future patients', is a generic goal and never comes back to the opening question about buying 20 to 30 extra years."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Biggest gain (criteria 1 and 4, plus the -20 deduction): this essay answers a different prompt, so salvage won't work. Ask Enes who the real unexpected person was, what that person said or did, and roughly when. Then replace the whole heart-sleeve paragraph (from 'As of 2014' to 'look forward to future developments') with that one true story. Keep at most one sentence about the heart sleeve, and only if it was part of what that person showed him.",
+  "Specificity and voice: cut the generic lines 'This device pushes the boundaries humans have established between life and death', 'New technology, especially in the medical field, comes with so many considerations, which makes them even more of a hot topic', and 'This device is incredibly captivating'. Keep the flip-phone and Dell computer-lab memory, since it is the most human detail here. Ask Enes whether the person he names was linked to that memory, and only connect them if it is true.",
+  "Structure: split the 300-word first paragraph into a story paragraph and a reflection paragraph. Replace the closing line 'I want to utilize innovations...' with a sentence that returns to the person or moment from the opening. Also check the career goal: 'plan to pursue a career in medicine' must match NUMBERS.md, or the essay takes a -10 contradiction deduction."
+ ]
+}

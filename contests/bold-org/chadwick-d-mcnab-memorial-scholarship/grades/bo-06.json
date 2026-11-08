@@ -1,0 +1,54 @@
+{
+ "id": "bo-06",
+ "contest": "Chadwick D. McNab Memorial Scholarship",
+ "year": "Nov 14, 2023",
+ "outcome": "winner",
+ "words": 462,
+ "source_url": "https://bold.org/scholarships/chadwick-d-mcnab-memorial-scholarship",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The project gets a full paragraph, but 'how working in technology inspires you' gets only one sentence at the end: 'It is what got me into computer science as a career', with no reason given."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The data path is real and hard to invent ('Xbox controllers... SQL server to an Excel spreadsheet'), but there is no team number, season, match result or named team, and claims like 'innovative and new' and 'very beneficial to our team' have no evidence behind them."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, with clumsy spots ('it something that I am still very proud of', 'lead presentations') and one long sentence over 45 words. Tells: the triplet 'frustration, laughter, and games', the slogan-like 'But it was my passion.', 'I crave the underlying excitement of it all'. No em dashes or AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story. The kickoff scene opening is about guessing the game, not the scouting system. The project itself is summarized ('months of hard work') and never shown as a scene, such as one match where the data changed the strategy."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains why the system mattered (it replaced paper scouting and gave the drive team data for each match's strategy), but it never explains why technology inspires him beyond 'it was also a lot of fun'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but the last line, 'It is what got me into computer science as a career and it something that I am still very proud of to this day.', restates the point and does not return to the kickoff video or the hushed room."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the second half of the prompt (+8 on criterion 1): cut the last sentence of paragraph 3 ('It is what got me into computer science...') and add a short paragraph built from Enes's real answer to 'what about building or teaching this system made you want to do CS?' Ask him for the actual moment, such as explaining it to a team from another country or the first time the predictions came out right. Do not invent one.",
+  "Replace the empty claims with checkable facts (+4 on criterion 2): swap 'What we made was innovative and new' and 'very beneficial to our team' for real specifics. Ask Enes for the team number and season, how many matches the system scouted, one prediction the drive team acted on, and how many teams or which teams asked about it. To make room, cut the generic opening lines 'There will be frustration, laughter, and games, but I crave the underlying excitement of it all' and 'I am drawn to the unpredictability...'.",
+  "Tie the opening to the project and loop the ending back (+4 across criteria 4 and 6): end paragraph 1 by linking the kickoff video to the scouting system ('I know it will be a challenge to design and code the scouting system...' is already there, so move it to the end of the paragraph). Then make the final sentence return to the kickoff room, for example what he now thinks about while the next game video plays, using only what Enes says is true. Also fix 'it something' to 'it is something' and 'lead' to 'leading'."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bo-10",
+ "contest": "Colby R. Eggleston and Kyla Lee Entrepreneurship Award",
+ "year": "Aug 25, 2023",
+ "outcome": "winner",
+ "words": 564,
+ "source_url": "https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts are answered in their own paragraphs: the business ('my own poultry farm'), community welfare (food, jobs, sustainability) and development (research, plan, permits, breeds). The development section is a generic checklist ('conducting thorough market research', 'craft a comprehensive business plan') and does not commit to a plan."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are 'Cullman, Alabama' and 'working alongside my father'. There is no breed, no flock size, no number of jobs, no price, no buyer, no permit name and no detail from the father's farm. 'Choosing the right breed of poultry' never names one."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense AI tells. 'not only... but also' appears three times; 'wouldn't merely be a venture' and 'more than a business; it's a transformative force' are not-X-but-Y patterns. It also uses 'Embarking on the journey', 'foster', 'beacon of positive change', 'fabric of the entire community', 'positive ripple effects', 'meticulous planning', 'resonate with the values' and 'In conclusion'. Every paragraph is in the same register."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories. Working with his father is the one real experience he has, and it gets a single clause in the opening sentence and never comes back."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The one reason given is that local food skips 'long-distance transportation'. It never says why Cullman buyers would switch from what they buy now, what the farm sells or at what price, or how it would actually cut unemployment. The development steps would fit any business."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are orderly but there is no arc. The essay ends by restating its thesis: 'this venture is more than a business; it's a transformative force that aligns with the values and aspirations of Cullman's residents.' The father from the opening never comes back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the voice throughout (worth up to 16 points). Cut all three 'not only X but also Y' sentences, 'wouldn't merely be a venture', 'more than a business; it's a transformative force', 'beacon', 'fabric of the entire community', 'ripple effects' and 'Embarking on the journey'. Replace the whole 'In conclusion' paragraph with one plain sentence about what he would do first. Write it the way he would explain the farm to a neighbor, and include at least one long, unpolished sentence.",
+  "Replace the abstract claims with real facts from working alongside his father (worth up to 12 points for specificity and 12 for stories). Ask the writer what that work actually involved: which birds, how many, what chores, what went wrong, who bought the product, and what it sold for. Then cut the 'Choosing the right breed of poultry... crucial' paragraph and the 'In a world where the origins of our food' paragraph, and use the freed words to tell that real experience as the opening scene.",
+  "Turn the development section into a mechanism (worth up to 9 points for ideas and 6 for structure). Delete 'conducting thorough market research' and 'craft a comprehensive business plan'. Instead, ask the writer for the real first steps: who he would sell to first in Cullman (a store, a market, neighbors), what he would charge compared with the store price, and what his father already has that he could start with. Then end on his father or the farm from the opening line, not on a thesis restatement."
+ ]
+}

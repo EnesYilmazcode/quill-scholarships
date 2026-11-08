@@ -1,0 +1,54 @@
+{
+ "id": "bo-02",
+ "contest": "Abhi Khune Underrepresented Minorities Scholarship",
+ "year": "Apr 1, 2023",
+ "outcome": "winner",
+ "words": 420,
+ "source_url": "https://bold.org/scholarships/Abhi-Khune-underrepresented-minorities-scholarship",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "All three parts are touched, but the positive-impact part gets one closing line ('so that other young people like me are able to see that it is possible'). The career plan ('start a personal project... sell the product') never says who it helps."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only proper nouns are 'Rochester Institute of Technology' and 'computer engineering'. 'Making robots and building gadgets' names no robot, gadget, year or place, and the planned 'personal project' is never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a real student, with no em dashes or AI vocabulary. But it runs on stock lines ('I live for a challenge', 'However, this only strengthened my will', 'There is nothing scarier than') and ends on a tidy moral ('no matter what they look like or what obstacles lie ahead'). No sentence reaches 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero told stories. There is only a summary claim ('Whenever I would tell someone, they would always remind me of how difficult this endeavor would be'), with no scene, person or moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The impact plan is a hedged chain ('master's degree... personal project... sell the product... start my own business') with no problem named, no reason it works and no one it serves. Being a role model is stated, not explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The three paragraphs map roughly onto the prompt. The close is a generic moral ('...no matter what they look like or what obstacles lie ahead') and only loosely echoes the opening line 'I live for a challenge'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2, impact part (worth about 8 points): replace 'start a personal project. If, or rather I should say when, I complete it, I hopefully will one day be able to sell the product' with the actual project the writer has in mind: what it is, who it is for, and what problem it fixes for them. Ask the writer for the real project; don't make one up. Cut the hedges 'Although I am not completely certain' and 'If, or rather I should say when'.",
+  "Paragraph 1, specificity and story (worth about 10 points): replace 'Since I was in middle school I dreamed of making robots and building gadgets' and 'Whenever I would tell someone...' with the one real moment behind them: the first gadget or robot they built or wanted to build, and who told them it would be too hard and what that person said. Ask the writer for the real names and details. Then cut 'I live for a challenge. My competitive spirit drives me to accomplish goals that seem just out of reach.'",
+  "Paragraph 3, structure and voice (worth about 5 points): cut the generic first four sentences ('Many things might worry one in high school... That is the story for many young people in STEM') and open the paragraph with 'I am an African American female in a field that is dominated by men.' Replace the closing moral with a line that goes back to the opening challenge or the middle-school dream, ideally naming the kind of young person they want to reach."
+ ]
+}

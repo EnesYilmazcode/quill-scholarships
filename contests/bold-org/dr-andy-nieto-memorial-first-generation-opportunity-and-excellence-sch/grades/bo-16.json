@@ -1,0 +1,54 @@
+{
+ "id": "bo-16",
+ "contest": "Dr. Andy Nieto Memorial First Generation Opportunity and Excellence Scholarship",
+ "year": "Oct 12, 2023",
+ "outcome": "winner",
+ "words": 815,
+ "source_url": "https://bold.org/scholarships/dr-andy-nieto-memorial-first-generation-opportunity-and-excellence-scholarship",
+ "total": 20,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay touches every part but answers none of them with a position. 'What got you interested in engineering' gets only 'Driven by my love for reading and coding'. The family journey gets one clause: 'the future that my parents wanted me to have but the circumstances didn't let it be so'. The impact of advanced education is never addressed directly. The first-gen paragraph is a slogan: 'breaking molds, shattering limitations'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "A few checkable facts (Colombia, GPA over 3.5, Harvard CS50, FIU, graphene reinforced ceramic matrix composites), but the writer's own story is abstract. The town is unnamed, there are no dates or people, and the parents, the move and the first equation are never shown. 'Coups' in Colombia during his formative years cannot be true, which costs -10 in deductions and is already counted in the total."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense with AI tells. Vocabulary: 'beacon of inspiration, a paragon', 'delved', 'realms', 'fervent longing', 'indelible mark', 'woven into the fabric', 'resonates' (3x), 'transformative journey'. 'Not only X but also Y' appears 3 times, and 'not just X; it is Y' 3 times. Triplets throughout. 'Cannot be understated' is a misused idiom. 'In conclusion' appears. No one sounds like this when talking."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories, only claims of one: 'I embarked on a transformative journey that eventually led me to the United States'. Most of the essay is a summary of Dr. Nieto's résumé, not the writer's experience."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "It asserts without explaining why. The interest in materials science rests on 'its potential to transform industries', and CS50 (computer science) is offered as proof of 'dedication to this field' (materials science). There is no reasoning about why first-gen status or this degree changes anything concrete."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs exist, but there is no arc. It opens on a eulogy, not a scene, and closes with 'In conclusion' and a thesis restatement. Last line: 'to continue the narrative he has woven into the fabric of materials science and engineering.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the whole essay in his own voice: cut every eulogy line ('beacon of inspiration, a paragon', 'indelible mark', 'woven into the fabric'), all 'not only/but also' and 'not just X; it is Y' constructions, 'delved', 'realms' and 'resonates', and delete the 'In conclusion' paragraph entirely. Reduce Dr. Nieto to one or two sentences of fact (FIU alumnus, graphene ceramic composites) and give the space back to Enes.",
+  "Replace paragraphs 2 and 3 with the real story of how he got from Colombia to engineering. Ask Enes for the actual town name, what his parents do, what 'circumstances' stopped them, the year he came to the US, and the first coding or reading moment that pulled him toward engineering. Cut 'away from the coups and chaos' because Colombia had no coups in his lifetime (-10). Ask him what the real instability was and name it.",
+  "Give each prompt part its own plain answer with a reason: why being first-gen matters for him specifically (ask Enes what his family didn't know how to navigate), what a degree changes for his family or town, and why materials science rather than CS. Either ask Enes for a real reason he is drawn to materials, or drop the 'if applicable' part honestly instead of claiming CS50 proves it."
+ ]
+}

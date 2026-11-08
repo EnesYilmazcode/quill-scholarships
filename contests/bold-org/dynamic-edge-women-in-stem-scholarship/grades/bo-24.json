@@ -1,0 +1,54 @@
+{
+ "id": "bo-24",
+ "contest": "Dynamic Edge Women in STEM Scholarship",
+ "year": "Jun 21, 2024",
+ "outcome": "winner",
+ "words": 586,
+ "source_url": "https://bold.org/scholarships/dynamic-edge-women-in-stem-scholarship",
+ "total": 13,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for an unexpected person and a specific story of their impact, but the essay never names a person. It opens on 'one technological innovation that has become my favorite... digital assistants' and then moves to the STEM gender gap. Both parts are unanswered (-10 each, -20 total)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There is one real number ('males usually outnumber females by 20-7 in the classroom'). Everything else is generic product description that anyone could write: 'ask Amazon's Alexa to turn on a vacuuming robot such as Roomba'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: a stock opener ('It is no doubt that we are in the middle of a technological revolution'), 'not only convenient but have changed', 'not only occurring at my college but also', and 'Not to mention' used three times. It reads like a listicle and has no personal moments. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. The only personal beat is a childhood wish to clap the lights on, which has no scene and no person in it. The gender-gap material is an observation, not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plans are a generic menu: 'join an organization', 'create a tutoring program', and an app with 'games, activities, as well as informational and motivational videos'. The tutee-becomes-mentor loop is a small mechanism, but it never says why the current approach fails or why students would stay."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear but read as two unrelated essays: digital assistants, then the gender gap. The ending ('This website or app will contain information about each STEM profession, games, activities, as well as informational and motivational videos.') never returns to the opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rebuild the essay around the answer the prompt asks for. Ask the writer who actually pushed them toward IT or software engineering, someone unexpected such as a relative, a teacher outside STEM or a classmate, and what that person really did or said. Open with that real moment and give it most of the 400 to 600 words. Do not invent a person or a scene.",
+  "Cut paragraphs 1 to 4 (the digital-assistant chores, child-friendly and workplace lists). They answer a different prompt about a favorite innovation and are worth nothing here. If clapping the lights on as a kid connects to the real person (for example, if they set it up or encouraged it), keep only that sentence and attach it to them.",
+  "Keep the 20-7 classroom ratio and the classmates dropping out, but tie them to the person's influence (for example, why that person made the writer stay when others left). Cut the 'not only... but also' sentences and the three 'Not to mention' openers. End by returning to the person instead of the app feature list."
+ ]
+}

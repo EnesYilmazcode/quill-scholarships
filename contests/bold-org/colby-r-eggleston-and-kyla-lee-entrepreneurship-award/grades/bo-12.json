@@ -1,0 +1,54 @@
+{
+ "id": "bo-12",
+ "contest": "Colby R. Eggleston and Kyla Lee Entrepreneurship Award",
+ "year": "Aug 25, 2023",
+ "outcome": "winner",
+ "words": 408,
+ "source_url": "https://bold.org/scholarships/colby-r-eggleston-and-kyla-lee-entrepreneurship-award",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It names the business (Ha'iku Hives). Welfare gets two sentences: 'bring some extra joy' and '10% of profits are donated'. Development is told only in the past tense ('I started by using my artistic background...'), with no plan for growing it, and the last paragraph answers a different question about creativity."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong inventory facts: 'two to five hives, split in two locations', 'over 500 lbs of honey a year', 'New York, Massachusetts, and Texas', 'Auwahi Forest Restoration Project', 'Maui Food Bank'. The creativity paragraph has no checkable detail, and 'an artsy school' is left unnamed."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The plain, factual parts read like a person. The tells are stock lines: 'valuable lessons in leadership as well as how to advocate for myself', 'extremely gratifying' (filler adverb), 'More importantly', 'challenged me to look at things from multiple perspectives', plus a dash used as an aside. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (starting the honey business during COVID), told as a summary with no scene. The final paragraph, about friends calling him 'creative', is off-topic résumé material that takes about 110 words of a 408-word essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The welfare claim is a feeling ('extra joy... from a jar of honey') and a donation percentage. Nothing explains how the business helps the community (pollination, local food, Auwahi habitat), and there is no forward plan for developing it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on the 2020 job search but ends on an unrelated creativity reflection: 'Having to go the extra mile to find my unique, creative voice has challenged me to look at things from multiple perspectives.' The ending never comes back to the opening. Deduction: -2 for the dash in 'Auwahi Forest Restoration Project – an important habitat' (his zero-dash rule)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the whole final paragraph ('When asking my friends and family...' through 'multiple perspectives.'). Use the roughly 110 words it frees, plus the 192 words still left under the 600 limit, for a forward-looking 'how I would develop it' paragraph. Build it only from his real plans: ask him for the actual next steps (target hive count, a third location, wholesale accounts, more food trucks or shops) and the real numbers behind them.",
+  "Expand the welfare answer after '10% of profits are donated' into a short paragraph that explains the mechanism, not the feeling. Ask him for the real dollar amounts given to Auwahi and the Maui Food Bank and what they paid for. Ask too whether his hives tie into native-bee habitat or local pollination, and include that only if it is true. Cut 'Being able to bring some extra joy to their lives from a jar of honey was extremely gratifying.'",
+  "Replace the closing so it returns to the opening's 2020 job search, using a real fact he gives you (for example, where the business stands now compared with having no job in early 2020). Also sharpen the stock lines: replace 'I have learned valuable lessons in leadership as well as how to advocate for myself' with the specific task he took on, cut 'More importantly', and change the dash in 'Project – an important habitat' to a comma."
+ ]
+}
