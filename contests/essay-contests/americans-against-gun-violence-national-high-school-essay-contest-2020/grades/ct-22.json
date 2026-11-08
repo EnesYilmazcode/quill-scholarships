@@ -1,0 +1,54 @@
+{
+ "id": "ct-22",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 766,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay clearly argues for strict regulation and cites the bans after Port Arthur and Dunblane. It never says plainly whether bans on handguns and assault weapons are 'the most effective way'. Its closest stated position is the rhetorical 'why don't we adopt stringent gun control laws in our country like the laws in other advanced democratic countries?'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong unfakeable opening ('I'm counting my bullets. I'm loading my clips.', 'two exits, both facing the parking lot') plus checkable figures (Alaska 'nearly 21 out of every 100,000', Hawaii 4, Port Arthur 1996, Burger quote). The middle is mostly outcome statistics with no sources named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening sounds like a real person ('I hate speeches.'), but the rest drifts into op-ed stock lines: the 'How many sons, daughters, athletes, artists...' list and repeated rhetorical questions, the slogan 'Only in America.', the antithesis 'not just felonies', and the closing line 'The dead and wounded are America's lost promise.' The stats paragraphs read like a policy brief, not a student."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story (the bathroom threat and the gym speech) is on topic and vivid, but it stops after paragraph 3 and never comes back. The muscular dystrophy fundraiser detail is background that doesn't serve the gun prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Good mechanism on why it works ('when guns are less available, people don't generally substitute other weapons... overall homicide rates go down'), but the remedy is vague. It says adopt laws 'like those in Australia and the UK' and 'my generation must be the voice of reason', with no specific change and no one named to make it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Story first, then a long run of statistics. The essay ends on a generic moral ('Our relationship with guns has grown from an affection to an addiction. As a nation, we are poorer for it. The dead and wounded are America's lost promise.') and never returns to the gym, the exits or the graffiti."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut from 766 words to under 500 (worth 10 points): delete the 'How many more lives...' questions, the 'Guns don't kill people' paragraph's last question, the COVID 'March of this year' paragraph, and the NRA 'stanch the bleeding' paragraph. Shrink the Alaska/Hawaii/Australia/UK paragraph to two sentences that keep the Port Arthur and Dunblane bans, since those are the evidence that answers the prompt.",
+  "Replace the last paragraph ('Our relationship with guns... America's lost promise.') with a close that goes back to the gym: the two exits facing the parking lot or the bathroom graffiti, tied to the one change the essay asks for. Keep only what actually happened that day, and ask the writer what really came next (did the speech go on, did the classmate speak) rather than making it up.",
+  "Add one plain sentence near the top of the argument that takes a side on the prompt's actual claim: whether bans on handguns and assault weapons specifically are the most effective approach, compared with the background checks the essay also cites. Cut the stock lines ('Only in America.', the list of sons, daughters, athletes, artists, scientists, writers and activists). Also remove the dash before 'the myth' and the '--' inside the quote."
+ ]
+}

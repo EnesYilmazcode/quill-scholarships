@@ -1,0 +1,54 @@
+{
+ "id": "ct-35",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "honorable-mention",
+ "words": 492,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The single prompt part gets a clear position ('I am filled with fear, with sadness, and with anger'), but the anger section drifts from drills to the news cycle around shootings ('Posts circulate the media saying \"never again.\"')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The verbatim intercom script and the procedure list ('Lock and barricade the doors... Shut our phones off') are real, but there is no school, grade, room, date or count of drills anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human grammar slips ('I, and many others, are afraid') sit inside stock framing: a fear/sadness/anger triplet, filler adverbs ('Truthfully', 'truly', 'devastatingly', 'devastating' twice), the slogan 'A life should not be the price to pay for this', a run of rhetorical questions, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero full stories. The opening is a generic drill, not one particular drill, and the essay leaves it immediately for abstract emotion paragraphs; 'I have heard stories of this happening to individuals' is secondhand."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Real reasoning about why drills fall short ('Someone could sneeze. The barricade could be broken.') and the paradox that they 'make students feel a bit safer, while also reminding them'. The anger section only describes the news cycle and never says why it repeats or what would break it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear three-emotion layout, but the close is a chain of rhetorical questions that never returns to the principal's voice: 'When will there be a year in which students do not need to practice lockdown drills?'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Shift weight onto the opening drill: move the procedure details (barricade, phones off, the fear that someone could sneeze) up so they sit right after the principal's announcement and read as what happens in that room. Cut the secondhand 'though I have heard stories of this happening to individuals' and the general 'Fear is likely the most common response' opener. If the writer remembers real particulars of their own drills (room, grade, where they hid), ask them for those and do not supply any.",
+  "Rewrite the ending to loop back to the opening: replace the four rhetorical questions with one closing line that turns the principal's 'You are in no immediate danger' against itself, and cut 'When will these words, \"never again,\" become a reality?' and 'When will the cycle end and when will change begin?' so the last sentence is about drills, not shootings in general.",
+  "Clean up the voice and format: delete the heading 'Something Is Wrong Here' (-5 deduction), change the spaced hyphen in 'during one - though' to a comma (-2), cut 'Truthfully,' 'truly,' and 'devastatingly,' and drop the second 'devastating', and replace the slogan 'A life should not be the price to pay for this' with a plain statement. Then tie the anger paragraph back to drills, not media cycles, and merge two of the short sentences into one longer one."
+ ]
+}

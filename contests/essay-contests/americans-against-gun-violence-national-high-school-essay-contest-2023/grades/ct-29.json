@@ -1,0 +1,54 @@
+{
+ "id": "ct-29",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "finalist",
+ "words": 496,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "One-part prompt answered with a clear position, \"Lockdown drills do nothing but frighten children and give a paper-thin illusion of safety,\" but the thesis waits until the last paragraph, after about 400 words of narrative."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dates and anchors (born 2004, kindergarten in 2010, Columbine, Virginia Tech, Sandy Hook), plus physical detail (lights off, huddled in a corner, the principal peering into classrooms) and the boy who \"had a list.\" No school, town or name is given."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly a real person talking, with the quoted whisper and the honest \"Often times.\" Tells: the filler adverb in \"deeply traumatic,\" the balanced antithesis \"We were the victims, but we were also the greatest threats,\" the punchline paragraph closer \"became more afraid of the reasons we needed them,\" and the rhetorical triplet \"In America, in our schools, in a world where...\". No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the kindergarten drills, told as a scene, and the classmate with a gun, which lands hard with \"he had hidden there too.\" The second story is summarized, with no moment showing where the writer was."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay gives a real reason drills fail: shooters are insiders who rehearsed the same drill and know the hiding corner. The alternative, \"gun control,\" is tacked on as the last two words with no explanation of what would change or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The structure is clear and chronological, but the ending restates a thesis instead of returning to the kindergarten corner. Last line: \"They have never stopped a killer, and they have only been a distraction from the real solution to school shootings the whole time, gun control.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph: \"gun control\" arrives as an afterthought with no mechanism. Use the essay's own case study instead. Ask the writer what they really know about how that middle-school boy got the gun and how it was found in his locker, then use a sentence or two to name the specific change that would have kept it out of his hands. Pay for it by cutting \"Often times, shooters are very familiar with the places they terrorize,\" which the boy's story already shows.",
+  "Ending: return to the opening corner instead of restating the thesis. The material is already there. End on the image of the corner the boy knew because he had hidden there too, linked back to the kindergarten corner, and drop the comma-spliced \"the whole time, gun control.\" Then fold the policy point into the sentence before it.",
+  "Voice and early answer: cut \"deeply\" from \"deeply traumatic.\" Cut or flatten the antithesis \"We were the victims, but we were also the greatest threats\" and the fragment triplet \"In America, in our schools, in a world where...\". In the first paragraph, after the birth-year line, add one plain sentence that states the writer's view of lockdown drills, so a reader sees the position before the story."
+ ]
+}

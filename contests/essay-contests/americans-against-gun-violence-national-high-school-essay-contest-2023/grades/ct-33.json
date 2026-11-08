@@ -1,0 +1,54 @@
+{
+ "id": "ct-33",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "honorable-mention",
+ "words": 503,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for thoughts about lockdown drills, but the essay tells the story of a real lockdown triggered by a hoax and never gives a view on drills. The closest it comes is \"This was normal, we have drills all the time\" and \"All this fear and all these emotions for nothing.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The physical details are strong and hard to invent: \"He checks his phone for a fifth time\", the eight repeated announcements, \"the doorknob screeches\", \"Three pounds at the door\" and the escort to the football field. There is no school name, date or place."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real student talking, with short fragments (\"Seems a bit long.\", \"Strange.\") and no AI vocabulary, filler adverbs or \"not X but Y\" lines. It loses points for typos (\"My face gets feels hot l\", \"don1t\", \"double- check\") and a few stock phrases (\"my heart drops\", \"what feels like months\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one story, the locker-room lockdown, told as a full scene. It fits the topic, but it never connects back to drills as a practice, so it shows an event without supporting a view."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "The essay has no reasoning about drills: why they exist, what they do, or what it means that the class \"whisper[ed] jokes\" because drills felt routine. It does not judge drills or suggest any change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The narrative order is clear, but the stray heading \"Something Is Wrong Here\" breaks it. The last line, \"I am left traumatized and angry.\", states a feeling and does not return to the opening \"It's just a drill.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add a short closing paragraph of about 60 to 80 words with the writer's real opinion of lockdown drills, the part the prompt actually asks for. To make room, cut the rumor and photographer lines (\"Rumors flying left and right...\" through \"Hundreds of parents swarm the building like flies.\"). The essay already contains the starting point: years of drills made the class treat a real lockdown as a joke until the teacher mouthed \"This is not a drill.\" Ask the writer whether drills prepared them, numbed them, or both, and use their own answer. Do not write a position for them. This recovers up to 18 points under answers_prompt and ideas_mechanism.",
+  "Delete the stray heading \"Something Is Wrong Here\" (-5) and cut at least 3 more words to get under the 500-word limit (-10). For example, cut \"with a tight grasp\" and \"uncontrollably\" from \"his hands shake uncontrollably\". This recovers 15 points of deductions.",
+  "End on the opening line: close with the gym teacher's \"It's just a drill\" and what the writer now thinks when they hear it, using their real reaction. While editing, fix the typos \"My face gets feels hot l\", \"don1t\", \"double- check\" and \"boy's locker room\" (should be \"boys'\"). This recovers about 4 to 6 points under structure_ending and human_voice."
+ ]
+}

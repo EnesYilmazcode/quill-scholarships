@@ -1,0 +1,54 @@
+{
+ "id": "ct-03",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "runner-up",
+ "words": 510,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Clear position for stringent laws and a direct comparison to other countries ('the US gun homicide rate is 25 times higher'), but it never says which comparable laws it means beyond 'common sense gun laws'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong unfakeable details: the speech in 'my iPhone notes', the teacher who 'has rocks for us to throw', and the band classmate who was suspended but kept his guns. The statistics are unsourced and the walkout has no school name or date."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real teenager ('oh, wow, I wish you could've seen it', the flintlock joke). Tells: the scary/depressing/sickening/terrifying run, the triplet 'We're scared, we're angry, and we want change', the 'What's incredible is' opener, no sentence over 45 words, and grammar slips ('does not means', 'right to flintlock pistol')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: the walkout speech, which bookends the essay, and the band classmate. The walkout is mostly summary, and the classmate gets a single sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The Second Amendment reasoning (the militia clause, 1791 technology) explains why, but no law is proposed. The band-kid case points at a specific fix the essay never names."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized, and 'So this is why we're walking out' calls back to the opening. But it closes on a slogan and a statistic: 'Legislation hasn't changed since that fateful day, and now, we're demanding that it does.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph: cut 'Legislation hasn't changed since that fateful day' (it costs 10 points and a judge reading a Dodd prompt will catch it). Replace it with something accurate, for example that the laws passed since 1966 still let a suspended student keep his guns. Also ask Enes for the source of the 1,077 figure and cite it, or drop it.",
+  "Paragraphs 2 and 6: the band classmate whose 'guns weren't taken away' is the essay's best evidence. Turn it into the concrete 'comparable legislation' the prompt asks for: name the existing gap, say which law would close it (a red-flag or extreme-risk protection order), and say who would act (school, police, a court). This lifts ideas from 2 to 4 (+6). Cut 'What's incredible is how embarrassingly backwards' to make room.",
+  "Ending, plus grammar and voice: end on the opening image (the bleachers, or the speech that sits in your iPhone notes) instead of the statistic. Fix 'does not means', 'any of age lunatic' and 'the right to flintlock pistol'. Break up the scary/depressing/sickening/terrifying anaphora and the 'scared, angry, and we want change' triplet. Combine two clauses so at least one sentence runs over 45 words."
+ ]
+}

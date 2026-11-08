@@ -1,0 +1,54 @@
+{
+ "id": "ct-12",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "honorable-mention",
+ "words": 271,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Takes a side ('Our legislators should have protected us long ago with actual gun control measures') but only names other countries' laws in one clause and never argues what 'comparable' legislation would mean."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has checkable anchors: 'Parkland, Florida shooting on February 14, 2018', 'Phoenix March for Our Lives', '25,000+ people', 'mid-March'. Some claims stay vague, such as 'hundreds and hundreds of hours' and 'etcetra'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real teen, with a typo ('etcetra'), a misused word ('painstakingly relevant') and the raw 'learn how to act dead'. None of the AI phrasings the rubric lists. The spaced hyphens work as dashes, and no sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (organizing the Phoenix march and getting hate mail), but it's told as a summary with no scene, and the hate-mail moment gets one clause."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "'safe storage of guns, and extensive training' is a list. It doesn't say which law, why it works, or who passes it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear four paragraphs, and the ending 'protected us before we had to learn how to act dead so we aren't the next victim in a mass shooting' lands hard, but it never returns to Dodd's 1968 call or the 'fifty years later' frame."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2, 'safe storage of guns, and extensive training of those who wish to own a firearm': ask the writer which specific bill or policy the Phoenix organizers actually pushed after the march. Name it, say what it requires, why it would work where current law doesn't, and who has to pass it (worth up to +9).",
+  "Paragraph 1: answer Dodd directly. After 'painstakingly relevant', add one sentence saying whether the writer agrees that the US needs laws 'comparable to' other countries' laws, and which country's law they mean. Use only a policy the writer actually advocated, not one picked for them (worth up to +8).",
+  "Paragraph 4, 'getting hate mail and having to tell the other organizers about it': this is the strongest true moment, so sharpen it with what the writer actually remembers (a real line from a message, or the night it arrived). Ask the writer for it; don't invent it. Then end by tying 'protected us long ago' back to Dodd's 1968 date so the last line returns to the opening. Also change the spaced hyphens to commas or periods and fix 'etcetra' (worth up to +8)."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-07",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 391,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It takes a side ('The youth will lead and push for stricter gun laws') but never says what 'legislation comparable to... every civilized country' would contain. Most of the essay is about the writer's path into activism, not the quote."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The activism details are strong: 'March 24th, 2018', '6,000 people', 'State Capitol in Sacramento', '20 students', 'walkout on April 20th', 'detention'. The policy half has no law, statistic or country named, only 'reduce the number of death by guns per year'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real student, with no AI vocabulary, but has slogan lines ('badge of honor', 'The youth will lead', 'We will sacrifice and bring about change'). The ellipsis-spliced fragments ('burst through….This is an era') read like pasted notes, and there is one en dash and one spaced hyphen used as dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic stories, the Capitol speech and the walkout plus detention, but both are summaries with no scene. We never hear a word of the speech or see the walkout. The veterinarian aside drifts off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "It states intent with no idea: 'I feel very strongly about this movement.' It never says which law, why it works elsewhere, or why the US hasn't adopted it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The ellipses break up the paragraphs, and the ending is a slogan that never returns to the Sacramento steps. Last line: 'We will sacrifice and bring about change…'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+12 to +15 points): Cut 'I feel very strongly about this movement' and 'This…is what we need. The youth will lead...' and put in their place the specific demands the writer actually made in the 6,000-person speech or at the April 20 walkout. Ask the writer for these (for example universal background checks, an assault-weapons ban, red-flag laws). Tie each demand to a real law in force abroad that Dodd's 'civilized countries' line points to, and say why it would work here.",
+  "Fact error (recovers the -10 deduction, plus specificity): 'Since 1968, no formidable action has been taken by the U.S. Government' is false. The Gun Control Act of 1968 passed months after Dodd's speech, and the Brady Act (1993) and the 1994 assault-weapons ban followed. Cut or replace the sentence with an accurate, checkable claim, such as that the 1994 ban expired in 2004 and was never renewed. Also cut or source 'administrations have further contributed to the deaths of mass shootings by allowing the concealment of guns'.",
+  "Voice and structure (+6 to +8 points, recovers the -4 dash deduction): Delete every ellipsis fragment ('burst through….This is an era in which the United States is…', 'will not go out….', 'This…is what we need') and the dashes around the Dodd quote. Replace the closing slogan with a last line that returns to the Capitol steps, using a real line the writer said in that speech (ask the writer for it). Also cut the veterinarian paragraph down to one sentence."
+ ]
+}

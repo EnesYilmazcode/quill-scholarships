@@ -1,0 +1,54 @@
+{
+ "id": "ct-14",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 655,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay argues for gun control in general from history but never takes a position on whether regulation, including handgun and assault-weapon bans, is 'the most effective way to reduce firearm-related injuries.' The closest it comes is 'Assault weapons and high-capacity magazines would never have been countenanced 90 years ago,' which describes the past and makes no claim about effectiveness."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Rich in checkable facts: 'Feb. 14, 2018', 'Building 12', 'New Jersey banned the carrying of guns as early as 1686', 'Texas defined a machine gun in 1933', 'a narrow 5-4 majority'. Points come off because some figures look out of date ('without a permit in 15 states') and some claims are contested ('reversed 217 years of legal precedent, including four prior Supreme Court decisions')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like an impersonal newspaper op-ed with no writer present, and it uses stock flourishes: 'blood-splattered walls and dashed dreams', 'rages unabated', 'stem the carnage', and a balanced slogan to close ('embrace its past, not rewrite history'). It does have one long sentence over 45 words (the Heller sentence) and no AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic case, Parkland, told in three sentences as a summary, not a scene. The opening paragraph of about 110 words is about COVID hoarding and markets and doesn't serve the prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasoning shows that regulation has historical precedent and is constitutional, but never explains why regulation or bans reduce injuries. It gives no data and no comparison of results, and it never says why bans would beat other approaches."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and follow a historical order, but the last line, 'To stem the carnage, America should embrace its past, not rewrite history.', doesn't return to the COVID opening or to Parkland."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Get under the 500-word limit, which costs 10 points (the essay is at 655). Cut the whole COVID opening (about 110 words) and start at 'Meanwhile, another epidemic that kills an estimated 40,000 Americans every year', removing 'Meanwhile'. Merge the Billington 'tamed the West' paragraph into the colonial-laws paragraph as one sentence, and trim the list of seven law types in 'Laws governing dangerous weapons... dueling' down to three.",
+  "Answer the prompt's actual claim directly. Right after the Parkland paragraph, replace 'America has grown inured to deadly gun violence.' with a one-sentence position on whether regulation, including handgun and assault-weapon bans, is the MOST effective way to reduce firearm injuries. Then connect the history paragraphs to that position, showing that each new weapon technology was met with a new rule. Ask the writer for their real view and any real evidence about effectiveness they already know; don't add statistics they didn't supply.",
+  "Remove every dash, which costs 6 points: rewrite '-- unlike the coronavirus --' (that clause goes anyway if the COVID opening is cut), change 'more than five bullets - little firepower' to use a comma, and fix the 'COVID- 19' and 'gun- related' spacing typos. Also check the dated facts ('15 states' with permitless carry, 'more than 100 gun-related deaths on an average day') against a current source before submitting, because the count of permitless-carry states has changed since this was written."
+ ]
+}

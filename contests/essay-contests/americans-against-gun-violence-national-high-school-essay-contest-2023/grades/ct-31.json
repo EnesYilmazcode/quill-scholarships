@@ -1,0 +1,54 @@
+{
+ "id": "ct-31",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "finalist",
+ "words": 832,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Drills get a position early (\"knowing where the nearest exit is won't help if a gun is pointed at our chests\"), but roughly 500 of the 832 words argue for gun bans and Second Amendment history instead of the drills themselves."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and numbers: Port Arthur 1996, Dunblane, the Tennessee Three, Heller 5-4, Burger's \"greatest pieces of fraud\", 39,682 deaths in 2019. The writer's only first-hand material, the lunch friend, gets one sentence."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Angry and personal (\"If this essay sounds too angry- good. I refuse to apologize.\"), with clumsy human phrasing (\"participation status in said drills\") and long sentences. Tells: the filler \"truly helpful\" and a stock closing moral; no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two story beats: the drill announcement as a scene, and the sibling's lunch friend. The friend gets only one line near the end (\"a girl my sibling sat with during lunch\"), so the essay is carried by statistics, not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Australia and Britain bans come with before-and-after numbers, but the claim about drills (they are \"an illusion for some semblance of control\") gets no reasoning, and the essay never says what should replace or change the drills."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Opens on the math-wing drill, then closes on a generic restatement: \"urgent and definitive action must be taken to prevent school shootings from occurring in the first place.\" It never returns to the classroom or the giggles."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut 332 words to meet the 500-word limit (-10 deduction): reduce the whole Second Amendment/Heller paragraph (musket rates, 232 years, four prior opinions, Burger quote) to one sentence, merge the Australia and Britain paragraphs into one with a single number each, and delete \"More statistics could be used.\" and the standalone \"America, however, cries for its dead...\" line.",
+  "Move the sibling's lunch-friend sentence up to directly after the opening drill scene, so the giggling classroom runs into the real death and the drill feels personal from the start. Keep only the true facts already given and add nothing new. Then use the words freed by fix 1 to explain why drills fail, building on the existing \"knowing where the nearest exit is won't help\" line.",
+  "Replace the final paragraph's \"urgent and definitive action must be taken\" restatement with a closing line that comes back to the opening announcement (\"This is just a drill.\"), and cut \"truly\" from the second paragraph's question."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-34",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "honorable-mention",
+ "words": 615,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks about lockdown drills, but the essay never uses the word 'drill'. It turns into a gun-control op-ed instead: 'Our country MUST pass stronger gun control laws.' Deductions: -10 for the unanswered prompt and -10 for running 615 words on a 500-word limit."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong anchors: Nashville, Orlando, born 2004, adopted from China, 'I was eleven years old', the dad's quote word for word, and '82 times higher'. The Columbine 'anniversary' and 'recent' shooting aren't dated, and the footnotes point to sources that aren't listed."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person: 'These are the ages of kids who I babysit!!', 'Anyway,', 'I have no memory of ever saying it.' The tells: 'not only in school shootings but', a triplet ('today, tomorrow, next week'), the slogan line 'It's just a matter of having the willpower', and a stray line break at 'Only the / United States.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one real story: the dad recalls her shrug at eleven, 'I'm not scared, shootings happen all the time.' It's well told, but it's about getting numb to shootings, not about drills. After paragraph 4 the story disappears and the statistics take over."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The demand is 'stringent gun control laws... comparable to the laws in the all the other developed countries' and the analogy is AIDS/COVID. It names no specific law, doesn't say why drills or current policy fail, and never says who would do what."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on the Columbine anniversary and her lifetime of shootings, then ends on a generic call to action: 'We must all demand that our elected leaders enact stringent gun control laws in the United States comparable to the laws in the all the other developed countries of the world.' The ending never comes back to the eleven-year-old or the dad."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Point the essay at the prompt (recovers up to 22 points: the 10-point deduction plus criterion 1). In paragraph 3, right after 'I can't believe that I felt so numb', add a plain sentence giving her real opinion of lockdown drills, then link that numbness to the drills she grew up with. Ask the writer what she actually remembers about drills (grade, what the teacher said, how she felt) and use only what she confirms. Don't make up a drill scene.",
+  "Get under 500 words (recovers 10 points). Cut the whole AIDS/COVID paragraph ('If there were an infectious disease epidemic...'), the sentence 'Diseases such as cancer and accidents in automobiles take second...' (it repeats the leading-cause stat), and 'Ludicrous proposals like arming teachers...'. That's about 150 words. Fix the 'Only the / United States.' line break and 'the all the other'.",
+  "End on the opening story (recovers about 5 points across structure and voice). Replace the last two sentences ('It's just a matter of having the willpower... developed countries of the world.') with a line that goes back to her eleven-year-old shrug or her dad's 'come talk to Mommy or Daddy', set against the drills. Use the 82-times statistic once, earlier, instead of making it the closing slogan."
+ ]
+}

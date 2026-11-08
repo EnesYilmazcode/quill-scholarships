@@ -1,0 +1,54 @@
+{
+ "id": "ct-18",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 537,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position, \"I fully support the position taken by the American Academy of Pediatrics,\" and argues access over mental health. But the position only arrives in paragraph 4, and the essay never discusses handgun or assault-weapon bans, which the statement names."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The scenes are concrete (Christmas sweater, Instagram, \"his father's gun\", AP US History, the three-hour test, Matty). The argument has no detail at all: \"statistic after statistic\" cites none, and \"other countries\" are never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly reads like a real student, clumsy in places (\"like an ambush\", \"seemed to manifest itself once again\"). Stock phrasing: \"Fast forward two years later\", \"statistic after statistic\", \"blatantly ignore them to cater to their donors\". No em dashes. The longest sentence is 44 words, just under the 45-word rule."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: the friend's suicide with his father's gun, and the threat during the AP exam. The first spends most of its words on Christmas mood, and the gun itself gets one line."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It has a real mechanism: easy access matters in \"moments of carelessness, anger, or despair\", so mental-health care alone won't cut deaths. But it gives no evidence, doesn't explain how a handgun or assault-weapon ban works, and the closing claim that regulation would have let Matty \"get help with his mental problems\" contradicts its own access argument."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Story first, then argument, and the close returns to the opening friend: \"but because of the status quo, Matty never got the chance.\" It loses a point for the late thesis, the abrupt ending and the muddled logic of the last sentence. (Weighted subtotal 73.0. Deduction: word limit exceeded, 537 on a 500 limit, -10. Total 63, mid band.)"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut at least 37 words to get under 500 and recover the -10 deduction. In paragraph 1, cut \"singing my favorite Christmas songs\", \"On the way home, I was greeted with hot chocolate and Christmas songs on blast. Everything was good.\" and \"At the time, I thought nothing of it; it was normal to leave school a week before break.\" In paragraph 4, cut \"However, even when presented with facts, politicians blatantly ignore them to cater to their donors.\", which is stock phrasing and off the argument.",
+  "Rewrite the last sentence so it matches the essay's own reasoning. The argument is that the gun was within reach in a moment of despair, not that he couldn't get help. Tie it to \"my friend used his father's gun\": if that gun had not been in the house, Matty might have had time to get help. Then state the position in a sentence near the top of paragraph 4 instead of after the debate-team lines.",
+  "Replace \"There is statistic after statistic showing that guns threaten our society\" and \"The experiences of other countries\" with one or two real, sourced facts from Enes's debate research (ask him which ones he actually used), and name the country. Ask Enes whether his friend's father's gun was a handgun. If it was, say so in one clause, so the essay addresses the handgun ban the statement names."
+ ]
+}

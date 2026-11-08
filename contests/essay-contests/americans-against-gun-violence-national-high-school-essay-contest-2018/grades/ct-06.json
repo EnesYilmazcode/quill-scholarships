@@ -1,0 +1,54 @@
+{
+ "id": "ct-06",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 492,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position, \"So, in response to the words of Senator Thomas Dodd, I fully agree,\" but only in the last paragraph. The first three paragraphs argue around the quote without saying so."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The data is real and checkable: \"From January to April 22, 2018, the United States had 67 mass shootings, 20 of which took place at a school\" and \"kids walked out on March 14\". But Australia and Canada are named three times without one law, year or result."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real teenager, with clumsy lines like \"Do they think that they won't pass the tests?\". The tells are the \"it's not a matter of political opinion, it's a matter of morality\" antithesis used twice, a stack of rhetorical questions, the stock phrase \"this great nation\", and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one beat of the writer's own: the March 14 walkout in a red county, told in a single sentence. There is no case study of Australia or Canada to carry this analytic prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It asserts that other countries \"have had enormous success\" without explaining why. Background checks and testing are named but not developed. The only mechanism is that gun owners share ranges with \"gun owners who could be potentially dangerous\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "There are four clear paragraphs, and the close returns to the opening \"taking away guns\" myth. But it ends on a restated plea: \"whether you are Republican, Democrat, or somewhere in-between, you should too.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2: replace the three rhetorical questions (\"What are they worried will happen? Do they think that they won't pass the tests?\") with what Australia's and Canada's laws actually require and what changed afterward. Use only facts from a source the writer can cite. This adds both a mechanism and checkable detail, and is the biggest point gain.",
+  "Paragraph 3: expand the March 14 walkout sentence using only what actually happened, such as where the students went and what they said or carried, if the writer remembers it. Cut \"as I said before, this isn't a matter of politics, it's about morality\". If there is nothing more to add, cut the repeat and leave the walkout as the paragraph's last line.",
+  "Move \"I fully agree\" with Dodd into the first paragraph so the position is stated up front. Cut the slogan \"It's not a matter of political opinion, it's a matter of morality that we all must have in order to protect the citizens of this great nation\". End the essay on the walkout, or on the line that Dodd spoke 50 years ago, instead of the Republican/Democrat plea."
+ ]
+}

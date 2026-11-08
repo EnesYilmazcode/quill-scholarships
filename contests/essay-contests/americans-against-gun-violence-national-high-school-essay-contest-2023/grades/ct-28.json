@@ -1,0 +1,54 @@
+{
+ "id": "ct-28",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "finalist",
+ "words": 731,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Gives a clear view of the drills ('No, a lockdown won't save us'), but only the third paragraph is about drills. More than half the essay argues gun-control statistics, so the prompt's subject becomes background."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable anchors: Sandy Hook in second grade, the mom crying at the TV, the 'Lockdown, this is not a drill' siren in third grade, NIJ's 77% figure, and 288 US school shootings against zero in the UK and Japan. The drill routine itself ('hide in the corner, turn the lights off') stays generic."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The anger sounds real ('Could you imagine dying at seven?'). But the essay uses the 'Tell me America' device twice, ends a paragraph on the punchline 'It makes us human', and uses a not-X-but-Y turn ('doesn't make us unpatriotic. It makes us human'). The background-check and 'extreme outlier' sentences also read like adult policy prose, not the student's voice."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the Sandy Hook TV scene with his mom, and the real third-grade lockdown with classmates sobbing and frozen. Both are told as scenes, but both are gone by paragraph three and the statistics carry the rest."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the current fix fails: the instant check runs against 'a chronically incomplete list of persons who meet narrow criteria'. The remedy is only 'stringent gun control laws... comparable to other high income democratic countries', with no specific change and no one named to carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The last line, 'how many more children and youth must die – and will I be next – before you adopt laws that show that you love your children more than your guns?', echoes 'Could you imagine dying at seven?'. The middle sags into two back-to-back statistics paragraphs."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut 231+ words to get under 500 (recovers the -10 word-limit deduction). Shrink the international comparison paragraph to one sentence: 'From 2009 to 2018 the United States had 288 school shootings; the United Kingdom and Japan had none.' Delete the 'gun culture' paragraph. Cut the restating sentence 'Meaning that America's current background check system gave the OK...' and the 'What kind of background check system is that?' follow-up.",
+  "Re-center on the drills to lift criterion 1 from 3 to 4 (+4). Move the third paragraph ('As a current high school senior, I've practiced endless lockdowns...') so it sits right after the third-grade lockdown. Make the drills-versus-real-lockdown contrast the spine of the essay, and keep the gun-control argument as the reason the drills exist, not as the main subject. If Enes has more true detail about how drills actually feel (how often they happen, what a teacher says), ask him for it. Don't invent any.",
+  "Lift voice from 3 to 4 (+4) and clear the dash deduction (+2). Keep one 'Tell me America' and cut the other. Replace the 'doesn't make us unpatriotic. It makes us human' punchline with a plain statement. Replace the en dashes in the last line with commas. Rewrite the long background-check sentence in his own words, e.g. 'The check only looks you up on a list, and the list is missing people.'"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-36",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "honorable-mention",
+ "words": 475,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The one-part prompt gets a clear view: monthly drills have stopped working because students now laugh them off ('we've developed the ability to laugh it all away'). The essay never says plainly whether drills should continue, be cut back or change, so the position on the drills themselves stays implied."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated, named and impossible to fake: 'February 14th, 2018', 'Cara Marie Loughran', 'Broward County Public Schools', staff-only codes replacing 'All clear', 'continue teaching Algebra', 'one every seventy-seven days', and the 'bulletproof Hello Kitty backpack'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "The voice is a real person's, clumsy in places ('which I'd personally like to credit to'). Tells: the 'changed forever. My life changed forever' echo, the stock 'I implore you all', three 'What does it say about us' questions in a row, and the punchline 'sniffles turning into snickers'. No sentence goes over 45 words. Deduction of -6: three spaced hyphens are used as em dashes ('know - God forbid', 'district - Broward', 'all - they just')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two beats. Cara's death is told in one line and never comes back. The drill classroom is a real scene, but it is described as a general type ('Half the students are on their cell phones') rather than one drill the writer was in. The loss sets the stakes but does not carry the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay gives a cause: drills went from yearly to monthly, which made them routine and then a joke. Teachers who keep teaching through the drill support that cause. After that it turns to rhetorical questions about gun laws and offers no reasoning about what should change in the drills."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order is clear: loss, then the changes, then the drift toward joking, then a critique. But the ending, 'And I can see children joking about tragedies that should by no means be normalized', never comes back to Cara or to February 14th, so the strongest image in the essay is left behind in the first paragraph."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Bring Cara back in the last paragraph, using only what the essay already says. For example, set her name or 'February 14th' against the giggling in the 'sniffles turning into snickers' passage, so the reader sees the gap between what the drill is for and how the room treats it. Cut 'And I can see children joking about tragedies that should by no means be normalized', which restates the line before it. This fixes the loop-back ending and makes the one story carry the essay (about +6 to +10).",
+  "Replace all three spaced hyphens with commas, periods or parentheses: 'know. God forbid...', 'In my district, Broward County Public Schools, lockdown drills...', 'at all. They just turn the lights off...'. This removes the -6 em dash deduction.",
+  "State the position on the drills themselves in one plain sentence, placed after the cause sentence in paragraph 3 ('which I'd personally like to credit to the frequency'). Say whether monthly is too often, or what the drills should become, but ask the writer what they actually believe rather than inventing it. Also cut the stock lines 'I implore you all to examine' (write 'Look at a classroom during a lockdown drill') and the 'My life changed forever' echo. This firms up the answer and the reasoning and cleans up the voice (about +4 to +7)."
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "ct-27",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 664,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on the single-part prompt early ('Both tactics are of questionable value... add to the culture of fear and normalize the status quo') and ends on drills ('ineffective lockdown drills be replaced urgently'). About a third of the essay is spent on nuclear abolition and gun-law policy rather than the drills themselves."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: the 1949 Soviet test, the 'Duck and Cover' turtle, 'New York's 1951 school budget included $87,000 for student dog tags', the Khrushchev quote, Uvalde's 19 students and two teachers, Richneck Elementary, and NASP. The last three paragraphs drop to unsourced generalities ('all the other high income democratic countries')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "A distinct, sardonic voice ('as if trying to avoid a sunburn', the NRA dog-tag jab, 'Small wonder.'). Tells: the not-X-but-Y line 'recalibrate its relationship with guns, not pinpoint closets to hide in', AI vocabulary in 'navigating endless grief', and a spaced hyphen used as a dash ('- not yet, at least -'). The closing paragraphs turn into op-ed boilerplate."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Analytic prompt with two case studies, the Duck and Cover drills and Uvalde/Richneck, and both serve the argument. The paragraph on nuclear-abolition diplomacy ('some world leaders use nuclear blackmail') goes off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why drills fail ('Locking the doors only kept police at bay in Uvalde', NASP trauma finding) and why a domestic fix is feasible ('We don't need international cooperation'). The proposed fix stays generic ('comparably stringent gun control laws') and names no specific law, model country or actor beyond 'demand of our elected leaders'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized parallel structure, but the ending is a rhetorical-question moral that never comes back to the Duck and Cover opening: 'If it's really our children that we love the most, then we need to demand of our elected leaders that ineffective lockdown drills be replaced urgently with definitive gun control laws.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "word limit exceeded",
+   "points": 0,
+   "reason": "-10: 664 words against a 500 limit. Weighted subtotal 75.0, minus 10, gives 65, which is in the mid band."
+  }
+ ],
+ "fixes": [
+  "Cut 164+ words to get under 500 (recovers 10). Delete the whole paragraph that starts 'The threat of nuclear war still hangs over our heads' (about 50 words). Compress 'Rampant civilian gun violence... privately owned guns in our country' into one sentence. Cut the 'Bulletproof backpacks' paragraph down to the NASP finding. Trim the 'Survival mode would tell students...' and 'Guns may not be as deadly...' sentences. Keep the dog tags, the Uvalde and Richneck facts, and the Khrushchev quote, because they carry the specificity score.",
+  "Rewrite the ending so it returns to the opening (structure 3 to 5, about 4 pts). Replace the 'which do we love more, our children or our guns?' question and the final sentence with a close that brings back the Duck and Cover image or the 1951 dog tags, set against today's 'Locks, Lights, Out of Sight', and then states the demand. Also drop 'When will the country tire of navigating endless grief?', which uses AI vocabulary and is a stock rhetorical question.",
+  "Give the gun-control proposal a mechanism (ideas 3 to 4 or 5, 3 to 6 pts) and clear the voice tells. Ask Enes which real law or country model he means (for example a specific buyback or licensing law he can cite) and name it in place of 'follow the examples set by all the other high income democratic countries'. Rewrite 'recalibrate its relationship with guns, not pinpoint closets to hide in' as a direct statement instead of a not-X-but-Y line. Replace the spaced hyphens in '- not yet, at least -' with commas."
+ ]
+}

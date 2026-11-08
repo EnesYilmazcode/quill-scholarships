@@ -1,0 +1,54 @@
+{
+ "id": "ct-32",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "finalist",
+ "words": 537,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks for thoughts on lockdown drills, and the position on them gets only two sentences ('lockdowns do not protect children. Continuous drills put them under psychological stress and normalize gun violence at an early age') before the essay moves into a gun-ownership debate the prompt did not ask about."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong physical detail: 'thirty tiny bodies' in the storage room, the window 'placed too high for anyone to see in or out of', the calculus integral, and the Google search that found a same-name California school 'shot up six days earlier'. There are no school names, places or years, and 'overwhelming evidence' about guns is a claim with no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person: 'muttering angrily about an integral', 'gives enough of a damn', the clumsy 'pawn this lockdown off as a drill'. The tells are the stock debate move 'People argue... But there's overwhelming evidence', the repeated slogan rhythm of 'I want to live. I want to learn', and a stray mismatched quote mark in 'SHOOTING!\"'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are three lockdown stories plus the dad's promise, all on topic and told as scenes. The seventh-grade locked-out girl is the strongest. Three stories is more than the one or two the rubric wants, and together they crowd out the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says drills cause stress and normalize violence but never shows how, even though its own stories could. It offers no view on what should replace or change the drills. The gun paragraph is about something else and gives no evidence."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The age-1st/7th/12th arc is clear, but the 'Seventh Grade:' and 'Twelfth Grade:' headings break the prose. The last line, 'Please, I don't want to die.', is a plea and never returns to the opening storage room or window."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the whole gun paragraph, from 'People argue that they need guns...' to '...enough of a damn to intervene?' (about 75 words). That gets the essay from 537 to about 462 words, under the 500 limit, which removes the -10 word-limit deduction and the off-topic drift that lowers criterion 1. Keep only the 'children and teachers who can only lock their doors and hope' image if it fits, moved into the drills paragraph.",
+  "Use the freed words to grow the two-sentence position into a paragraph about drills that rests on the essay's own true events. The girl outside the door shows that a surprise drill feels the same as a real lockdown. The years of drills taught him to assume 'it was just that, a drill'. His dad's promise to run 'before it was ever locked' shows his own family did not trust the lockdown. Ask Enes what he actually thinks should change (warned drills, no drills for young kids, something else) and state it plainly. This lifts criteria 1 and 5, worth up to about 14 points.",
+  "Delete the 'Seventh Grade:' and 'Twelfth Grade:' headings (-5 deduction) and start those paragraphs with plain time cues instead. Then end on the image from the opening. For example, put a line just before 'Please, I don't want to die.' that brings back the window placed too high to see out of, or rewrite the close around that window, using only what he really remembers. That lifts structure from 3 toward 5."
+ ]
+}

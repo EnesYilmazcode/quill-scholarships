@@ -1,0 +1,54 @@
+{
+ "id": "ct-24",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "honorable-mention",
+ "words": 857,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position early ('banning guns is the most effective way of reducing firearm-related injuries') and defends it, but never deals with the US-specific objections beyond a short self-defense rebuttal, and it says 'banning guns' broadly rather than the AAP's handgun and assault-weapon framing."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong dated opening ('April 25, 2017... approximately 12:45pm... Herricks Middle School is now entering lockdown mode') and many checkable facts (35 killed, 162,000 guns, 46% vs 4%), but the middle reads like a cited report with no personal detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Research-paper voice with footnote markers (1) to (9); tells include 'This isn't because... It's because' (not-X-but-Y), 'not just a drill', 'Breathtakingly', 'It's noteworthy', 'injected with anxiety and fear beyond imagination', 'rejuvenate the battle', and two dash breaks."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the 2017 lockdown), told as a summary and dropped after paragraph 1. Australia and Dunblane work as case studies, but the essay never comes back to the writer's own experience."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains the causal chain (fewer guns in circulation, no switch to other means, buybacks) using two case studies and a carrying-risk statistic. It loses a point because the US call to action is just 'rejuvenate the battle against civilian gun ownership' with no concrete step."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The body is organized, but there's a Covid tangent, and the last line, 'We do not need to live through more to understand that now is the time for change.', is a generic moral that never returns to the Herricks classroom."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut 357+ words to get under the 500 limit (-10 now): delete the Covid-19 paragraph, shorten Australia and the UK to 2 or 3 sentences each (keep 35 killed, about a million guns destroyed, no mass shootings for 22 years, Dunblane 16 children, 1/14th and 1/52nd), drop the 4.5x/4.2x study sentence, and remove every footnote marker (1) to (9).",
+  "Rewrite the stock lines in your own plain voice (criterion 3 is 2/5, and the dashes cost -4): replace 'This isn't because people in those countries don't value their own safety. It's because...' with one direct sentence, cut 'Breathtakingly', 'It's noteworthy, though,', 'injected with anxiety and fear beyond imagination' and 'rejuvenate the battle', and replace the ' - a civilian with a gun' and ' – not just so-called' dashes with commas or periods.",
+  "Replace the closing paragraph with one that goes back to the American History classroom at Herricks using only what really happened that day (the announcement, the question 'why was there a threat at all'), and tie it to the Australia/UK result. Also fix the slip 'banning handguns and automatic and semi-automatic handguns' so it says 'long guns'."
+ ]
+}

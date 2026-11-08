@@ -1,0 +1,54 @@
+{
+ "id": "ct-09",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 500,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay agrees with Dodd ('It was true when he proclaimed it in 1968, and it is equally if not more true now') but never says what 'stringent' or 'comparable' legislation would be. It never names another country's law, and its only argument is 'One would think that the obvious solution is more gun control.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The story half is strong and checkable: Marjory Stoneman Douglas, Parkland, the second fire alarm, the friend's text 'I almost died - there was so much blood,' and 'the seventeen.' The policy half is vague: 'guns are virtually unregulated' and 'It seems like anyone can get a gun.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The present-tense scene sounds like a real person. The second half switches to stock rally rhetoric: a triplet of 'We must take it upon ourselves to vote out,' the slogan 'thoughts and prayers instead of policy and change,' the hedges 'One would think' and 'It seems like,' and a slogan close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one story, the Parkland shooting, and it is fully on topic and told as a scene. It drops away after paragraph 3 and never comes back to carry the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The only action is to 'vote out politicians that will not take any real action.' The essay names no specific law and explains no reason the current approach fails. The drinking-age and driving comparison is gestured at but never developed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order is clear (scene, then the quote, then a call to action), but the last line restates the thesis instead of returning to the opening: 'The time is now and we will no longer be complacent with the current gun laws.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the paragraph-3 sentences from 'One would think that the obvious solution is more gun control' through 'it is still the reality' with the one or two specific laws the writer actually wants, such as background checks, a purchase age, or a waiting period. Ask the writer which ones they really argued for after Parkland. Then add one plain sentence on why that law would have changed what happened at Marjory Stoneman Douglas. This answers 'stringent' with something concrete and fixes the weakest criterion.",
+  "Make the essay engage with 'comparable to the legislation in force in virtually every civilized country.' Cut 'Gun violence still plagues our country from school shootings like ours and Sandy Hook, to the Las Vegas concert, to everyday situations in cities like Chicago.' Put one sourced comparison in its place, naming a real country and its real rule, and check it before using it. Replace the vague 'guns are virtually unregulated' with that checked fact.",
+  "Collapse the triplet in the last paragraph ('We must take it upon ourselves...' three times) into one sentence, and cut 'One would think,' 'It seems like' and 'equally if not more true.' End on the opening image instead of 'Senator Dodd was right. The time is now...' For example, close on the seventeen or the best friend's text, using only what really happened."
+ ]
+}

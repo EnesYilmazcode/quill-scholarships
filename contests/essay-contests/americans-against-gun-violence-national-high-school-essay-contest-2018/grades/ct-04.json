@@ -1,0 +1,54 @@
+{
+ "id": "ct-04",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 488,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It clearly agrees with Dodd and backs the stance with Australia's 'National Firearms Agreement', but it never says which 'stringent' laws the US should adopt. It ends on a question instead of a position: 'what is the rock bottom to have the US address their gun addiction?'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong cited figures ('650,000 gun related homicides', '35 people dead and 18 wounded', 'December 2001' shoe bomb) and named places. 'Harder for someone to obtain a driver's license than it is to obtain a gun' has no source, and 'Marjory Stoneman Douglass' is misspelled (it should be Douglas)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a human student, not a model, but it leans on stock phrases: 'It is, without hesitation, a disgrace', 'glaringly apparent', 'flourishing, first-world country', 'Thus,'. It uses spaced hyphens as dashes twice in line one. There is no AI vocabulary and no 'not X but Y'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so the case studies count as stories. There are two: Australia 1996 and the TSA shoe rule. Both are told as summaries with no scene, and the opening list of shootings is a roll call rather than a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It says why the current response fails ('thoughts and prayers... but nothing more') and gives Australia as a working model ('the number of mass shooting... has been zero'). It never names a specific US change or explains why it would pass or work here."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but paragraphs 2 and 3 repeat general claims. The last line, 'what is the rock bottom to have the US address their gun addiction?', brings in a new addiction metaphor instead of returning to Dodd's 1968 quote or the '50 year time span' from the opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add a short paragraph after the Australia paragraph that names the one or two NFA measures he would bring to the US (for example the semi-automatic rifle ban and licensing with background checks, which he already lists) and says why they would work here. If he has a real reason or source, ask him for it. This answers what 'stringent' should mean and lifts the answers and ideas scores.",
+  "Cut the stock filler: 'It is, without hesitation, a disgrace', 'Thus, it continues to be glaringly apparent how big of an issue...', 'flourishing, first-world country'. Merge paragraphs 2 and 3 into one tighter paragraph built on the cited fact (4). Replace the spaced hyphens in line one with commas or a colon. Either cite the driver's license claim or cut it.",
+  "Rewrite the ending so it comes back to the opening: tie the 'rock bottom' question to Dodd's 1968 line and the '50 year time span' (for example, 50 years since Dodd said 'the time has now come'). Fix 'Douglass' to 'Douglas' and 'mass shooting that have occurred' to 'mass shootings that have occurred'."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-30",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "finalist",
+ "words": 598,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position early ('Lockdown drills are security theatre') but the back half drifts from drills to gun control and Senator Dodd, so the drills themselves get about two paragraphs."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable anchors: the TikTok fire-extinguisher video, Starbucks training, '648 mass shootings', Uvalde '19 students and two teachers', Dodd 'June of 1968'. But the central claim 'Lacking any proved effectiveness' has no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person ('that they likely had to buy themselves, mind you', 'almost enraged'). No em dashes or AI vocabulary; it slips into stock phrasing in 'gross misconduct on behalf of the government' and 'Older generations should be ashamed'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two small on-topic beats (watching the TikTok video, the Starbucks active-shooter plan), but neither is a scene, and the writer never describes a lockdown drill they actually sat through."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says why drills fail in one line ('Shooters are well aware of these procedures'), then offers 'enforce better gun control' with no specific policy, no reason it would work, and no one named to carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized, but the ending is a borrowed quote and a restated moral: 'It's long past time to heed Senator Dodd's advice...'. It never returns to the teacher and the fire extinguisher, and a stray header line splits a sentence in half."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut about 100 words to get under the 500-word limit (-10 deduction): drop the 'Older generations should be ashamed...' sentence, shorten the Dodd quote to its last sentence, and trim the 'So are they really doing any good... is this really the best way to do it?' pair of questions down to one.",
+  "Delete the stray line 'Untitled Essay by McKenna Shelly' that splits the Uvalde sentence (-5 header residue), and rewrite the last line so it returns to the opening teacher with the fire extinguisher instead of ending on Dodd's advice.",
+  "Replace 'enforce better gun control' with the one specific measure the writer actually supports and the reason it would cut shootings more than drills do (+15 to +20 on ideas). If the writer has a real memory of a lockdown drill, ask them for it and use it in place of the generic 'students can watch the execution' line. Don't add it if it didn't happen."
+ ]
+}

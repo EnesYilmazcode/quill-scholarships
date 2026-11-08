@@ -1,0 +1,54 @@
+{
+ "id": "ct-26",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 567,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on the single-part prompt: \"Active shooter drills are a band-aid solution.\" But from paragraph 3 on, the essay argues for gun control rather than giving thoughts on the drills themselves."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has numbers (\"95% of public schools\", \"over 345 shootings\", \"over 67% of the guns\"). The drill scene (\"darkened corner\", \"math class\") has no school, grade or named moment. The \"other countries\" claim names no country."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Long, natural sentences, but with stock framing: \"like lambs awaiting a slaughter\", a \"band-aid solution\", the filler \"deeply flawed system\", and a not-X-it-is-Y antithesis: \"is not an educational activity. It is the manifestation...\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories. The opening describes drills in general (\"Every time I hear the alarm\"). No single drill is told as a scene, and the essay then turns to statistics."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives mechanisms (stricter background checks, putting the burden of proof on the buyer, delays that interrupt impulse purchases). But it judges drills by a non sequitur: shootings continued, so drills are \"evidently not very effective\", when drills are meant to reduce casualties, not prevent shootings."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "A stray heading splits a sentence mid-paragraph. The last line, \"...tighten up background checks for other firearm purchases\", has no period. Its \"locking down\"/\"melting down\" wordplay nods to the opening but does not bring back the darkened classroom."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut 67+ words to get under the 500 limit (-10). Delete the meta sentence \"To come to this conclusion it is first necessary to analyze the effectiveness of both solutions: lockdown drills and gun control.\" Shorten the other-countries sentence to name one real country instead of describing the policy at length. Cut \"Thankfully, while my experiences with these grim thought experiments have been just that, only thoughts,\". It reads as a disclaimer about the writer (-5), and the next clause can start at \"For many students across America...\".",
+  "Delete the heading \"What Are We Really Locking Down By Lockdowns?\" that sits mid-sentence in paragraph 4 (-5). Remove the citation markers \"(1)\", \"²\" and \"(2)\". Fix \"the the event\". Add the missing final period.",
+  "Fix the drill logic in paragraph 3. Replace \"this is evidently not very effective\" with a claim the numbers actually support: drills cannot prevent a shooting, only shape what happens during one. That makes the case for gun control as prevention. Then cut the stock phrases \"like lambs awaiting a slaughter\", \"deeply flawed\" and the \"is not an educational activity. It is the manifestation\" antithesis. Ask Enes for the real school and grade of the drill in the opening paragraph so that scene can be named rather than generic."
+ ]
+}

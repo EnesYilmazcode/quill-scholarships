@@ -1,0 +1,54 @@
+{
+ "id": "ct-23",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "honorable-mention",
+ "words": 487,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on the AAP claim: 'We need concrete federal laws including assault weapons and handgun bans as the American Academy of Pediatrics suggests.' The 'most effective' part gets only a one-line rebuttal: 'the problem has always been the firearm.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has strong checkable facts: Sandy Hook 30 min away, 2nd grade, Australia 1996, 12 days, about one million guns, 22 years, 229 shootings 2009-2019. The personal parts are generic ('students sit in fear wondering, is this a drill?'), and 'no new federal gun law initiative' is open to challenge."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real teen voice comes through ('Back then I didn't understand the concept of using a gun to hurt others, but now I do'). It is buried under slogans: 'But that stops now.', 'change the narrative', 'bring our country into the 21st century', 'aren't a political charade', and a rhetorical-question close. There are no em dashes, and there is one sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the teacher explaining Sandy Hook) told in two sentences, then a general lockdown summary. The story stops after paragraph 1 and never comes back to carry the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Australia buyback gives a real mechanism with an outcome. The essay never says why it would work in the US or who acts, and it dismisses pamphlets and storage courses without saying why they fail."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, but the AAP claim is restated almost word for word twice. The last line, 'will politicians stand with the people and fight for firearm restrictions, or will my life be the next at risk?', points loosely back to the student but not to the opening classroom or teacher."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8): in paragraphs 4 and 5, cut 'But that stops now.', 'Firearm regulations aren't a political charade.', 'help bring our country into the 21st century and change the narrative', and the word 'ironically' in line 1. State each point plainly in the writer's own register, like the 'Back then I didn't understand' sentence.",
+  "Ideas (+3 to +6): replace the one-line 'However, the problem has always been the firearm' with two sentences explaining why Australia's numbers moved. Its buyback took about a million guns out of circulation instead of asking owners to change habits, and that is the difference from pamphlets and storage courses. Pay for the space by deleting the second AAP restatement at the end of paragraph 4 (the 'thoroughly researched position statement two decades ago' sentence), which repeats paragraph 5.",
+  "Story and ending (+3 to +5): cut the generic 'as I'm sure millions of students across America have as well' and 'students sit in fear wondering', keeping only what the writer actually lived through. Replace the rhetorical-question close with a last line that returns to the 2nd-grade teacher's face from the opening, so the essay ends where it began. Ask the writer which real detail of that day they remember instead of adding one. Also ask them to check 'no new federal gun law initiative' against a source before submitting."
+ ]
+}

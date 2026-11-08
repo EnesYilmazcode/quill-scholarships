@@ -1,0 +1,54 @@
+{
+ "id": "ct-37",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "honorable-mention",
+ "words": 729,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on the drills themselves (\"lockdown drills may be the best that a school can do... But each time... anger, horror, helplessness\"), but about 40% of the essay is spent on Heller, Bruen and the GOP rather than on the drills."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The Iran inspection scene (\"a single piece of hair stuck out from her head covering\"), the barricade rattling as \"a police officer mimicking an intruder\" pushes on it, \"six drills\", Bruen 2022, Heller 2008 five to four. The court paragraphs go abstract, and the school and town are never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The two scenes sound like a real person, but the closing third reads like an op-ed (\"terribly flawed decisions must be overturned\", \"fraudulent misrepresentation\"). Tells: filler \"truly\", the triplet \"anger, horror, helplessness\", the antithesis \"some argue that we need lockdown drills, but what we really need is\", two dashes, and a stray heading pasted mid-sentence."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories: the mother's school inspection in Iran and his first lockdown drill at 12. They are tied together by the classmates' faces in both. After paragraph 4 the stories stop and the essay becomes an argument about the courts."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the drills fall short (police \"tips\" like zig-zagging) and why reform is blocked (Heller and Bruen rule out stringent laws). But the fix is only \"must be overturned\", with no say on who does it or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The scene-then-argument order is clear, but the ending restates the thesis and never brings back his mother: \"...so that students in American schools will not have to continue to try to learn with one eye on the whiteboard and the other on the exit.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut from 729 words to under 500 (worth -10, the biggest loss). Shrink the Heller/Bruen paragraph and the GOP paragraph to two sentences total, for example one sentence naming Bruen and Heller as what blocks stringent laws and one on leaders who say 'There's nothing we can do'. Also trim the Iran paragraph's propaganda and concrete-walls clause. Keep both scenes, since they earn the specificity and story points.",
+  "Delete the stray line 'Sniffles Turn to Snickers' in paragraph 4 (it reads as a pasted heading, -5). Replace both dashes in the last paragraph ('drills – like' and 'campuses -') with commas (-4). Drop 'truly' from 'when we truly need meaningful gun reform'. Rewrite 'For now, some argue that we need lockdown drills, but what we really need is' as a plain statement of his position.",
+  "Make the last line return to the opening. Bring back his mother and the detail already in the essay, her classmates' faces 'staring in dread' and his classmates flat on the floor, so the close links her school in Iran to his school in Boston instead of restating the gun-law thesis. Use only what she actually told him."
+ ]
+}

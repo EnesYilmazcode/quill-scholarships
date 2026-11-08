@@ -1,0 +1,54 @@
+{
+ "id": "ct-08",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 523,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It takes a clear position on Dodd's quote ('America needs to join the modern world and follow the advice of Senator Dodd'). The 'comparable to other civilized countries' part gets only one Japan paragraph and never says which laws the US should adopt."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has real, checkable sources: 'American Journal of Medicine', '18.6 per 100,000' against '2.2 per 100,000', and the age of 18. Weak spots are the loose '(The Guardian).' citation, the unsourced 'Japan has the lowest gun homicide rate in the world', and a friend's story with no place, year or name."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "'I am 18. I can't legally drink or rent a car' and 'It was.' sound like a real person. Tells: the slogan close 'America needs to join the modern world', the triplet 'minorities, the poor, and children', filler 'unfortunately', 'exponentially' used loosely, and the typo 'high- income'. There are no em dashes, and one sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story (a friend's childhood friend shot by a gun 'everyone thought wasn't loaded') plus the writer's own age beat. Both are on topic, but the story is secondhand, five sentences long, and buried in paragraph three. The police-shooting material drifts away from what gun control would fix."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names a contrast ('over a year of background checks, safety tests, and training' against 'a couple of minutes') but proposes no specific law. It never says why the US system fails or who would make the change. 'As a result' states cause without arguing it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay opens and closes on Dodd's quote, so it does loop back. But the last line is a slogan: '\"We must adopt stringent gun control legislation,\" and we must do it now.' A stray paragraph break also splits the story at 'It was. / And an innocent'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+9 possible): rewrite the Japan paragraph and the closing line into one concrete proposal built from facts already in the essay. Name the current US fix (an instant background check that takes 'a couple of minutes'), say why it fails (no training or safety test, rifles legal at 18), and name one change with who does it, such as Congress requiring a licensing course before purchase or a safe-storage law. Tie that law back to the unloaded-gun accident, which is exactly what safe storage targets. Ask Enes which policy he actually supports instead of choosing for him.",
+  "Voice (+8 possible): cut 'America needs to join the modern world' and the slogan close, and end on the friend or on 'I am 18' instead. Delete 'unfortunately' and 'exponentially'. Fix 'high- income'. Remove the paragraph break between 'It was.' and 'And an innocent', and change 'And an innocent, ten year old boy' to 'A ten-year-old boy'. Put the Guardian citation in the sentence itself ('according to The Guardian') instead of '(The Guardian).'.",
+  "Stories and specificity (+6 possible): cut or shrink the police-shooting sentences in paragraph two, since gun-control law doesn't address them, and spend those words on the friend's story. Ask Enes for the real details he knows (what city, roughly what year, whose house the gun was in) and use only what is true. Move the story up so it carries the essay, and source or soften the Japan 'lowest in the world' claim."
+ ]
+}

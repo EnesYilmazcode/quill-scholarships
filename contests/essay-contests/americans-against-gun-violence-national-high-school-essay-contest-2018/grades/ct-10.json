@@ -1,0 +1,54 @@
+{
+ "id": "ct-10",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 465,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dodd's claim is about adopting 'stringent gun control legislation comparable to' other countries, but the essay never names a law, a country or a position on legislation; the nearest it gets is 'Congress doing nothing' and 'we are going to grab them by the midterms.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong dated, physical detail ('October 8, 2012', 'a bullet next to my pink vans', 'February 14, 2018', 'Nikolas Cruz'), plus statistics ('1,607 mass shootings... 1,846 people killed and 6,459 wounded') with no source given, and a vague 'met with survivors from the first mass shooting.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person: run-ons, '..', caps for emphasis ('27 CHILDREN', 'WRONG'), and the long crying-in-my-friend's-arms sentence; there are no AI words, no em dashes and no 'not X but Y', but it ends on the stock slogan 'change starts with us' and the 'grab them by the midterms' pun reads as a chant."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the 2012 classroom shooting told as a scene, and Parkland on Twitter followed by the walkout; the second is told as a summary ('created posters, flyers... planned so much'), and the list of mass shootings in the middle breaks the run of stories."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Describes the cycle well ('thoughts and prayers... Congress doing nothing... crickets chirping') but offers no fix with a mechanism: no named law, no reason it would work, only 'posters, flyers' and voting in the midterms."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Moves in order (own shooting, list, cycle, Parkland, action), but the last line, 'It can't continue to happen and there will be change because change starts with us.', is a generic slogan and never returns to the 12-year-old or the bullet by the pink vans."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers the prompt (+12 possible): after the 'cycle' paragraph, replace the 'If the GOP, NRA and everyone else...' paragraph with a direct answer to Dodd: does the writer agree that the US needs legislation like other countries, and which specific law or laws did their walkout group actually call for? Ask the writer for their real demands rather than inventing a policy, and cut 'grab them by the midterms.'",
+  "Ideas with mechanism (+9 possible): in the Parkland paragraph, replace 'we created posters, flyers... planned so much' with the one concrete thing the group pushed for: the existing rule it targets, why that rule fails, and who would have to act (a state legislator, Congress, a school board). Ask the writer what they actually asked for, and cite the source of the 1,607/1,846/6,459 figures so the numbers can be checked.",
+  "Structure (+6 possible): replace the last sentence, 'It can't continue to happen and there will be change because change starts with us.', with a closing line that comes back to the opening image of the 12-year-old in math class and the bullet by the pink vans, tied to the law the writer wants passed. Also tighten the mass-shooting list, which ends with 'And many more. The list goes on and on; however, I only remember so many.', so the two stories carry the essay."
+ ]
+}

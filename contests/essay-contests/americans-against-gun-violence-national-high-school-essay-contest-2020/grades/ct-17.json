@@ -1,0 +1,54 @@
+{
+ "id": "ct-17",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 494,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position ('would clearly be the most effective solution') and covers homicide, suicide and regulation evidence, but nothing shows bans work better than other measures, so 'most effective' is stated rather than argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has real, checkable detail: Grocery Outlet, 'Say that to my AR-15,' 'six times the gun homicide rate of Canada and 16 times that of Germany,' '14% in Cali' and '13% in Bogota,' and 'Two months of rent!' The Australia claim has no figures."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The family moments sound like a real person ('my mom's shrill cackle,' 'it was to no surprise'). Against that: stock academic wording ('aforementioned,' 'exacerbate,' 'drastically'), 'In this time of crisis' used twice, a spaced hyphen used as a dash, choppy short sentences, no sentence over 45 words, and a tidy closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One family frame (the grocery trip, then the stimulus check) opens and closes the essay, but the three middle paragraphs are citation summaries. Neither frame scene is about guns, so the story wraps the argument without carrying it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives one real mechanism (suicide risk tied to 'the lethality of the method'), but the case for bans is cited outcomes plus an assertion ('a product of machismo and an irrational cling to a sense of power'). It doesn't explain why bans beat the alternatives it dismisses."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Opens and closes on mom, so the loop is there. The last line ends on a moral: 'which do not include guns because the last thing our family needs is a gun.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): in paragraph 1, cut 'She said the store was packed. The lines were exceptionally long.' because they repeat the quote. Replace ' - the spike' with a colon. In paragraph 4, delete 'aforementioned' (say 'These problems'). In paragraph 3, change 'drastically changing' to 'changing' and 'exacerbate' to 'raise'. Change the closing paragraph's 'In this time of crisis' so the phrase appears only once. Merge two short related sentences into one longer one, for example the quarantine line and the 'less safe with a gun at home' line.",
+  "Ideas (+6 possible): paragraph 5's 'product of machismo' and 'Gun enthusiasts would often blame everything else' are sweeping claims a judge can dismiss. Cut them and use those words to say why a ban works where other measures fail. Base this on the essay's own reasoning ('the lethality of the method') and on what the cited Santaella-Tenorio study actually reports about Australia, not on new numbers. If the writer remembers which measures that study compares bans against, name them.",
+  "Stories (+6 possible): 'Growing up in a culture that is a foil to American individualism' is the essay's most personal line, but it is vague. Ask the writer which country or culture this is and what they actually saw about guns there, then use that real detail in the sentence. Move the sentence up to paragraph 2, after 'I was confused', so the personal view drives the argument instead of arriving late. Trim the stimulus-check close so its final clause points back to that view."
+ ]
+}

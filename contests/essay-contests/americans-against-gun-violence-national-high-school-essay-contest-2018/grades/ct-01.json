@@ -1,0 +1,54 @@
+{
+ "id": "ct-01",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 559,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on Dodd's quote ('it is more pressing than ever for the US to learn from its peers'), but never says which specific laws the US should adopt."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with checkable facts: Port Arthur's 35 dead, 28-day waiting periods, '4.4% of the world's population, but owns 42% of the world's guns', and the Stevens quote 'a relic of the 18th century'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes or AI vocabulary, but it reads like an impersonal report with stock phrases: 'the sanctity of our values', 'not cling to the past', 'long overdue', 'more pressing than ever', 'time for the US to catch up'. No sentence passes 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two case studies: Australia, told fully at the front, and Japan, told briefly. The paragraph listing Sandy Hook, Pulse and Las Vegas is a list of events with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why more guns mean more shootings (Australia, Japan) but gives no fix for the obstacle it names itself, 'myths concerning its own culture and Constitution'. It only cites Stevens and says 'catch up'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well ordered, but the ending returns to Dodd, not to Port Arthur, and closes on a hopeful moral: 'the kind of stringent gun control legislation that Senator Dodd called for 50 years ago.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 8 pts): Replace the stock lines with plain claims. Change 'to preserve the safety of its citizens and the sanctity of our values' to a concrete point, such as which deaths these laws would prevent. Cut 'We need to move forward with knowledge of our society's dangers and circumstances, and not cling to the past.' Rewrite 'Modernized gun reform laws are long overdue... catch up' as one longer sentence that names what Canada, Britain and Norway actually require. Keep the writer's own sources and do not add new ones.",
+  "Mechanism (about 6 pts): In the Stevens paragraph, turn 'catch up' into a proposal. Name which measures from your own paragraph 2 (the semiautomatic ban, background checks, 28-day waits, 'justifiable reasons') the US should adopt first. Then say why they could pass despite the Second Amendment hurdle, using reasoning or sources the writer actually has. Do not invent statistics.",
+  "Structure and fact accuracy (about 4 pts plus risk): End by returning to Port Arthur. Contrast Australia acting within weeks with the US still not acting years after Parkland, and drop the closing moral. Also tighten three claims a judge could check: 'all six Australian states enacted' within two weeks (it was a national agreement, and the states legislated over the following months); 'Australia has had no mass shootings since' (contested since the 2018 Osmington killings); and 'Fifty years ago' / '50 years ago', which is wrong if the essay is submitted in 2026 (58 years). The '1,600 mass shootings' figure is also dated."
+ ]
+}

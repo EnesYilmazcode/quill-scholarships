@@ -1,0 +1,54 @@
+{
+ "id": "ct-15",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 603,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position, 'bans on handguns and assault weapons ... are the most effective method to save lives', and weighs it against background checks. But it never deals with the hard part of handguns specifically, since the Heller decision it attacks struck down a handgun ban. The writer's own thoughts only appear in the last paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, checkable facts throughout: Columbine 1999, Parkland 'February 14th, 2018', '350 times that of Japan's', 'Australia's 1996 National Firearms Agreement', '42%' and '57%', each with a citation. This is very concrete."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a debate speech, not a specific person talking. Tells: stock phrases ('It's no mere coincidence', 'time and time again', 'once and for all'), stacked rhetorical questions, a three-part 'I have hope' build, a tidy moral at the end, and spaced hyphens used as dashes ('- especially bans ... -'). Nothing personal or clumsy in it."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Analytic prompt, so the case study counts as the story. One case study (Australia's NFA, with mechanism and outcome) and one closing beat (the Marjory Stoneman Douglas students). Both are on topic, but the Parkland beat is a summary, not a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives the cause (high ownership drives deaths) and the fix (bans plus a buyback cut households owning guns in half). But the US proposal is only 'sweeping national action', with no named policy, who passes it, or how it gets past Heller. The prompt's handgun ban is asserted, not argued."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Opens on 'Never again?' and closes on 'I have hope that our generation has the power to say, for the last time, \"Never again.\"' That is a real loop back, but it lands as a slogan more than a payoff."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut 103+ words to get under the 500-word limit (-10 deduction, the largest single loss). Remove paragraph 4 ('And without any serious action...') except the 5% / 45% ownership figure, which can go into paragraph 3. Cut the first rhetorical question in paragraph 5 down to one plain sentence about Heller. Collapse the three 'I have hope' sentences into one.",
+  "Address the handgun part of the prompt head-on in paragraph 6. State plainly whether Enes means a full handgun ban despite Heller, a buyback, or a narrower limit, and name the concrete US step he would back (for example an NFA-style buyback). Ask Enes for his actual position rather than inventing one. This recovers points on both answers_prompt and ideas_mechanism.",
+  "Strip the speech-template tells. Delete 'It's no mere coincidence:', 'time and time again', 'once and for all' and 'claimed an unrivaled first place ... boasting'. Replace the spaced hyphens around 'especially bans on handguns and assault weapons' with commas. Fix 'cutting it's number' to 'its'. Replace the triple-'I have hope' close with one sentence in Enes's own words about why the Parkland students give him hope."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-25",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2023",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 504,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=2662",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The one-part prompt is answered throughout, from inside a drill ('You think about this tacit acceptance'). Still, the essay drifts toward shootings and politicians more than the drills themselves, and its position is only implied ('Why is this our normal?')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has real physical details: 'holes in the curtains where rays of sunlight peak through', the notification about 'the kids at Uvalde' during 'sixth period Spanish class', and the whispers and giggling. It names no school, grade or year, and gives no numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "The second-person 'You think about' refrain is a deliberate choice and sounds human. Tells: the 'isn't just X' pattern twice ('if it weren't just a drill', 'it wasn't just that day'), the stiff phrase 'fraudulent misrepresentation of the Second Amendment interpretation', a punchline close, no sentence over 45 words, and the typo 'peak'. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic beats: the drill on the floor that frames the essay, and the Uvalde notification in Spanish class. The drill reads like many drills blended together rather than one dated scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It hints at why drills matter (they train students to accept 'the mundanity of everyday horror') but never explains how. The Second Amendment and 'thoughts and prayers' lines state a view without giving a reason."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "It opens with 'Sitting on the floor of a dark room' and closes with 'You get up from your place on the floor', so the ending returns to the opening image. Last line: 'Maybe you can't bear the answer.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Word limit, -10 deduction: the essay is 504 words against a 500 limit. In the last paragraph, cut 'You get up from your place on the floor and' (10 words), because 'you stand up' already says it, which leaves 'When it ends, you stand up. You get back to normal.' That alone brings it to 494 words and recovers the full 10 points.",
+  "Ideas, 3 to 4: replace 'You think about the fraudulent misrepresentation of the Second Amendment interpretation that seemingly gives you the right to be killed' with one plain sentence, in Enes's own words, about what the drill actually trains (silence, hiding from the sunlight) and what it cannot fix. That gives the drill paragraphs a reason instead of a slogan. Ask Enes what he actually believes drills accomplish rather than writing a position for him.",
+  "Voice, 4 to 5: drop the two 'just' framings ('if it weren't just a drill' becomes 'if it weren't a drill', and 'it wasn't just that day when you felt it' becomes 'you have felt it on other days too'). Fix 'peak' to 'peek'. Merge the Uvalde notification sentences into one long sentence over 45 words. Also confirm with Enes when the essay was written, because 'last year' for Uvalde (May 2022) only holds for a 2023 draft."
+ ]
+}

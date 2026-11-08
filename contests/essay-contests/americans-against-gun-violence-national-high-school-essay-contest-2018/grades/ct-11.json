@@ -1,0 +1,54 @@
+{
+ "id": "ct-11",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "honorable-mention",
+ "words": 540,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay takes a clear position ('We need stricter gun control.') but never addresses the prompt's actual comparison to 'virtually every civilized country'. It names no country and offers only 'Gun control has been proven to work in other countries'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening has checkable facts: Columbine 1999, 15 dead and 24 injured, the 1993 peak, the Brady Act of 1994 and the AR-15. The rest is unsupported: Parkland has no year, 'increased dramatically' has no figure, and no other country or statistic is named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has a stock 'We could blame X but other countries have X too' triplet, seven 'No one should' sentences in a row, a 'isn't to take... The real goal is' contrast, the filler word 'absolutely' and the slogan 'It's time to be proactive instead of reactive'. There are no em dashes, and the 'We must break the chain' sentence passes the 45-word rule."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Columbine is used as the case study, but only as statistics with no scene or people. Parkland gets half a sentence, so the essay has zero real stories."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The mental-health paragraph gives some reasoning ('if these people can still get guns, then providing mental health treatment doesn't help'). The core is a menu of seven proposals with no reason any one would have stopped a named shooting, and no evidence that it works."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized and paragraph three touches Columbine again. The last line is a generic call to action: 'It's time for the United States to make a change.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 3: cut the seven 'No one should' sentences to the two or three proposals Enes cares most about. For each one, tie it to a verified fact about Columbine or Parkland that shows how it would have blocked that shooter, such as the shooter's age or how the gun was obtained. Check every such fact against a source before using it. This recovers ideas_mechanism and part of human_voice.",
+  "Replace 'Gun control has been proven to work in other countries' and 'No other country comes close' with one or two named countries, their laws and a sourced before/after number, and verify each one before using it. This answers the prompt's 'civilized country' comparison directly and lifts specificity. Also add the year (2018) to 'Parkland shooting in Florida on February 14'.",
+  "Delete the 'We could blame... too' triplet and the line 'It's time to be proactive instead of reactive'. Rewrite the last sentence so it returns to the Columbine opening (for example, how many years and shootings have passed since 1999) instead of ending on the generic 'It's time for the United States to make a change.'"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-19",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 543,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks what the writer thinks of the claim that 'bans of handguns and assault weapons are the most effective way' to cut injuries, but the essay never mentions handguns, assault weapons, bans or 'most effective'. It argues that gun violence is a crisis like COVID ('It's a crisis,' they say, and yet so is gun violence) and takes no position on the AAP statement."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: Sandy Hook, Parkland, Santa Fe, a room that was 'hot and cramped', the fire alarm panic and 'lobbying at our State Capitol'. But there are no numbers, no name for the bill, no name for the state, and the middle paragraph slides into abstraction ('sunk deep into its roots, into the subconscious of every American')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The kindergarten memory sounds like a real person, but the essay leans on a run of antithesis slogans: 'It's not tragic; it's deadly. It's not plaguing our nation; it has sunk...', 'This is more than an epidemic', 'This isn't an American epidemic, this is America'. It also uses 'unprecedented chaos', a stock 'not a question of if, but when', and a hyphen standing in for a dash ('come next - that's')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are two beats and both are on topic. The Sandy Hook announcement is a real scene ('they pulled every kid in my grade into one room'). The second beat, two years of drafting legislation and lobbying, is told in one summary sentence and gets no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay offers no policy and no reasoning about whether bans work. The COVID comparison makes a fairness argument ('how will the adults in power protect our health in return') but never says what regulation would reduce injuries or why it would work."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens on the pandemic pause and closes on it ('When the coronavirus pandemic is over, how will the adults in power protect our health in return for our dedication to protecting theirs?'), which is a real loop-back. The middle has no ideas section, though, and the one-line refrains ('So is gun violence.') repeat each other."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the actual prompt (+8 to +12 points). The paragraph that starts 'I have spent the last two years' mentions 'drafting proposed gun violence prevention legislation' but says nothing about what that bill did. Ask Enes what his real bill proposed and whether he agrees that bans of handguns and assault weapons are 'the most effective way'. Put his position and the bill's real contents there in two or three sentences. This adds a stance to criterion 1 and a mechanism to criterion 5.",
+  "Cut at least 43 words to get under the 500 limit (+10 points). Start with the stack of slogans in the Sandy Hook paragraph: 'This is more than an epidemic; it's a sick cornerstone of our society. It's not tragic; it's deadly. It's not plaguing our nation; it has sunk deep into its roots... This isn't an American epidemic, this is America.' Keep one line at most. That alone saves about 60 words and removes the main voice tells.",
+  "Clean up the opening and the repeated lines (+2 to +4 points). Replace 'unprecedented chaos' and 'It's not a question of if, but when' with the plain physical facts that are already there ('restaurants, stores, parks shut down'). Change 'come next - that's' to a period. Delete the standalone repeat 'So is gun violence.', since the line before it already says it."
+ ]
+}

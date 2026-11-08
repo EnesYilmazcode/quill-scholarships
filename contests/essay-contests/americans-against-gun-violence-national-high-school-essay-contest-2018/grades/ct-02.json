@@ -1,0 +1,54 @@
+{
+ "id": "ct-02",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "runner-up",
+ "words": 497,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position for stringent laws and compares the US to 22 other advanced countries, but it only compares death rates and never names the other countries' laws that Dodd's quote points to."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Specific and checkable: 'March 14, 2018', Stoneman Douglas, 'over one hundred other students', and the 2016 study with 25x and 8x rates. But 'gun violence in my own community' never gets a place or a case, and '10 higher' has lost the word 'times'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The 'I'm tired' lines sound like a real student speech, but stock rhetoric piles up: 'The solution is not more guns. The solution is not empty words. The solution is action.', the triplet 'Congress, the courtroom, or the classroom', the triplet 'more death, more heartbreak, and a heavier burden', and slogans like 'period' and 'It now takes only a finger to kill.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the walkout), told as a summary. 'My speech moved the issue outwards' reports the speech without quoting any of it, and the walkout drops out after paragraph 1."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The suicide argument has a real mechanism ('The only reason so many commit suicide using a gun is the ease of their use'). The fixes then turn into a generic menu with no actor and no reason anyone would comply: 'We must explore banning assault weapons, banning or restricting handguns...'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear (walkout, argument, data, call to action), but the ending is a generic moral, not a return to the walkout: 'If we fail in these endeavors, the only result will be more death, more heartbreak, and a heavier burden on all our shoulders.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 4: cut the anaphora run 'The solution is not more guns. The solution is not empty words. The solution is action. Whether in Congress, the courtroom, or the classroom, action is needed.' and the closing triplet 'more death, more heartbreak, and a heavier burden'. Replace them with one plain sentence that states the policy. Also cut 'period' and 'It now takes only a finger to kill.' This is the biggest voice gain.",
+  "Paragraph 4: replace 'We must explore banning assault weapons, banning or restricting handguns, and preventing those with histories of violence...' with one measure that follows from your own suicide argument (a measure that makes a gun harder to reach in the moment). Say who would pass or enforce it. If possible, name the comparable law in one of the 22 countries, so the essay answers Dodd's 'comparable to... every civilized country' directly. Ask the writer which real measure they argued for in the speech.",
+  "Paragraph 1: replace 'My speech moved the issue outwards...discussed solutions to the national problem….' with a real line from the speech and the real community incident it named (ask the writer for both, invent nothing). Rewrite the last sentence of the essay so it comes back to that March 14 walkout. While you are there, fix '10 higher' to '10 times higher' and delete the stray footnote 'i', the '….' and the space in 'gun- related'."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "ct-20",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 649,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position in line one of the thesis, \"A ban on handguns and assault weapons is the most effective way to reduce firearm-related injuries,\" and backs it with three harms. It never addresses the strongest objection (rights, enforcement, existing guns), so 'describe your thoughts' is argued only one way."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Cited numbers (\"nearly 40,000,\" \"1 million women... shot at them,\" \"3 out of 4 children\"), a named case (Katie Stubblefield) and one unfakeable personal detail (\"which cabinets I can fit in\"). The state comparison stays vague: \"somewhat effective,\" \"fewest numbers.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Tells found: \"does not just plague schools\" (not-just construction), the cliché \"permanent solution for a temporary problem,\" \"It is clear that,\" signpost chain \"Further... Finally,\" and the stock \"ironically\" list. The opening classroom paragraph sounds like a real person, and no em dashes appear."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two beats: the writer's own lockdown-drill habit (on topic but abandoned after paragraph 1) and the Stubblefield case (told in three summary sentences, no scene). The body runs on statistics, not story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Shows why the existing fix fails in one place: storage fails because \"3 out of 4 children... know where it is located.\" Elsewhere it jumps to the ban without a mechanism: \"It is clear that current background checks do not catch these abusive individuals and the only way... is to implement a ban.\" The essay also never says how a ban would work or who would carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear thesis-and-three-points shape, but the close never returns to the classroom. It ends on a restatement: \"including the bans on handguns and assault weapons that the American Academy of Pediatrics recommended two decades ago.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Word limit (-10, recovers all 10): at 649 words the essay is 149 over the 500 limit. Cut the whole moon/world-wide-web/COVID paragraph (about 110 words), and in paragraph 2 cut the sentence \"In order to address these horrendous numbers, some states have enacted limited gun control laws that have been somewhat effective.\" Then close in 2 to 3 sentences of your own (see fix 3).",
+  "Voice (+8 possible): rewrite \"However, gun violence does not just plague schools.\" as a plain statement, e.g. \"Schools are where I learned to fear guns, but most gun injuries happen at home.\" Replace \"A lethal device that creates a permanent solution for a temporary problem\" with a plain claim about the tripled suicide risk you already cite. Delete \"It is clear that\" and \"ironically\", and swap \"Further\"/\"Finally\" for direct topic sentences.",
+  "Ending and mechanism (+4 structure, +6 ideas): end with the real cabinets and escape routes from your opening, e.g. what a ban would mean for that drill, rather than restating the AAP. In the domestic-violence paragraph, replace \"the only way... is to implement a ban\" with one sentence on why background checks miss abusers. Use only a reason you can cite; if you have no source, cut the claim rather than make one up."
+ ]
+}

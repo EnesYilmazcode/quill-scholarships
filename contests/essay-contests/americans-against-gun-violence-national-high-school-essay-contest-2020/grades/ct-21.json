@@ -1,0 +1,54 @@
+{
+ "id": "ct-21",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 553,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay takes a clear position early (\"They are completely correct.\") and backs regulation in general. The handgun and assault-weapon bans it endorses are only asserted in the last paragraph and never argued for on their own."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real checkable anchors: the 2019 mass-shooting count, \"Nearly 40,000\" deaths a year, and District of Columbia v. Heller in 2008. But the cross-state and international claims never name a state, a country or a figure, and lean on footnote numbers like \"(5, 6)\" and \"(7)\" instead."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There is a real voice, and some clumsy human moments (\"Twice has the Supreme Court ruled\", \"commonsensical yet apparently evasive\"). It is buried under stump-speech tells: balanced antitheses (\"sympathy instead of safety\"), slogans (\"Enough is enough. It's time to fight back.\"), runs of rhetorical questions, and a punchline at the end of every paragraph (\"It's about time we joined them.\", \"This has to stop.\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "0 personal stories, which is fine for an analytic prompt. The only case study, Heller, gets a two-sentence summary plus name-calling (\"rivaling Dred Scott\", \"Madison... rolling in his grave\") instead of an actual walk through the case."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The core argument is \"Logic dictates that providing a legal incentive against gun ownership will reduce rates\" plus a correlation. It never explains how a ban reduces injuries, or why existing laws fail. The only policy is \"laws comparable to... other advanced democratic countries\", without naming one."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The paragraph order works: problem, then evidence, then constitutional cause, then a call to act. The close brings back the opening's \"thoughts and prayers\", but the last line, \"I hope you'll join me.\", is a stock rally ending."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut at least 53 words to get under the 500 limit (worth +10). Start with the slogan and rhetorical-question lines: \"This isn't the American way. Enough is enough. It's time to fight back.\"; \"Why is America so far behind? If the other developed nations have had their eyes opened, why not us? Aren't we supposed to be leading the free world?\"; \"James Madison... is rolling in his grave...\"; \"This has to stop.\" Cutting these also lifts the voice score, because they are the main slogan and punchline tells.",
+  "In paragraph 2, replace \"Logic dictates...\" and the unnamed comparisons with the actual numbers from his own sources (5), (6) and (7): which states, which countries, what rates. Then add one sentence on how a handgun or assault-weapon ban actually lowers injuries, such as fewer guns in homes or fewer high-capacity weapons. Ask Enes which source he trusts for each figure rather than adding new ones. This raises specificity and mechanism.",
+  "Rework paragraph 3 into a short, accurate case study. Name the two earlier rulings that \"(9, 10)\" points to, quote one line of Heller's holding, and drop \"With a fantastical decision rivaling Dred Scott\" and \"a right which does not exist\". As written, a judge who disagrees will read these as overclaims, and a judge who agrees gets no evidence from them."
+ ]
+}

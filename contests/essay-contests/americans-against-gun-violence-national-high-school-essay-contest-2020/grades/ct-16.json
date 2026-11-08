@@ -1,0 +1,54 @@
+{
+ "id": "ct-16",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "finalist",
+ "words": 865,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Takes a clear position on the AAP statement and defends it, including bans of handguns and assault weapons: \"By banning handguns and automatic and semi-automatic rifles, other democracies have both stopped 'bad guys' from obtaining guns and 'good guys' from becoming 'bad guys'\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with sourced facts a reader can check: the 119-1 New Zealand vote 26 days after Christchurch, 56,000 firearms, 33,599 US gun deaths against Japan's six in 2014, and an FBI study of 160 incidents with 21 unarmed takedowns."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as a policy brief with no personal voice. It leans on stock intensifiers ('clearly' x3, 'undeniable evidence', 'drastically', 'deeply rooted', 'Simply put'), uses footnote markers like (1) to (14), and frames the essay with 'As Americans, we take great pride in our core values'. It is not machine-like, but it is impersonal."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "On an analytic prompt the case study counts as the story. Christchurch and the New Zealand ban carry the essay, but Australia, the UK and Japan are stacked on as a list, so no single case is developed in full."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why, not just that: 'with the ready availability of firearms comes an immense facility and efficiency in taking lives', and it rebuts 'good guy with a gun' with FBI and NCVS ratios. It names the NRA as the obstacle but never says how to get past it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc from values to evidence to rebuttals to close, and the close returns to the opening's 'core values'. The last line mostly restates the thesis, though: 'if we are true to our core values, we cannot stop pushing for these regulations, as tens of thousands of American lives are at stake every year.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Word limit (-10): 865 words against a 500 limit. Cut paragraph 3 (Sandy Hook, NRA, 'Guns don't kill people') down to the single line 'guns make killing easier'. Keep only New Zealand and Japan from paragraph 2 and drop the Australia/UK sentences. In paragraph 4, keep just the FBI 21-vs-1 active-shooter figure and the 8-to-1 argument-vs-self-defense figure. That brings it near 500 and keeps the strongest evidence.",
+  "Fact gate (risk of -10): 'Both of these countries have had just one mass shooting in the 24 years since the bans' does not hold for Australia, which had Osmington in 2018 and Darwin in 2019. Ask Enes for the source behind (6) to (8), or cut the sentence. 'Last year in New Zealand' dates the essay to 2020, so change it to 'In 2019'.",
+  "Voice (+8) and dashes (-4): delete 'clearly' (all three), 'undeniable', 'drastically', 'deeply rooted' and 'Simply put'. Replace the en dash in 'America – a reality' and the hyphen in 'Simply put - guns' with periods. Strip the inline footnote markers (1) to (14), unless the scholarship asks for citations, in which case use a short works-cited list after the essay. If Enes has a real personal reason he cares about this prompt, ask him for it and use it to replace the generic 'As Americans, we take great pride' opener."
+ ]
+}

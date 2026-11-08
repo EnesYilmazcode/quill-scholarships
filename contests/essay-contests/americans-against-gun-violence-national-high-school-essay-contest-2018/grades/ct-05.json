@@ -1,0 +1,54 @@
+{
+ "id": "ct-05",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2018",
+ "year": "2018",
+ "outcome": "finalist",
+ "words": 486,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1275",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position for Dodd's call in the first paragraph and holds it ('it was, is, and always will be, the time for change'), but it never says what 'stringent legislation' should actually contain, so the core claim is only half argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some checkable anchors: 'more than 187,000 students', the Fort Lauderdale comparison, the threat closing his best friend's school and the shooting 'less than 50 miles away'. But no school, date or shooting is named, and 'neighboring countries' never names a country or a law."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The pickle-jar line and the Twitter prom-pictures moment sound like a real teenager. But they sit inside stock rhetoric: three 'Why is it that' questions in a row, 'their blood on the hands of insufficient laws', the slogan triplet 'it was, is, and always will be', and the dash-style aside '-a number 187,000 students too large-'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two on-topic personal beats: the friend's school closed by a threat, and the shooting near his protest day. Each gets only one sentence inside a rhetorical question, with no scene, so neither one carries the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It answers the 'protection' argument with some reasoning (the pickle jar, 'militarize the entire American population'), but it proposes no specific law, names no country's law as a working model, and never says why that law would work here."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The 'In 50 years' one-line refrains organize the essay, and the last line returns to the 1968 opening: '50 years ago in 1968, today in 2018, and in 50 years, 2068, it was, is, and always will be, the time for change.' It still ends on a slogan rather than an image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "The ideas paragraph ('As Americans, we need not look any further than neighboring countries...') is the biggest gap, worth up to 9 points on ideas. Replace that sentence with the specific law Enes actually wants, such as universal background checks or an assault-weapons ban, and name one real country's law it copies. Add one sentence on why it would cut school shootings. Ask Enes which policy he really supports, and verify the country's law before using it.",
+  "The third paragraph ('Why is it that when I check Twitter...') has his two real stories hidden inside rhetorical questions, worth up to 9 points on stories and 4 on specificity. Turn the first 'Why is it that' into plain statements of what happened: when it was, which friend's school was closed, and what the shooting near his protest was. Then cut the other two 'Why is it that' openings. Ask Enes for the real school names and dates. Do not add details that did not happen.",
+  "The voice tells cost up to 8 points. Cut 'a machine that gives mankind the power to end another's life', 'their blood on the hands of insufficient laws and backhanded sponsorships', and the aside '-a number 187,000 students too large-'. Change 'His voice echoes in our hearts and minds' to a plain sentence. In the final line, keep the 1968/2018/2068 callback but drop the 'it was, is, and always will be' triplet."
+ ]
+}

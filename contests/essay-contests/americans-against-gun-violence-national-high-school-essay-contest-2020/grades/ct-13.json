@@ -1,0 +1,54 @@
+{
+ "id": "ct-13",
+ "contest": "Americans Against Gun Violence National High School Essay Contest 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 636,
+ "source_url": "https://aagunv123.azurewebsites.net/?p=1768",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position ('bans on civilian ownership of handguns and assault weapons'), but holds it back until the final question and never directly argues the prompt's 'most effective' claim."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and numbers (Emilie Parker, 'December 14, 2012', 'narrow 5-4 majority', Port Arthur 'just 12 days', Dunblane). Two middle paragraphs ('our greatest fears aren't tests...') are abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The childlike timeline voice ('Blastoise - WAIT NO! Charizard!') is real. The middle has stock tells: 'aren't tests, but rather', 'It's not only terrifying, but it's also disheartening', a triple 'where... where... where' anaphora, and 'diverse conglomerate of people'. There are also typos ('. .', 'a handguns')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic beats: the writer's age timeline set against three shootings, and the Emilie Parker vignette. Both serve the prompt, but the writer's own thread drops after the opening."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Australia and UK precedents point to a mechanism, but the essay never says what the bans achieved. 'There's no rational explanation' asserts instead of arguing, and the bullet-speed paragraph does not support the case for a ban."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The opening is strong, but the essay ends on a generic rhetorical question ('How much longer will it take...') that does not return to the timeline or to Emilie."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut at least 136 words to get under the 500-word limit (-10 now). Delete the bullet-speed paragraph ('Shot from the muzzle... 0.6864 milliseconds') but keep its last two sentences on Port Arthur and Dunblane. Delete 'Opponents of regulation argue... against all injustices.' Reduce the 'I've grown up in a generation...' paragraph to its single best clause ('our core curriculum includes learning to cower under counters').",
+  "Replace the three spaced hyphens used as dashes ('Blastoise - WAIT', 'nothing - not even tomorrow -') with commas or an exclamation mark (-6 now). Rewrite 'aren't tests, but rather forgetting to say goodbye' as a plain statement, and 'It's not only terrifying, but it's also disheartening' as 'It's terrifying'. Fix '. .' and 'a handguns and an assault weapon'.",
+  "Close by going back to the timeline: replace the final question with one more line in the opening format, using the writer's real current age and a real shooting from that year (ask Enes which one). Also check 'She would've been twelve years old this year', which is only true if the essay is dated 2018. Ask Enes for the real date, or cut 'this year'."
+ ]
+}
