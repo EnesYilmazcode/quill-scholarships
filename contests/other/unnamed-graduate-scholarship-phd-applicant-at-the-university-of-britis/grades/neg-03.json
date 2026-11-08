@@ -1,0 +1,54 @@
+{
+ "id": "neg-03",
+ "contest": "Unnamed graduate scholarship (PhD applicant at the University of British Columbia, Japanese ELT policy)",
+ "year": "unknown",
+ "outcome": "unknown",
+ "words": 1594,
+ "source_url": "https://www.essayedge.com/wp-content/themes/EssayEdgeTheme/samples/pdf/full-college-scholarshipessay-before.pdf",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt isn't shown. As a graduate personal statement it covers motivation, experience and goals, but the goal part is a hedge rather than a position: \"I will keep them in mind and lead Japan's ELT to a 'better' direction.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong checkable facts: \"96.2/100... top 10 among the 33 international instructors, 31 of whom were either White or native speakers\", a 50-page handbook, 60 students' speech drafts and 3,000 guests. The festival, LPP and PhD paragraphs fall back to abstractions like \"sensitive considerations about cultural differences\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Clearly a real non-native writer (\"I was making my mind to contribute\", \"Some students whom I still contact with\"). Tells found: \"not only because I liked teaching, but also\", \"not to show off... but to grapple\", one em dash, and stock lines like \"lonely and tiring journey\" and \"became part of my identity\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is a chronological résumé of 6 or more episodes (club, cram school, festival VP, Master's, CQU teaching, coordinator, PhD supervisor) with no scene. The strongest story, being hired at CQU as a non-native teacher, is summarized rather than told."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is real causal reasoning (\"confusion caused distrust... poor communication... affected overall teaching quality\", fixed with the handbook), and it names the native-speaker bias. The research plan is vague: \"I will try to answer what the current ELT policy in Japan wants to achieve\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is organized chronologically but runs long, with a 2-paragraph detour praising the supervisor. The last line is \"I will keep them in mind and lead Japan's ELT to a 'better' direction.\" It never returns to the 12-year-old who wondered why nobody taught him to communicate."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+6): cut the festival paragraph to one sentence, cut the two PhD supervisor paragraphs to one line, and cut the cram-school and @home detail. Use the space to tell the CQU hiring and stereotype story as a scene, with the real moments he remembers: the decision to apply, the first class, and a real student comment. Ask the writer for these. Don't invent them.",
+  "Ending and answers (+6 to +8): replace the final sentence with a return to the opening. The 12-year-old drilled on grammar for entrance exams should become the researcher asking why Japan's ELT still trains students that way. State one concrete research question and one concrete career goal instead of \"whether I end up being a researcher, administrator, or a Government employee\".",
+  "Voice and compliance (+2 to +4): replace the em dash in \"every learning in my life and career — communication\" with a colon. Rewrite \"not only because I liked teaching, but also I believed\" and \"not to show off... but to grapple\" as plain statements. Change the leaked \"asked Ms. Li\" to \"Ms. XXX\" so it matches the rest of the essay."
+ ]
+}

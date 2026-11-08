@@ -1,0 +1,54 @@
+{
+ "id": "neg-02",
+ "contest": "Fastweb essay contest (managing money in current economic times; unnamed past contest, ~4,000 entries)",
+ "year": "unknown (article dated 2019-08-20)",
+ "outcome": "unknown",
+ "words": 404,
+ "source_url": "https://www.fastweb.com/college-scholarships/articles/winning-scholarship-essay-tips-part-ii",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The first line takes a clear position (\"At this point in our economy I would not invest in company's to keep money safe\") and the essay goes on to cover saving, bills and food. The economic-times half rests on one unsupported claim, and the budgeting half never ties back to it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "It gives some numbers (\"at least 15% of my paycheck\", \"$50 dollars more\", \"an additional $20\") but they are rules of thumb, not facts from the writer's life. There is no paycheck amount, no real bill, no place, and the debt is only \"trillions of dollars\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, clumsy spots included (\"which won't me much admittedly\", \"a 'secret spot'\"). There are no em dashes, no not-X-but-Y, no filler adverbs and no tidy moral. Points are lost for typos (\"company's\", \"incase\") and for switching between \"I\" and \"you\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are no stories. The only nod to the writer's life is a hypothetical (\"if I were to get in a wreck\", \"if I were living on my own\")."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan to keep cash at home and buy euros rests on \"the only way to get rid of it is to go bankrupt\", which is asserted, not explained, and ignores bank deposit insurance. The bill and food buffers are concrete but are standard advice with no reason they work better."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 1,
+   "reason": "It is a single 350-word paragraph with no arc. It ends on a side tip (\"Also to cut back on cost of bills I recommend getting a roommate or two, that way you won't use as much money on bills.\") and never returns to the opening argument about banks and the economy."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ask Enes what he really does with his own money (his real paycheck or job, where the 15% figure came from, whether he really keeps cash at home or holds euros). Then rebuild the essay around that one true habit, replacing hypotheticals like \"if I were to get in a wreck\" and \"if I were living on my own\". Use only what he confirms, and if nothing real exists, cut the hypotheticals instead of inventing an experience. This recovers up to about 12 points (stories) plus some specificity.",
+  "Split the single block into three or four paragraphs: what I'd do with savings and why, the monthly budget (allowance, 15% savings, bills plus $50, food plus $20), and the roommate tip moved into the bills paragraph. Replace the roommate last line with a closing sentence that returns to the opening claim about not trusting banks or companies, using his real reasoning. This recovers up to about 8 points.",
+  "Rewrite or cut \"the only way to get rid of it is to go bankrupt\" and \"any money left in banks or the businesses will be worth nothing\". Either give Enes's actual reason and the real current debt figure from a source he checks, or soften it to a stated worry. Also fix the typos (\"company's\" to \"companies\", \"incase\" to \"in case\", \"won't me much\" to \"won't be much\", \"$50 dollars\" to \"$50\") and pick either \"I\" or \"you\" throughout. This recovers about 6 to 9 points across ideas and specificity and heads off a judge flagging a claim that can't be true."
+ ]
+}

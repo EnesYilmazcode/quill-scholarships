@@ -1,0 +1,54 @@
+{
+ "id": "neg-01",
+ "contest": "Fastweb essay contest (money management for teens; unnamed past contest)",
+ "year": "unknown (article dated 2020-07-02)",
+ "outcome": "unknown",
+ "words": 409,
+ "source_url": "https://www.fastweb.com/college-scholarships/articles/winning-scholarship-essay-tips-part-I",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Gives a direct answer, three steps for teens: 'Set up your own budget of expenses', 'Review your expenses daily', 'You have to get creative'. But it takes two paragraphs of throat-clearing to get there, and the answer is a list, not a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only generic categories ('gas, insurance for our vehicles', 'the local fast food joint', 'mom's pocketbook'). It has no dollar amounts, no named job, no actual budget line and no real expense, so a stranger could have written every claim."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some human roughness: the 60-word run-on, the 'forseen' typo, 'keep thing balanced'. But it also has stock filler: 'delve into a world foreign and unfamiliar to us', 'crash course', 'The keys to doing this successfully are actually quite simple', and a second-person advice-column tone."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. 'Most of us have had a crash course' claims an experience but never shows one, and no single teen, purchase or moment appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu (budget, balance checkbook, phone reminders, student ID discounts) with no reason any of it works or why teens currently fail at it. 'Review your expenses daily' even contradicts the later 'not always going to have the time'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized but front-loaded with generalities. The last line, 'And finally, just remember where your money is going it will help.', is a flat moral that doesn't return to the opening and has a run-on error."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+12 possible): cut paragraph 2 ('We have had to delve... actually quite simple') and the first three sentences of paragraph 1. Ask the writer whether they have a real moment of their own where money ran out or a budget worked, such as the actual job, paycheck or expense. If they do, open with it in their own words. If not, keep it short and lead directly with 'Set up your own budget of expenses.'",
+  "Specificity (+12 possible): in paragraph 4 ('So you have to sit down and balance...'), replace 'the local fast food joint', 'money you get for your birthday' and 'gas, insurance' with the writer's real figures and names. Ask them for the real hourly wage, monthly gas or insurance cost, and where they actually work. Also split the 60-word run-on at 'and whether that's'.",
+  "Ideas and ending (+9 and +6 possible): rewrite 'Review your expenses daily' and 'Send yourself easy phone reminders' so each one says why teens skip budgeting and why this fix gets around that. Use whatever the writer really does, such as a specific app or reminder habit, if they have one. Replace the last line with a sentence that ties back to the opening claim about holding onto money, and drop 'delve' and 'semblance' anywhere they appear."
+ ]
+}

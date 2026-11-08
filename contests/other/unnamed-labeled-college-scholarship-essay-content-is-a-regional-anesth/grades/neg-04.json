@@ -1,0 +1,54 @@
+{
+ "id": "neg-04",
+ "contest": "Unnamed (labeled \"College Scholarship Essay\"; content is a regional anesthesia fellowship statement)",
+ "year": "unknown",
+ "outcome": "unknown",
+ "words": 610,
+ "source_url": "https://www.essayedge.com/wp-content/themes/EssayEdgeTheme/samples/pdf/full-college-scholarshipessay-before1.pdf",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is not shown, but the essay plainly answers why the US, why a regional fellowship and what comes after: \"I still feels the necessity of fellowship because of the upcoming novel technique\" and \"I hope I can design and conduct a study on my own.\" The 'why me' part is mostly asserted (\"I am convinced that I am prepared\")."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real anchors: \"more than 100 cases of thoracic epidural cases\", \"Indiana University\", APS follow-up of \"3-5 postoperative days\" against \"day 1 or 2\". The rest is general field description (\"an ever-increasing number of novel nerve blocks\") with no named patient, block or moment."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The non-native slips read as human (\"I still feels\", \"troubleshoots\"). The tells are \"Regional anesthesia is not just about nerve blocks\", \"not only ... but also\", \"plays a pivotal role\", the filler \"truly appreciate\" and the stock opener \"One might well ask\". There are no em dashes, but there is a spaced hyphen standing in for one (\"which is - to experience\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories. The APS rotations are summarized (\"I found it fascinating to see a wide variety of nerve blocks\"), and the essay reads like a CV in sentences."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two real reasons explain why rather than just that: ultrasound blocks are now common, but the fellowship is needed for new fascia plane blocks and hard cases (\"abundant vessels in the needle path and rescue block for failed block\"), and Japan has \"a few people who can conduct, lead, and guide clinical studies\". The 'contribute to the department' paragraph is general."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and the opening question gets answered. The last line is a generic thank-you that never returns to 'strive for excellence' or the Japan-to-US move: \"I truly appreciate this opportunity and I thank you in advance for considering me as a candidate for the newly launched fellowship program.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (worth up to 9 points): in paragraph 3, replace \"I found it fascinating to see a wide variety of nerve blocks\" with one real APS or IU case. Ask the writer which block or patient first made them want this fellowship (for example a real rescue block or a real case with vessels in the needle path) and tell that one case in 3 to 4 sentences. Do not make one up.",
+  "Voice (worth up to 8 points): cut \"Regional anesthesia is not just about nerve blocks, it plays a pivotal role in overall perioperative pain management\" and use a plain claim instead, such as \"Regional anesthesia is a large part of perioperative pain management.\" Rewrite \"I learned not only ... but also learned\" as two plain sentences, cut \"truly\" and \"One might well ask\", and change \"which is - to experience\" to a colon. Fix the grammar too: \"I still feels\" becomes \"I still feel\", \"thoracic epidural cases\" becomes \"thoracic epidurals\", and \"troubleshoots\" becomes \"troubleshooting\".",
+  "Specificity and ending (worth up to 8 points combined): replace the general paragraph on fascia plane blocks (\"I was impressed by recent advancement...\") with the specific blocks the writer has actually done or seen at IU, named and counted if they have the real numbers. Then end on the opening idea instead of thanks: one sentence on the clinical study the writer would actually want to run, tied back to why they crossed from Japan, with the thank-you shortened or cut."
+ ]
+}

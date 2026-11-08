@@ -1,0 +1,54 @@
+{
+ "id": "neg-05",
+ "contest": "Unnamed (labeled \"College Scholarship Essay\"; content is an OB/GYN genetics fellowship statement)",
+ "year": "unknown",
+ "outcome": "unknown",
+ "words": 753,
+ "source_url": "https://www.essayedge.com/wp-content/themes/EssayEdgeTheme/samples/pdf/full-college-scholarshipessay-before2.pdf",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt isn't shown, but the essay plainly answers why Genetics and why a fellowship: 'I noticed early in my education a void in answering these patient's questions regarding the molecular and genetic basis of their child's syndromes.' What the writer wants from a program gets only one generic line."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: MEDLIFE, Pamplona Alta, Pap smears, 'DiGeorge syndrome to thoracopagus conjoined twins', the textbook at age 12. But the residency and research paragraphs fall back on 'many leadership positions' and 'quick promotions' with no number, and 'XXX' placeholders are still in the text."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock personal-statement phrasing throughout: 'unique opportunity', 'My unique set of experiences', 'These traits exemplify my commitment to excellence and my continual quest for personal improvement', 'meaningfully impact', 'relish the chance'. There is also a list of three traits ('inquisitive, analytical, and detail-oriented'). No em dashes, and the MEDLIFE sentence runs past 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real scene, the finger tracing the embryo, plus Peru told as a summary. Paragraph 4 is a résumé list (Hospitalist Project, COPD program, NIDDK) that has nothing to do with Genetics, which the rubric counts as a flaw."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a real reason: OB training covers managing the pregnancy but not explaining the molecular basis of the condition to the parents. It never goes deeper than naming topics ('preconception counseling, prenatal screening...'), and 'fast-growing field' is a generic reason."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and in order, but the close restates the thesis instead of coming back to the embryo: 'I am excited to one day meaningfully impact the lives of a wide variety of patients with training in Genetics.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraph 4 ('My unique set of experiences...' through 'continual quest for personal improvement') completely. It is a résumé list unrelated to Genetics and holds the heaviest slop in the essay. Move the freed words into the residency paragraph, so the DiGeorge and conjoined-twins cases and the 'void in answering these patient's questions' line become the center of the essay. If the writer remembers a real question a parent asked that they could not answer, ask them for it rather than making one up.",
+  "Replace the last sentence ('I am excited to one day meaningfully impact the lives of a wide variety of patients...') with a line that goes back to the opening: the 12-year-old tracing the embryo, now wanting to explain that same 'miraculous architecture' to parents whose child's architecture went differently. Also delete 'I relish the chance' and 'meaningfully'.",
+  "Sharpen the stock phrases where they appear: drop 'unique' from 'unique opportunity'. Replace 'the fact that it is a fast-growing field has been intriguing' with the actual reason the field appeals, using only what the writer confirms. Fill in every 'XXX' with the real hospital and university names, and fix 'these patient's' to 'these patients''."
+ ]
+}
