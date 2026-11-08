@@ -1,7 +1,7 @@
 <h1 align="center">Quill Scholarships</h1>
 
 <p align="center"><b>526 real scholarship essays, winners and losers, graded against one rubric.</b><br>
-The rubric behind Quill, my scholarship writing desk, scores every essay blind. Then the score is checked against who actually won.</p>
+Quill is my scholarship writing desk. This repo is the data behind its judge: every essay scored blind, then checked against who actually won. Below that are the experiments that changed how Quill judges and writes.</p>
 
 <p align="center">
   <img src="media/winner-vs-rest.png" width="560" alt="Dot chart: for each of 32 contests, how often the winner outscored a lower-placed essay. Earlier contests average 66%, new ones 51%.">
@@ -59,7 +59,63 @@ The judge is consistent. The 307 earlier essays were graded twice in separate ru
 
 The honest part: the rubric measures quality, and quality only predicts a win a little. On the 14 new contests it was a coin flip. Winners average 55.0, finalists 58.0. Varsity Tutors (8 rounds) and The Nation (4 rounds) are where it misses most, and in both the losing entries are often just as polished as the winner. Counting only the prompt and story scores reaches 64%, but that weighting was picked after looking at the data, and the last reweighting tried here overfit (61% on held-out contests), so the v1 weights stay. Full per-contest table: [`results/VALIDATION.md`](results/VALIDATION.md).
 
-So Quill treats the score as a quality check, a way to catch a missed prompt part, vague detail, or AI phrasing, and not as a promise to win.
+So the rubric is a quality check, a way to catch a missed prompt part, vague detail, or AI phrasing, and not a promise to win. The experiments below found a judge that does better.
+
+## Experiments
+
+Four experiments, all scored against what real committees picked, never against my own rubric.
+
+```mermaid
+flowchart TB
+  P["387 real pairs: a winner and a lower-placed essay from the same contest"] --> R["Referee: 'these two went to the same contest, which one won?' asked in both orders"]
+  R --> V["Picks the real winner 72% of the time, rubric 60%"]
+  B["11 real winners, one thing broken in each copy"] --> R
+  C["Copies of real essays where Claude only fixed typos"] --> R
+  W["Essays written for 10 past rounds by 5 writer versions"] --> G["Each one faces that round's real winner and up to 5 real entries"]
+  G --> R
+  V --> H["One-call committee score, guided by what the referee rewards"]
+  H --> Q["Quill's Judge: 'beats N% of 259 real entries'"]
+```
+
+### 1. A judge that agrees with real committees
+
+The rubric adds up six criteria. A judge with no rubric, asked only which of two essays won, picks the real winner far more often: Claude 72% over all 387 pairs, Gemini 3.1 Pro 80% on a random 100 (Claude 78% on those same pairs). A one-call version that scores a single essay, guided by the reasons the referee gave on pairs it got right, matches the pairwise referee. That one call is what Quill's Judge button runs now, next to the rubric.
+
+<p align="center"><img src="media/judges.png" width="560" alt="Bar chart: rubric 59%, holistic no guidance 66%, holistic guided 68%, pairwise referee 68%"></p>
+
+What the referee rewards that the rubric misses: a story of the kind the prompt asks for (a service prompt wants a story of helping someone, an academic prompt wants a real subject), fit with what the sponsor values, ideas that are the writer's own, one clear position, and clean copy.
+
+**Is the referee just against AI text?** No. Against copies of real essays where Claude only fixed typos and grammar, it preferred the untouched original 46% of the time, a coin flip.
+
+### 2. Break one thing, see who notices
+
+53 edited copies of 11 strong real winners, one thing broken in each:
+
+| Edit | Rubric total drop | Referee preferred the original |
+|---|---:|---:|
+| Strip names, numbers and places | 10.3 | 100% |
+| Rewrite as AI prose | 5.5 | 100% |
+| Remove the story | 13.5 | 95% |
+| Swap in an "In conclusion" ending | 0.9 | 100% |
+| Cut the answer to one prompt part | 7.2 | 100% |
+
+The rubric notices every break but barely charges for AI prose or a flat ending. The referee catches all of them.
+
+### 3. Backtest: write for a past round, drop it into the real pool
+
+For 10 past rounds that published their losers, five writers each wrote an essay without seeing that round's entries. Each essay then faced the real winner and up to 5 real entries, judged by the referee in both orders. The writers that use my story bank only use facts I verified or told it directly.
+
+<p align="center"><img src="media/writers.png" width="560" alt="Bar chart: plain AI 9%, AI plus rubric 13%, my real stories one pass 25%, four drafts plus tournament 21%, dictation slips cleaned 29%"></p>
+
+Real stories beat invented ones by a wide margin. More drafting machinery did not help, and cleaning dictation slips ("I mean", spoken filler) did, though 10 rounds is small and the gaps between the last three bars are inside the noise. The losses mostly came from the story, not the prose: a prompt about helping someone answered with a startup story, or a distracted-driving contest where every winner had a first-person crash or phone-habit story and the bank had none.
+
+### 4. What changed in Quill
+
+- The Judge panel shows a committee read first: how many of 259 real contest essays the draft beats.
+- Before drafting, the writer checks what kind of story past winners of that contest type told, and asks me for one if my story bank has none.
+- Stories are chosen by the kind the prompt asks for, drafts are picked by committee read, and dictation slips get cleaned.
+
+The experiment code runs against my private story bank, so it is not in this repo.
 
 ## Run it
 
