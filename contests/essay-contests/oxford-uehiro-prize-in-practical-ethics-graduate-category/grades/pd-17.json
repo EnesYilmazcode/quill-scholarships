@@ -1,0 +1,54 @@
+{
+ "id": "pd-17",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 2266,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-if-doctors-could-administer-a-treatment-that-would-move-a-patient-from-a-vegetative-state-to-a-minimally-conscious-one-should-they-do-so/",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "States the question at the start as the prompt requires ('Should the doctors in this hypothetical scenario administer the treatment to Sally?') and takes a clear position ('the world would be a better place if the doctors did administer it')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense, checkable sourcing with page numbers (Fenwick 1998, p.86; Kahane & Savulescu 2009, p.18; Plato 21C-D). But 'Magnetic Resonance Imagining' is a typo for Imaging, and the Levy and Wade references are internally wrong (see deductions)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has a real person's dry wit ('what post-Sally gets up to is actually none of Sally's business', the pumpkin, the animal shelter), but it is padded with stock academic hedges ('it seems evident', 'Indeed', 'Furthermore'), uses a 'not a difference of degree but of kind' antithesis, and has dash asides."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two cases: the Sally hypothetical, which runs the whole way through, and the mollusc thought experiment, which does the key work. Both stay on topic. The Sally case is thin as a scene and is never used again after the mollusc section."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Tests the claim against hedonism, objective list and desire-fulfilment theories, then argues the mollusc analogy with real reasons (non-propositional desires, the standard-of-comparison point). The objective-list section is two sentences of assertion and names no list."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clearly organized, but the conclusion restates instead of returning to Sally, and it softens the thesis ('we would normally not give post-Sally a run'). Last line: 'a world in which we have post-Sally is more valuable than a world without her.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the two broken references (-10 recovered). The Levy 2014 entry repeats Johnson's journal details word for word ('37(3), 175-178'), yet the text cites Levy at p.127, which cannot be inside pages 175-178. Look up the real volume and pages for Levy's 'The value of consciousness' in Journal of Consciousness Studies. Wade's BMJ range '252-354' doesn't match the cited p.353 either; it is probably 352-354. Check both against the actual articles before submitting. Also correct 'Imagining' to 'Imaging' in the first paragraph.",
+  "Remove the three dash asides (-6 recovered). Rewrite 'plays a central role in disvalue – it is because' as two sentences. Turn '– bound up as it is with understanding, goals and discernment of value –' into commas or a separate sentence.",
+  "Cut the headings and the self-reference (-10 recovered). Delete INTRODUCTION, CONCLUSION, the section titles and the markdown '## Is Post-Sally's Life Good for Post-Sally?', and let topic sentences carry the moves. Replace 'this paper will argue that' with 'I will argue that', and cut 'What the current paper seeks to highlight, however, is that' down to 'But'. Then make the conclusion match the opening position instead of hedging it."
+ ]
+}

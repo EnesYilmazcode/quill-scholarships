@@ -1,0 +1,54 @@
+{
+ "id": "pd-13",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 2198,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-why-is-virtual-wrongdoing-morally-disquieting-insofar-as-it-is/",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated at the outset as the prompt requires ('I seek to explain the moral disquiet... and thus justify our disquiet'), and the essay gives a clear position: the disquiet comes from 'what it reveals about the player who does so, not because it is wrong.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The detail is concrete and sourced: RDR2, the alligator feeding, the Kühn et al. 2019 study, Badham's Guardian column of 8 Nov 2018 and Schechtman p. 332. Still, the controversy itself gets only two sentences and the hypotheticals (Sam, Joe, the developer) are abstract by design."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This reads as a particular academic writer, with long hedged sentences and small slips ('through facilitation trade', 'assaulting suffragettes RDR2', 'even wrongness asymptotically decreases' with 'if' missing). Tells found: three 'not X but Y' frames ('not to causally explain... but to explain', 'invokes not the wrongness... but', 'not because it is wrong') and five spaced dashes. No AI vocabulary and no filler adverbs."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "On an analytic prompt the case study counts as the story. The one RDR2 case carries the whole essay, backed by three on-topic thought experiments (Sam, Joe the actor, the game developer). The case itself is summarized, not developed."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "The essay explains why, not just that. It rejects two existing accounts with reasons: the risk-of-harm argument fails because of the railway and McCormick counterexamples, and the dehumanization argument rests on an equivocation. It then proposes a defeasible 'presumptive revelation' account, backed by three tests: why the act is disquieting, why strategy-game invasions are not, and why 'numbers don't count'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The structure is clear (two rejected accounts, then the proposal), and the last line returns to the opening question: 'Assaulting suffragettes in RDR2 is morally disquieting, I suggest, because of what it reveals about the player who does so, not because it is wrong.' But it restates the thesis rather than paying off the opening image, and there is no objections section."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Footnote 5 gives an impossible date: Ethics and Information Technology volume 3 was published in 2001, not 2011. Change it to 'Ethics and Information Technology 3 (2001), pp. 277–287: 280', and check footnotes 3, 7 and 8 against the sources (this costs -10 under the fact rule). Also confirm whether the contest counts footnotes toward its 2,000-word limit. The essay is 2,198 words with footnotes and about 1,970 without, so if footnotes count it needs about 200 words cut, for example from the McCormick risk paragraph (otherwise -10 more).",
+  "Delete the three headings 'Consequences', 'Dehumanization' and 'Revelation', and fold each into the first sentence of its section, e.g. 'A common kind of argument...' already works as a topic sentence (-5). Replace 'In this essay, I seek to explain the moral disquiet' with the question asked directly, as the prompt requires: 'Why are we morally disquieted when players of RDR2 torture or kill suffragettes, and is that disquiet justified?' (-5).",
+  "Replace all five spaced dashes ('disquiet – the intuition', 'empirical – there is', 'counterexample – that certain', 'slogans – what explains', 'wrong – but is') with commas, colons or parentheses (-6). In the same pass, fix 'through facilitation trade' to 'through facilitating trade', 'assaulting suffragettes RDR2' to 'assaulting suffragettes in RDR2', and 'even wrongness asymptotically decreases' to 'even if wrongness asymptotically decreases'. Then split the 80-word equivocation sentence in the Dehumanization section into two sentences, one per world."
+ ]
+}

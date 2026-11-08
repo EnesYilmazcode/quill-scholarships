@@ -1,0 +1,65 @@
+{
+ "id": "pd-08",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2017",
+ "outcome": "winner",
+ "words": 2071,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-is-sex-with-robots-rape-written-by-romy-eskens/",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated at the end of paragraph one, as the prompt requires: \"do humans require consent from sexbots for sexual activity to be permissible?\" The essay answers it with a clear position: \"we require consent from humans and non-human animals but not from robots, because the former have moral status and the latter do not.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names checkable facts: TrueCompanion's Roxxxy (2010), RealDolls with \"insertable faces and body parts\", and cites Levy, Kagan (2016), McMahan and Singer. The near-future sexbot is described only in general terms (\"flesh-like skin, affective computing...\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This is a real academic voice with long, hedged sentences and no AI vocabulary or filler adverbs. Tells found: \"not only in itself questionable, it also leads\" (not only X but also Y), \"not just rudimentary, distorted, or underdeveloped... but absent\" (not just X but Y), and a closing caveat that works as a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so cases do the work of a story. The argument rests on test cases (animals, unconscious people, severely impaired people, prosthetics, bacteria). Roxxxy and RealDoll are introduced once, never used again, and the robot is never examined as a concrete case. Paragraph 2 (reasons to build sexbots) is off the question."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "The argument has a real mechanism. It rules out the species, organic/artificial, harm and capacity criteria one by one, each with a counterexample (\"3D-printed organs would diminish the moral standing\"), then grounds consent in moral status derived from sentience and sapience."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The argument is well ordered, but the conclusion is labelled \"In conclusion, then\" in the second-to-last paragraph. The essay ends on a future-tech caveat instead of returning to Roxxxy or Ex Machina: \"may on reflection appear to be seriously wrong.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "word limit exceeded",
+   "points": 0,
+   "reason": "The prompt says \"up to 2000 words\" and the essay has 2071. The prompt's own cap overrides the \"Word limit: none\" note."
+  },
+  {
+   "rule": "dash",
+   "points": 0,
+   "reason": "A dash is used as an em dash: \"used – including the design and use of sexbots – may\"."
+  }
+ ],
+ "fixes": [
+  "Fix the word count (+10): cut paragraph 2 (\"There are convincing ethical reasons to create sexbots...\" through \"in prison and in the army\"), about 140 words. It argues whether to build sexbots, which is not the stated question. That brings the essay to about 1,930 words, under the 2,000 cap, and tightens the focus.",
+  "Fix the ending (+4): delete \"In conclusion, then,\" and start that sentence at \"The morally significant difference...\". Then end the final paragraph by naming Roxxxy or the Ex Machina robot from the opening, so the essay's last line is about the concrete sexbot it began with rather than a general warning about the future.",
+  "Fix the voice tells (+6, counting the dash): replace the dash pair around \"including the design and use of sexbots\" with commas. Rewrite \"is not only in itself questionable, it also leads to\" as \"is questionable, and leads to\". Rewrite \"not just rudimentary, distorted, or underdeveloped... but absent in actuality as well as in potentiality\" as a plain statement that the capacities are absent in actuality and in potentiality, unlike the merely limited capacities of animals and children."
+ ]
+}

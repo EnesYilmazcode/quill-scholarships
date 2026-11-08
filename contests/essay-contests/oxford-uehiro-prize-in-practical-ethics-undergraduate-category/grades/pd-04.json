@@ -1,0 +1,54 @@
+{
+ "id": "pd-04",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2022",
+ "outcome": "honorable-mention",
+ "words": 2122,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2022/04/oxford-uehiro-prize-in-practical-ethics-why-dont-we-just-let-the-wise-rule/",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The topic fits practical ethics and the thesis comes early ('I argue that against a background of structural inequality, an epistocracy is unlikely to epistemically outperform democracy'). But the prompt asks for a question stated at the outset, and the essay never phrases one; the closest is 'let the wise rule', which first appears in Section II."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It names Plato, Mill, Brennan, Landemore, Estlund and Haslanger, but the empirical claims stay vague: voter ignorance (note 7), unequal access to education (note 11, 'Bhatia (2020)') and structural inequality (note 9, 'the gender pay gap ... etc.') give no figures in the body. The 'marketing placebo effect' is cited only as 'Schmidt et al (2017)'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real undergraduate philosophy essay, with no AI rhythm or filler adverbs, and has long sentences. Tells: one use of 'foster', and slips that look human but cost polish ('because its essential maintenance', 'disenfranchisement,.', 'The epistocratic might deny'). There are spaced dashes in 'many forms – material, social, political.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories and no developed case study. Brexit and Trump appear in one sentence and are dropped. The only examples are hypotheticals (the 'migrant family' and the 'wealthy, native banker', the compulsory night school), so nothing real carries the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Each objection gives a cause: the wealthy pay for test coaching so the 'wise' group stays homogeneous, unequal experience gives different access to the value of outcomes, and public labels lower the credibility and self-belief of the 'unwise'. The Practices section is thinner, resting on a single analogy and one citation to Haslanger."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The argument is clearly sectioned and answers objections in order. The last line, 'For now, we ought to retain faith in the ‘mob’, at least in the absence of a credible alternative.', brings back the opening 'mob', though the paragraph before it mostly restates the thesis. Weighted subtotal is 70.0. Deductions: writing about the essay -5 ('My essay has six sections. In Section I, I introduce...'), bullet-style headings and a bulleted premise list -5, two spaced dashes used as em dashes -4. That gives 56, mid band. Length: the prompt text says 'up to 2000 words' and the essay is 2122. No -10 was applied because the stated word limit is 'none' and the endnotes (about 170 words) probably don't count, which puts the body near 1,950."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+6 to +9): the essay's only real-world anchor is the Brexit/Trump line in paragraph 1, and it is dropped. Replace the made-up 'migrant family' vs 'wealthy, native banker' example in Perspectives with one documented case the writer has actually read and can cite, and carry it through Homogeneity and Perspectives. Ask Enes which real case he has a source for (for example, a historical knowledge test used to restrict voting) rather than adding one he hasn't read.",
+  "Specificity (+4 to +8): move the evidence from the endnotes into the body. In 'The problem is that political knowledge or access to suitable proxies (e.g. education) is asymmetrically distributed', state the actual finding from Bhatia (2020) with a number. In 'The Burden of Ignorance', quote the specific Ipsos misperception figure from note 7. Give Schmidt et al (2017) its full title and its actual result. Ask Enes for the figures from the sources he actually used; do not invent any.",
+  "Deductions and the prompt's 'question stated at the outset' (+14 back, and criterion 1 to 5): make the first sentence a direct question, such as 'Should the politically wise be given more votes than everyone else?'. Cut the roadmap paragraph 'My essay has six sections... In Section VI, I consider the implications of my answer.' Turn the '- ' bullet headings into plain Roman-numeral headings and write the three EA premises as numbered sentences in prose. Replace 'many forms – material, social, political' with a colon. Fix 'because its essential maintenance' to 'because of its essential maintenance', 'disenfranchisement,.' to 'disenfranchisement.' and 'The epistocratic might deny' to 'The epistocrat might deny'. Then trim so the full text, endnotes included, is under 2,000 words."
+ ]
+}

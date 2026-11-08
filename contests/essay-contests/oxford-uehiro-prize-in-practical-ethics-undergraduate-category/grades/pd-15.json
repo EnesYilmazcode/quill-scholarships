@@ -1,0 +1,54 @@
+{
+ "id": "pd-15",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2020",
+ "outcome": "honorable-mention",
+ "words": 2080,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-what-if-anything-is-wrong-about-algorithmic-administration/",
+ "total": 40,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks for the question to be stated clearly at the outset. The essay states no question; its thesis only arrives in paragraph 6: 'In this essay, however, I raise two issues with such systems'. The ethics question is otherwise answered with a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dr Bentley's Case (1722) 93 E.R. 698, Genesis 3.11, Tribe and Waldron are cited precisely. The two real-world examples are left anonymous: 'certain jurisdictions within the United States' and 'Australia uses an automated system for parts of its welfare program'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real academic voice with human slips ('Fixed algorithms ... It does not'; 'the nature of dynamic algorithms present'). It also uses stock framing: 'Law is, at bottom, a conceptual enterprise', a triplet ('of mutuality, of a shared intention, of teamwork'), 'Faceless bureaucrats ... faceless building', and the essay talks about itself twice."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two case beats: Adam and God via Dr Bentley's Case, and a hypothetical recidivism sentencing system. Adam carries the procedural-justice half but drops out before the judicial-review half and is never brought back."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Reading Adam's moment as confession rather than defence is original, but the step to 'closeness with officials' is asserted, not argued. The phone analogy would condemn fixed algorithms too, so it does not single out machine learning. The point that ML cannot label its features has a real mechanism, but it never addresses human-in-the-loop review or explainability tools."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The sections are clear, but the 'Conclusion' only restates the thesis and never returns to Bleak House, Adam or Kafka. Last line: 'Second, they are difficult to square with traditional avenues of judicial review.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut about 100 words of body text to get under the 2000-word limit (-10 recovered). The 'Word limit: none' line contradicts the prompt's 'up to 2000 words', so treat 2000 as the limit. The intro paragraphs that begin 'So far, these systems have mostly relied on fixed algorithms' and 'Fixed algorithms will result in the consistent application of rules' make the same point twice, so merge them into one. In the same pass, make the first sentence the question itself, because the prompt requires it. Replace 'The scope of modern administration is vast.' with a direct question such as 'Should the state let machine-learning systems make administrative decisions about citizens?'",
+  "Rewrite the conclusion so it returns to the opening instead of restating it, and delete both 'In this essay' sentences (-5 recovered). For example, end on God asking Adam whether he had 'eaten of the tree' and contrast it with a system that never asks. Rephrase the intro's 'In this essay, however, I raise two issues' as 'I raise two issues'. Also replace the en dash in 'more consistent decisions – that it will' with a comma (-2 recovered).",
+  "Ask Enes whether the two unnamed systems are the ones he means (likely COMPAS, reviewed in State v Loomis, and Australia's Robodebt). If they are, name them in the intro and footnote them. Then add one sentence to the confession section explaining why confession to an official, not to God, creates the 'closeness' the argument relies on. Also check whether this contest allows section headings: the rubric deducts -5 for them, but they may be standard for a footnoted ethics essay."
+ ]
+}

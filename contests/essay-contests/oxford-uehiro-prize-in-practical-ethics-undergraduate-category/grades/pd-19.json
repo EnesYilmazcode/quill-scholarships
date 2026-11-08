@@ -1,0 +1,54 @@
+{
+ "id": "pd-19",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2021",
+ "outcome": "winner",
+ "words": 2509,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2021/03/oxford-uehiro-prize-in-practical-ethics-against-making-a-difference/",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "States the question in paragraph one, \"Can individuals bear moral responsibility for such outcomes?\", and argues a clear position, \"we do in fact have moral responsibility for outcomes to which we don't make any difference\". However, the practical-ethics payoff (fast fashion, voting, arms sales) gets only one short paragraph at the end."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Cites real sources a reader can check, such as Kuwait Airways v Iraqi Airways [2002] 2 AC 883 at [74], Restatement (Second) §432(2), Merat 2019 on Yemen, and page-cited quotes. But the argument runs almost entirely on invented Athena/Balthazar button cases, and the real-world cases are only named, never examined. Errors: P1 is cut off (\"was a cause of\" with no O), and footnote 11 cites Beebee and Kaiserman 2019 while the bibliography lists Kaiserman and Beebee, 37(3)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "A distinct academic voice with odd, human choices (\"congenially captures\", \"tort-feasors\", \"Here's a pertinent objection\") and no AI vocabulary or filler adverbs. Tells: seven em dashes, the self-referential \"In this essay I defend\", and a neat closing moral, \"we should remedy, combat and protest harms\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so case studies count as stories, but none of the four real cases (sweatshops, climate change, voting, UK arms in Yemen) is developed. The essay is carried by four variations of one invented button scenario (faulty button, early pre-emption, late pre-emption, overdetermination). That is good argument, but the real-world case is never told."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Strong reasoning: it explains why difference-making fails (transitivity, late pre-emption, fragility) and swaps in a worked mechanism, the minimal sufficiency analysis, with an error theory for the legal but-for test. The practical side has no mechanism: \"better discharged through institutional change\" never says which change or who makes it. The fragility paragraph contradicts itself: the shoelace-tying both \"is a cause of your death occurring at the particular time\" and \"becomes a cause of your death\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear four-part arc, and the last line, \"from 'fast fashion' to the arms trade, voting to climate change\", returns to the opening examples. But the close summarizes rather than lands, and section headings and bullet lists break the essay format."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Section V (the Motivation Argument paragraphs) gets the most points back. Replace the one-sentence list of sweatshops, voting and arms sales with a full paragraph on one real case you already cite, the UK officials in Merat 2019, and walk the minimal sufficiency analysis through it: which events are in the sufficient plurality, why pre-empting other sellers doesn't excuse them, and what 'institutional change' concretely means there. To make room, cut the second overdetermination bullet list, which repeats the first. Use only what the source says; if you want a different case, ask Enes which one he actually researched.",
+  "Delete 'In this essay I defend an account of causation according to which' and start that paragraph at 'Difference-making is not necessary for causation, so P2 is false'. Replace all seven em dashes with commas, parentheses or full stops: the shoelace aside, 'not Balthazar's', 'there must be one', 'viz.', 'e.g. comprising', 'So, without making', 'P2 is false'. Turn the bulleted lists in sections III and V into numbered sentences or inline lists, and drop the section headings unless the contest's format allows them. Together that recovers about 16 points of deductions.",
+  "Fix the errors before submitting. Finish P1 ('...was a cause of O.'). Fix the shoelace paragraph so the intuitive verdict reads 'the shoelace-tying is a cause of your death occurring when it did, but not a cause of your death'. Make the Beebee/Kaiserman author order and year match between footnote 11 and the bibliography. Confirm the body text, without footnotes and bibliography, is under 2,000 words. The prompt sets that cap and the essay is 2,509 words in total; if the body is over, cut from the repeated overdetermination plurality."
+ ]
+}

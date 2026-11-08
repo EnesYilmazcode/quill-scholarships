@@ -1,0 +1,54 @@
+{
+ "id": "pd-09",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2017",
+ "outcome": "runner-up",
+ "words": 2033,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-should-we-completely-ban-political-bots-written-by-jonas-haeg/",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is on topic for practical ethics and has a clear thesis ('none of them succeed in showing that polibots are intrinsically morally problematic'), but the prompt asks for the question to be stated clearly at the outset and the essay opens with 'This paper concerns the ethics of...' instead of asking a direct question."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are two citations (Woolley 2016, Snyder 2012) and some made-up numbers ('10000 polibots', '1000 X-supporters... plus 500 polibots'), but no real campaign, election, platform policy or bot incident is named anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real student, with no AI vocabulary. It is stiff ('aforementioned', 'Obviously', 'Surely') and full of typos: 'social mediate platforms', 'I focus is one what', 'the the' twice, 'multiple avoiding online', 'do not inhering', 'Polibots also needs'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "For an analytic prompt the case study counts as the story. Here there are only invented thought experiments (Chris meeting bots, the vacation polibot, the auto-post email) and no real documented case of polibots to anchor the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The 'quantity, not tool' argument and the TV-ad comparison explain why each objection fails. But Objection 2 has a logic gap: 'he'll nevertheless get to the same estimate if he meets 500 genuine users or 500 fake users' assumes what it needs to prove. The proposed fix, 'regulations about the numbers of polibots must be proportionate', stops at one clause."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The objection-and-reply layout is clear, but the ending writes about the essay and trails off: 'There is more work to be done in the future, especially related to policies and rules concerning the the content and number of polibots.' It never comes back to Woolley's 'nuisance' framing from the opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the first sentence ('This paper concerns the ethics of...') with the question stated plainly, for example 'Is it intrinsically wrong to use political bots that share only true information?' Then rewrite the Conclusion paragraph to answer that question in one sentence, bring back Woolley's 'nuisance to be detected and managed' line from the opening, and say what the number-based rule would actually be. Cut 'Above, I have attempted' and 'There is more work to be done'. This recovers the essay-about-itself deduction, lifts structure from 2 toward 4, and lifts answers-the-prompt to 5.",
+  "Run a full proofreading pass: 'social mediate' to 'social media', 'Here I focus is one what' to 'Here I focus on what', 'focus of the' to 'focus on the', 'the the' (twice) to 'the', 'multiple avoiding online' to 'multiple accounts online', 'do not inhering' to 'do not inherit', 'Polibots also needs' to 'Polibots also need', 'person must program' to 'a person must program', 'though deceptive' to 'through deceptive'. Also turn every spaced dash into commas or parentheses and cut the headings, or ask Enes whether this contest expects headings. This recovers the 11 points of deductions and lifts voice.",
+  "In Objection 2, fix or cut the sentence 'he'll nevertheless get to the same estimate if he meets, say, 500 genuine users or 500 fake users', since the argument doesn't hold as written. Ask Enes whether there is a real, documented polibot case from his sources (Woolley 2016 covers several) that could replace the made-up 'Chris' town election, so the argument rests on something checkable. The count is 2033 words against the prompt's 'up to 2000', so trimming the 'Polibots.' paragraph would also remove the word-limit risk."
+ ]
+}

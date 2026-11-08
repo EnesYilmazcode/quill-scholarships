@@ -1,0 +1,54 @@
+{
+ "id": "pd-03",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2022",
+ "outcome": "honorable-mention",
+ "words": 2115,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2022/04/oxford-uehiro-prize-in-practical-ethics-when-money-cant-buy-happiness-does-our-duty-to-assist-the-needy-require-us-to-befriend-the-lonely/",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay states and defends a clear practical-ethics position ('most conceptions of a duty to assist entail a duty to befriend the lonely'), but it states a thesis, not a question, even though the prompt asks for 'the question to be addressed' at the outset."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Claims rest on checkable figures: 'Diener and Seligman's study of 1.5 million people in 160 nations', 'A meta-analysis of 148 studies... increased mortality by 50%'. Some lines stay vague, though: 'A brief consultation of religious doctrine' is cited only to Tamblyn, and the '3,600 dollars yearly' figure is unexplained."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real student paper, with clumsy slips ('stave of loneliness', 'there will undoubtedly by a large number', 'wide a range dimensions', 'Anna' for Anne). But it writes about itself ('In this essay I will argue', 'My main argument in this essay will'), repeats 'My response is two-fold' twice, and piles up acronyms (D2A, D2F, GIR, POGIR) that flatten the voice. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so the Anne/Barbara/Cameron ambulance thought experiment works as the case study and is on topic. It is a bare bulleted setup, though, and no concrete case of chronic loneliness ever carries the D2F argument itself."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The exclusivity/necessity test and the POGIR argument that 'the perception of friendship cannot be bought' give a real mechanism for why taxes and money can't discharge this duty. The objection replies are thin, though: 'a few hours a month would probably be sufficient' and 'deception for the greater good is not generally considered to be immoral' are asserted, not argued."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay is well organized: definition, conditions, application, objections. But it closes on a restatement instead of returning to the opening contrast: 'I believe this suggests, most people should be working much harder to befriend the lonely and have failed in neglecting to do so before.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): drop the scaffolding. Cut 'My main argument in this essay will follow from' and the second 'My response is two-fold' (keep one). Keep D2F but write 'duty to assist' and 'genuine intent' out in full, so the reader isn't decoding four acronyms. Fix the slips: 'stave off', 'there will undoubtedly be', 'on a wide range of dimensions', 'both conditions hold', 'Anne' not 'Anna', 'even if it never benefits them', 'do not choose loneliness'.",
+  "Opening and deductions (-10 recovered, plus criterion 1): replace 'In this essay I will argue that this position is inconsistent...' with the question itself, stated plainly in sentence two, e.g. 'Is that position consistent, or does a duty to assist the needy already commit us to befriending the chronically lonely?' The prompt requires this, and it also removes the writing-about-the-essay deduction. Then turn the section headings and the two bulleted lists into prose transitions, which removes the headings/bullets deduction: Exclusivity and Necessity become one sentence each, and Anne, Barbara and Cameron become one short paragraph.",
+  "Ending and objections (+4 to +6): rewrite the last paragraph to close on the opening contrast. Most readers already accept the duty to give money to the poor, and the essay's own Diener data says one reliable friend predicts happiness better than income does, so end on that inconsistency, not 'have failed in neglecting to do so before'. Also check the '3,600 dollars yearly' and 'shelter' claims against Diener et al. 2018 before submitting, and either cite a source for 'a few hours a month would probably be sufficient' or cut it."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pd-18",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2020",
+ "outcome": "honorable-mention",
+ "words": 2465,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-an-account-of-attitudinal-duties-towards-injustice/",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The topic is clearly practical ethics and the thesis comes early (\"I argue that even the least able amongst agents still possess attitudinal duties\"). But the question itself is never stated as a question, and the essay opens on a stock line, \"Injustices are ubiquitous around us.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense, checkable citations (Anderson 1999, Gill 2000, Stocker 1976, Parfit 1984, Lawford-Smith 2013) and two concrete constructed cases. Weaknesses: a misspelled key source (\"Srinavasan\" should be Srinivasan), and the examples of injustice in the opening line are generic."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Mostly reads as a real student philosopher, with clumsy grammar (\"all agents should be ii) recognise\", \"no long as\") and a dry joke in footnote 14. But it has dozens of spaced dashes used as em dashes, \"not only sheds insight... but also justifies\", \"not just hypocrisy... but also\", \"do not merely... instead\", \"deeply undesirable\", \"I shall not delve\" in footnote 3, and an opening triplet (\"From... to... to...\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two case studies (Citizen Bob, Activist Sam), both on topic. Bob comes back in the relational and aptness arguments, but Sam is dropped after the introduction, even though the self-defeat objection is exactly his case."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Three arguments with real mechanisms. The relational argument derives the duties from recognition and commitment, the aptness argument draws on Srinivasan, and the replies to self-defeat and enforceability are reasoned through pluralism and the claim that a duty does not imply a right to enforce it. The 'world-affecting' similarity is thin, resting only on \"cf. victimless crimes\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well signposted, with cases first, then arguments, contents and objections. But the close opens with \"Summarily\", restates the thesis, and only half-returns to Bob: \"These attitudes should be cultivated by even residents residing under highly oppressive states: this is how they, too, could resist injustice.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice and dashes (worth about 14 points: 8 from criterion 3 plus the -6 em dash deduction). Replace every spaced ' – ' with a comma, colon or parentheses. Rewrite 'not only sheds insight into... but also justifies' as two plain claims, and do the same with 'reflects not just hypocrisy and inconsistency, but also'. Change 'do not merely... instead' to a direct statement. Cut 'deeply' from 'deeply undesirable' and 'delve' from footnote 3.",
+  "Opening (worth 5 points from the essay-about-itself deduction, plus a point on criterion 1). Replace the roadmap sentences 'I open with a pair of cases... I conclude by examining two objections' and the stock line 'Injustices are ubiquitous around us' with the question stated plainly, since the prompt asks for that at the outset. For example: 'Does someone who cannot resist an injustice still owe it anything, and if so, what?' Then go straight into the Bob and Sam cases.",
+  "Ending, accuracy and length (worth about 4 points on criterion 6, plus credibility). Replace the 'Summarily...' paragraph with a close that goes back to Bob's glee and Sam's motives and says what each one's attitudinal duty actually asks of him. Bring Sam into the self-defeat reply, where his case fits. Fix 'Srinavasan' to 'Srinivasan', 'no long as' to 'so long as', 'Our ability... are' to 'is', and 'should be ii) recognise' to 'should ii) recognise'. Confirm whether footnotes count toward the 2,000-word cap. With them the essay is 2,465 words, so if they count, trim the footnotes before submitting."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pd-05",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2017",
+ "outcome": "winner",
+ "words": 2124,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-what-makes-discrimination-wrong-written-by-paul-de-font-reaulx/",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It opens with the question, \"What makes discrimination wrong?\", and answers it with a clear position: discrimination is wrong because it violates \"individuals' weak right to be treated fairly\" and because it creates \"negative externalities\". It also argues against the main rival view, the Strong Rights Account."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Every case is made up (Harold, Cassandra, Pasha). The one real-world claim, \"many ads for au pairs specify that they only consider females\", has no source. The essay also points to \"the boxing case\", which it never introduces."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real philosophy student, slips and all (\"while males\", \"there a sufficient\", \"this is might be\"). There is no AI vocabulary and no \"not X but Y\", and some sentences run over 45 words. The tells are a repeated \"Here is a suggestion\" and calling things \"counterintuitive\" five times."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "On an analytic prompt, three made-up cases (Hiring, Au Pair, Alley) do the job of a story. All three stay on topic and the argument rests on them. Two would be enough, and the cases have no real-world grounding."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The argument explains why. Fairness depends only on what a person deserves and can do, while the externality harm grows with how exposed the group is. That explains Harold vs Cassandra, and the pollution comparison explains why the duty is shared. It loses a point because the exposed-group condition is rejected on Alley alone and because it relies on the unexplained \"boxing case\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Sections 1 to 3 are clear, but the ending restates the thesis instead of returning to a case. The last line is \"the ethics of discrimination is more complicated than it might first appear and deserves further attention\", which repeats the closing line of the introduction."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut at least 124 words to get under the 2000-word limit (recovers 10 points). Delete the last sentence of the introduction (\"These results are counterintuitive, and require further attention.\"). Shorten the paragraph that begins \"Why are Fairness and Negative Externalities the criteria\" to two sentences. Remove \"which is highly counterintuitive\" from the Harold sentence in the \"Secondly, like with pollution\" paragraph. If the footnote counts toward the limit, fold its point into one clause of Section 1.",
+  "Take out the \"## 1.\", \"## 2.\" and \"## 3.\" headings and use plain topic sentences in their place (recovers 5 points). Replace the dash pairs in \"which – analogously to pollution –\", \"– ceteris paribus –\" and \"– like driving an SUV –\" with commas or brackets (recovers 6 points).",
+  "Make the one real-world claim checkable or cut it (specificity is 2/5). Ask Enes whether he has a real source for au pair ads limited to women and cite it, or cut the sentence and keep the intuition alone. Either explain \"(e.g. the boxing case)\" in a clause or delete it. Also replace the closing line with one that goes back to Harold's business, which answers the question it raises, instead of saying again that the topic \"deserves further attention\"."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pd-11",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2017",
+ "outcome": "honorable-mention",
+ "words": 2232,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-global-warming-vegetarianism-what-should-i-do-when-what-i-do-makes-no-difference-by-fergus-peace/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is clearly practical ethics and the question is well framed, but the prompt says to state it 'clearly at the outset', and the actual question ('Explaining why each person nonetheless has reason to φ is what I will call the problem of cumulative impact') only arrives in the seventh paragraph, after the opener on 'futility thinking' and donations."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The details are concrete and checkable: the butcher to wholesaler to abattoir chain, 'practicing for an hour five times every week', Rainbolt's 'eight different glosses', and Ross and Quinn cited by name. Weaker spots are 'roughly speaking' and the rival views 'too complex to fairly summarise', which are left vague."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like one specific academic voice ('To paint in extremely broad strokes', 'I'm going to propose that we simply accept this'), and long sentences are present. Tells: one 'it's not just that your individual action won't completely solve the problem: it won't do any moral good at all' construction, and about 6 en dashes used as em dashes (the dashes are scored under the deductions)."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so case studies take the place of stories. There are 4: voting, vegetarianism, climate and piano practice. All are on topic, and the writer's own piano habit carries the key distinction. But the opening three cases come as a bulleted list rather than one case worked through in depth."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is a real mechanism. The 'pattern-centred conception' explains why a single act doesn't matter while the pattern does, and the conclusion shows how lifetime consumption brings expected utility and fairness back into play. It is held back from a 5 because rival solutions are dismissed with 'I don't have space in this essay to address these solutions', backed only by footnote 7, 'I have pressed this criticism in other work.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clean: problem, then puzzle, then synthesis, then limits. The last line, 'we do, after all, make a difference and that we should recognise the moral duties which flow from that fact', answers the opening 'makes no difference' worry. It sits under a 'Conclusion' heading and partly restates rather than bringing back the voting or pork image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt (+4), and protect against a possible -10: move the question into the first paragraph as one plain sentence, for example the existing line 'Explaining why each person nonetheless has reason to φ...' moved up and restated in plain words. Then check the word count without the References and footnotes. 2232 includes them; if the body alone is over 2000, cut the 'futility thinking' paragraph (paragraph 2) and the Rainbolt/Ross aside, which the argument doesn't need.",
+  "Deductions applied (-6 em-dash rule): replace each spaced en dash used as an em dash with a comma, colon or full stop. These are 'next month – animal suffering', 'particular occasion – only to do', 'however – practicing ... every week – could', and 'combine with – and improve the power of – other'. Also rewrite 'it's not just that your individual action won't completely solve the problem: it won't do any moral good at all' as a direct statement ('your individual action won't do any moral good at all').",
+  "Deductions applied (-5 headings/bullets): remove the '- ' markers from the four section headings and turn the Voting/Vegetarianism/Climate bullets into one prose paragraph. Separately, ask Enes whether footnote 7 ('I have pressed this criticism in other work') is true of him. If it isn't, cut it or replace it with a real citation, because a false claim triggers the -10 fact rule."
+ ]
+}

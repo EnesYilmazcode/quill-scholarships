@@ -1,0 +1,54 @@
+{
+ "id": "pd-01",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2022",
+ "outcome": "winner",
+ "words": 2153,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2022/03/oxford-uehiro-prize-in-practical-ethics-why-we-should-negatively-discount-the-well-being-of-future-generations/",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated in the opening sentence ('how to weigh the interests of future people against those of contemporary people'), and the essay takes a clear position: 'an argument for a negative discount rate'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay is mostly concrete: the analgesic thought experiment, Mill (1863): 34 set against Singer, and 0.2% vs 0.1% giving about 7.3 vs 2.7 units over 1000 years. The moral-progress induction falls back on a generic list ('abolition of slavery... human rights institutions') with no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay reads as real academic prose with long sentences, but it has repeated 'not X but Y' frames ('is not that pain relief... but merely that'; 'is not that it settles... but that it provides'), a slogan-style antithesis ('weaponised by some... unparalleled beneficence by many') and stock rebuttal openers ('This objection does not withstand scrutiny, however')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so two worked cases do the job of stories: the abuser/activist analgesic case, which grounds P1, and the policymaker interaction-effects case. Both are on topic. Neither comes from a real policy decision."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The core mechanism is explained: desert-weighted axiology, expected moral progress and credence under moral uncertainty together produce a pro tanto reason for a lower or negative rate. The worked numbers show the stakes. The P2 induction rests on 'We have every reason to hope' rather than reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The premises are laid out, defended in order and then combined under uncertainty. The last line, 'because this is what they deserve', returns to the opening question and lands on desert, though it partly restates the thesis."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the self-references and rewrite the 'not X but Y' frames. This is worth about 13 points: the -5 deduction plus up to 8 on voice. 'This essay presents an argument for' becomes 'I argue for'. 'This essay is not concerned with comparing' becomes 'I set aside the comparison of'. 'In light of this essay's argument' becomes 'Once desert is counted'. 'The upshot of the above thought experiment is not that... but merely that' becomes 'The thought experiment shows only that pain relief for the abuser is less valuable than pain relief for the activist.' 'The significance of the argument... is not that it settles... but that it provides' becomes 'The argument does not settle the question; it gives a pro tanto reason...'. Delete 'We have every reason to hope that the same modern forces which have been weaponised by some will soon make possible unparalleled beneficence by many', or replace it with a claim you can cite from a source already in your bibliography.",
+  "Remove the bullets and headings. This is worth 5 points. Turn the three bulleted premises into one prose sentence that names them inline: '(P1) the well-being of the more morally deserving counts for more; (P2) future people will likely be more morally deserving than we are; therefore (C) under moral uncertainty we should weigh their well-being above our own.' The essay later refers to P1 and P2, but the bullets never label them, so this also fixes the references. Replace the three section headings with topic sentences at the start of each section. While editing, fix the typo 'relive the activist's pain' to 'relieve the activist's pain'.",
+  "Replace every spaced dash used as an em dash. This is worth 6 points. 'the badness of suffering – although it is always bad – is proportional' becomes 'the badness of suffering, although always bad, is proportional'. 'correlated with – if not constituted by –' becomes 'correlated with (if not constituted by)'. 'past standards – just as ... theories – but' becomes two sentences. Then count the body text without the endnotes and bibliography and confirm it is under the 2,000 words the prompt states. The 2,153 total probably includes the bibliography. If the body is still over, trim the interaction-effects paragraph first."
+ ]
+}

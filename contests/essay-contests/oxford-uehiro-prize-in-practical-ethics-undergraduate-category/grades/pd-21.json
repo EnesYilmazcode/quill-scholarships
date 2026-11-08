@@ -1,0 +1,54 @@
+{
+ "id": "pd-21",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2021",
+ "outcome": "honorable-mention",
+ "words": 2014,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2021/03/oxford-uehiro-centre-prize-in-practical-ethics-rational-departure-what-does-stoicism-reveal-about-contemporary-attitudes-towards-suicide/",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The question is stated at the start ('why ... suicide is wrong where the Stoics did not') and answered with three reasons. But 'something reasonable in what he was saying' pulls against 'we think that suicide is never right', and the essay never squares the two."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong, checkable detail: Cauda Equina Syndrome, 'farmer and carpenter', 'turn off the tap', the Epictetus beard, Cato, Benatar, SVF 3.757-768. Weaker spots are 'About two years ago' and the unsourced claim that 'most suicides are completely unexpected'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Two 'not only X but also Y' sentences ('Not only was he physically incapacitated, but he also felt lost'; 'not only from the pain ... but also from the unique value'), plus the filler 'genuinely suffering deeply' and the stock phrases 'To be sure', 'Stripped of his identity' and 'tragically inadequate'. The grandad passage itself sounds like a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story about the grandad, told with a real scene ('in a remarkably calm manner ... turn off the tap'). It comes back once in the epistemic section and then disappears for the last 900 words."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The epistemic argument has a real mechanism (the decision is final and the future is uncertain, as the surgery showed). The circumstantial argument and 'something seems wrong' are asserted rather than argued, and the practical claim that open discussion 'would save many lives' gives no mechanism and no named fix."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear sections, but the ending restates the thesis instead of returning to the grandad. Last line: 'The Stoics' approach to suicide reveals how we could better guide human action by confronting and discussing it openly.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Deductions: over the limit (2,014 of 2,000 words, -10) and writing about the essay (-5). Fix (+15): replace the whole Abstract with one sentence that states the question, e.g. 'Why do we hold that suicide is wrong when the Stoics held that it could be the rational choice?' Cut the 'I will explore' and 'I will outline' sentences and the definition. That brings the essay well under 2,000 words and still meets the prompt's rule to state the question at the outset.",
+  "Deductions: headings formatted as bullets (-5) and three dashes (-6). Fix (+11): remove the '- ' from all four headings, or delete the headings. Replace the dashes: 'felt like a taboo – something' with 'felt like a taboo, something'; 'in certain circumstances – it was only way' with '...circumstances, since it was the only way'; 'euthanasia – assisted suicide' with 'euthanasia (assisted suicide)'. While editing, fix the typos 'Epiectetus', 'close the deceased' and 'omnibus paribus' (the standard phrase is 'ceteris paribus').",
+  "Voice and ending (up to +12): rewrite both 'not only ... but also' sentences as plain statements, e.g. 'He was physically incapacitated. He also felt lost in a rapidly developing world...'. Cut 'genuinely' and 'deeply'. Then rewrite the last paragraph's final line to return to the real grandad conversation, ending on his 'turn off the tap' and the fact that he said it to you calmly, as the case for talking openly. That also settles the tension between 'something reasonable' and 'never right'. Use only what actually happened; ask Enes if a closing detail is needed."
+ ]
+}

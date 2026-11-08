@@ -1,0 +1,54 @@
+{
+ "id": "pd-10",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2017",
+ "outcome": "honorable-mention",
+ "words": 2213,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-prostitution-you-cant-have-your-cake-and-sell-it-written-by-simon-pierre-chevarie-cossette/",
+ "total": 84,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated at the start as the prompt asks, with a clear position: 'I offer a new argument for the thesis that prostitution is not just a normal job', and every section serves it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Facts a reader can check: 'Administrative Law Judge Robert N. Spencer', 'CR 2013-0008, December 2013', 'Court of Appeals No. 14CA1351', the quoted text of Colorado Anti-Discrimination Act 24-34-601, and page-cited sources (Nussbaum 1999, 288–97)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real philosopher ('cheekily', 'whatnot', 'if I hurt my wife by kissing another woman'). Tells found: 'not just a normal job' in the first line, 'should not only refrain from creating but also fight', one em dash ('individuals—harm'), and typos ('it would intentionally', 'The States does')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study, Masterpiece Cakeshop, opens the essay and drives the whole argument ('Sex and Cake'). The scene is hypothetical second person ('John & John'), but the essay then says 'This is a true story'. That mixes invented detail with the real case."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "The essay sets out its principles (Normal Job, Non-Discrimination, Liberal Sexuality, Exploitation, Role of State) and shows step by step why they cannot all hold. It also answers the 'keep your job' objection head on and backs the voluntary vs intentional distinction with Hyman's wallet example."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The argument moves cleanly from start to finish, and the close returns to the cake case: 'if we agree with the Court of Colorado's enforcement of civil rights, we should resist the idea that prostitutes are normal tradesmen.' It is weakened by the §-roadmap, a sentence missing its period ('having sex'), and an orphaned '* This would make it a very special job indeed.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Deductions (-5 for headings, -2 for the em dash) plus a possible word-limit issue: remove the 'Abstract:' label and the numbered headings ('1. Introduction' to '5. References'), cut the roadmap sentence ('§2 describes... §4 concludes.'), and use paragraph breaks instead. Change 'individuals—harm they could not resist' to 'individuals, harm they could not resist'. The prompt caps the essay at 2000 words and this one is 2213, so check whether that count includes the references and footnotes. If the body alone is over 2000, cut the Nussbaum/Pateman summary paragraph in section 2 down to one sentence.",
+  "Human voice (+4): in the abstract, change 'prostitution is not just a normal job' to 'prostitution is not a normal job'. Change 'should not only refrain from creating but also fight (directly or indirectly) exploitative situations' to 'should refrain from creating exploitative situations, and most liberals think it should also fight them'. Fix the slips that read as careless: 'it would intentionally' becomes 'she would do so intentionally', 'The States does' becomes 'The State does', 'third criteria' becomes 'third criterion', 'leads the thesis' becomes 'leads the thesis... to collapse' with the missing 'to' added, 'United Kindgom' becomes 'United Kingdom', and add the period after 'being forced to have sex'.",
+  "Case study (+3): the opening says 'John & John' and then 'This is a true story', but the real plaintiffs were Craig and Mullins. Either change the line to 'Something very close to this happened' or name Charlie Craig and David Mullins. Then move the orphaned footnote ('* This would make it a very special job indeed.') next to the sentence it comments on, or delete it, so the ending lands on the Colorado line."
+ ]
+}

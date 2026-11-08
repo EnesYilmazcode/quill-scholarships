@@ -1,0 +1,54 @@
+{
+ "id": "pd-02",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2022",
+ "outcome": "runner-up",
+ "words": 2246,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2022/04/oxford-uehiro-prize-in-practical-ethics-terra-nullius-populus-sine-terra-who-may-settle-antarctica/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated at the outset as the prompt requires ('Who may settle Antarctica?'), and the essay commits to a position: 'states whose territory has become uninhabitable due to climate change have a right to settle distinct parcels of Antarctic territory.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Checkable facts and sources throughout: '~1,000-5,000 transient researchers', 'only 11 births', 'claims to 80%+ of the continent', '700 miles', 'Devon Island', plus Mancilla 2018, Miller 2007 and Wenar 2021. However, the landless states that drive the whole argument stay abstract ('some island nations')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real philosophy student, with hedged, clumsy academic asides ('is not unproblematic', 'if this is not a contradiction in terms'). There are no em dashes (it uses spaced hyphens), no 'not X but Y', no filler adverbs, and several sentences over 45 words. The tidy summing-up in the conclusion is a minor tell."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so Antarctica works as the single case study and stays on topic. But the landless state it is meant to serve is a placeholder, not a real case, so the case study is told as a summary."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning has real mechanisms: self-determination requires territory, the Hohfeldian privilege-right and claim-right, why Miller's objections to equality of resources fail for 'manna from heaven' land, and why a negative duty avoids assigning responsibility. Two load-bearing premises (that Antarctica will become habitable, and that there is no environmental bar) are only assumed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized: claim, rival claims, objection, reply. The ending defends the essay's value instead of answering the opening question again: 'Finally, since it asserts only a negative duty, it can be affirmed from various theoretical perspectives.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Name the landless states. Footnote 4 currently says only 'some island nations'. Check Campbell and Warrick (2014) and put the specific states it actually names, with its projection, into the 'An open question' paragraph that defines 'landless states'. Do not add any state or figure the source does not contain. This gives the case study a real subject (stories 3 to 4, specificity firmed up).",
+  "Rewrite the last paragraph of 'Concluding remarks' so it ends by answering the opening question directly: who may settle Antarctica, and on what terms (non-overlapping parcels of equal value per person, with only a non-interference duty on everyone else). Drop the 'my account retains its value' list. Also cut the opener 'I conclude by noting the abstraction of my argument', which talks about the essay (structure 3 to 5, and removes part of the -5 deduction for writing about the essay).",
+  "Remove the section headings and the Abstract's step-by-step roadmap ('I first argue... I then assess... Finally, I note'), unless the contest explicitly asks for an abstract. Put the question in plain prose as the opening line instead. Together these recover the -5 for headings and the -5 for writing about the essay. Before submitting, confirm that the body without endnotes and references is under 2,000 words, since the full text is 2,246."
+ ]
+}

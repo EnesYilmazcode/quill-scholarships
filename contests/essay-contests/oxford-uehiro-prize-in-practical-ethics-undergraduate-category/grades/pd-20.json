@@ -1,0 +1,54 @@
+{
+ "id": "pd-20",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2021",
+ "outcome": "runner-up",
+ "words": 2267,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2021/03/oxford-uehiro-prize-in-practical-ethics-why-if-at-all-is-it-unethical-for-universities-to-prioritise-applicants-related-to-their-alumni/",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The prompt has two parts: a practical ethics topic, and a question stated at the outset. The second paragraph gives the question plainly ('what is the central aspect of the legacy admissions policy justifying this reaction?'), and the essay takes a position on it: 'I propose a consequentialist view... contingent on some evaluative questions.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It uses checkable anchors: 'over a third of Harvard's undergraduate class of 2022', U-Chicago dropping testing 'in 2018', and the John Boyer quote 'not just those born in certain Zip codes'. But the donations claim, which carries the counterargument, rests only on an unquantified 'some studies'. The citations also disagree with each other: 'Emily Martin' in footnote 2 is 'Emmie Martin' in the bibliography, and 'Hurwtiz' is misspelled."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This reads as a real person's academic voice, with long, uneven sentences and none of the banned vocabulary. Tells found: 7 em dashes ('This view—I contend—is', 'admission—those with the most to gain—'), the 'Firstly... then... Finally' triplet, the 'not merely argued that... I have contended' antithesis, 'begs the question' misused, and the garbled 'one of expected human welfare, pleasure, etc.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so a case study counts as the story. The only real case is U-Chicago's 2018 test-optional change, and it gets one paragraph. The Harvard statistic only opens the essay, and the rest is hypotheticals (the 'completely illiterate' applicant, the 'financially struggling university'). No single case carries the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "Each rival view is rejected with a reason. The 'outside the applicant's control' view, followed through, also rules out innate ability, grades and test scores. The consequentialist view is then given a mechanism: social mobility for 'those with the most to gain', and a donation trade-off that can be tested. It ends with a clear condition for when legacy preference stays permissible."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Sections are clean and the argument builds, but the conclusion restates the thesis and never returns to the opening Harvard figure or the NYT's 'engine of inequity'. The last line: 'I assert that legacy preference is permissible when it is likely to elicit particularly large donations.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Remove all 7 em dashes (-6 recovered, and voice moves toward 5). Use commas for 'This view, I contend, is'. Make 'impermissible. In any case' two sentences. Use parentheses for 'admission (those with the most to gain)'. Rewrite 'innate ability, which largely determines..., must also' with commas. Put a colon before 'I cannot conceive'. Make 'case-by-case basis. In particular' two sentences. Fix 'within an applicant's control' the same way.",
+  "Remove the 'Introduction' and 'Conclusion' headings (-5 recovered), or merge them into the prose if the contest's format allows section titles. Also confirm the body (excluding footnotes and bibliography) is under the stated 2,000-word cap; the 2,267 count probably includes the references.",
+  "Rewrite the final paragraph so it returns to the opening (+4). Bring back the Harvard class of 2022 and the NYT's 'engine of inequity', and say whether, on your consequentialist test, that one-third figure is justified, instead of ending on the restated donation exception. In the same pass, fix the source errors: 'Emily' vs 'Emmie' Martin, 'Hurwtiz', and 'such an applicant's' (missing 'as'). Also rename 'academic sufficiency view' to 'academic qualification view' so the term stays the same throughout."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pd-06",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2017",
+ "outcome": "runner-up",
+ "words": 2590,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-the-ethical-dilemma-of-youth-politics-written-by-andreas-masvie/",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The question is stated at the outset as required: \"Does the increased political engagement due to youth politics promote democratic vitality and sustainability?\" The essay takes a clear position. But the ethical step, that it is therefore \"unethical to continue the current celebration\", is asserted rather than argued, and \"I cannot think of any massive gain in political virtues\" dismisses the strongest counterargument in one sentence."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real, sourced figures: about 3% of Norwegians were in youth politics against about 63% of ministers (1 January 2017), plus the UNDP quote and the Portugal decriminalisation source. But the parties are never named, the minister counts behind 63% are not given, and Graph 1 and Illustration 1 are cited but missing from the text."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads as a real student's academic paper: idiosyncratic phrasing (\"one of two conditions must befall\"), typos (\"inevetiably\", \"allready\", \"negeative\") and an honest hedge in footnote 4. Tells found: 4 em dashes, \"It goes without saying\", \"The profound problem\", and the stock \"not only... but\" in \"do not only have to accept such irrationality, but to internalize it.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so the Norway case study counts as the story. It is one paragraph with two percentages, and the drug-criminalisation example is told in general terms with no party, country or vote named, so neither carries the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The camaraderie and conformity mechanism and the \"career continuum\" diagnosis are real reasoning. But the 63% figure shows overrepresentation, not worse governance. The fixes (\"a minimum age limit to holding any sort of public office\", \"non-party work experience\") come with no age, no length of experience and no one named to carry them out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear four-section plan that is followed. The ending restates the purpose instead of returning to the opening UN quote or syllogism: \"This paper has sought to initiate such research and discussion by challenging the collective celebration of youth politics.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut from 2,590 to under 2,000 words to recover the -10 word-limit deduction (the prompt says \"up to 2000 words\"). Delete the paragraph explaining the missing figure (\"The movement from point a to b illustrates...\"), since no illustration is shown. Shorten section I's three assumptions to one sentence each. Cut the drug-policy passage in section II down to the core premise and its refutation. Drop \"It goes without saying...\" from the close.",
+  "Clear the formatting and self-reference deductions (up to -16). Replace all 4 em dashes with commas or full stops (\"Most definitely, but...\", \"policies. The very fabric...\", \"point: in order to progress...\", \"continuum, that is...\"). Remove the Roman-numeral section headings and let topic sentences do the signposting. Rewrite \"In this paper I am interested in challenging P2\" as \"I challenge P2\". Replace the last line, \"This paper has sought...\", with a sentence that answers the opening UN claim that youth engagement is \"central to achieving sustainable human development\": for example, that engagement is central but the youth-wing career pipeline is not.",
+  "Strengthen section III with real numbers only: ask Enes for the actual count behind 63% (X of Y ministers in the 1 January 2017 government) and, if he has it, the party breakdown. Put those numbers in the text, and either include Graph 1 or delete the references to it. Then add one sentence admitting that overrepresentation alone does not prove lower Dv, which turns the dismissive \"I cannot think of any massive gain\" into a stated limit."
+ ]
+}

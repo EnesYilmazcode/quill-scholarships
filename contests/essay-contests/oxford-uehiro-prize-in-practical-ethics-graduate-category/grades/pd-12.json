@@ -1,0 +1,54 @@
+{
+ "id": "pd-12",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2017",
+ "outcome": "honorable-mention",
+ "words": 2052,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethicsin-it-to-win-it-is-prize-giving-bad-for-philosophy-written-by-rebecca-buxton/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The topic is plainly practical ethics and a question appears early ('does the very act of constructing an ethical argument for a prize diminish the value of the work?'). But the opening never puts it as one clear question, and the essay gives up its second argument ('The second argument was harder to defend')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has cited, checkable facts: men hold 71% of university posts (ECU), BME students are 12% of undergraduates and 5% of doctoral students (APA), the Carbuncle Cup, Sandel p.110 and the £300 prize. Some claims stay vague, such as 'apparently no prizes exclusively for non-white academics', 'programs in American school' and 'many argue'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real person shows through ('a preliminary amble', 'elicited at gunpoint, or in the throws of student finance'), but four 'not only X but also Y' sentences repeat ('not only that the recipient is valued but', 'not only does this have the consequence', 'should not only be valued in themselves, but', 'Not only does this create'). The essay also talks about itself ('This paper firstly focuses'), and the roadmap reads like a template."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no case study that carries the argument. The best hook is the writer's own position ('the fact that I am offered a prize for writing a practical ethics paper is itself a practical ethical conundrum'), and it is dropped after paragraph one. The Nobel, Carbuncle Cup and US pay-for-grades examples each get one or two sentences."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The diversity argument has a real mechanism: winning a prize leads to more entries, which leads to more prizes, and familiarity with the canon favours privileged entrants. But the commodification argument stays at assertion ('there is something disingenuous'), and the remedy is generic ('must make a greater effort to reach a diverse and marginalised audience')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay is organised, but the conclusion summarises the essay instead of returning to the opening, where the writer is being offered this prize. Last line: 'the involvement of prizes and other accolades in academia need to be questioned and are indeed an area of ethical concern.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (recovers about 8 points and removes the -5 'writing about the essay' deduction): delete 'This essay takes a preliminary amble...', 'Primarily, I will define... Secondly, I discuss... I then consider...', 'This paper firstly focuses...', 'This essay has aimed to begin a discussion' and 'I believe this essay has shown'. Rewrite the four 'not only X but also Y' sentences as plain claims, for example 'Prize-giving ranks one recipient's work above everyone else's.' Also correct 'b ut', 'has lead', 'the later', 'in the throws' and 'it not clear'.",
+  "Stories and structure (recovers about 13 points across both criteria): carry the opening fact (the writer is entering this prize for £300) through the essay as the running case. Move the existing £300 line ('if a student writes a practical ethics essay solely for the purpose of winning the £300 prize') up so it follows the definition section. Replace the summary in the conclusion with a closing line that comes back to the writer submitting this essay, using only the writer's real reasons for entering. Ask the writer what those reasons are; do not supply them.",
+  "Prompt and format (removes the -5 headings deduction and the -2 dash deduction, and firms up criterion 1): put the question as one sentence in the first paragraph, for example 'Is it ethical to award prizes for philosophy?', and drop the capitalised section headings or turn them into topic sentences. Change 'contextually – it is based' to a comma or full stop. Take a firm position on argument (b) instead of conceding it. Check that the essay body, without footnotes, is under 2,000 words: the 2,052-word count probably includes footnotes, and the body must be under 2,000 or the essay takes a -10."
+ ]
+}

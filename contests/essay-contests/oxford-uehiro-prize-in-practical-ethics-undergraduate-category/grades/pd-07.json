@@ -1,0 +1,54 @@
+{
+ "id": "pd-07",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2017",
+ "outcome": "honorable-mention",
+ "words": 2147,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2017/05/oxford-uehiro-prize-in-practical-ethics-secondary-intentions-in-euthanasia-written-by-isabel-canfield/",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The question is stated at the outset as the prompt requires ('is there an additional level of intention... that should be considered?') and gets a firm answer ('active euthanasia should be permissible as long as the same safeguards... are present'). The opening framing is clumsy and leans on meta-commentary."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It cites real sources (Vacco v. Quill, No. 95-1858, 26 June 1997; Foot 1977; Frankfurt and Wolf), but Vacco is paraphrased with no quoted holding and no facts of the case, and the main illustration is a made-up 'Catherine' who bakes a cake."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes, AI vocabulary or 'not X but Y' tells. The candid 'I have not been successful in arguing otherwise' sounds human. But the prose is stiff and repetitive ('the agent who brings about death' appears again and again), it talks about itself ('This paper will attempt', 'I have purposefully left... vague in this paper'), and it has a typo ('relive the pateint's pain')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so one case study, Vacco v. Quill, carries the essay. It is told as a summary of the holding, with no parties, no statute and no quoted reasoning. The second example, Catherine, is a toy hypothetical."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The counterfactual test for primary intention and the higher-order 'secondary intention' are real mechanisms. But the key step, that a shared secondary intention plus 'best possible primary intention' makes the two acts 'morally equivalent', is asserted, not argued. The essay never says why a higher-order intention should outweigh the different primary intentions it just conceded, and never engages the doctrine of double effect by name."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Thesis, case, objection, reply and new concept come in a logical order. But 'In the unanimous United States Supreme Court decision, Vacco v. Quill.' is a sentence fragment, and 'There are two responses to this objection' mislabels what are actually responses to the reply. The last line ('...in light of the context of the individual case') restates the thesis and never comes back to the killing-versus-letting-die framing it opened with."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the voice and the -5 deduction for writing about the essay. Replace the third sentence ('This paper will attempt to answer the question, is there...') with the question stated directly: 'Is there a second level of intention, missing from the current debate, that makes active and passive euthanasia morally equivalent?' Also cut the self-referential sentences in the last body paragraph ('I have purposefully left the secondary intention... vague in this paper. I have attempted to avoid, as it was not the point of this paper...') and turn footnote 4 into a one-line scope note. Run a pass to vary 'the agent who brings about death', and fix 'relive the pateint's'.",
+  "Make the Vacco paragraphs specific with material from the real opinion, not invented detail. Merge the fragment 'In the unanimous... Vacco v. Quill.' into the next sentence. Name the New York ban on assisted suicide that was challenged, and quote the Court's own sentence on causation and intent, taken from the opinion already cited in footnote 5. Then the reader can check the distinction the essay rests on, instead of taking the paraphrase 'The difference, this court said, is a difference of causation and intention' on trust.",
+  "Argue the central step instead of asserting it. In the last paragraph, before 'This level of similarity... is sufficient to consider both... morally equivalent', add the reason a higher-order intention should carry more moral weight than the primary intention. Use the Frankfurt hierarchy already named in footnote 6 to make that case. Address double effect, the doctrine the Court's reasoning relies on, directly. Relabel 'There are two responses to this objection' as two problems with the reply. End by returning to the opening claim that the debate 'hinges upon the distinction between killing and letting die', and say what the second level of intention does to that distinction."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pd-14",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Undergraduate category)",
+ "year": "2020",
+ "outcome": "runner-up",
+ "words": 1971,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-can-science-ethically-make-use-of-data-which-was-gathered-by-unethical-means/",
+ "total": 74,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated in the first sentence ('whether science can ethically make use of data which has been gathered by unethical means'), and the essay takes a clear position: 'The answer we have reached is a complex no'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Named, dated studies (Milgram 1963, Haney/Banks/Zimbardo 1973, Harlow 1958/1965, AMA 1995, Gray 2013) carry the argument, but some claims are vague ('the data from Nazi experiments have been used in many branches of modern medicine', the 'Reproducibility Crisis') and the essay never names a dataset or a replication failure."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real philosophy student, with British spelling, 'I am content', long sentences and typos ('Assosciation', 'may be have been', 'SEP'). Tells: one 'not X... Rather Y' ('The argument here is not a sunk cost fallacy... Rather'), stock phrases ('ever-controversial', 'founding cornerstone'), 'for others to ponder further'. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Four case studies (Milgram, SPE, Harlow, Nazi experiments) appear only as a list with one clause each. None is told fully enough to carry the argument, and the key test case is a hypothetical 'idealised case'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reproducibility argument explains why the stalemate breaks: 'cannot ethically be replicated: to do so would require repeating the unethical experiment'. But it skips the obvious objection: science already uses data nobody can replicate (natural disasters, one-off observations), so the argument may prove too much."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The roadmap and sequence are clear (dilemma, then both sides, stalemate, resolution), but the intro runs into the next section ('research.The root') and the last line restates the thesis: 'we cannot make direct use of data from unethical experiments in science, due to the lack of ethical reproducibility.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the first sentence and the roadmap that follows it ('In this paper, I discuss the question of whether... I will begin by... I will present...'). Open with the question itself, e.g. 'Can science ethically use data gathered by unethical means?' Then go straight to the AMA guideline and your answer. This removes the writing-about-the-essay deduction (-5) and still meets the prompt's rule that the question be stated at the outset. Also put the missing paragraph break before 'The root of the problem is this'.",
+  "Make one case study carry the essay instead of listing four. Keep Milgram, since you return to him later, and give him the space now split across SPE, Harlow and the Nazi line. Use the detail you already cite: what participants were told, what deception was used, what the study found and how it is still used. Cut or shorten the claim that Nazi data is 'used in many branches of modern medicine', which is vague and uncited. Then test the 'idealised case' against Milgram, not an abstract study (stories 3 to 5).",
+  "Add one paragraph after 'inadmissible as evidence' that answers the strongest objection: science already relies on data that cannot be replicated (one-off events, historical records), and Milgram-style findings can be checked by ethical variants. Say why your replication principle still excludes unethical data. Then end on Milgram from the opening, not the restated thesis. Fix the typos too: 'SEP' should be 'SPE', plus 'Assosciation' and 'may be have been' (ideas 4 to 5, structure 3 to 5)."
+ ]
+}

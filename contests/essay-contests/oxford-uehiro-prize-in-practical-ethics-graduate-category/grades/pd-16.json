@@ -1,0 +1,54 @@
+{
+ "id": "pd-16",
+ "contest": "Oxford Uehiro Prize in Practical Ethics (Graduate category)",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 3012,
+ "source_url": "https://blog.uehiro.ox.ac.uk/2020/03/oxford-uehiro-prize-in-practical-ethics-can-it-be-wrong-for-victims-to-report-crimes/",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The question is stated at the outset as the prompt requires ('This paper asks whether victims of crimes sometimes ought not report those crimes to the authorities, and answers in the affirmative'), and it is argued as a position with two named factors."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are checkable anchors: Jamison in Managua, the 'Forty minutes later' police truck, Metz 1993 p.202 on amputation, and Young 2011 p.95. But the core argument runs on abstract P, V, n, m and o, and footnotes 2 and 3 cite Corston (2007) and footnote 1 cites Harman, none of which appear in the bibliography."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This is real academic prose with no AI vocabulary or punchline closers, and it has long sentences. Tells: one 'not just X' ('proportionality is not just a concern for lawmakers and judges'), one em dash, and some stacked hedging ('It is not, therefore, clear that...')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two cases: the Jamison mugging and the Saudi shoplifter. The Jamison case is the strongest material, but it is dropped after the first paragraph and never used to test the two factors, so it opens the essay without carrying it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The causal argument is strong: P's culpability explains n but not the extra m, because 'the flaws of the laws or the criminal justice system' do. Honoré's risk-bet basis for strict liability is applied clearly. The jump from individual risk to 'statistical harms' and privilege is asserted more than argued, and footnote 6 sets up 'n+m+q=o' where the main text uses m=o, so the dilemma's math does not match."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The parts are well organized, but the conclusion opens on limitations and ends by restating the thesis instead of returning to Jamison: 'In the sort of world we occupy, victims considering whether to report should consider the interests of those they expose to the unfairness of the criminal justice system.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the body to under 2,000 words to recover 10 points. The cheapest cuts are the first Conclusion paragraph ('The scope and strength of the demands... requires further investigation', about 50 words of hedging), the restatement paragraph that opens Part Two ('In the type of case considered above... particular set of laws or legal system', about 100 words), and the sentence on lawmakers' time-horizon, which repeats the Young paragraph. Also check whether this contest counts footnotes and the bibliography toward the limit.",
+  "Make the Jamison case carry the essay to lift stories (3 to 4) and structure (3 to 5), up to about 10 points. After stating the privilege principle in (c), apply both factors to Managua in two or three sentences: likely excess punishment, and the white American victim against a poorer suspect. Then end the Conclusion by answering the opening question, 'Had she done something wrong by calling the police?', using only what Jamison's book reports. Delete the closing line that just restates the thesis.",
+  "Remove the headings and the dash-bullet '- The Dilemma', or use plain section numbers if the contest's academic format allows them (about 5 points). Replace the em dash with a colon ('in different ways: for instance'). Fix the errors a careful reader will catch: footnote 6's 'n+m+q=o' and 'n+m=o' should match the main text's m=o setup; add Corston (2007) and the Harman source to the bibliography; and change 'Tony Honoré on his 20th Birthday' to the book's real title (the Festschrift was for his 80th)."
+ ]
+}
