@@ -1,0 +1,60 @@
+{
+ "id": "gen-09",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2005",
+ "outcome": "winner",
+ "words": 945,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2005-winning-essay-by-kevin-zhou",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay names the official and the act and describes both fully. The analysis part is thin. It mostly appears only in the last paragraph ('The district attorney could have easily avoided the firestorm...') and leans on a quoted teacher instead of the writer's own argument."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Almost every claim has a checkable fact: 5,600 acres for $480 million, $2,500 per tree, over $300,000 and more than 90% of the recall money, eight dollars a signature, a 4-1 supervisors vote, a 61% to 39% result, and named sources (Wilson, Evenson, Berti, Kraus)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are no em dashes and no AI vocabulary, and several sentences run long. But it is stock report prose. 'Courage of his convictions' appears twice. 'Vicious' also appears twice, next to 'scathing condemnation', 'blatant disregard', 'devastating outcome' and 'political suicide'. The final sentence is a balanced antithesis: 'on principle and not politics.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study, told fully and in order: the 1999 settlement, the fraud, the lawsuit, the recall, the vote. It includes real scene detail ('signs and bumper stickers that read \"Recall Paul Gallegos\"', the house broken into twice, Berti's reversal). It stays on topic throughout."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It shows the pressure mechanism well: the company's dominance as an employer, paid circulators and paid leave for employees. But why this counts as courage, and what it changed, is asserted rather than reasoned. 'Marked a turning point in the dominance of the timber company's interests' has no support behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and the arc is chronological. The ending restates the thesis instead of returning to the opening: 'reflect a man who was willing to act on principle and not politics.' The opening image ('puts bread on the table') never comes back."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "headings in the essay",
+   "points": 0,
+   "reason": "-5. The essay body begins with a title line plus a byline and school line ('Paul V. Gallegos: Courage Under Pressure / By Kevin Zhou / Monte Vista High School'). Subtotal 78.0 - 5 = 73, high band."
+  }
+ ],
+ "fixes": [
+  "Last paragraph: cut the closing sentence ('...on principle and not politics') and the generic Kraus framing. End by returning to the opening fact that Pacific Lumber 'puts bread on the table for most of the area's residents', and set it against what the essay has already shown: those same residents kept him 61% to 39%. Also take the title, byline and school lines out of the essay body and put them on the cover sheet or form fields, if the contest allows that. Recovers about 9 points (structure 3 to 5, plus the heading deduction).",
+  "Paragraph 4 or a new paragraph before the recall: add the writer's own analysis of what made this courageous, using only facts already in the essay. He had 'barely' won, was six weeks into the job, faced the county's largest private employer, and the supervisors voted 4-1 against funding the case. Then argue what he stood to lose and why other officials (the 2003 judge, Fish and Game) did not act. Move 'could have easily avoided the firestorm' up into this paragraph. Recovers about 7 points (answers prompt 4 to 5, mechanism 3 to 4).",
+  "Throughout: cut the repeated stock phrases. Use 'courage of his convictions' once at most, and 'vicious' once. Drop the intensifiers 'scathing', 'blatant', 'devastating' and 'exultingly' so the numbers carry the weight. Turn the closing 'principle and not politics' into a plain statement. Recovers about 4 points (voice 3 to 4)."
+ ]
+}

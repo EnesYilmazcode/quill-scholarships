@@ -1,0 +1,54 @@
+{
+ "id": "gen-25",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2021",
+ "outcome": "winner",
+ "words": 1048,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2021-winning-essay-by-anna-dougherty",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names an official and an act ('Redd made the radical decision to disband the entire Camden Police Department'), then analyzes it through Kennedy's three pressures. The analysis section is thinner than the description, and the first pressure is misread: 'a form of pressure rarely recognized by the general public' is applied to 'public opposition by Camden citizens'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The facts can be checked: 'January 5, 2010', '5,927 crime incidents', 'violent crime dropped from 398 to 304', and named critics (Haberfield, Williamson, Cappelli). Some claims stay vague: 'the first of many unprecedented things' is never listed, and 'car robberies were reduced by nearly half' gives no number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a real student report. Tells: an em dash in her own sentence ('American people—those whose'), filler and hedges ('Redd certainly faced', 'did in fact help', 'perfectly described'), a long rhetorical question in the opening, and a tidy moral at the end ('she still did what she knew was right')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study (the disbanding) is told fully: causes, failed union talks, opposition, personal danger, results. The father's 1976 letter is a strong on-topic origin beat, but it disappears after paragraph two."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why she acted (officers not showing up, unions refusing concessions) and why it took courage (re-election risk, safety). It never says how a county-run force produced the drop from 398 to 304, so the result reads as a claim without a cause."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and in order, but it opens and closes on Kennedy quotes instead of Redd. The last line is a 70-word block quote ending 'and ultimately recognize right.' The father's letter, the essay's strongest image, never comes back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): in paragraph 1, replace the em dash in 'American people—those whose struggles' with a period or comma, and cut the rhetorical question down to a plain statement. Delete the moral in the last paragraph ('Even though Redd's ideas were unpopular and controversial, she still did what she knew was right. Redd worked hard for the people who elected her and had Camden's best interests at heart.'). Also cut the fillers 'certainly', 'in fact' and 'perfectly'.",
+  "Mechanism and analysis (up to +6, plus part of the answers-prompt gap): rewrite the sentence 'Redd certainly faced public opposition by Camden citizens'. Kennedy's first pressure is the private pressure the public doesn't see, so tie it to the union negotiations and the threats Cappelli describes instead. In the results paragraph, add one sentence from the already-cited Aleardi or Steele and Walsh articles on what the county force did differently that caused the drop. Ask Anna to pull the real explanation from those sources rather than guess.",
+  "Ending (up to +4): cut the long closing Kennedy block quote down to its key clause ('will reward courage, respect, honor, and ultimately recognize right'). End by going back to the 1976 letter from her father asking her to restore Camden to the way he knew it, set against the 2014 crime numbers, so the last line pays off the opening."
+ ]
+}

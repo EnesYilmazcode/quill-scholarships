@@ -1,0 +1,54 @@
+{
+ "id": "gen-21",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2017",
+ "outcome": "winner",
+ "words": 983,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2017-winning-essay-by-daud-shad",
+ "total": 80,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts are answered. It describes the Piqua deal and the House fight, and it explains why that took courage: 'a constituency that was over 97 percent white' and 'viewed by some Republicans as \"bordering on treason\"'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The facts are dated and checkable: 'July 2, 1963', 'plain yellow pencils in his shirt pocket', '138 Republican votes (80 percent of House Republicans)', the bill was signed exactly one year after the meeting, and there was a standing ovation."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This is a real student voice with stock framing. Tells: 'Herculean in his moral convictions', 'would forever change the nation', 'humble champion', two 'X, not Y' contrasts ('followed his heart, not political party'; 'act in accordance with principles, not act for parochial popularity'), and two dashes written as '--'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one case study, and it stays on topic. It opens on a real scene in Piqua, but the middle (paragraphs 3 and 4) turns into a summary of the legislative process."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the act was risky (his district, the party's view of the deal as treason, union-funded challengers) and how he got results (the three promises, his veto over amendments). Some lines still just assert motive: 'his \"unwavering passion for equality and justice\" compelled him'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending returns to the opening in Piqua: 'Before McCulloch returned to Piqua after an arduous victory, the House venerated the humble champion of civil rights with a rare display -- a standing ovation.' Just before it, a thesis restatement weakens the close: 'McCulloch personified political courage when he prudently looked beyond partisanship...'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 8 points): cut the stock lines and keep the facts. In paragraph 1, change 'but it would forever change the nation' to a plain statement of what the deal was. In paragraph 2, cut 'followed his heart, not political party and expedience'; the 97 percent figure already makes the point. In paragraph 6, change 'Herculean in his moral convictions, McCulloch knew doing the right thing was infinitely better than losing an election or popularity' to a plain line such as 'McCulloch would rather lose his seat than lose the bill.' As written, the sentence also says the opposite of what it means: it compares doing right with losing, when the trade-off is doing right versus keeping his seat.",
+  "Em dashes (-4 points): replace both '--' with a comma or a period ('July 2, 1963, seven weeks before the March on Washington,' and 'with a rare display: a standing ovation'). Also replace the stray dash in 'from Piqua and abroad- he did not like to discuss it' with a period.",
+  "Accuracy and story focus: in paragraph 5, 'exactly one year after Burke met with McCulloch' should say 'Marshall' (Burke is his first name). Check the source for 'Czar of the Senate', since McCulloch was a House member. Then cut the abstract sentence in paragraph 4 ('McCulloch wanted to make sure that it met all the goals...') and move the picketed house and the 'uncomplimentary epithets' (Whalen 228) up next to the 'bordering on treason' line, so the cost of his choice shows in the middle of the essay and not only at the end."
+ ]
+}

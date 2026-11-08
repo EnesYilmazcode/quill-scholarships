@@ -1,0 +1,54 @@
+{
+ "id": "gen-23",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 1049,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2019-winning-essay-by-elazar-cramer",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Describes the act fully (Wagner-Rogers, Feb 9 1939) and analyzes it through Kennedy's three pressures, but the courage claim is mostly hypothetical: support 'could have easily made her unpopular' and 'could easily have been marginalized', while the essay also says she 'served over two decades longer in the House'. It never shows a cost she actually paid."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, named and cited throughout: Reynolds' filibuster threat (Breitman 73-74), Houghteling's '20,000 ugly adults', 72 percent opposed (Greene and Newport), only twenty-one senators, the Washington Star letter, Griffin's testimony."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Researched student voice, but with stock framing: cliché title 'A Beacon of Light in America's Darkest Moral Hour', 'loomed large', 'cared deeply', three not-X-but-Y turns ('not toward isolationism... but towards humanitarianism', 'not in humanitarian terms... but in economic terms', 'not those who \"win\" the most, but those who...'), a tidy closing moral, and 'a true act of political courage' used as a punchline."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the whole essay: Rogers' WWI Red Cross background, her 1933 floor speech, the bill and the coalition that killed it. Her own conduct during the 1939 fight is never shown, so the opposition gets more scenes than she does."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the bill failed (economic fear, antisemitism, no White House backing) and applies Kennedy's framework, but the core claim, 'Rogers risked her political career by defying all three of these pressures', is asserted rather than shown. The evidence quoted is about public opinion in general, not about pressure on Rogers or her district."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc from the 1939 crisis to the bill, the opposition and the Kennedy analysis, but it closes on a generic present-day parallel and moral: 'those who are remembered favorably by history are not those who \"win\" the most, but those who put morality above party politics at the most difficult moments.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut the three not-X-but-Y sentences and restate each one plainly. For example, 'the memory of World War I pushed Rogers not toward isolationism... but towards humanitarianism' becomes 'For Rogers, the memory of World War I argued for taking the children in.' Replace the title 'A Beacon of Light in America's Darkest Moral Hour' with a plain one built from the bill. Delete 'loomed large', 'cared deeply' and the tag 'a true act of political courage', and remove the em dash after 'interest groups' (the essay has two em dashes, -4 under the rubric).",
+  "Mechanism and prompt fit (+6 to +10 possible): in the Kennedy paragraph, replace the hypotheticals ('could have easily made her unpopular', 'could easily have been marginalized') with documented pressure on Rogers herself. Ask Elazar to check the sources already cited (Breitman, the Congressional Record, Mangum, the House history page) for real items: hostile mail to her office, Massachusetts press coverage, her own testimony at the hearings, or party pressure. If none exists, say plainly that the risk was to her standing rather than her seat, and argue why that still counts under Kennedy's definition. Do not overstate it.",
+  "Ending (+4 possible): cut the closing moral ('those who are remembered favorably by history...') and trim the 'frighteningly similar' paragraph. End instead on an image the essay already contains: the 20,000 children the bill would have admitted, set against Houghteling's '20,000 ugly adults' line or Rogers' 1933 'driven from land to land.' That way the last line returns to the bill and the 1939 crisis the essay opens with."
+ ]
+}

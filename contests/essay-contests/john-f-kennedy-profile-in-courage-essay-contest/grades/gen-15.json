@@ -1,0 +1,54 @@
+{
+ "id": "gen-15",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2011",
+ "outcome": "winner",
+ "words": 1048,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2011-winning-essay-by-kevin-kay",
+ "total": 86,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The essay names one official and one act, Orr's lone 'Nay' on July 26, 1956. It describes the act and then analyzes it against Kennedy's standard: 'willing to meet crushing defeat rather than compromise his principles.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated and checkable: 'eighty-nine legislators... voted Aye', Judge L.L. Fabisinski of Pensacola, the Pupil Assignment Act, the cross burned 'into his front lawn with gasoline', the loss to David Eldridge, and Orchard Villa Elementary on September 7, 1959."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are no AI tells: no 'not X but Y', no filler adverbs, and no writer em dashes (the en dashes are inside a newspaper quote). The writing is thesaurus-heavy in a student way ('Orr introspected', 'he professed', 'censured', 'Galvanized by', 'tirade'). 'But he didn't.' is the one moment where the writer's own voice comes through."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "There is one case study, told in full as a scene: the roll call, the 'hushed and tense chamber', 'received no applause', the threat call to his aunt, the cross burning and the lost primary. Nothing in it is off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The essay explains why the vote counts as courage by naming the easy alternative ('taken a walk') and the price Orr paid (the threats, then the 1958 defeat). Much of the middle is still summary plus Kennedy quotes, and the analysis gets thin near the end ('In essence, Titles IV and VI...')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear, and the last line, 'Orr witnessed his just cause of racial integration ultimately succeed', calls back to the chaplain's prayer. It does not return to the opening image of the Capitol that has no tribute to Orr. Automatic deduction of -5 for headings: the title, byline and school lines sit inside the essay body."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Remove the three header lines ('The Forgotten Floridian...', 'By Kevin Kay', 'Walt Whitman High School...') from the essay body and enter them in the form fields instead. This recovers the -5 headings deduction.",
+  "Swap the thesaurus verbs for plain ones: 'Orr introspected' becomes 'Orr said', 'he professed' becomes 'he said', 'Orr censured' becomes 'Orr criticized', 'Galvanized by' gets cut, and 'twenty minute tirade' becomes 'twenty-minute speech'. 'Tirade' also contradicts the calm speech you quote. This lifts voice from 4 toward 5.",
+  "Rewrite the final paragraph so it returns to the opening. Cut 'In essence', which mislabels a new point as a summary. Then end on the fact you already have: the Capitol honors a three-day caretaker governor but has no tribute to Orr. This adds a loop-back ending (structure 4 to 5) and sharpens the analysis of what his courage cost him."
+ ]
+}

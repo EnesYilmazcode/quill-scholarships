@@ -1,0 +1,54 @@
+{
+ "id": "gen-08",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2005",
+ "outcome": "winner",
+ "words": 1003,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2005-winning-essay-by-allie-comet",
+ "total": 74,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It describes the act fully and gives some analysis, naming the risk ('actively supporting the law would cost him re-election') and the rarity ('the only prominent Southern politician to testify'). The 'analyze' half is thinner than the description, and most of the analysis is pushed into the last paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The facts are dated and sourced: 'On July 26, 1963', the 'colored' and 'white' register signs at City Hall, the southwest Atlanta barricades, 'slavery's stepchild', 'Benedict Arnold', and page citations throughout."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This reads as a real student historian. It admits Allen's flaws ('his first years in office were not perfect') and has long, uneven sentences. The tells are stock phrasing ('groundbreaking civil rights legislation', 'set the stage', 'take a brave stand', 'so bravely testified') and dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "There is one case study, the testimony, told with real scenes: King Sr. calling him 'too valuable to sacrifice' and his wife saying 'You'll have a hard time living with yourself.' The Weltner material is kept to a footnote."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why Allen changed (his civic work after the 1950s race) and why he acted ('voluntary desegregation had accomplished as much as it could'). It never ties his act back to Kennedy's definition of courage beyond the opening paragraph."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The chronology is clear, but the essay opens on Kennedy's 'lead, inform, correct and sometimes even ignore constituent opinion' and ends on a historian's 'human bridge' quote that never returns to it. Weighted subtotal 85, minus 6 for dashes ('outside world— and by itself—', 'fairly quickly –'), minus 5 for the title/byline/school header lines = 74."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Remove the dashes, the 3 that cost points (-6): rewrite 'seen by the outside world— and by itself—as' with commas, and change 'opinion changed fairly quickly – by the time' to a period or semicolon after 'quickly'.",
+  "Remove the three header lines ('Ivan Allen, Jr.', 'By Allie Comet', 'Stuyvesant High School in New York, New York') from the essay body and put any required identification on the contest form instead (-5).",
+  "Rework the last paragraph so it returns to the opening: after 'he risked his political career,' name which part of Kennedy's 'lead, inform, correct and sometimes even ignore constituent opinion' Allen did, using only facts already in the essay (the hate mail, the re-election risk, his wife's warning). Cut 'Fortunately' and 'so bravely,' and make the Kennedy echo the last line instead of the 'human bridge' quote, or put the two together (+4 structure, about +4 answers/analysis)."
+ ]
+}

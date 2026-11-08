@@ -1,0 +1,54 @@
+{
+ "id": "gen-28",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2024",
+ "outcome": "winner",
+ "words": 1004,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2024-winning-essay-by-ruby-mcintee",
+ "total": 84,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the official, the act (opposing H.R. 5852), and analyzes the cost: \"A belief in fundamental freedoms had already cost the Representative his career\"; both describe and analyze are done in depth."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and cited throughout: Woodlawn's 400 acres, \"19th of May 1948\", the \"25-part, 933-page file\", the cross-filing ban, Aptheker, Albertson and Robel, the 1971 repeal."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Strong opening scene, but stock framing piles up: \"didn't just attack the left: it undermined\" and \"didn't just attack communists either\" (two isn't-just-X), \"to bury not only the man but his politics\", the triplet \"An arsonist? A mob boss? A murderer?\", and the cliché \"Marcantonio's spirit still shines\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study carries the whole essay: the denied burial and the rosary frame the bill fight, the floor speech, the fallout and the court rulings, with no off-topic material."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why the bill was dangerous (it \"failed to define the term 'communist'\", so dissent could be silenced) and why opposing it was costly (cross-filing ban, FBI file), but the legacy paragraph falls back to a generic list: \"in the politicians who championed his causes posthumously, in ratifications and amendments\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Opens at the Woodlawn grave and closes there: \"Vito Anthony Marcantonio's body may lie in Woodlawn cemetery, but his political legacy continues\"; the rosary repeats as a hinge in the middle."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): rewrite the two 'didn't just' sentences in the H.R. 5852 paragraph as plain claims, e.g. 'H.R. 5852 undermined the Constitution's guaranteed freedoms, and because it never defined \"communist,\" it reached far past communists (Hill).' In the same pass, change 'to bury not only the man but his politics' to 'to bury his politics with him', and cut 'But within dusty congressional records, Marcantonio's spirit still shines.' Let the next sentence about H.R. 5852 open the paragraph instead.",
+  "Ideas (+3 possible): replace the generic legacy list ('It lives on in the politicians who championed his causes posthumously, in ratifications and amendments, in repetition of rhetoric and case law, and in the new generation of politicians...') with the one concrete chain the essay already proved: his floor argument that the Act violated due process became the courts' reasoning, and the courts struck the Act down until Nixon repealed it. If a real, sourced successor fits, ask the writer for it before adding it.",
+  "Deduction (+5): cut the title line, the 'By Ruby McIntee' byline and the school/location lines from the essay body and enter them in the form fields, so the essay opens on 'Woodlawn Cemetery is over 400 acres...'. Also think about cutting the 'An arsonist? A mob boss? A murderer?' triplet down to one question so the bare 'No.' hits harder."
+ ]
+}

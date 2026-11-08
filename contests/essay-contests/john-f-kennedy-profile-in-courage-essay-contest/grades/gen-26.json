@@ -1,0 +1,54 @@
+{
+ "id": "gen-26",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2022",
+ "outcome": "winner",
+ "words": 1037,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2022-winning-essay-by-theodora-mcgee",
+ "total": 77,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the official and the act early (\"On January 15, 1919, Canales introduced a bill in the state legislature to address the violence by reforming the Rangers\"). It then analyzes why the act took courage from five angles: isolation, press apathy, a popular target, losing Hobby as an ally, and threats to his life."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Specific and checkable: January 15, 1919, up to 5,000 killed from 1914 to 1919, Governor William Hobby, \"greaser from Brownsville,\" the Ranger's \"hot-footing it\" threat quoted from the Proceedings, twelve days of testimony, and the Dallas Morning News verdict."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Competent but formulaic student-report voice. Tells found: \"killing not only raiders, but also Tejanos\" (not-only-but-also), the stacked adjectives \"remarkable\" and \"extraordinary personal and political courage,\" and a tidy moral to close (\"thus serving as an inspiration to current and future politicians\"). Nearly every paragraph opens on a thesis-style topic sentence. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study, all on topic, as the analytic prompt calls for. It has one real scene, the Ranger accosting Canales on the street. Everything else is summarized from secondary sources, so the hearing itself never comes alive."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why the act was courageous, not just that it was: what it cost him with Hobby, his physical danger, and his political future. The claimed effect is asserted more than shown (\"resulted in a decrease in Ranger violence\"). The only evidence is one vague line, \"There were even instances...\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized, and the paragraphs move logically from obstacles to outcome to cost. The ending restates the thesis and never returns to the George Floyd opening. Last line: \"José Tomás Canales took a stand against the misuse of official power, thus serving as an inspiration to current and future politicians.\" Deduction: -5 for the title, byline and school block above the essay (headings rule), applied to the 82.0 subtotal."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): cut the stock framing rather than adding anything. Rewrite \"killing not only raiders, but also Tejanos\" as \"killing raiders and Tejanos alike.\" Drop \"remarkable\" in paragraph 1 and \"extraordinary\" in the last paragraph. Delete \"thus serving as an inspiration to current and future politicians.\" Also vary at least three paragraph openers that now announce their thesis (\"Canales also faced an uphill battle because...\", \"By refusing to abandon...\"). Lead those paragraphs with the evidence instead, such as the pistol-whipped attorney or the Ranger's street threat, and let the point follow.",
+  "Ending (up to +4): replace the final paragraph's restated thesis with a close that returns to the opening. The essay opens on George Floyd and the 2020 trial of police brutality, so end by tying back to that, using the essay's own facts: the Proceedings are the official record of the witnesses' voices, and Canales gave up his seat to create it. Keep the JFK quote, but let the last sentence be about Canales and 2020, not a generic call to future politicians.",
+  "Remove the title, byline and school block above the first sentence (+5), unless the contest form requires a title field. Then tighten the outcome claim in the second-to-last section (up to +3 on reasoning): replace \"There were even instances when the Rangers stopped racially fueled violence\" with the one specific instance from the Victoria Smith source, if it names one. If it doesn't, cut the sentence rather than leave it vague."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gen-01",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2000",
+ "outcome": "winner",
+ "words": 1012,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2000-winning-essay-by-peter-buttigieg",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It does describe and analyze Sanders ('It is the second half of Sanders' political role that puts the first half into perspective'), but about 300 words of general talk about cynicism come before he is named, and the essay covers a pattern of stands rather than one act."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong checkable facts: 'won the office of mayor of Burlington by ten votes', 'Vermont's one Congressional seat in 1990', the IMF hearings, the ban on imports made by under-age workers, and the drug-shopping trips to Canada. The stands on same-sex marriage and gun control have no year, bill or vote."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real flashes ('analogous to a self-inflicted gunshot wound'), but also stock framing: 'a daunting number of important issues', the filler adverb in 'truly remarkable', triplet lists ('energy, candor, conviction, and ability'; 'opportunism, moral compromise, and partisanship') and a spaced dash used as an em dash."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "The case study does the work of a story, but no single act is told as a scene. It is a list of five or six stands, each given one sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The essay explains why this counts as courage: 'Sanders' candor does not itself represent political courage... Most are sooner called crazy than courageous.' It pairs that candor with Kennedy's 'compromises of issues, not of principles', which is real reasoning and not just an assertion."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay opens on voter and candidate cynicism and returns to it at the end: 'I can personally assure you this is untrue.' The opening, though, is a generic thesis and not a concrete image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 8 points): cut the first two sentences of paragraph 1 ('In this new century, there are a daunting number of important issues... Each must be addressed thoroughly and energetically') and open on 'Candidates have discovered that is easier to be elected by not offending anyone rather than by impressing the voters.' Delete 'truly' from 'truly remarkable'. In the last paragraph, break both triplet lists into one plain claim, for example 'He stands against the opportunism that runs the American political scene.'",
+  "Formatting deductions (7 points): remove the title, byline and school lines ('Bernie Sanders / By Peter Buttigieg / St. Joseph's High School') from the essay body. Replace the spaced dash in 'what motivates a run for office – in many cases' with a colon or comma.",
+  "Story (about 6 points): pick one stand, such as the drug-shopping trips to Canada or the ban on imports made by under-age workers. Give it a full paragraph built from the public record: the year, the bill or trip, who resisted and what it cost him. Shorten the same-sex marriage and NRA sentences to make room, and ask the writer for the documented details rather than adding any."
+ ]
+}

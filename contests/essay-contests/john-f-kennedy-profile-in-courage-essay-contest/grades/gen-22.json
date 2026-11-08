@@ -1,0 +1,54 @@
+{
+ "id": "gen-22",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 1082,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2018-winning-essay-by-jeffrey-seaman",
+ "total": 76,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Burn is a qualifying official in 1920 and the act is described in full, but the analysis is thin. The Kennedy quote, 'to be courageous…requires no exceptional qualifications', is raised once and never tested against the vote, and the essay doesn't say why this act counts as courage beyond 'despite extreme pressure'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and checkable throughout: 'August 18, 1920', Niota in McMinn County, the 48-48 tabling vote, Febb Burn's letter ('don't forget to be a good boy'), the red rose on his lapel, the bodyguard, 'traitor to manhood's honor', each one cited."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This is human student prose, not model prose, but it relies on stock framing: 'buzzed with anticipation', 'the chamber waited breathlessly', 'wild pandemonium', the balanced antithesis 'On one side stood his political prospects; on the other stood what he knew was right', the filler 'certainly', a guessed 'must have read the letter with a smile', an exclamation mark, and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study carries the whole essay. The setup, the mother's letter, the tabling vote, the 'Aye!' and the fallout are all on topic, with no unrelated material."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why he voted: his mother was college-educated but could not vote, the letter, and 'go on record for time and eternity'. It also shows the cost he weighed by voting to table first. It does not explain why his district reelected him anyway, or what the case says about political courage in general."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The opening on the roll call, the flashback and the return to the vote are well organized. The ending restates the thesis instead of returning to the opening image: 'his vote should rightfully be remembered as one of the most significant votes in American history.' Deduction applied: -5 for the title and byline block above the first paragraph (rubric rule on headings in the essay)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): delete the stock phrases 'buzzed with anticipation', 'waited breathlessly', 'wild pandemonium', 'certainly' and the exclamation mark after 'by a single vote'. Cut the guess 'Burn must have read the letter with a smile'. Replace the antithesis 'On one side stood his political prospects; on the other stood what he knew was right' with the concrete things the essay already has: the letter in his pocket and the red rose on his lapel.",
+  "Ending (+4 possible): replace the last sentence ('his vote should rightfully be remembered...') with a line that brings back the opening roll call or the red rose and the mother's letter. For example, end on the red rose he still wore when he said 'Aye', using only facts already cited in the essay.",
+  "Analysis (+4 possible on prompt, +3 on mechanism): in the last paragraph, return to the Kennedy line 'requires no exceptional qualifications' and say plainly why Burn fits it. He was the youngest member, he had voted with the anti-suffragists minutes earlier, and he knew his district opposed ratification. Then spend one or two sentences, from the cited 'Where the Suffrage Issue Counted' source, on why his constituents reelected him anyway. Also drop the title and byline lines unless the contest's form requires them."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gen-29",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 1008,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2025-winning-essay-by-emily-matthews",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a qualifying official and act (\"she proposed the Clean Indoor Air Act\") and describes it fully. The analysis half is thinner: the Kennedy paragraph lists \"popularity, reelection, and abiding by her constituency\" but argues none of the three."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong sourced detail: \"over 38,000 deaths\", the \"BAN RUTH ANN\" chant, Byrd's \"$180 million but could have been $215 million\", and \"January 3, 2001\". But the passage itself is only \"after an intense battle in Delaware's General Assembly\", with no date or vote."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Stock phrasing throughout: \"tragedy struck\", \"seemingly insurmountable odds\", \"fell on deaf ears\", \"unwavering support\", \"incredibly real\", \"heartily protested\", \"passionately believed\", \"Thankfully\", \"was indeed challenging\". There is no em dash in the writer's own prose."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study, told with real scenes: protesters throwing cigarettes, and a friend saying she had \"killed\" herself politically. The 170-word biography that opens the essay delays the act it is about."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It shows what the act cost (her own appointee's revenue forecast, a re-election called \"certain\" to fail) and why she did it (her husband's lung cancer). But it never explains why this counts as courage beyond \"she persisted\", and the Kennedy framework is named, not applied."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear, and the close returns to the sharecropper and dropout opening. The last line is a Biden quote with a typo: \"...contin ue to speak out, continue to embrace the family that's left, you think to yourself, 'Maybe I can do that.'\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): cut or replace the stock phrases. \"However, tragedy struck when her husband suddenly died\" becomes \"Her husband died suddenly in 1967\". \"Overcoming these seemingly insurmountable odds was indeed challenging, but one more intense test...\" becomes one plain sentence leading into the smoking ban. Drop \"incredibly\", \"heartily\", \"passionately\", \"Thankfully\", \"Even more encouraging\" and \"Her sound argument fell on deaf ears\", and let the facts carry the weight.",
+  "Analysis (up to +6 on ideas, +4 on answering the prompt): rebuild the \"As John F. Kennedy once discussed\" paragraph so each of the three pressures is tied to evidence already in the essay. Popularity is the protesters. Re-election is the 'certain' 2004 defeat and her friend's warning. Constituency is the businesses and her own appointee Byrd's revenue forecast. Then say in one or two sentences why holding on despite all three is the courage Kennedy means. Pay for it by cutting the page, clerk and receptionist sequence in paragraph 1 to two sentences.",
+  "Specificity and accuracy (up to +4): replace \"the bill finally passed after an intense battle\" with the actual passage date and vote count, if the Cohen, Cramer or Brainard sources give them; if they don't, ask Enes before adding anything. Check the Byrd figure against Cohen: $35 million a year works out to about $96,000 a day, not $125,000. Fix \"Delawaereans\", \"Delawaerean\" and \"contin ue\"."
+ ]
+}

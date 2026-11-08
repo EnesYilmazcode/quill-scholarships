@@ -1,0 +1,54 @@
+{
+ "id": "gen-07",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2004",
+ "outcome": "winner",
+ "words": 1042,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2004-winning-essay-by-will-schmidley",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Describes the act fully (moratorium on January 30, 2000, then all 167 sentences commuted), but the analysis of courage is mostly packed into the last paragraph and leans on assertion: \"He could have made token gestures, but instead he acted boldly, courageously.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and checkable throughout: the 1977 \"throw the switch\" debate, Anthony Porter 48 hours from execution, the thirteenth exoneration, the 167 prisoners, and the man who murdered Steve Small."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Stock formal framing throughout: \"seminal,\" \"forefront of our national consciousness,\" \"stunning reversal of fortune,\" \"profoundly shaken,\" \"unwavering moral conviction,\" plus a not-X-but-Y line (\"not those of a politician, but rather those of a man\"), \"Governor Ryan's\" opening 3 sentences in a row, and the typo \"scrutinized be his detractors.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "The case study does the job of a story. Two strands carry it: Porter's exoneration as the turning point, and Steve Small as the personal stake (the commutation includes his killer). The Kokoraelis execution gets only a summary."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why, not just that: exonerations outnumbered executions, and \"any legislation enacted to reform... would not be retroactive,\" so commutation was the only remedy. The political-cost argument against the scandal motive is thinner."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The chronology is clear, but the essay ends on a general moral instead of returning to the opening or the 1977 vote: \"...to do what no one else had ever done for a group of people most are only too glad to abandon.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut the stock phrases and say the plain fact instead. Change \"seminal ones by an elected official\" to say what was first. Cut \"This stunning reversal of fortune for the mentally disabled Porter left Ryan profoundly shaken\" down to what Ryan did next. Delete \"compelled by unwavering moral conviction\" and \"boldly, courageously\". Rewrite the closing \"not those of a politician, but rather those of a man\" so it is not a not-X-but-Y line. Vary the repeated \"Governor Ryan's\" openings in paragraph 1. Fix \"be his detractors\" to \"by\" and \"Armstrong.1\" to \"Armstrong 1\".",
+  "Ending (+4 possible): replace the final generic sentence with a callback to facts already in the essay. Bring back the 1977 House debate where Ryan pledged \"unequivocal support\" for whoever would \"throw the switch,\" and set it against his 2003 commutation that included Steve Small's killer. Reorder only, nothing new.",
+  "Analysis of courage (+4 possible): in the detractors paragraph, turn \"he could have adopted a lower profile\" into a direct analysis of what Ryan risked, using sourced facts already cited: his decades inside the system, his law-and-order election, the open investigations. Also remove the title, byline and school lines at the top (-5) and replace the dash in \"another historic step – commuting\" with a colon or period (-2)."
+ ]
+}

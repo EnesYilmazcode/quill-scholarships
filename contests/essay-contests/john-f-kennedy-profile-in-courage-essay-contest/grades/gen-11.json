@@ -1,0 +1,54 @@
+{
+ "id": "gen-11",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2007",
+ "outcome": "winner",
+ "words": 1013,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2007-winning-essay-by-maia-gottlieb",
+ "total": 82,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Describes the act and analyzes why it was risky (\"From 1925 to 1959, only two ever raised the issue\"), but two later paragraphs drift from the single act into a career summary and the 1972 run."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and sourced throughout: \"January 29th of 1969\", McCormack's \"You have to be a good soldier\", the 1911 revolt against Joseph Cannon, nine Black members against over fifty, and page-cited quotes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real student researcher with no AI vocabulary and no em dashes, but leans on stock intensifiers (\"audaciously\", \"boldly\", \"desperately needed\", \"faithfully\") and ends on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study told as a scene (the Speaker meeting, men jumping up to block her, the walk to the well), but it is diluted by a résumé list (\"against the Vietnam War, against the draft, on behalf of the ERA...\")."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains how the risk worked: seniority began as a check on Cannon and became the establishment, and senior members are always recognized first. The essay asserts the cost (\"risked her future in Congress\") without showing what she lost."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological arc that opens at the well, but the close restates the thesis instead of returning: \"Shirley Chisholm boldly protested a flawed system and risked her political future for what she believed was right.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut or shrink to one clause the paragraph starting \"Shirley Chisholm continued to serve her district faithfully\" (Vietnam, ERA, NARAL, MLK holiday, Rhodesian chrome) and the 1972 paragraph. Use the freed space on the act itself: the risk analysis already in the seniority paragraphs, or the record of how the leadership treated her after the floor fight. Only use facts the sources actually document.",
+  "Replace the closing restatement (\"Shirley Chisholm boldly protested a flawed system...\") with a return to the opening. Bring back the trees line or the \"good soldier\" exchange, so the essay ends on her words and not on a moral.",
+  "Cut the intensifiers \"audaciously\", \"boldly\", \"desperately needed\" and \"faithfully\". Fix the accuracy slips: \"arrived in Washington in 1968\" should be January 1969, when she was sworn in. \"The amendment eventually passed\" should be called a resolution, as the previous sentence does, and the essay should check with its source that the House actually voted on it."
+ ]
+}

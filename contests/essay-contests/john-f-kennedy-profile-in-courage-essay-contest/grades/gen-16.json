@@ -1,0 +1,54 @@
+{
+ "id": "gen-16",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2012",
+ "outcome": "winner",
+ "words": 1092,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2012-winning-essay-by-patrick-reilly",
+ "total": 89,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names one elected official serving after 1917 and both describes the act and analyzes it: 'despite Boggs' strong precedent and his own corporate past, that rampant industrialization was not in Delaware's best interests.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated, named and sourced: Shell's '$200 million refinery adjacent to Bombay Hook National Wildlife Refuge', Zapata-Norness's '300-acre island', 'January 1971', 'June 21st and 22nd', Stans and the Chamber of Commerce, all cited."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "The voice is a real student's analytic voice with long, varied sentences, but there are some tells: one em dash in the writer's own prose ('global industrial center—with'), the stock line 'A lesser man would have crumbled under such a harsh rebuke', and puffed-up adverbs and adjectives ('boldly', 'courageously', 'triumphantly', 'vicious attempts')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study, the CZA fight, carries the whole essay, and it has real scenes: the pickets at his home, the Shell president's visit, and Stans saying 'We think you are being disloyal to our country' answered by 'Hell, no. I am being loyal to future generations of Americans.'"
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The essay explains why the act took courage (Republican, ex-DuPont, Nixon administration support, the Boggs precedent) and connects it to Norris. But much of the analysis is borrowed from Kennedy quotes rather than argued, and the tax-hike paragraph introduces a second act instead of deepening the first."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear: setup, opposition, passage, legacy. The close returns to Delaware's coast, but not to the opening image of the bronze statue and the park. Last line: 'Our choice was to cherish or destroy. We decided to cherish.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+4): In paragraph 6, cut 'A lesser man would have crumbled under such a harsh rebuke, but' and let the Stans exchange stand on its own: 'Peterson replied, \"Hell, no...\"'. Remove the puffed-up modifiers 'boldly' (para 4), 'courageously' (para 5), 'triumphantly' and 'vicious' (para 7). Replace the em dash in 'global industrial center—with the unfortunate side effect' with a period: 'center. The side effect would have been devastating...'. Leave the dash inside the Peterson quote as it is.",
+  "Ideas (+3): In paragraph 3, put the Kennedy 'must judge' quote into your own words and state the risk plainly from facts already in the essay: a Republican ex-DuPont executive was breaking with his party's White House, his old industry and his state's Chamber. In paragraph 9, either cut the tax-hike detour or tie it back to the CZA in one sentence, using only what the Cohen source supports, so the essay keeps its analysis on one act.",
+  "Ending (+2): In the last paragraph, bring back the opening image you already used, the bronze statue on the Christina River and the park named for him, before or after the 'cherish or destroy' quote. That way the close answers the opening question 'What could Peterson... possibly have accomplished to deserve this monument?' instead of ending on a borrowed line."
+ ]
+}

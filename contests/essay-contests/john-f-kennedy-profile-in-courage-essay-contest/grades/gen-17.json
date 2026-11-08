@@ -1,0 +1,54 @@
+{
+ "id": "gen-17",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2013",
+ "outcome": "winner",
+ "words": 1063,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2013-winning-essay-by-jamie-baer",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered: the vote is described and Kennedy's frame is used for analysis (\"one of only four Republican senators who voted for the Marriage Equality Act\"). But the analysis relies on Kennedy quotes and national polls, and it never explains how McDonald's earlier opposition fits with his saying \"he too believes in traditional marriage.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense and checkable: Russell Sage College in Troy, the September 2012 primary, Kathleen A. Marchione, \"approximately 122 votes,\" 20 straight years with no property-tax increase, the July 25, 2011 legal challenge, and cited sources throughout."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Competent student analytic prose, with long cited sentences (the rebuttal sentence runs about 47 words). It leans on stock phrases: \"elevate himself from a forgettable official to a bold nonconformist,\" \"leap of faith,\" \"came at a steep price,\" \"worthy sacrifice,\" and a tidy closing moral. It also has one em dash, and \"In fact\" and \"Overall\" are used as filler."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study told from start to finish, opening on a real scene at the debate. Two digressions weaken it: the national-poll paragraph (2003 Pew, 2004 NES) and the 777,000 couples nationwide figure say nothing about McDonald's own district."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the vote was risky (Republican seat, conservative county, lost the primary by 122 votes). But the risk is argued from national data, and the reason he changed his mind is given only as quotes (\"party of Abraham Lincoln\") with no account of how he went from opposing the law to voting for it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order is clear (scene, background, vote, backlash, defeat, verdict), but the ending is a generic moral instead of a return to the Russell Sage debate: \"he embodied true democracy.\" Deduction: one em dash (-2) in \"lifetime—he embodied.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut or replace the national-opinion paragraph (\"In addition to specific conservative groups... the majority of the American public is opposed to same-sex marriage\"). It uses 2003 and 2004 national data for a 2011 vote, and the present-tense claim was no longer true by 2011, when national polls showed majority support. If real district-level or New York Republican primary data exists in the sources, use that to show the risk; otherwise cut the paragraph and keep the 2012 CNN/ORC Republican figure as the single proof.",
+  "Rewrite the last paragraph so it returns to the opening debate at Russell Sage and to his own words there (\"could have found an easier way to get re-elected\") instead of the stock moral \"he embodied true democracy.\" This also removes the em dash in \"lifetime—he embodied.\"",
+  "In the paragraph with \"he too believes in traditional marriage,\" deal with the contradiction directly: give one or two sentences, drawn only from the cited Kaplan reporting, on why a man who opposed same-sex marriage before voted for it. Cut the stock lines (\"elevate himself from a forgettable official to a bold nonconformist,\" \"leap of faith,\" \"came at a steep price\") to make room."
+ ]
+}

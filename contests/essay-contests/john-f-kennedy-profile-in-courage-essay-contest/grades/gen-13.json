@@ -1,0 +1,54 @@
+{
+ "id": "gen-13",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2009",
+ "outcome": "winner",
+ "words": 1057,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2009-winning-essay-by-margo-balboni",
+ "total": 79,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts get a full answer. It describes the act ('on February 22, 2001, the same D'Adamo walked up the steps of Baltimore's City Hall and introduced a bill') and analyzes why it counts as courage using Kennedy and Lamar ('must on occasion lead, inform, correct and sometimes even ignore constituent opinion')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of checkable facts: fourteen years on the council, 'twenty-eight churches', the 1993 vote against benefits, February 22, 2001, two named committees with roughly 12 months in each, the March 17th, 2008 resolution, and sourced quotes ('Who am I to judge?')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Sounds like a real student, but much of it is stock phrasing: 'proverbial line of fire', 'bombarded by a deluge', 'this great country', 'deeply independent' (filler adverb), 'small seed finally flowered'. It also leans on triplets ('anger, disappoint or alienate', 'values, precedents and liberties') and misuses 'infamy' to mean fame. No em dashes, and some sentences run over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the essay and includes real scenes (D'Adamo at his desk the day after the story broke, his mother's shame, the angry calls). But the first paragraph spends 100 words on Stonewall, the state bans and California before D'Adamo appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why he changed his mind: 'half a dozen such stories' from gay constituents, then 'Who am I to judge?'. It also explains why he kept his seat: 'People might not like me, but they respect my independence'. But the middle paragraph slides into generic civics ('Sometimes, these acts of courageous independence are needed...'), and the claim that his bill caused the 2008 resolution is asserted without a source."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay follows a clear arc from setup to act to analysis to outcome to legacy, and it ends on a concrete moment. But the last line ('One can imagine D'Adamo's pride on March 17th, 2008, when he beheld the resolution and voted, \"Yea\"') guesses at his feelings and does not return to the opening image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): Cut the stock phrases. Use 'line of fire' instead of 'proverbial line of fire', drop 'bombarded by a deluge of', and drop 'this great country' and 'deeply'. Change 'never achieved the infamy' to 'never drew the attention'. Replace 'That small seed finally flowered on March 17th, 2008' with the plain date and event. In the last line, delete 'One can imagine D'Adamo's pride' and end on the sourced fact: 'On March 17th, 2008, D'Adamo voted \"Yea\" (Journal, 2008, p.31).'",
+  "Formatting (-5 recovered) and opening: Move the title, byline and school line into the submission form fields so they are not part of the essay. Then shrink the first paragraph's Stonewall, state-ban and California material to one sentence and start on D'Adamo, such as his 1993 vote against partner benefits. That puts the story first and lets the 2008 'Yea' close a loop that opened with his earlier 'no'.",
+  "Reasoning: Replace the generic sentences in the Kennedy paragraph ('Sometimes, these acts of courageous independence are needed to preserve the values, precedents and liberties...' and 'Americans elect representatives to serve...') with a direct comparison of his 1993 vote and his 2001 bill, tied to the Kennedy quote. Also soften 'It was Nicholas D'Adamo who paved the way' to what the sources support, for example that his bill first opened the question at City Hall, unless a cited source links the 2001 bill to the 2008 resolution."
+ ]
+}

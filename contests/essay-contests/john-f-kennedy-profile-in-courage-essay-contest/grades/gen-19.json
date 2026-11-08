@@ -1,0 +1,54 @@
+{
+ "id": "gen-19",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2015",
+ "outcome": "winner",
+ "words": 1038,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2015-winning-essay-by-matthew-waltman",
+ "total": 76,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the official, describes the act, and analyzes why it took courage, which is the risk to a reelection bid in 'a GOP stronghold' that ended when the stance 'cost him the election', tied each time to Kennedy's own definition."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and checkable throughout: December 2006, Swift & Company, 262 workers, 'Operation Wagon Train', more than 200 children, May 2007 trip, 'traitor scum' mail, and the LA Times line, all cited."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Solid research voice, but it has stock framing ('Today, America finds itself at a crossroads', 'did more than exemplify political courage: he showed', 'tremendous political repercussions', 'devastating effect') and three em dashes in the writer's own prose."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the whole essay, from raid to speaking out to backlash to defeat, but it is told as a chain of cited summaries, and the only close-up moments are Selders's own quotes."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the act was risky ('the way to get along is to go along', the GOP-stronghold electorate, the recall threats) and what it cost, but it gives little analysis of why Selders changed his mind beyond 'he knew he could not remain silent'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological arc, but the close ('...uphold the values that we, as a nation of immigrants, should hold dear') is a generic national moral instead of returning to Greeley, the 200 children, or Selders's 'I'd do it again'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the final paragraph, which is worth about 4 structure points plus voice. Cut 'Today, America finds itself at a crossroads...' and the 'did more than X: he showed Y' line. Close instead on material already in the essay: Selders's 'I'd do it again in a heartbeat', set against the more than 200 Greeley children who came home to empty houses, so the last line goes back to the raid in the opening.",
+  "Remove the three em dashes in the writer's own prose ('plant—Greeley's largest employer—and', 'children—many of whom were U.S. citizens—who') and use commas or parentheses. Leave the dashes inside the quoted Kennedy and Selders lines. This recovers the -6 em-dash deduction and helps the voice score.",
+  "Strip the stock intensifiers and framing that pull voice down to 3: 'devastating effect' (say what happened: 262 arrests, families not told), 'tremendous political repercussions' (just 'In the wake of his trip, he was vilified...'), and the sweeping opener 'provoking angry debates..., fueling tension..., and even dividing families' (a triplet). Open on the December 2006 raid instead."
+ ]
+}

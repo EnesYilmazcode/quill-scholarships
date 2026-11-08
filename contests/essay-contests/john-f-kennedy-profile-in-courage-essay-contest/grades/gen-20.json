@@ -1,0 +1,54 @@
+{
+ "id": "gen-20",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2016",
+ "outcome": "winner",
+ "words": 995,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2016-winning-essay-by-zhen-tu",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names an elected official, Howard Baker, and a single act, his Panama Canal treaty leadership, and gives a reason for it ('he believed in bipartisanship to advance the best interest of Panama and the United States'). The analysis of why the act counts as courage is mostly borrowed from Kennedy quotes ('perhaps the greatest political test of all') instead of argued in the writer's own words."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated and countable throughout: September 7, 1977; January 16, 1978; 'seventy-eight percent ... merely eight percent'; '64,000 letters in two months, ninety-eight percent'; 'only seven returned'. It also uses named sources and direct quotes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The research voice is clear, but stock phrasing piles up: 'Needless to say', 'embodied the true soul of a courageous man', 'said it best', 'tirelessly', and AI-list vocabulary in 'serving as testament to his legacy that will unequivocally influence and motivate many people for generations to come'. The last sentence is a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one case study, Baker and the canal treaties, and it is fully on topic. It has a real scene: the Panama trip and the staff meeting where Baker answers 'So be it'. The Voting Rights Act mention in the last paragraph is a brief, unneeded side beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why Baker acted, not just that he did. Paragraph 2 traces his habit of compromise to his father-in-law, Senator Dirksen. Paragraph 3 makes the Panama trip and the commanders' sabotage warning the turning point, and support comes only 'if some amendments were made'. The cost is shown with numbers: the reelection count and the 1980 nomination."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The body runs in clear chronological order. The ending drops Thurmond's opening line, 'The canal is ours', and closes on a generic legacy moral: 'serving as testament to his legacy that will unequivocally influence and motivate many people for generations to come.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the title and byline lines ('Howard Baker: The Great Compromiser of the 1970s' / 'By Zhen Tu' / 'Eagan High School...'), because a heading in the essay costs 5 points. While there, fix the stray paragraph breaks inside 'in the hope that the / Panamanian government' and 'Panama Canal / treaties', which read as paste errors.",
+  "Rewrite the final paragraph so it returns to the opening and drops the generic moral. Cut 'Howard Baker's act of political courage is still recognized ... for generations to come' and 'Columnist Albert Hunt said it best'. Instead, set Thurmond's 1977 'The canal is ours' against Baker's own 2005 line already in the essay, 'The country is [now] genuinely our friend', so the last sentence pays off the first paragraph. This is worth up to about 6 points on structure.",
+  "Strip the stock phrases to lift voice from 3 to 4 (about 4 points): delete 'Needless to say,' (start with 'Baker's support...'), replace 'embodied the true soul of a courageous man' with a plain statement of what he did, and drop 'tirelessly', 'unequivocally' and 'testament'. Then add one sentence in the writer's own words, using only the facts already in the essay (the 78% poll, the 64,000 letters, 'So be it'), saying why this was courage and not just compromise. That answers the 'analyze' half of the prompt directly."
+ ]
+}

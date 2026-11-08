@@ -1,0 +1,65 @@
+{
+ "id": "gen-10",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2006",
+ "outcome": "winner",
+ "words": 990,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2006-winning-essay-by-ben-loffredo",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the act, official and year in the first line (\"In 1995, Mark Hatfield, Senator from Oregon, cast the decisive vote against the Balanced Budget Amendment\"). It describes the act in paragraphs 1-4 and analyzes it in paragraphs 5-6, and it takes on the hard point head on: \"His vote against the amendment may seem less heroic for the issue of a budget cap appears technical and legalistic.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of checkable facts: the 300-132 House vote, the 65-35 Senate tally, 'almost a dozen phone calls', 'twenty minutes' with Dole, the son-in-law's photo marked 'For Her Sake!', Reischauer, Schuller, Lott and D'Amato all quoted with footnotes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a real student analytic essay, but it has a 'not only X but also Y' ('confronted not only \"the pressures of party responsibility,\" but also pressures from...'), the triplet 'the poor, the aged, and the young', a run of three short parallel sentences ('He opposed... He urged... He called...') and a tidy moral at the end. There are also typos: 'him.\"\"9', 'Schuler', and stray double spaces."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the essay, the pressure campaign and the vote, and every beat is on topic (Dole, Hatch, the TV minister, the son-in-law). The vote itself is told in summary, and the closing list of Vietnam, amnesty and nuclear freeze is a brief résumé aside."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why the amendment mattered: it would force cuts 'just when the economy was weakest' and could raise borrowing costs. It also explains why the vote took courage: pressure from his party, his friends, his faith and his family. The Katrina and avian flu point is asserted, not reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc: the vote, the stakes, the pressure, the tally, the cost, the meaning. The ending brings back the 'in good conscience' quote through Dodd ('respect for one's conscience'), but the last line falls into a generic moral: 'owes much to Senator Hatfield's political courage and the standard of decency he set for the nation.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. Paragraph 3 says Republicans 'held only 53 seats in the Senate', then paragraph 4 says 'eleven Democrats joined with 55 Republicans'. That is impossible as written, and 66 yes votes does not match the 65-35 tally either. The essay also says the 1995 majority was the first since 1953, which is true of the House but not the Senate (Republicans held it 1981-87)."
+  },
+  {
+   "rule": "em dashes",
+   "points": 0,
+   "reason": "-6 (capped). More than 10 em dashes, for example 'discretionary spending—from Social Security to Head Start—would have faced' and 'Chief of the Senate Appropriations Committee—a position of extraordinary importance.'"
+  }
+ ],
+ "fixes": [
+  "Paragraph 4, 'Although eleven Democrats joined with 55 Republicans': check both numbers against the March 2, 1995 Senate roll call and footnote 15's source, and replace them with the real split so it matches the '53 seats' line and the 65-35 tally. In paragraph 1, change 'the first since President Eisenhower's administration in 1953' so it refers to Congress or the House, not the Senate. Recovers the 10-point deduction.",
+  "Voice (up to 8 points): in paragraph 6, cut 'not only ... but also' to 'Hatfield confronted the pressures of party responsibility and pressure from his longtime friends, his faith, and his family'. Merge 'He opposed the war in Vietnam. He urged amnesty... He called for a nuclear freeze.' into one sentence or cut it. End the essay on the Dodd quote ('...had the concept of respect for one's conscience not prevailed') and delete the final moral sentence, which also lifts the ending score. Fix 'him.\"\"9', 'Schuler' (Schuller) and the double spaces.",
+  "Replace every em dash (6 points): use commas around 'from Social Security to Head Start', a colon before 'the Contract with America', a period before 'a position of extraordinary importance', and parentheses or a new sentence for the 'Senator Hatfield voted no' clause in paragraph 4. Also change 'Chief of the Senate Appropriations Committee' to 'Chairman', the title the essay itself uses later ('retained his chairmanship')."
+ ]
+}

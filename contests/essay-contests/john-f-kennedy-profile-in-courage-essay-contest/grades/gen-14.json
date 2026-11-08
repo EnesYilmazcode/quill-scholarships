@@ -1,0 +1,54 @@
+{
+ "id": "gen-14",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2010",
+ "outcome": "winner",
+ "words": 1119,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2010-winning-essay-by-michael-reed",
+ "total": 83,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It describes the act fully. The analysis is the 'go along' frame in paragraph 2 ('their survival in politics was dependent on \"going along\"'), but later paragraphs mostly tell what happened and seldom explain why it was courageous."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and checkable throughout: 'seventy-eight lives... November 20, 1968', 'forty-nine violations', 'a twelve-pound chunk of bologna', Paul Gilly, 'nine amendments', signed 'December 30, 1969', each one cited."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a human research paper, but it keeps praising him: 'bravely led the way', 'courageous refusal', 'stalwart courage', 'courageously done just that'. It also leans on stock attribution verbs ('lamented', 'proclaimed', 'asserted') and ends on a tidy moral. No em dashes outside quotes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study told in full, from Farmington to the bill becoming law, with real scenes (typing the declaration, the bologna, the widows brought to Washington). Nothing is off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the act was risky (coal 'WAS the economy', the disaster was outside his district, supporters withdrew, a murder attempt) and how he won (stayed off the committees 'to avoid compromise', hired an attorney, brought the widows). But 'saved thousands of lives' is asserted with no source."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The opening typing scene comes back well with the 'hell-raiser' declaration at ninety-four, but the essay then ends on a moral: 'Ken Hechler has courageously done just that.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut the praise words and let the facts carry the courage. Delete 'bravely' in paragraph 1, 'courageous' in 'Hechler's courageous refusal', and 'with stalwart courage' in the last paragraph. Change 'lamented', 'proclaimed' and 'asserted' to 'wrote' or 'said'.",
+  "Answers prompt (+4 possible): in paragraph 5, after the Gilly attempt, add one or two analysis sentences built only from facts already in the essay: the disaster was outside his district, his own district's miners and executives withdrew support, and his state delegation turned on him. Say plainly that this was the political cost he chose to pay.",
+  "Structure and reasoning (+5 possible): end on the 'Now I am a hell-raiser' quote, or on the Kennedy line, and delete 'Ken Hechler has courageously done just that.' Either cite a source for 'saved thousands of lives' (ask Enes for the real MSHA figure) or soften it to what the MSHA quote supports. Also fix the slips: 'use to' should be 'used to', the misplaced quote mark in 'began,” then', and the 'Hume 219' citation, which looks wrong next to Hume 75-88."
+ ]
+}

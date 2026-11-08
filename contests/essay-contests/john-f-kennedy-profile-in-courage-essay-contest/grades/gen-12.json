@@ -1,0 +1,54 @@
+{
+ "id": "gen-12",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2008",
+ "outcome": "winner",
+ "words": 1053,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2008-winning-essay-by-laura-schapiro",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names one act, the 1990 State v Russell ruling, and describes it fully. The analysis of why it took courage comes mostly as assertion ('It took an act of bravery for Alexander to rule in a way that sympathized with crack users') and is backed only by the stalled nomination."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with checkable facts: 'December 11, 2007', 'three or more grams of crack cocaine' against 'up to ten grams of powder cocaine', '92.3 percent' and '85.1 percent', Article 1, Sections 2 and 16, Wellstone's 1993 recommendation, and her own words 'she dangled in the wind'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clichés stand in for analysis: 'blazed trails into uncharted territory', 'glowed with a fiery ambition', 'had the world at her fingertips', 'passionate competence', the filler 'truly cared', 'monumental and controversial', 'groundbreaking', plus a double-hyphen dash ('--seventeen years ago'). It reads as stock student prose rather than model prose, but it is not a distinct voice."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study (Russell, then the nomination that cost her the federal bench) carries the essay. But the whole second paragraph is a résumé run (parents, Augsburg 1974, J.D. 1977, 1981 prosecutor, list of firsts) that delays the act itself."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the statute was unequal (sentence thresholds against arrest demographics) and why ruling against it was costly (the antidrug climate, fear of an 'activist' judge who was 'soft on crime'). It does not say why the risk was hers to take when she could have ruled narrowly or deferred to the legislature."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay opens on the 2007 Sentencing Commission vote and closes on it: 'Now, seventeen years later, as she sees her efforts finally making a difference, she can proudly say, \"It's about time\"'. The sentence just before that is a tidy moral ('never regretted the courageous decision')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity loses points to an internal contradiction (-10): the text says the Minnesota Supreme Court ruled 'the following year' (1991) but cites 'State v Russell, 1999'. Correct the citation year to the real decision date. Also check against the source that it was the Minnesota legislature, not 'the Minnesota Court', that raised powder-cocaine terms, and that Wellstone recommended Alexander rather than nominated her.",
+  "Voice (+8 possible): cut the clichés and let the facts carry the weight. Delete 'blazed trails into uncharted territory', 'glowed with a fiery ambition', 'had the world at her fingertips', 'passionate competence', 'truly' and 'monumental and controversial'. Replace '--seventeen years ago' with a period and a new sentence, and cut 'Despite the hardships... never regretted the courageous decision' so the essay ends on 'It's about time'.",
+  "Stories and analysis (+6 possible): shrink the biography paragraph to one sentence (keep the age-12 rape-trial testimony and 'first African-American woman' judge) and use the room on what a cautious judge could have done instead, such as upholding the statute and leaving it to the legislature, using only what the existing sources (Grow, Davis, Alexander and Gyamerah) document."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gen-04",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2002",
+ "outcome": "winner",
+ "words": 1071,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2002-winning-essay-by-emily-ullman",
+ "total": 89,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts are answered. It describes the act ('I ask that my vote be changed from ‘No’ to ‘Yes’') and analyzes the stakes: a Democrat from a conservative district 'elected on the votes of his Catholic constituency, a group comprising about 65% of the city of Auburn.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "It is dense with checkable facts: Senate vote '31 to 26', 'At 4:30', '74 to 74', Abramowicz v. Lefkowitz, College Point, Cornell, a fifth-term assemblyman aged 59, 'a shattered leg and seven broken ribs', and his death at 80 in 1992."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "The body is plain researched prose and has long sentences, but the close slides into stock phrasing: 'fateful day', 'faded into obscurity', 'Still more importantly', 'the battle for personal freedom that still rages today', and a tidy moral, 'struck a blow for liberty'. The dash appears only inside the quoted speech."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study carries the whole essay. It has a real scene ('Shaking, he spoke'; 'Michaels put his head down on his desk and cried') and on-topic background (his son's account of 'poor women he had seen mangled by back-alley abortions')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why he voted as he did (his son's report, and a promise to vote yes 'if his was the deciding ballot') and traces the cost and the national effect through Roe and Doe. It never tests the act against the Kennedy definition it opens with, so the analysis stops short of a 5."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and chronological, but the ending is a generic moral and does not return to Kennedy's definition: 'Michaels gave hope to a generation of women, and struck a blow for liberty that should be as honored today as it was by the founders and great men of our nation.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph (structure 3 to 5, worth 4 points): cut the final two sentences, from 'His strength is an inspiring example' to 'great men of our nation'. End instead by returning to the opening Kennedy test, 'loyalty to [his] nation triumph[s] over all personal and political considerations', and set it beside Michaels' own line, 'What’s the use of getting elected if you don’t stand for something.' Both quotes are already in the essay, so nothing new has to be invented.",
+  "Analysis (ideas 4 to 5, worth 3 points): add two or three sentences after 'Hoping to satisfy his conscience as well as keep his seat' that weigh his hedge against Kennedy's definition. He had promised to vote yes only if his ballot decided the outcome, and when it did, he paid the full price. Use only facts already in the essay.",
+  "Voice (4 to 5, worth 4 points): cut or flatten 'fateful day', 'faded into obscurity', 'Still more importantly' and 'a battle that cannot be fought without brave individuals willing to sacrifice for their principles'. Swap them for the plain facts already there, for example 'he never again ran for office and practiced law in Auburn with his son Lee'. Also move the title, byline and school lines out of the essay body if the contest form collects them separately."
+ ]
+}

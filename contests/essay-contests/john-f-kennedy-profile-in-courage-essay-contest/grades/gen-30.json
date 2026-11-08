@@ -1,0 +1,54 @@
+{
+ "id": "gen-30",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 908,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2026-winning-essay-by-giya-agarwal",
+ "total": 87,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Describes the act (the June 13, 1969 floor speech and 'I had a therapeutic abortion 20 years ago') and analyzes it against Kennedy's own standard: 'sometimes even ignore constituent opinion' and accepting the loss of 'his friends, [...] his contentment'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The essay is full of checkable facts with citations: Dearborn, Senate Bill 287, the 1931 law, the 17 percent figure, the '16 for, 17 against' vote, Plawecki, the firebombing and slashed tires, the Pontiac Press quote dated 9 November 1970, and the NARAL chapter."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are four 'not X but Y' constructions: 'not only her district, but all the women', 'not only accepted this loss but endured it fully', 'not solely defined by loss', 'not for acclaim, but because silence was incompatible with integrity'. Filler includes 'poignant and heartfelt', 'deeply personal', 'starkly illustrating', 'landmark' and 'It is certainly safe to say'. The rhetorical 'The only exception?' is a stock hook. There are no em dashes; the dash in Bursley–McCauley is an en dash in a proper name."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study runs the whole essay: setup, the floor scene with a direct quote to an all-male chamber, the confession, then the cost and the aftermath. Nothing in it is off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The essay explains why the act took courage (a Catholic district, her own stated doubt about re-election, the organized opposition) and maps it onto Kennedy's criteria. The impact claim 'propelled abortion into the national political consciousness' has no evidence or mechanism behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clean: context, act, cost, legacy. The last line, 'Senator N. Lorraine Beebe warrants much more than a footnote', returns to the title, but it is framed as a tidy moral ('It is certainly safe to say') rather than returning to an image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): rewrite the four 'not X but Y' sentences as plain statements. Change 'she represented not only her district, but all the women of Michigan' to 'she believed she spoke for all the women of Michigan'. Change 'Beebe not only accepted this loss but endured it fully' to a sentence naming what she lost (her seat, her safety). Change 'Yet, the consequences of Beebe's speech were not solely defined by loss' to a direct opening of the legacy paragraph. Change 'acting not for acclaim, but because silence was incompatible with integrity' to one concrete clause.",
+  "Voice: cut the filler and stock framing. Delete 'poignant and heartfelt', 'deeply personal', 'starkly' and 'landmark'. Drop 'It is certainly safe to say that' so the last line starts at 'Senator N. Lorraine Beebe'. Replace the rhetorical 'The only exception?' / 'Her unwavering advocacy for abortion reform.' with one declarative sentence. Let one analysis sentence run long and unbroken, so the rhythm isn't all medium-length academic sentences.",
+  "Ideas/ending (up to +5): back up or cut 'Her words propelled abortion into the national political consciousness, laying the groundwork for broader change'. Keep it only if a source shows national coverage (the New York Times citation already suggests some); otherwise point to her ballot petitions and the NARAL chapter as the concrete legacy. For the close, bring back an opening fact (the all-male chamber, or her grape-strike conservatism) instead of a general claim about textbooks."
+ ]
+}

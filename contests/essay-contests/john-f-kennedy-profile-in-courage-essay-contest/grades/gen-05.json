@@ -1,0 +1,54 @@
+{
+ "id": "gen-05",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2003",
+ "outcome": "winner",
+ "words": 1015,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2003-winning-essay-by-michael-sloyer",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names the act (Morse's nay vote on the Tonkin Resolution) and its cost, but much of the analysis is assertion rather than argument: 'he absolutely proved to be one of the most heroic Americans in the twentieth century' and 'Packwood's victory undoubtedly can be attributed to this assertion'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, sourced and checkable: 'August 7, 1964', '416-0 in the House and 88-2 in the Senate', Captain John Herrick, 'McNamara's War', 'blank check', and the 1964 'substitute might for right' quote."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy use of filler adverbs and thesaurus words: undoubtedly, incontrovertibly, absolutely, truly, certainly, boldly, indefatigably, 'essentially' five times, and 'quite a courageous and valiant figure'. It also uses the 'not only entitled, but had a duty' and 'not just the possibility... but the morality' constructions and closes on a tidy moral ('not because he was looking for gratitude, but because he truly had the courage'). There are also typos: 'through investigation', 'commander-andchief', 'n Morse's words'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study, the Tonkin vote through Morse's 1968 defeat, carries the essay and stays on topic. The 'Over the next four years' paragraph drifts into summary with no single scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The constitutional point has a real mechanism: Congress surrendered its war power, a 'blank check... paid with taxpayer's money and citizens' lives'. But why the act was courageous is mostly labeled ('paradigm of courage and willpower', 'iconoclasts') rather than explained, and the cause of the 1968 loss is asserted with no evidence."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The chronological arc is clear, but the ending turns to a borrowed quote and a moral instead of coming back to the opening NYT headline or the press: '\"One man with courage,\" Andrew Jackson said, \"makes a majority.\"'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 to +12): cut the filler adverbs throughout (undoubtedly, incontrovertibly, absolutely, truly, certainly, boldly, indefatigably, and every 'essentially'). Rewrite 'it would take quite a courageous and valiant figure to seek out the truth and express peaceful aspirations' and the final 'not because he was looking for gratitude, but because he truly had the courage' as plain statements, and break up the 'not only... but' and 'not just... but' pairs.",
+  "Factual error (recovers the -10 deduction): in paragraph 4, 'Article I of the Constitution establishes the president as commander-and-chief' is wrong. Change it to 'Article II makes the president commander-in-chief, while Article I gives Congress the power to declare war.' Also fix 'through investigation' to 'thorough investigation' and 'n Morse's words' to 'In Morse's words'.",
+  "Ending and analysis (+4 to +6): replace the closing Jackson quote with a line that returns to the opening, for example the press that printed the Pentagon's claims as fact against the one senator who questioned them. In the Packwood paragraph, cut 'undoubtedly can be attributed' or back it with a source from the essay's existing citations. Do not add any new claim."
+ ]
+}

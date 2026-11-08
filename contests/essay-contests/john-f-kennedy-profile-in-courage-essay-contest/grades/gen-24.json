@@ -1,0 +1,54 @@
+{
+ "id": "gen-24",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1093,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2020-winning-essay-by-noah-durham",
+ "total": 76,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It describes the reversal (the April 2005 Armed Services statement and the Homeward Bound resolution) and then analyzes it against Kennedy's own test of 'defying the angry power of the... constituents who control his future.' Both parts of the prompt get full sections."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated and physical: 'two-year-old Joshua drop[ped] his rubber duck,' Nasiriyah on March 23rd, Bamford's A Pretext for War, 68 percent for Bush in 2004, 'over 12,000 sympathy letters' signed with 'the same black fountain pen,' and 'nearly 580 Camp Lejeune Marines.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This is a careful human research voice, but it has stock tells: 'not only prompted... but also began' (not-only-but-also), the filler adverbs 'genuinely charmed' and 'certainly sacrificed,' the list 'truth, accountability, increased discourse, and safety,' and a tidy moral, 'In today's divisive politics, such civility seems sorely missing.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "There is one case study, and the Bitz funeral scene carries it. The funeral comes back at the 2005 hearing and in the letter-signing atonement, so the story drives the whole analysis."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the act took courage, not just that it did: a district built on Lejeune and Cherry Point as 'economic engines,' 68 percent for Bush, primary challenges every cycle from 2008, and the lost Readiness ranking seat. The final paragraph drifts into a list of later votes and a civility aside without the same reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear, from the funeral to the reversal, the cost and the atonement. But the ending restates the thesis ('widely praised for the courage of his convictions... truth, accountability, and debate') and closes on a Graham quote that matches the title, not the opening scene at Lejeune."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): in the 'Bitz's funeral not only prompted... but also began' sentence, cut the not-only/but-also frame to 'Bitz's funeral also began a personal atonement for his \"pain of not voting my conscience.\"' Delete 'genuinely' in 'genuinely charmed' and 'certainly' in 'Jones certainly sacrificed.' Cut 'forever advocating for truth, accountability, increased discourse, and safety of American troops' down to the one item the sources most support. Drop the moral 'In today's divisive politics, such civility seems sorely missing.'",
+  "Format deduction (+5): remove the title, 'By Noah Durham,' and 'Cape Fear Academy...' lines from the essay body and put them in whatever separate fields or cover page the contest provides, so the essay starts at 'On an unusually warm Saturday in April 2003.'",
+  "Ending and dash deductions (+4 structure, +4 dashes): rewrite the 'When Jones died on his 76th birthday' sentence so it brings back the opening funeral using facts already in the essay (for example, the portraits of nearly 580 Lejeune Marines or the 12,000 letters set against 'This little boy would never know his daddy') instead of restating the thesis. Also change the '--' marks inside the Kennedy quote (page 225) to plain ellipses so no dash characters remain."
+ ]
+}

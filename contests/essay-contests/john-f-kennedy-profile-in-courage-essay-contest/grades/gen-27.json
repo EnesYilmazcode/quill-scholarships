@@ -1,0 +1,54 @@
+{
+ "id": "gen-27",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 922,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2023-winning-essay-by-jeremy-haynes",
+ "total": 91,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It names one official and one act ('he defeated an amendment attempting to disenfranchise Black Americans'), describes the act, and analyzes the risk through Kennedy's three pressures. Both the 'describe' and the 'analyze' parts get full sections."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated, numbered and sourced: 'At 1 a.m. on September 9, 1949', '2,800 white people' against 'only 104 black people', 'four out of thirty-five', 'Thomas A. Johnson', 'Gessner T. McCorvey', plus quoted fragments from McLaurin 1970."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly plain, sourced prose with some long, clumsy sentences that sound real. Tells: 'not only the rights of Black Americans, but also the rights of each one of us' (a not-only/but-also tidy moral at the end), the stock 'put his career ahead of his conscience', the triplet 'politically, economically, and socially equal', and filler hedges ('arguably', 'ostensibly'). No em dashes and no AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the essay: the 1949 filibuster, framed by the statue. It stays on topic the whole way, but the filibuster itself gets one summary sentence ('started with a journal reading and ended twenty-three hours later') and no scene from inside the chamber."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "It explains why things happened: the registrars' discretion is how the amendment kept Black voters out, the last day of the session is why a filibuster could kill the amendment without a vote, and the essay turns the Southern filibuster against itself. It also names the exact costs Langan risked (his colleagues, his reelection, his constituents)."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay opens on the hard-to-reach statue and returns to it ('the memory of what Langan did will not... soon be forgotten'). It then adds one more paragraph that ends on a generic moral: 'Langan defended not only the rights of Black Americans, but also the rights of each one of us.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the final paragraph (the Kennedy 1963 quote and 'defended not only the rights of Black Americans, but also the rights of each one of us') so the essay ends on the statue line: 'the memory of what Langan did will not, as the Mobile Press-Register said, \"soon be forgotten\"'. This removes the not-only/but-also moral and lets the opening image be the last thing the reader sees. Worth about +4 (voice and structure).",
+  "Turn the filibuster sentence in paragraph 3 into a short scene using only what the cited sources record. Ask Jeremy what McLaurin 1970 and the 1949 'Alabama filibuster' article say about what was read, who spoke in which hours, and how the chair tried to 'throw the rule book out the window'. Then move that quote out of paragraph 4 and into the scene. In the same pass, replace 'put his career ahead of his conscience and silently fall in line' with the plain fact of what he stood to lose in 1950. Worth about +3 (stories) and some voice.",
+  "Fix the internal inconsistencies so a fact-checking judge doesn't catch them. The essay calls the measure the 'Voter Qualification Amendment' in paragraph 2 and the 'Voter Qualification Act' in paragraph 6. 'Supported by only four out of thirty-five' and 'less than 12%' only add up if Langan is one of the four (5 of 35 would be 14%), so check the source and make the wording say which. Also confirm the 2,800 figure is cited to the right Kirkland year (2012 vs 2021)."
+ ]
+}

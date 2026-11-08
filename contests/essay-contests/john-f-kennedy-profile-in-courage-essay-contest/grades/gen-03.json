@@ -1,0 +1,60 @@
+{
+ "id": "gen-03",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2001",
+ "outcome": "winner",
+ "words": 1014,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2001-winning-essay-by-tyler-boersen",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Describes the act fully (\"In the early morning hours of June 18, 1999, Stupak voted no on the amendment\") but the analysis of why it counts as courage is mostly asserted in the abstract opening (\"to do what one believes is right, no matter what another says or does\"), not argued from the vote."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense and checkable: Menominee, almost $30,000 from pro-gun groups since 1992, June 18, 1999, the only one of 31 NRA-backed Democrats, 600,000 constituents, opponent Chuck Yob, the Peter Jennings special, re-elected by almost 20% losing one county."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice is human and sometimes clumsy (\"believe without avail\", \"never abuse its indelible result\"), but it leans on stock framing: a slogan antithesis (\"America over the special interest; nationalism over sectionalism\"), a grand moral (\"America is built on courage\"), a triple anaphora (\"A statement that... A statement that... A statement that\"), plus two dash breaks."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the essay, the vote from Columbine to the NRA pressure to re-election, which fits an analytic prompt. But the U.P. hunting paragraph (\"as much a part of the family as the kitchen table\") is generic scene-setting that holds up the story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives the right why, Stupak's principle \"If you're going to have a check system, then it has to apply equally to everybody\", but never explains why 24-hour checks would \"effectively destroy the intent\" of the bill. The account of the reversal, \"his constituents understood\", gets no argument, and \"approving what would be a major blow to gun control advocates\" muddles which side the vote served."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and follow the order of events, but the essay opens on the Hollywood hero and never returns to it. It closes on a generic civic moral: \"A statement that the populace is beginning to understand.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "Deductions",
+   "points": 0,
+   "reason": "Subtotal 75.0. Em dash x2: -4 (\"against evil – often against incredible odds\", \"well prepared– carrying food\"). Headings/byline block above the essay: -5 (\"U.S. Representative Bart Stupak (D-MI) / By Tyler Boersen / Haslett High School\"). Total 66, mid band."
+  }
+ ],
+ "fixes": [
+  "Last paragraph (voice 3 to 5 and ending 3 to 5, up to +12): cut \"From the courage of the colonists...\" and the three \"A statement that\" lines. Close by tying the opening's comic-book hero, who \"works against evil\", back to the real fact already in the essay: one vote, cast alone among 31 NRA-backed Democrats, in the early morning of June 18, 1999. Also cut the \"nationalism over sectionalism\" slogan in paragraph 3.",
+  "Paragraph 4 (ideas 3 to 5, +6): rewrite the Dingell sentences so it is clear which bill did what. Use only facts from the writer's sources to say why 24 hours instead of 72 would gut the check (for example, records that cannot be pulled in time). Then link it to Stupak's \"apply equally to everybody\" line so the reader sees why this vote, not his record, took courage. Remove \"approving what would be a major blow to gun control advocates\" from paragraph 3, because it reverses the meaning.",
+  "Opening and paragraph 2 (answers 4 to 5, plus 9 points of deductions back): delete the title/byline header block and replace both dashes with commas. Shorten the hunting-heritage paragraph to two sentences about why U.P. voters would read this vote as betrayal, and use the space to analyze why voters forgave him (\"when he had the chance to explain his vote, his constituents understood\"), stated as the essay's own claim about what political courage costs and earns."
+ ]
+}

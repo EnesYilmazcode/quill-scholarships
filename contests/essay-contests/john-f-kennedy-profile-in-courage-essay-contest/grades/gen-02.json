@@ -1,0 +1,54 @@
+{
+ "id": "gen-02",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2001",
+ "outcome": "winner",
+ "words": 1010,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2001-winning-essay-by-stephanie-dziczek",
+ "total": 78,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay describes the act, 'On April 26, 2000, H.0847, known as the civil unions bill was signed into law', and analyzes the risk, but Dean's own motive gets one clause ('disturbed by Vermont's reaction') and Dean doesn't appear until paragraph three."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of checkable facts: bill H.0847, April 26, 2000, the sixty-four million dollar deficit, seventy percent reelection margins, 'Take Back Vermont' on barns and billboards, and named opponents Ruth Dwyer and Neil Randall, each with a quote."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This is a real student's voice, but it is padded with stock framing and inflated metaphors: 'heroes and progressive sculptors of our living Declaration', 'burdened himself with the political plague in popularity polls', 'fought harder for open-mindedness than for votes' (a balanced antithesis), 'principle over popularity', and a tidy moral at the end. There is also one em dash inside the Dean quote."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study (the bill signing plus the 2000 campaign) carries the essay. The 1967 Independence Hall protest is a second beat that is on topic but delays the main story, and the résumé paragraph ('every politician's ideal resume') earns its place only as the stakes setup."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It shows why the act was risky: a majority of Vermont voters opposed the bill, there was a backlash campaign, hate mail and vandalism, and an opponent attacked him for ignoring the majority. It does not explain why Dean chose to make the bill 'the heart of his campaign' when he could have run on safe issues."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc, and the ending returns to the Declaration opening: 'Dean proved that justice is possible and that rights to \"life, liberty, and the pursuit of happiness,\" are still worth defending.' That payoff is weakened by a generic moral, and the Kennedy paragraph reads as a detour before the election result. Deduction: em dash present (-2), from the 80.0 subtotal."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+4 to +8): cut or flatten the inflated lines 'heroes and progressive sculptors of our living Declaration', 'burdened himself with the political plague in popularity polls' and 'Dean fought harder for open-mindedness than for votes'. Put the plain fact in their place, for example 'He made the bill the center of his campaign while polls showed most voters opposed it.' In the last paragraph, cut 'For a generation of young Americans, Dean proved that justice is possible' and let the reelection fact plus the Declaration callback carry the ending.",
+  "Answers the prompt (+4): compress paragraphs one and two (the Declaration rewrite claim and the suffrage/civil-rights list) to two sentences so that Dean and the bill appear by line five. Also cut the unsupported claim that Jefferson called his own words 'inaccurate', unless the Boyer citation says exactly that. Use the saved words to expand on why Dean signed, drawing only on what the writer's sources record (ask the writer whether a source explains what put the bill on his desk, rather than adding a reason).",
+  "Structure and em dash (+2 to +4): move the Kennedy quote paragraph after the Election Day result, or merge it into the final paragraph, so the essay goes from risk to verdict to meaning without a detour. End the Dean Advocate quote at 'respect for everyone' to remove the em dash. If the writer has the real 2000 vote margin in a source, use it in place of 'he was reelected'; don't estimate it."
+ ]
+}

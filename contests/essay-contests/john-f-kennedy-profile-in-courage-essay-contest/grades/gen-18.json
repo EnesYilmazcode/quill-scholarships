@@ -1,0 +1,54 @@
+{
+ "id": "gen-18",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2014",
+ "outcome": "winner",
+ "words": 1036,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2014-winning-essay-by-ben-wolman",
+ "total": 80,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It names an eligible official, describes the act (backing five gun bills, including HB 1224, then the recall) and analyzes why it was courageous against Kennedy's text: 'politicians must on occasion lead, inform, correct, and sometimes even ignore constituent opinion'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with checkable facts: HB 1224, a 15-round magazine cap, the Quinnipiac poll (39% of independents, 7% of Republicans), El Paso County, 'fewer than 11% of registered El Paso residents', the Maddow interview and cited page numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Two em dashes ('bills—including', 'caucus—inspired'), the filler 'deeply personal', stock phrases ('a unique resolve', 'unyielding', 'martyring his Senate office', 'selfless'), and a hedge ('perhaps John Morse felt'); it reads as a capable student report rather than a distinct person, though it does have long sentences."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study (the Morse recall) carries the whole essay and stays on topic; it stays at summary level apart from the Maddow exchange, and the closing biography paragraph drifts toward a résumé."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the act was risky, not just that it was: a Republican-leaning district with an unaffiliated majority, the NRA's record against incumbents and polls against the bills; it then tests the Maddow 'not reading emails' remark against Kennedy's 'seismograph' passage. The NRA paragraph leans on a textbook ranking instead of evidence specific to this race."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc from background to the act, the risk, the analysis and the close; the last line ('The families of these victims have to pay a huge price every single day for the rest of their lives') pays off the 'Small Price to Pay' title, but the paragraph before it restates his résumé instead of returning to the policeman and paramedic image from the opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut the stock phrases instead of rewording them. Change 'he had a deeply personal connection with the topic, a perspective that endowed him with a unique resolve' to 'he had dealt with it himself'; drop 'ironically' in the first paragraph; replace 'martyring his Senate office for it' with 'and lost his seat for it'; and cut 'Morse's actions were selfless' from the last paragraph so the quote carries it.",
+  "Em dashes (-4 deduction recovered): turn 'bills—including HB 1224, probably the most controversial of them (Stokols)—eventually' into commas or a separate sentence, and change 'he and his caucus—inspired by Abraham Lincoln's example—were' to 'he and his caucus, following Abraham Lincoln's example, were'.",
+  "Structure and story (+5 possible): shorten the closing biography paragraph ('Whether putting his own personal safety on the line as police officer, then chief...') to one clause that brings back the opening ex-policeman and paramedic who had 'helped save the lives of shooting victims', then go straight to the 'small price to pay' quote. Also cut the Fortune 'Power 25' textbook sentence and keep the more specific 'record of trouncing incumbents' and the NRA ad."
+ ]
+}

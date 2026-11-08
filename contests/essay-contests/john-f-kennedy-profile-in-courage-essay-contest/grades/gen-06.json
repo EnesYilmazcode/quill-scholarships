@@ -1,0 +1,54 @@
+{
+ "id": "gen-06",
+ "contest": "John F. Kennedy Profile in Courage Essay Contest",
+ "year": "2004",
+ "outcome": "winner",
+ "words": 1023,
+ "source_url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest/past-winning-essays/2004-winning-essay-by-avram-sand",
+ "total": 85,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The description is thorough, but the analysis is thin. The opening argues that 'taking a principled stand can be even more difficult with one's neighbors as constituents', and after that the courage is mostly stated in one closing sentence instead of argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of dated, checkable facts with sources: 'On May 13, 1964', 'Fourteen hundred residents', 'winning reelection by only twenty-one votes', 'passed 7-2', 'A record 12,820 people cast votes', with Damerell page citations."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Plain, human academic prose with long sentences and no em dashes, no 'not X but Y' and no AI vocabulary. Small tells: the filler adverb in 'incredible courage', the stock pivot chain 'However... Nonetheless', and the typo 'a more issue' inside a quote."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One case study, told as a full scene: the May 13 meeting, Confer facing 'the belligerent crowd', 'It took several policemen and a fireman to restore order', and the caller who 'yelled obscenities' at his six-year-old daughter. The second beat is the 1965 election. Both stay on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why the stakes were high (the NSA 'could gain control of the Board the next year', so the plan 'would have to be done soon') and why local office is harder. It never deals with the fact that Confer 'avoided the issue' in his own campaign, which complicates the courage claim."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological order, but the ending restates instead of returning to the opening idea about cynicism and neighbors as constituents. Last line: 'he showed incredible courage by alienating his neighbors and enduring verbal abuse as well as the threat of physical harm to stand up for his principles.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the last sentence of the final paragraph ('Although Confer did not run for reelection... to stand up for his principles') with a short paragraph of real analysis. Name the cost Confer accepted, using only facts already in the essay: his 21-vote margin, the 5,000-signature petition, and the threats to his family. Then explain why he spoke out at the May 13 meeting after avoiding the issue in his own campaign. That turns a stated conclusion into an argued one (criteria 1 and 5).",
+  "Make the close return to the opening paragraph's claim about cynicism toward 'politicians' and 'one's neighbors as constituents'. For example, end on the 'Good Guys' winning in 1965, the vote that kept the integration plan Confer pushed through in 1964, as the community's answer to the cynic. Do not restate the thesis (criterion 6).",
+  "Fix the misquote 'a more issue' to 'a moral issue' (check it against Damerell p. 257). Cut the filler 'incredible' from 'incredible courage'. Remove the duplicate 'Confer rose from his seat', which appears twice in the May 13 paragraph, so the second time, when he faces the crowd, lands harder (criterion 3)."
+ ]
+}
