@@ -1,0 +1,54 @@
+{
+ "id": "nw-22",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 617,
+ "source_url": "https://www.thenation.com/article/archive/pedagogical-and-national-disaster/",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Budget cuts get four paragraphs, but tuition hikes, half of the prompt, are never mentioned. The essay stays on 'shortages and deficiencies, ranging from fewer teachers and larger classrooms to inadequate technology and equipment.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable details: Cherry Hill East, the National Latin Examination, 'three ovens... does not have any bread, eggs, flour or oil', fifteen students becoming over thirty, a five-year-old computer, 4 x 2 feet tables. The summer and government paragraphs drop back into general claims."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Two 'not only X but Y' constructions ('not only to cook... but to realize', 'not only frustrating but debilitating'), four em dashes, stiff phrasing ('pedagogical disasters', 'helpless quandary') and a tidy closing moral. Some real voice remains ('our poor Latin teacher', 'way ahead of us'), but no sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real story (the cooking teacher forced to retire) and one small beat (Latin review cut short before the exam). The teacher story is dropped after paragraph 1, and the rest of the essay is a list of problems."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some reasoning shows cause and effect, such as the teacher spending 'the first ten minutes getting everyone quiet' and summer courses moving into the year and reducing electives. The Japan/Germany comparison and the final paragraph assert harm without explaining it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on the cooking teacher but never returns to her. The ending is a generic moral: 'harming their ability to contribute in positive ways to our society and our world.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Tuition hikes are never answered: this costs about 12 points on criterion 1 plus the -10 missing-part deduction. Cut the Japan/Germany sentences and the government paragraph (about 120 words), and use the space for a paragraph on tuition and fees. Ask Enes for the real numbers: the tuition or fee increase he faced, the college he is aiming for and what it costs, and any real decision it forced on him (working hours, a school he ruled out, a lab or AP exam fee).",
+  "Remove all four em dashes (-6 points): 'other half, bleak rows... and rotting desks, remains', 'books to do research from, only online databases', 'Now we have nothing, just a long and empty summer'. Rewrite the two 'not only X but Y' sentences as plain statements, for example 'She taught me that cooking is both an art and a science' and 'Working on a slow five-year-old computer that cannot download the latest software means we can't finish our work on time.' Cut 'deeply', 'pedagogical disasters' and 'helpless quandary'.",
+  "Replace the final government paragraph with a closing that returns to the cooking classroom: the ovens with no flour or oil, and the teacher of the five mother sauces retiring. Say what losing her and that class means for the cooking career he names in line one, using only what really happened."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-36",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 754,
+ "source_url": "https://www.thenation.com/article/archive/energy-solution-cannot-wait/",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names one issue and takes a clear position: \"the most serious one has been virtually ignored: How can we provide the energy our country needs, without destroying our world?\" But the first paragraph spends about 100 words listing the other issues before getting there."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some checkable facts: Hurricane Irene, \"over a billion dollars in repair costs\", Japan's 2011 earthquake, the Colorado fires, Michigan's crops and \"an eerily cold June\". But they come as a list, one clause each, and the solution section has no names or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real student voice comes through (\"much gloomier than the usual June gloom\", the elephant pun), but the stock phrasing adds up: \"worse and worse\" appears twice, there are slogans like \"before it is too late\" and \"The gains will be tremendous\", and \"authority, control and strength\" is a triplet. No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories and no case study told in full. Paragraph 3 lists six weather events in a sentence each, so none of them carries the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names the trade-offs of drilling, fracking and nuclear, then offers a generic list: \"invest in energy efficiency and conservation... wind, geothermal, solar and photovoltaic energy\". It never says who acts, how, or why people would go along."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The paragraphs are clear. The ending goes back to the opening point that the campaign is ignoring energy: \"Our candidates need to bring new energy ideas into this year's campaign, and they need to do it now.\" The 'power' wordplay helps. Paragraph 4 repeats the thesis three times."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 5 (\"The problem is more solvable...\"): replace the list of wind, geothermal, solar and photovoltaic with one specific policy the writer actually supports. Name the current fix, say why it falls short, and say who would carry out the change. Ask the writer which real proposal they had in mind; don't invent one. Worth about +9.",
+  "Paragraph 3: pick the one weather event closest to the writer, most likely the cold June in their California hometown, which they lived through. Expand it into a short, concrete case and cut most of the one-line list (Irene, the October snow, Colorado, Michigan) to make room. Ask the writer for the real details of that June. Worth about +9.",
+  "Paragraph 4 and the ending: cut the repeated restatements (\"If we do not move to solve our energy problem right away...\", \"the problem will only become worse and worse\", \"The gains will be tremendous\", \"It isn't too late\"). Use the space to join two short clauses into one longer sentence with real reasoning, so the voice rule of one sentence over 45 words is met. Worth about +8."
+ ]
+}

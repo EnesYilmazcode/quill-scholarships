@@ -1,0 +1,54 @@
+{
+ "id": "nw-17",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "winner",
+ "words": 614,
+ "source_url": "https://www.thenation.com/article/archive/failing-new-jerseys-schools/",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Budget cuts are covered in depth (\"the late buses have been cut\", \"all field trips have been eliminated\"), but the prompt's second part, tuition hikes, is never mentioned; the only tax point is \"a combination of tax hikes and pay cuts\" at the district level."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some strong concrete details (\"history textbook copyrighted in 1999\", \"English textbook with no cover\", \"a computer that takes ten minutes to turn on\", the \"spring fever\" quote), but the core facts stay vague: \"several million dollars less\", \"Dozens of teachers\", \"A group of elective classes\", and the school is never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: a not-only construction with an em dash (\"not only cut out the frivolous—it eliminated the essential\"), a triplet (\"a little less bright, a little less exciting, and graduates a little less prepared\"), AI vocabulary (\"navigate\", \"myriad\", \"catalyzed\"), a rhetorical question (\"And whom can posterity blame for this?\"), a tidy moral close, and no sentence over 45 words. The repeated textbook list is the most human passage."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is zero full stories and one beat: \"I was there for the statewide walkout. I saw those students begging to be heard.\" It is two sentences with no scene. The rest of the essay is a list of cuts and political commentary."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The late-bus paragraph explains how a cut causes harm (students who need extra help \"may choose to forgo the wait altogether in order to be home on time\"), but most claims stop at assertion (\"undermines the whole educational process\", \"leading to delinquency\")."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but the essay opens on state politics rather than the writer, and the ending is a generic moral instead of a return to the opening: \"In the meantime, it is up to me and my fellow students to navigate an educational system damaged by one of the biggest recessions of all time.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the missing tuition-hikes part (-10 deduction, plus criterion 1 rises from 3 to 5, about 18 points). Add a paragraph after the late-bus paragraph that names the real tuition or fee increase you or your family face: the college, the old and new amounts, and what it changes in your plans. Ask Enes for the true figures; do not estimate them. To make room, cut the two opening paragraphs on decades of politics and Christie's election.",
+  "Strip the AI tells (voice from 2 to 4, +8, plus the -4 em dash deduction recovered). Rewrite \"not only cut out the frivolous—it eliminated the essential\" as a plain statement of what was cut. Replace the dash in \"due to lack of funds—we must suffer\" with a period. Cut the \"a little less bright, a little less exciting\" triplet, the \"And whom can posterity blame for this?\" question and its answer paragraph, and the final \"navigate an educational system\" line. Change \"a myriad of\" to \"many\".",
+  "Make the walkout the story that carries the essay (stories from 2 to 4, +6; structure from 3 to 4, +2). Move \"I was there for the statewide walkout\" to the opening and tell it with the real details Enes remembers (the date, where he stood, what the signs said, who was beside him). Then end by returning to that walkout and the \"spring fever\" comment instead of a moral. Ask Enes for those details rather than adding any."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-04",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 776,
+ "source_url": "https://www.thenation.com/article/archive/dollars-not-ballots/",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one root cause plainly and argues why (\"money is shaping the interests and institutions that our government caters to\"), but only one line, \"Unlike some other issues that contribute to political gridlock\", says why money matters more than rival causes like gerrymandering or polarization."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong on checkable facts ($2 billion for 2012, $10.5 million Senate average, Lizza's \"They told me I have to raise $3 million\", four hours a day, $251 million in 2010, 63% and 82% Millennial polling). Weak on others: \"proven effective on the state level\" names no state, and \"98 percent of Americans\" has no source and looks too high."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Reads as polished op-ed prose, not one person talking. Tells: 7 em-dash constructions, \"not only corrodes policy\", balanced antitheses (\"dollars, not ballots\", \"fundraising, not governing\", \"doesn't simply end... Rather\"), and stacked connectives (Moreover, Worse, Accordingly, Crucially, however), plus \"pernicious\". The missing space in \"weight.Yet\" is a typo."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so case studies count as the story. There are 5 (Lizza tweet, Obamacare, Wall Street and Geithner, banking lobby, NRA), all on topic, but each gets one or two sentences. No single case is followed far enough to carry the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning has real mechanisms: fundraising time pushes out governing (four hours against two), donor loyalty bends floor votes, and incumbents who benefit from the cost block reform. The fix paragraph falls back on a generic menu (\"Public funding for elections, stricter corporate giving regulations, and greater lobbying oversight\") with no named example and no account of how it works."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Clear sequence: thesis, cost, time, policy distortion, why it persists, young voters, remedy. The last line returns to the opening civics image: \"while high school civics might have taught us that each vote counts, having a voice in politics comes with a very high price tag.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12, plus 6 points back from the em-dash deduction): remove every em dash. Turn \"Increasingly—and dangerously—money\" into \"Money increasingly shapes...\", make \"—$2 billion for the 2012 presidential election—\" a parenthetical or its own sentence, and do the same in the Wall Street, NRA, \"so why does it persist\" and Citizens United sentences. In the same pass, cut the stock antitheses (\"dollars, not ballots\", \"fundraising, not governing\", \"doesn't simply end... Rather\") and recast \"not only corrodes policy; it has\" as two plain claims. Replace Moreover, Accordingly and Crucially, however with direct links, or drop them.",
+  "Stories (up to +6): in the policy-distortion paragraph, cut the Obamacare and NRA one-liners. Give the freed words to the Wall Street, Geithner and $251 million banking-lobby case: follow which prosecution stalled and which donor ties sat behind it, so one case carries the argument instead of five brief mentions.",
+  "Answers and specificity (up to +8): after \"Unlike some other issues that contribute to political gridlock\", add one or two sentences saying why money sits beneath gerrymandering or polarization rather than beside them. Ask Enes for the real source behind \"proven effective on the state level\" (which state's public-funding program) and behind \"98 percent of Americans\". If he can't source a figure, cut it or soften it; don't keep an unsupported number."
+ ]
+}

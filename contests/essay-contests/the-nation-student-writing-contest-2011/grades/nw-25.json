@@ -1,0 +1,54 @@
+{
+ "id": "nw-25",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 799,
+ "source_url": "https://www.thenation.com/article/archive/balance-crisis-information-and-democracy/",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the issue and takes a position in line one: \"The most serious and urgent problem facing my generation is the degeneration of the concept of 'objective' news.\" Then it argues why this matters more than environmental and economic problems."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Facts a reader can check: the Entman definition, SPJ dropping \"objective\" in 1996, the 2009 University of Illinois 97% figure, the 2010 Pew 44% figure and FAIR's 53%. Weak spots: the passivity section has no evidence, \"Celia Friend\" should be Cecilia Friend, and there is a typo in \"evenly spilt\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a human but stiff and academic. Stock tells: \"Facing, as we do, a plethora,\" \"of profound importance,\" \"unprecedented opportunities,\" the paired lines \"Where there is debate... Where true division... does not exist,\" a \"neither X nor Y\" construction, stacked rhetorical questions and an abstract closing moral. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic case study (climate coverage), which the rubric accepts for an analytic prompt. It is told only as three statistics, with no article, headline or scene, and the writer never appears even though the prompt asks about \"my generation\"."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The core reasoning has a clear mechanism: equal space for unequal evidence leads the public to believe scientists are split. The fix is vague, though (\"We can establish standards that promote objective truth\"), and it never says who sets those standards or how. The step from balance to young people's passivity is claimed but not shown."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs move in a clear order (claim, definition, mechanism, case, effect, remedy), but the case study is buried in paragraph 6. The ending restates the thesis instead of going back to the opening: \"Without the operation of truthful, discerning journalism however, we will continue to be misinformed and passive in the face of our society's defining problems.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): cut paragraph 2's opening \"Facing, as we do, a plethora of complex environmental, economic and social problems, it may seem counterintuitive, even trivial\" down to one plain sentence such as \"Fixing journalism can sound smaller than climate or the economy, but we can't agree on fixes for those without shared facts.\" Delete \"of profound importance\" and \"unprecedented opportunities.\" Cut the paired \"Where there is debate... Where true division...\" lines down to one sentence. Merge two short sentences somewhere into one long one so the rhythm varies.",
+  "Case study (up to +6): move the climate paragraph (97% of climatologists vs 44% of Americans, plus FAIR's 53%) up to paragraph 2 so the essay opens on that gap and the Entman and SPJ definitions explain it afterward. If Enes has a real moment where he saw a falsely balanced story or argued about one, ask him for it rather than writing one. Otherwise sharpen the FAIR finding by naming the papers and the decade it covered.",
+  "Ending and remedy (up to +7): replace the last paragraph's \"New technologies have provided unprecedented opportunities...\" with a concrete change and who makes it. For example, editors weight space by expert consensus, or SPJ puts \"objective\" back into the code it removed it from in 1996. Then close by returning to the 97% vs 44% gap instead of restating the thesis. While editing, fix \"Celia Friend\" to \"Cecilia Friend\" and \"spilt\" to \"split.\""
+ ]
+}

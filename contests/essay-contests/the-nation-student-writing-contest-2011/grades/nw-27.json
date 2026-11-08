@@ -1,0 +1,54 @@
+{
+ "id": "nw-27",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 739,
+ "source_url": "https://www.thenation.com/article/archive/dangers-absent-mind/",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The issue is named early as a clear position ('the inability for our generation to be present in time, place, state-of-mind'), but the case for why it is the MOST important is made through a cancer hypothetical rather than an argument."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The beach scene is concrete (People magazine, 'a recent NYU graduate', 'younger by twenty months', 'looking up dinner recipes'), but everything after it is abstract: unnamed drivers, unnamed students, smoking 'around the world', with no numbers or sources."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The dialogue sounds like a real person ('Ya… give me a sec'), but the second half falls into stock phrasing: 'the fact of the matter was', 'Absolutely not', the 's/he... her/his' hedging, 'spiral out of control to a level of no return', a closing quote, and a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story, told as a scene with dialogue. It is the right story, but the essay drops it after paragraph 5 and never brings it back, so it stops carrying the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The smoking comparison hints at a mechanism (social acceptance makes the habit stick), but it is only asserted. The cancer-pedestrian chain is speculation, and the call to action ('control what we can in the present and have faith in the ability of mankind') names no actual change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on the sister but ends on a Lennon quote and a generic moral: 'We must control what we can in the present and have faith in the ability of mankind to cooperate so that we can collectively solve our problems.' Deductions applied: em dashes, 4 found (-6, at the max), taking the subtotal of 62 down to 56."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the cancer-pedestrian paragraph ('Although these two scenarios may seem...devastating'), which is about 100 words of speculation. Use the space for the mechanism the essay already holds: 'I did not need to tell her to put her phone down... She understood the point.' Explain why naming the distraction was enough, and ask the writer what he actually does, or has seen work, to stay present. Use only his real answer (worth up to +9 on ideas).",
+  "Rewrite the stock phrasing in paragraphs 5 to 8 in the voice of the beach dialogue. Cut 'the fact of the matter was', the 's/he... her/his' constructions (pick one pronoun or use 'they'), 'spiral out of control to a level of no return', and the 'Absolutely not' Q&A. Replace all 4 em dashes ('wisdom—that of a recent NYU graduate—to me', 'brother—who was sitting directly next to her—in') with commas or parentheses. Together this recovers +6 in deductions and up to +8 on voice.",
+  "Replace the Lennon quote and the 'have faith in the ability of mankind' close with a last line that goes back to the sister on the beach. Use something that really happened in that scene, such as her phone going down or 'Oh! You mean kinda like what I was just doing?', so the ending pays off the opening instead of restating a moral (up to +6 on structure)."
+ ]
+}

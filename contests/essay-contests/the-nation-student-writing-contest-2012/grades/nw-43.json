@@ -1,0 +1,54 @@
+{
+ "id": "nw-43",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 795,
+ "source_url": "https://www.thenation.com/article/archive/we-cant-trust-government/",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names an issue plainly: \"the most important issue of the 2012 elections is renewing public trust in government to reinvigorate small businesses\". But it mixes two issues (trust and small business), and the middle turns into open questions instead of defending one position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has real texture: the restaurant in western Massachusetts serving Old World food, a mother who is \"Manager, waitress and occasional dishwasher\", and two naturalized immigrants who bought the building after seeing a \"for sale\" sign. There are no names, years, dollar figures or customer counts, and the policy section is all abstraction (\"high payroll, unemployment and income taxes\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as human but strained. Thesaurus words pile up (\"zenith to nadir\", \"ameliorate\", \"burgeon\", \"actualizing\"), and \"incredulousness\" is misused. A Lincoln slogan stands in for argument (\"of the people, by the people, for the people\"), and there are three em dashes. The long sentences and clumsy moments help (\"struggle to make mends\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the mother's restaurant, opens with a real exchange (\"Were there a lot of customers?\"). It disappears for the four policy paragraphs and only comes back as a summary at the end, so it frames the essay without carrying it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It lists problems and rhetorical questions (\"should businesses that post 'help wanted' signs near the border have a say\"). The only fix is \"Government, therefore, must find an efficient way\". It never names an existing policy, why that policy fails, or one concrete change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It returns to the mother at the close, which works. But the last line restates the thesis instead of paying off the opening image: \"Securing this integral, and somewhat basic, relationship between government and its people is a critical, overall issue for the 2012 elections.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the two question paragraphs (\"Many employees seek an increase to the federal minimum wage...\" through \"...difficult for small businesses to compete?\") and use the space for one concrete policy argument. Pick the one tax or regulation the essay says actually hurts the restaurant (it names payroll taxes in \"us against high payroll taxes\"), say what it costs the business and what single change would help. Ask the writer for the real figure, such as the monthly payroll tax bill or how many staff were let go, rather than estimating it.",
+  "Narrow the thesis to one issue. Replace \"renewing public trust in government to reinvigorate small businesses and self-employed people, with government oversight expanding American confidence in spending in an economy that is of the people, by the people, for the people\" with a plain claim such as \"the most important issue of 2012 is whether government makes it easier or harder for a family business like ours to survive\". Then cut the slogan.",
+  "Replace the thesaurus words and remove the three em dashes. \"wavering from zenith to nadir in an unpredictable cycle of boom and bust\" becomes \"busy some months and empty others\". Cut \"incredulousness\", \"ameliorate\" and \"burgeon\". Replace the em dashes in \"subjective—that\", \"start again—to\" and \"people—including\" with commas or periods. End on the mother's \"no\" from the opening instead of the restated thesis."
+ ]
+}

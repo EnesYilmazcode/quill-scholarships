@@ -1,0 +1,54 @@
+{
+ "id": "nw-01",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "winner",
+ "words": 772,
+ "source_url": "https://www.thenation.com/article/archive/thirty-years-late-class-war/",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one root cause plainly and argues it ('the rise and dominance of market liberalism'), but much of the 'why' is assertion ('nearing completion', 'eroded the fabric of civil society') rather than demonstrated causation."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Two strong anchors ('get up every day at 2 am... to load up big brown UPS trucks'; 'beat the Democratic Senate Caucus' candidate in a State Senate primary here in Georgia' in 2010) plus named thinkers, but the crisis list (food insecurity, incarceration, student debt) carries no number or name."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Distinct, opinionated person with clumsy real moments ('I got shellacked'), but leans on 'not only... but' three times, 'did not just create X but Y', 'we must not seek out the best leaders, we must rebuild', a slogan close, and 'dear Nation reader' addresses the wrong audience."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two on-topic stories (UPS co-workers, 2010 primary), both told as summary with no scene, and buried in paragraphs 4 and 5 after three abstract paragraphs."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "A real causal chain (economic instability leaves people unable to engage, so political solutions drop out 'from one's vocabulary'), but the remedy is vague: 'Eradicate the stranglehold... and the rest will take care of itself.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized paragraphs, but it opens on Keynes and closes on a slogan that never returns to him or the UPS co-workers: 'Eradicate the stranglehold of market liberalism on the political process, and the rest will take care of itself.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraph 2 (Hayek, 'more feudal arrangement', Polanyi) and most of paragraph 3's crisis list, and move the 2 am UPS shift and the 2010 Georgia primary to right after the Keynes opening. That puts the two real stories up front and takes the essay's least specific material out of its first half (stories, specificity and answers_prompt, worth up to about 15 points).",
+  "Remove all five em dashes (after 'liberalism', 'Polanyi', 'disappeared', 'act' and 'self-reliance', worth 6 points back). Delete 'I am sure that you too, dear Nation reader, have witnessed this encroachment as well', which shows the essay was written for a different outlet. Then rewrite the three 'not only... but' sentences and 'did not just create a cadre of Occupy activists but' as plain direct claims (voice, worth up to about 8 points).",
+  "Replace the closing slogan ('Eradicate the stranglehold... and the rest will take care of itself') with a line that goes back to the UPS co-workers or to Keynes's point about ideas, and states the concrete re-engagement the campaign taught (union support, primaries being 'still accessible'). That way the ending pays off the opening and the remedy has a mechanism (structure and ideas, worth up to about 8 points)."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-15",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 755,
+ "source_url": "https://www.thenation.com/article/archive/betrayal-american-dream/",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The direct answer is only 'my academic funding has been cut, and it is now uncertain whether I will still be able to attend Rutgers.' It never says how his classes, his course load or his plans changed, and paragraph 2 is a general policy argument instead."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The context is concrete: Rutgers, EOF, Christie, '$9 million', the RA job, the Raritan River lounge. The central loss has no number, though: no dollar amount, no tuition figure, nothing on what the 'academic funding' was."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like an angry, real person and has long sentences, but it leans on stock moves: 'That may seem hyperbolic, but it's not', 'it is not simply a matter of', 'declaration of war against the American Dream', a list of three ('passing out flyers, signing petitions, speaking at rallies'), and 3 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three beats: the cut notice (one-line summary), peers turning political (summary), and the RA lounge (the only real scene). The funding-cut story is never told."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some real reasoning: cutting 'eggheads' is easier to sell than 'progressive tax policy', and voters turning away lets the greed continue. The rest is assertion ('there is no such thing as compromise')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear and the lounge close is good, but the last line, 'hope that the students that sit here with me fare better than many of us have', does not return to the opening idea of 'the essay that I had originally wanted to write'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1, 'Yesterday, I was informed that my academic funding has been cut': replace with the real particulars, which you need to ask Enes for. Which award was cut (the EOF grant?), by how much, how he was told, and the dollar gap he now faces for autumn. Criterion 1 and 2 points are both lost on this one sentence.",
+  "Paragraph 2: cut the general case ('For far too long we have taken education for granted... from Berkley to New Brunswick', about 120 words) down to the one 'eggheads' mechanism sentence. Use the freed words on what the cut has already changed for him, such as courses, hours worked or the semester plan, using only facts Enes confirms. This lifts criteria 1, 4 and 5.",
+  "Remove the 3 em dashes (-6). Rewrite 'That may seem hyperbolic, but it's not' and 'it is not simply a matter of my education being compromised' as plain statements. Fix 'then it is' to 'than it is', 'Berkley' to 'Berkeley', and 'degrees?.' to 'degrees?'. Then end by going back to the optimistic essay he meant to write, so the last line pays off the opening."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-26",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 642,
+ "source_url": "https://www.thenation.com/article/archive/competition-pandemic/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one issue plainly and early, 'The competition pandemic will continue to thrive', but drifts into poverty and population growth ('Twenty percent of the world is living in poverty') without tying them back to competition."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Almost nothing is checkable: no school, class, date, number of APs or real person. The only figures are an unsourced 'Twenty percent' and a generic 'Harvard Law graduate'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Typos ('activites', 'competitition') and asides ('(hopefully all)') sound human. But it leans on stock moves: 'not only made up of', 'It fosters excellence', 'It is absolutely vital', 'Everyone is susceptible. No one is immune.', a slogan close ('We need a cure!') and a disease metaphor stretched over the whole essay."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories. 'My parents, for example, are constantly shocked with the piles of homework' gestures at one but never shows a scene, and the rest is general claims."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Asserts harm without explaining how it happens ('This could be partially due to the ill effects of relentless competition'). The causal links to unemployment and poverty are thin, and the only answer offered is 'discover a cure'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The ending comes back to the disease metaphor but only restates it with a slogan ('We need a cure!'). The second paragraph runs college stress and unemployment together in one block."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2, 'My parents, for example, are constantly shocked with the piles of homework dumped on our heads': replace this with the writer's one real moment of competition, such as an actual night, class, number of APs, or something a parent actually said. Ask the writer for it; don't invent it. Then cut 'As hard as a student may try, he is taught to believe...' so that moment carries the paragraph (stories 1 to 3, specificity 2 to 3).",
+  "Cut the unemployment, Harvard Law, population-growth and 'Twenty percent of the world is living in poverty' sentences. They are unsourced, loosely connected and dilute the issue. Use the roughly 150 words this frees to show how competition works in the writer's own school, for example ranking, class rank or how AP choices get made, so the reasoning explains why it happens and not just that it does (ideas 2 to 3, answers_prompt 4 to 5).",
+  "Replace the last paragraph ('It is absolutely vital... We need a cure!') with one concrete change the writer actually believes in and who should make it, then end by returning to the writer's own senior-year situation from paragraph 2. Ask the writer what they would really change. Also cut 'not only', 'fosters', 'absolutely' and 'Everyone is susceptible. No one is immune.' (voice 3 to 4, structure 3 to 4)."
+ ]
+}

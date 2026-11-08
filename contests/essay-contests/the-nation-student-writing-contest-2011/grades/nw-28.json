@@ -1,0 +1,54 @@
+{
+ "id": "nw-28",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 690,
+ "source_url": "https://www.thenation.com/article/archive/digging-democracy/",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It takes a clear position, 'the most serious threat to my generation is the increasing dominance of the corporate voice', but the claim only arrives in paragraph 4. Before that, paragraph 3 spreads across climate, fracking, finance and drones."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The opening is physical and checkable: a Louisiana beach in January, 'Color-coded stakes dotted the sand', ATV convoys, workers in 'camouflage jumpsuits, ski masks'. Citizens United and 'top 1% controls 40%' also give hard facts. The back half drifts into abstractions such as 'tax breaks, lax regulation'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice is distinct and opinionated, but it carries stock framing: the antithesis 'not in the land of the free, but in the land of the dependent', triplets ('power, the opportunity, and the knowledge'; 'healthier, wiser, and more free'; 'transparency, systems of accountability, and critical thinking skills'), 3 em dashes, and slogan endings like 'pesticides and debt'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are 2 beats. The beach scene is strong and on topic, and the mother's line about education is a small personal beat. The beach is a snapshot, not a story with an arc, and it disappears after paragraph 1 instead of carrying the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains part of the cause: Citizens United gives corporations a 'political bullhorn', and economic inequality becomes political inequality. But the key step, 'the range of options we have to choose from has been whittled to a handful of bad ones', is asserted and never shown."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending returns to the opening watershed image: 'what washes down from the high mountain peaks isn't fresh air, wildflowers, and gold. It's pesticides and debt.' The turn from oil spill to corporate power is abrupt, and the last paragraph mixes education, budget cuts and trickle-down economics."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): remove all 3 em dashes ('fossil fuels is—regardless', 'influence—through', 'rules—we're') by splitting them into separate sentences. Cut the antithesis 'I am coming of age not in the land of the free, but in the land of the dependent.' Reduce at least two of the triplets to their strongest single item, for example 'healthier, wiser, and more free' to just 'more free'. That also removes 6 points of em-dash deductions.",
+  "Answers prompt / structure (+4 to +6): move 'the most serious threat to my generation is the increasing dominance of the corporate voice' up to the end of paragraph 2, right after 'the results are sobering'. Cut the list in paragraph 3 ('fracking, economic crises caused by mysterious financial dealings, or the murder of civilians by aerial drones') so the essay builds one argument instead of a menu of issues. Also correct 'Citizen's United' to 'Citizens United'.",
+  "Mechanism (+3): back up 'the range of options we have to choose from has been whittled to a handful of bad ones' with material already in the essay. Bring back the fishermen 'weeping, in crowded town hall meetings' or the cleanup workers from the beach, and show what choice they lacked. Ask Enes what he actually saw or heard on that beach or at those meetings before adding anything. Do not invent detail."
+ ]
+}

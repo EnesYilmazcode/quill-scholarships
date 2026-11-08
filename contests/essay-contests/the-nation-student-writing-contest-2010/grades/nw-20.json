@@ -1,0 +1,54 @@
+{
+ "id": "nw-20",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 751,
+ "source_url": "https://www.thenation.com/article/archive/necessary-luxury/",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt has two parts, budget cuts and tuition hikes. Budget cuts never come up at all, and tuition is answered late and in general terms: \"colleges and universities, public as well as private, are so expensive\". The first two paragraphs (about 390 of 751 words) are about the father's career before the prompt's subject appears. A -10 deduction applies for the unanswered budget-cuts part."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The father scene has real physical detail: \"strong-smelling stuff from a blue bottle\", \"paisley ties\", \"wingtips\". But the cost argument has no school names, tuition figures, loan amounts or years, only \"the prices of the schools were completely prohibitive\" and \"a small, local technical college\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening sounds like a real person (\"like a little cowboy about to enter a saloon\", \"back when he had actually had hair\"), and there are no em dashes and some long sentences. The second half turns to stock phrasing: \"I will never forget\", \"from being a ladder to success to a one-way trip to debt\", \"like an unavoidable roadblock\", \"dumbfounded\", the slogan close \"pursuing a goal has become a luxury\", and the \"not just to work for the sake of a paycheck\" antithesis."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two stories. The father's layoff is fully told but only indirectly on topic: it explains the family's money, not tuition hikes or cuts. The writer's own college search, which is the part the prompt asks about, is told as a summary (\"As I began to research my options\") with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says cost limits choice (\"judge a potential school by... the size of its financial aid package\") but never explains how: no cut program, class, aid change or price increase is named, and no cause is linked to an effect on the writer's education."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs move in a clear order, but the front is too heavy and the essay ends on a general moral, \"it seems that pursuing a goal has become a luxury that is getting more expensive all the time\". It never returns to the father in the doorway or his advice to \"pursue what I was most passionate about\"."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer budget cuts. Ask Enes for the real, checkable effects of cuts or hikes on his own education: the technical college's actual tuition and how much it rose, a course or program that was cut or full, the loan amount, or a school he dropped because of its price. Then put those facts into paragraph 3 in place of the general lines \"It was then that I began to be struck by how sad it is...\" through \"as normal a part of receiving an education as buying books.\" This recovers the -10 deduction and lifts answers_prompt, specificity and ideas.",
+  "Cut paragraph 2 to two sentences. Keep the retail jobs and the mother's three jobs, and drop \"The executive world is not kind to the older generation\" and the repeated advice. That frees about 120 words for the prompt and makes the father's story serve the cost argument instead of standing apart from it.",
+  "Replace the last sentence with a line that brings back the opening: the father's advice to pursue what he loves, set against the specific cost that now stands in the way. Also cut the stock lines \"ladder to success to a one-way trip to debt\", \"like an unavoidable roadblock\" and \"I will never forget\", and fix \"jam\" to \"jamb\"."
+ ]
+}

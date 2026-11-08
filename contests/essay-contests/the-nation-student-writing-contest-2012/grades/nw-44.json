@@ -1,0 +1,54 @@
+{
+ "id": "nw-44",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 747,
+ "source_url": "https://www.thenation.com/article/archive/wealth-and-democracy-inverse-relationship/",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "States a clear position early (\"the most important issue of election 2012 is the lack of regulations on corporate power over our democratic system\") but never argues why it outranks the economy, healthcare or other 2012 issues, and the \"Big Brother\" paragraph drifts."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong anchors (January 2010, 5-4 vote, Walker outspent his opponent \"seven to one\", the quoted Obama response), but \"political donations from undisclosed donors have risen dramatically\" has no number, \"a candidate\" in 2008 is never named, and the case is misnamed \"Federal Elections Commission\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes and some real clumsiness (\"seven time the funds\"), but heavy stock rhetoric: \"Right now we stand at a crossroads\", the slogan \"we make ourselves subhuman\", \"deeply concerning\", two rhetorical questions in a row, and the tidy close \"win back our minds\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two beats: the Walker recall works as a case study but is summarized, and the writer's own 2008 memory (\"I remember going to see a candidate speak\") gets one sentence with no scene and no name."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains the causal chain (unlimited spending buys publicity, publicity swings small elections, anonymous donors hide influence) but the remedy is generic: \"support politicians who will fight the Supreme Court's ruling, and enact election reform laws\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Opens and closes on Biko's line about the mind, which is a real loop-back, but the last line is a slogan: \"It's time to reform our system and win back our minds.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut \"Right now we stand at a crossroads\", the two \"Why do you think...\" questions, and \"If we continue to treat corporations like humans, we make ourselves subhuman\". Put one plain sentence in their place that says what false consciousness means here, then end on the Biko callback without \"It's time to reform our system and win back our minds.\"",
+  "Specificity and story (+7 possible): ask Enes for the real details of the 2008 rally (which candidate, where, what she said). If he can't give them, cut that paragraph down to the Walker case. Swap \"risen dramatically... dropped dramatically\" for the actual figure from his source, or delete that sentence. Correct the case name to \"Federal Election Commission\" and make Biko's name match (\"Steve\" in both places).",
+  "Ideas (+6 possible): replace \"support politicians who will fight the Supreme Court's ruling, and enact election reform laws\" with one specific remedy and who would carry it out, for example a donor-disclosure requirement for super PAC spending. Say why disclosure works when voters alone can't (it removes the anonymity he complains about). Cut the \"Big Brother\" paragraph to make room."
+ ]
+}

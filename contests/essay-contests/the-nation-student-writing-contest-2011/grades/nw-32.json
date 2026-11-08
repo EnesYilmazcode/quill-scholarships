@@ -1,0 +1,54 @@
+{
+ "id": "nw-32",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 786,
+ "source_url": "https://www.thenation.com/article/archive/mommy-where-are-all-black-kids/",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one issue and takes a position on it: 'I believe the high dropout rates of black Americans are a consequence of... a premeditated cycle of oppression'. It never argues why this issue matters more than other issues facing the generation, so 'most important' is stated but not shown."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Gives real numbers ('45.9 percent', '94 percent', 'every twenty-six seconds'). But the city, the school, the years and the actual count of black students are never named, and the high school scene is a 'you' hypothetical."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a particular person who is angry, with clumsy real moments ('commodity to so colleges', 'as much of a priority as it for white Americans') and long sentences. Tells: stacked mixed metaphors ('cancerous tumor', 'ticking time bomb', 'repressed memory', 'epidemic', 'pothole') and list triplets ('teenage pregnancies, single-parent households and rundown urban environments'; 'leaders, politicians or businessmen'). No em dashes and no AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two beats, both on topic: watching black classmates disappear over four years of high school, and the college visits. Both are summaries with no scene, and the first is framed as 'Imagine with me... you' instead of 'I'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a causal chain (anti-literacy laws, then post-Reconstruction disenfranchisement, then slum confinement and white flight, then budget cuts), plus one real mechanism: 'cannot afford to break out of that which confines them'. But the chain is one run-on sentence, the claims are asserted ('No one cares about us'), and the counter-argument is waved off rather than answered."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs follow a clear order: personal, then city and national data, then the opposing view, the thesis, the cause and the college visits. The last line, 'If a black kid falls out of school in the ghetto and no one is around to hear him, does he make a sound?', echoes 'Why doesn't anyone seem to care?' but does not return to the ninth-grade hallway or the opening question 'Where are the people that look like me?'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8 at most): in paragraph 3, replace 'In my city' and 'city schools' with the real city name. Give the year and source for 45.9% and 94%. In paragraph 2, replace 'black face after black face picked off one by one' with the real count of black students in his grade or school each year, if he knows it. Cut 'every twenty-six seconds', which is about all students and not black students.",
+  "Story (+6 at most): rewrite paragraph 1 in first person, since it is his real experience. Cut 'Imagine with me for a moment you're' and write 'I walked into ninth grade...', keeping the true details already there (no one waving, the lost lunch table). Cut the metaphor pile in paragraph 2 ('cancerous tumor', 'repressed memory') down to one plain statement of what he watched happen.",
+  "Reasoning and ending (+6 at most): split the one-sentence history in paragraph 5 into three short steps, each ending on how it lowers graduation today. Cut 'No one cares about us' and 'It is a cycle that has enslaved us' so the budget-cut and teacher sentences carry the claim. Then make the last line come back to the opening question 'Where are the people that look like me?', for example by tying it to the college-visit paragraph, and fix the grammar slips ('as it for', 'to so colleges', 'I have, and so many... have')."
+ ]
+}

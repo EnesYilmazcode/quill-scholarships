@@ -1,0 +1,54 @@
+{
+ "id": "nw-11",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 772,
+ "source_url": "https://www.thenation.com/article/archive/many-meanings-being-selfish/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Selfishness is named as the root cause only in paragraph 7, then hedged with \"I began this essay thinking that I was going to confront selfishness\" and partly taken back with \"more complicated than can be summed up in one dictionary definition, or even one essay\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has real anchors (Capitol Hill, a legislative aide, an agricultural bill, \"the last five hours\", the plane to Seattle), but no names, no bill, and none of the aide's actual words; the argument paragraphs are all abstraction."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human moments (\"They looked tired.\", \"Then I grew up.\") sit inside stock language: \"truly\", \"profoundly\", \"imbued\", \"plaguing\", \"ever-complex\", \"multi-facted\", a Kennedy quote cliché, a hope moral, 4 em dashes, typos \"the the\"/\"multi-facted\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the Capitol Hill visit and the aide) with a real scene, but it drops away for three abstract paragraphs and never shows how the aide or the bill shows selfishness at work."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says citizens chose \"the path of least resistance\" and treat politics as \"choosing sides and hoping that the prizefight will fall in our favor\" but never explains how that breaks politics (who it rewards, what it kills); \"There is no secret solution\" gives up on the why."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The last line comes back to the opening scene: \"I glanced at the headlines loading on my phone: the bill didn't pass.\" The paragraph before it is a generic moral (\"we as citizens never lose hope\") and the middle wanders."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+9): rewrite paragraph 7 (\"To tell you the truth, I began this essay thinking...\") so it commits to one cause and lays out the chain step by step: citizens watch politics like a prizefight, so politicians gain from refusing to compromise, so bills like the aide's agricultural bill die. Cut the line \"I began this essay thinking\". Ask Enes what the aide actually said about why the bill was stuck and use his words as the evidence.",
+  "Answers prompt (+8): delete the paragraph \"Selfishness, I realized, is more complicated... never lose hope.\" It takes back the answer (\"or even one essay\", \"no secret solution\") and ends on a generic moral. Put a plain one-sentence statement of the root cause there instead, then go straight to the Seattle plane ending. Also cut the Kennedy quote, which spends words without adding to the argument.",
+  "Voice and specificity (+8 each, plus 11 deduction points back): remove all 4 em dashes (\"realized—\", \"sleep—not\", \"lines—did\", \"happiness—a\") and the writing-about-the-essay lines. Cut \"truly\", \"profoundly\", \"imbued\", \"plaguing\", \"ever-complex\". Fix \"the the\" and \"multi-facted\". Ask Enes for the real name of the agricultural bill and why he was on Capitol Hill, and put those in place of the generic \"white buildings and old pillars\" description in paragraph 1."
+ ]
+}

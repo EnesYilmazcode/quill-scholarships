@@ -1,0 +1,54 @@
+{
+ "id": "nw-45",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 786,
+ "source_url": "https://www.thenation.com/article/archive/weaning-america-oil/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Single-part prompt answered in the first paragraph with a clear position: 'the next United States president must take an aggressive stance on weaning the US off of oil dependency', restated as 'oil is the most important'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some checkable anchors (Bureau of Economic Analysis, 'Saudi Arabia, Iran, Iraq, and Kuwait, hold almost 45 percent', Strait of Hormuz '40 percent'). But several figures are wrong or vague: 'over 33 million metric tons of CO2' is off by more than 100x for US emissions, 'ocean desalination' should be acidification, 'It is estimated' cites no source, and 'more hurricanes in more places (e.g., California)' is shaky."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as a student, not a model, but uses stock framing: the opening triplet 'dictates economies, catalyzes wars and controls governments', 'not only an issue of national importance but of global consequence' and 'not only in the United States but throughout the globe', thesaurus words ('bellicosity', 'clemency'), 2 em dashes, and a rhetorical-question close ('What could be more important?'). It does have one sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "No story and no developed case study. The Iran Strait of Hormuz threat and the 1950s coups each get one sentence, then the essay moves on to the next bullet in its three-reason list."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains how the reasoning works (oil price spikes cut GDP, exporters gain leverage, Hormuz closure would choke supply). The fix itself is intent with no mechanism: 'focusing on the development of sustainable alternative energy sources' and 'a president who will galvanize the people' name no policy and no actor beyond 'the president'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clean five-paragraph structure (economy, security, environment), but the close restates the thesis instead of paying off the opening 'most dangerous resource' line: 'we need to do it now, because we're running out of time and oil. What could be more important?'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the false and garbled facts in the environment paragraph and the peak-oil sentence. This recovers the -10 deduction and lifts specificity from 3 toward 4 (about 18 points in total). '33 million metric tons of CO2' should be the real US figure (roughly 5 billion metric tons a year in 2012; check EPA or EIA and name the source). 'ocean desalination' should be 'ocean acidification'. Cut or source 'more hurricanes in more places (e.g., California)'. Replace 'It is estimated that by 2050' with the named estimate and its source, or cut the precise date.",
+  "Cut the stock phrasing to lift voice from 3 to 4 (about 4 points) and recover the -4 em dash deduction. Rewrite 'is not only an issue of national importance but of global consequence' as a plain claim ('matters beyond the US'). Remove the second 'not only in the United States but throughout the globe'. Replace both em dashes ('America—cars', 'years—only') with commas or periods. Swap 'bellicosity' and 'clemency' for 'hostility' and 'mercy'. Drop the closing 'What could be more important?'",
+  "Turn the Hormuz threat into the case study that carries the essay, which lifts stories and structure (about 6 to 8 points). Expand the existing Iran/Strait of Hormuz sentence with the real 2011-2012 facts (when Iran made the threat, what share of oil passes through the strait, and what US gas prices did that spring, all checked against a source). Open the essay on it, then end by returning to it, replacing 'we're running out of time and oil' with a line about the strait. Then name one concrete policy the 2012 president could push (for example, a specific fuel-economy or tax-credit measure that was actually on the table) in place of 'focusing on the development of sustainable alternative energy sources'."
+ ]
+}

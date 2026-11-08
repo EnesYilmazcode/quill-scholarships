@@ -1,0 +1,60 @@
+{
+ "id": "nw-21",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 787,
+ "source_url": "https://www.thenation.com/article/archive/overcoming-hurdles-college-navajo-student/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks how cuts and hikes compromised her education, but that only gets one late paragraph (\"I have seen many of my mentors and professors lose their jobs\"). About 60% of the essay is reservation and boarding-school background before cuts are mentioned."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The childhood detail is real and physical (\"a house made of logs and mud\", the slingshot for prairie dogs, \"pails of water\", the ramada). The budget-cut section has no university, program, mentor, center, year or dollar figure."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads human (\"You see,\"), but it leans on stock phrases: \"beat the odds, despite having all odds against her\", \"It takes a village\", a triplet (\"underachieving, underfunded and filled with unqualified teachers\"), \"truly express\", \"dire need of positive change\". It also has 7 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story, about growing up with her grandmother, and it is told as a summary. The topic itself (losing a program, mentor or center to cuts) gets no scene, only \"I have seen\" statements."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasoning is that cuts remove the village that got her through. That is a real link, but it stays general. It never shows how one cut or one tuition increase changed what she could do."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc moves from a dream to a degree, so the ending loosely echoes the opening. But the last line is muddled and moralizing: \"because I was a lucky one, to have maintained my cultural heritage and still earn a degree.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "em dashes",
+   "points": 0,
+   "reason": "-6 (maximum). There are 7 em dashes, e.g. \"public schooling—schools\", \"expensive—I\", \"journey—a journey\". Weighted subtotal 57.0 minus 6 = 51, mid band."
+  }
+ ],
+ "fixes": [
+  "Move the paragraph starting \"All my life, the price to attend school was expensive\" up to follow the Navajo Nation paragraph, and make room by cutting the stock-market paragraph (\"While the rest of the country celebrated...\") and the colonization list. Then ask the writer for the real names to replace each \"I have seen\": the university, the program that was cut, one mentor who lost their job, the cultural center, the year, and the actual tuition increase. This recovers points on answers_prompt and specificity (+16 max).",
+  "Remove all 7 em dashes (use periods or commas) and cut the clichés \"beat the odds, despite having all odds against her\", \"It takes a village to raise a child\", \"truly express\" and \"in dire need of positive change and a diverse perspective\". Replace them with plain statements of what each person or place did for her. This removes the -6 deduction and lifts human_voice (+8 max).",
+  "Rewrite the last paragraph. \"exhaust what little resources are available\" reads as the opposite of what she means. End on the grandmother or the opening \"merely a dream\" line, plus one concrete thing the cuts cost her. Ask the writer what that cost really was (a semester, a job, a loan); do not invent one. This fixes ideas_mechanism and structure (+13 max)."
+ ]
+}

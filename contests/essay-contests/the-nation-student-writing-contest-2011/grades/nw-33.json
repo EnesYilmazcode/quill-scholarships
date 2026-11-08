@@ -1,0 +1,54 @@
+{
+ "id": "nw-33",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "winner",
+ "words": 778,
+ "source_url": "https://www.thenation.com/article/archive/what-will-become-my-generation/",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names an issue (the recession's squeeze on education and opportunity), but the essay drifts between jobs, K-12 cuts and college funding instead of holding one position: 'Now I'm wondering how middle- and working-class children who are moving on to college are going to survive such an economic downturn.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are two real anchors, 'Fordham University... barely $16,000 of the $40,000 dollar tuition' and the employment-agency line at the bus stop. The middle three paragraphs are unsourced general claims about class sizes, endowments and ratios with no names or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some personal lines land ('that constant gong at the back of my mind'). The rest is a stack of stock transitions (Furthermore, Further, In addition, Moreover, Therefore, Ultimately, Given all this), a triplet ('Businesses are failing, banks are closing, and teachers are being fired'), stacked rhetorical questions, and 3 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two on-topic beats: the aid letter, which gets one sentence, and the bus-stop line, the only real scene. The scene sits in paragraph 6 of 7, so the essay is carried by abstraction rather than by story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is a partial causal chain (fewer professors, then full classes, then extra semesters, then debt), but the only solution offered is the generic 'I hope that the government will direct more funding into the country's schools.' It names no program, no failure of the existing fix, and nobody to act."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on the Fordham letter but never returns to it. 'Given all this' works as an 'in conclusion', and it ends on a generic hope: 'so that the next generation does not have the same unsettling future that we now face.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (20 weight, plus the -6 em dash deduction): replace all 3 em dashes ('attend—barely', 'door—that door', 'with them too—waiting') with commas or periods. Delete the opening transitions 'Furthermore,' 'Further,' 'In addition,' 'Moreover,' 'Therefore,' 'Ultimately,' and 'Given all this,' and start each sentence on its subject. Cut the opening triplet 'Businesses are failing, banks are closing, and teachers are being fired' down to the one item the writer actually saw.",
+  "Structure and stories (25 combined weight): move the bus-stop paragraph up to sit right after the Fordham opening, so both true scenes carry the front of the essay. Trim the abstract paragraphs 3 to 5 (class size, endowments, dropped programs) into one paragraph to make room. Replace the final paragraph's generic hope with a closing line that returns to the Fordham letter or the line outside that door.",
+  "Ideas and specificity (35 combined weight): 'the government will direct more funding' is the weakest line. Ask Enes whether he has a real, specific fix in mind and why the current one fails. Ask too for the real figures behind his own claims, such as his school's actual class sizes or the program that was cut, and put those in. If he has none, cut the mechanism paragraphs down rather than padding them with unsourced generalities."
+ ]
+}

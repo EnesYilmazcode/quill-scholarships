@@ -1,0 +1,54 @@
+{
+ "id": "nw-02",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "winner",
+ "words": 790,
+ "source_url": "https://www.thenation.com/article/archive/political-apathy-threatens-our-nation/",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one root cause plainly (\"political apathy, especially among the youth\") and argues why through three dominoes, but paragraph 5 says \"the root is the dearth of moderates,\" which blurs the single-root answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable detail: \"291 Facebook friends,\" \"93 million eligible Americans,\" \"surpassing $6 billion,\" Baracksdubs, \"You didn't build that\" and \"47 percent.\" The quote \"any time in the last century\" has no source, and the van Leeuwen \"this year\" date is unverified."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening sounds like a real person (\"ask me to fly using my teeth,\" \"Yeah, I've totally heard of him\"), but the essay leans on slogans (\"Backwards thinking results in backwards doing,\" \"we are the architects of our own story\"), punchline paragraph closers (\"Bring back the moderates and we bring back the camaraderie\"), a neat three-domino structure, and 5 em dashes. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic personal thread (the writer's own apathy: ignoring TV, \"busy falling asleep\" during debates), but it is told as a summary, not a scene. The math and figurative-language boasts are off-topic padding."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Each domino has a causal chain (apathy leads to soundbites and misinformation, apathy leads to costlier campaigns and big money, apathy leads to politicians courting the extremes), but the fix is only a vague \"national attitude adjustment.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The close comes back to the opening confession (\"cannot even name the speaker of the House\"), but the last line, \"Or we can choose to stop them all.\", is a rhyming slogan, not a payoff."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible, plus 6 back from deductions): replace all 5 em dashes with commas or periods (\"2012 elections—Obama\", \"two elections—continuing\", \"politics—if at all—through\", \"youth demographic—starting\"). Cut the slogan lines \"Backwards thinking results in backwards doing\" and \"Luckily, we are the architects of our own story\", and end on the speaker-of-the-House admission instead of \"Or we can choose to stop them all.\" Merge two of the domino sentences into one longer sentence over 45 words so the rhythm varies.",
+  "Stories (+6 possible): cut the off-topic boasts \"Show me any high school math exercise... less than twenty-five minutes\" and use those words to move the true details from the closing paragraph (an hour's drive from the White House, can't name one Obama bill, can't name the speaker) into the opening. The writer's own apathy then carries the essay from the first line. Don't add any scene that didn't happen.",
+  "Answers prompt (+4 possible): in paragraph 5, change \"but the root is the dearth of moderates\" to wording that makes the missing moderates a result of apathy (for example, \"the immediate cause is the dearth of moderates, and apathy is what thins them out\"). Ask Enes for the real source of \"any time in the last century\" and check the year of the van Leeuwen domino calculation, or cut both."
+ ]
+}

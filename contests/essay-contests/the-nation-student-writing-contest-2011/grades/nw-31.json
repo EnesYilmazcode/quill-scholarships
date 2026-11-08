@@ -1,0 +1,54 @@
+{
+ "id": "nw-31",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "winner",
+ "words": 787,
+ "source_url": "https://www.thenation.com/article/archive/maybe-i-would-be-alone/",
+ "total": 80,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The issue is never named plainly. It only shows up late and indirectly, as hopelessness or numbness to catastrophe: \"it is easy to numb yourself when death is anonymous\" and \"We cannot afford to lose hope.\" A reader has to infer what the most important issue is."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of details a stranger couldn't invent: the Virginia Tech honors reading group, slurry water in Mingo County, Leslie's \"cracked red hair like dyed hay,\" Shepard Smith, State Troopers waiting for Bush, Seung-Hui Cho, the shooting falling on his birthday, Nikki Giovanni the next day."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person, including unflattering moments: the fireworks the night of the shooting, \"Just my luck, I tell them!\" and turning down the grief counselor. Tells found: one em dash, a run of three \"Maybe...\" sentences, and slogan lines at the end (\"We cannot afford to lose hope\", \"sometimes one is enough\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One main story (Leslie's comment in the reading group and her death a week later) plus a small second beat from the writer himself (talking friends into the fireworks, wishing he had spoken up). Both serve the essay's issue."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one real idea about why this happens: anonymous death lets you numb yourself, and personal loss forces you to deal with it. But the Facebook paragraph guesses at causes (\"Maybe our narcissism... maybe we've just never had a reason... Maybe we've internalized\") instead of explaining one."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "The ending goes back to the opening reading group and to Leslie standing alone against the group: \"Maybe I would be alone, but sometimes one is enough.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Name the issue plainly and early. At the end of paragraph 2, after Leslie's line about \"the chance of making things better,\" add one sentence in his own words saying the most important issue facing his generation is losing hope, numbing ourselves to catastrophe until bringing a child into the world feels cruel. Cut words from the Facebook paragraph to stay under 800. (answers_prompt 3→5, about +8)",
+  "Replace the three \"Maybe...\" sentences in the Facebook paragraph with one sentence that states his strongest cause and why it works, building on \"it is easy to numb yourself when death is anonymous.\" Then cut \"no matter how long it takes,\" which doesn't fit the sentence. Ask Enes which cause he actually believes rather than supplying one. (ideas_mechanism 3→4, about +3)",
+  "Remove the em dash in \"I almost have a sense of humor about it now—Just my luck\" (use a colon or a period). Cut the slogan pair \"We cannot afford to lose hope, I would say, we must believe we can make things better\" so the essay ends on \"If we met again I would speak up, as I should have four years ago\" and the closing line. (+2 deduction recovered, human_voice 4→5, about +4)"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-16",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 832,
+ "source_url": "https://www.thenation.com/article/archive/books-brilliance-or-burgers/",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The budget-cut harm is answered plainly and in full ('due to budget cuts and the fact that the college had over-enrolled, my entry had been denied'), but the tuition-hike half gets only one sentence ('considering the 32 percent tuition increase this last year that may not be a possibility'), and the answer only starts after a 180-word Burger King opening."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and numbers: Burger King, the cow pasture, Humboldt State, 'twenty units over the transfer requirement', statistics over the summer, fall of 2011, 35th falling to 49th, 32 percent, the De Lone citation. Weaker spots are 'decent grades', 'one study showed', and a tuition hike with no dollar amount or consequence."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Clearly one specific person, clumsy in places ('oh, and because the university was no longer accepting students in the spring', 'mistaking disillusionment for art'). Tells: a 'not only X but' in the final paragraph, the stock phrases 'Perhaps the darkest part of this dilemma' and 'In actuality', thesaurus strain ('chagrined astonishment', 'Appropriated by my love affair with books'), slips ('rages to riches', 'hay bails', 'far succeeding'), and 2 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories. The HSU adviser denial is told as a full scene and carries the essay. The Burger King sprint works as the framing image. The bohemian years ('toured the country playing guitar in mediocre rock bands') and the bookstore paragraph drift into résumé and mood."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains the mechanism of its own harm: an unwritten summer-class policy dropped because of cuts and over-enrollment, plus the philosophy major under academic senate review. But the statistics paragraph is generic and not tied to him (a 1978 father-son mobility study, state rankings), and 'education is the best means to eradicate... poverty' is asserted, not reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending brings back the opening cattle and conveyor belt ('like the one that slipped to the side of the conveyer belt and got tossed into the flames'), and the last line 'Perhaps I may only grow leaner.' pays off the image. The middle wanders through the statistics and bookstore paragraphs. Score before deductions: 77.0. Deductions: -10 for going over the limit (832 of 800 words), -4 for 2 em dashes ('conveyer belt grill—all while', 'facing humankind—poverty'), leaving 63, mid band."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut at least 32 words to recover the 10-point over-limit deduction. Delete 'In actuality, dramatic advances in class standing are comparatively uncommon.' because it repeats the sentence before it (10 words). Delete 'Although my being currently employed by an independent bookstore amplifies concerned feelings regarding the changing future and the instability of the educational system, I can at least surround myself with the inspiring words of young Vidal, Hitchens and other contrarians.' because it is off-prompt (39 words). That brings the essay to about 783 words.",
+  "Remove both em dashes for 4 points. Use 'conveyer belt grill, all while adorned with a backpack full of textbooks' and 'the largest problem facing humankind: poverty'. In the same pass, fix 'rages to riches' to 'rags to riches', 'hay bails' to 'hay bales', 'far succeeding' to 'far exceeding', and 'chopping blocks' to 'chopping block'.",
+  "Raise the ideas and prompt scores, worth up to 6 points. Trim the generic mobility paragraph to the California ranking drop and tie it straight to the HSU denial. Then ask Enes for the real cost behind 'the 32 percent tuition increase' (the dollar amount, and what it is forcing him to choose). Put that in the tuition sentence so the tuition-hike half gets more than one line. Do not add any figure he cannot confirm."
+ ]
+}

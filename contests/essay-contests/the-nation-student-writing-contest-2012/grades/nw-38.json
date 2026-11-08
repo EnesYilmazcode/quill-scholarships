@@ -1,0 +1,54 @@
+{
+ "id": "nw-38",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "winner",
+ "words": 815,
+ "source_url": "https://www.thenation.com/article/archive/joblessness-most-important-issue-election/",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It takes a clear position, \"I believe the unemployment is the most important issue of the 2012 presidential election\", but not until paragraph 5, and the Obama-record paragraph drifts toward election predictions instead of why the issue matters most."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable details: Park Avenue, the quoted cardboard sign, \"4.2 percent... compared to just 0.8 percent in 2007\", the May 2012 New York Times article and Yale's \"$19.4 billion as of 2011\". The father's layoff and the family's sacrifices stay general (\"countless personal and financial sacrifices\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Mostly a real person talking, but with tells: 8 em dashes, a 'not X but Y' line (\"not just an economic crisis—it is also an existential one\"), a punchline close (\"Closely.\"), stiff wording (\"eminently aware\", \"occupation constitutes identity\") and a cliché (\"like it's going out of style\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories: one real scene (the homeless man on Park Avenue) and the father's unemployment, which is told as a summary. The Yale-privilege paragraph and the list of Obama's successes pull away from the issue."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is reasoning with a mechanism ('occupation constitutes identity', so joblessness costs more than money), but the essay offers no fix or policy. It ends on intent: \"Any sensible candidate... should recognize and seek to address this.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order makes sense, but the ending never comes back to the man on Park Avenue or his sign. It closes on a slogan instead: \"I guarantee that voters like me will be watching. Closely.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Get under the 800-word limit (currently 815, -10). Cut the 27-word acknowledgment line (\"The author would like to express his gratitude...\"). It isn't part of the essay, and cutting it brings the count to 788.",
+  "Remove all 8 em dashes (-6), and rewrite \"This is why unemployment in the United States is not just an economic crisis—it is also an existential one\" without the 'not X but Y' frame, for example: \"This is why I see unemployment in the United States as an existential crisis as well as an economic one.\" Also change \"eminently aware\" to \"very aware\" and remove \"like it's going out of style\".",
+  "Cut most of the Obama-successes list (\"reforming healthcare... just to name a few\") and the generalizing Yale lines (\"I do not mean to generalize...\"). Use the freed words to replace the \"Closely.\" ending with a last line that goes back to the man on Park Avenue and his sign (\"Lost house, construction job, family\") next to your father. Use only details that are already in the essay, and ask Enes if a stronger true detail exists."
+ ]
+}

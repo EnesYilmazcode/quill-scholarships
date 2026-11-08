@@ -1,0 +1,54 @@
+{
+ "id": "nw-07",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 797,
+ "source_url": "https://www.thenation.com/article/archive/unraveling-representative-democracy/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It picks one cause and explains why: \"unlimited money in politics is the root cause of the fractured political system\". But that thesis only arrives in paragraph 3, after about 330 words of preamble about representative democracy."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Paragraph 2 has real anchors: Citizens United 5-4, \"$7 billion was spent on the 2012 election\", \"$950 million\" from Super PACs. The 2008 and climate sections stay general (\"the 'Too Big To Fail' Banks\", \"pursue an agenda\") and name no law, vote, official or dollar figure that links a donation to an outcome."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Inflated stock prose with nobody behind it. Tells: \"in a multitude of fronts\", \"pressing and often extremely complex issues\", \"necessary dichotomy\", \"insurgency of termites\", \"white-collared plutocrats\", the triplets \"economic justice, social justice, environmental justice\" and \"homes, their jobs, and their dignity\", and five dashes used as em dashes. There are also typos: \"Statesevidenced\", \"his/hers\", \"nations destiny\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, and it has three case studies: Citizens United, the 2008 crash and oil companies. Only Citizens United gets real detail. The other two are one-paragraph summaries, and the 2008 case does not show money buying an outcome."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It asserts the mechanism (\"Corporate money has financed willful negligence\") but never shows it working. The 2008 example also cuts against the argument, because the crash and its bailout came before the 2010 Citizens United ruling it blames."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but the opening is an abstract civics lecture and the close restates instead of returning: \"Until this is changed, progress will be elusive on almost every front.\" Deduction applied: dashes used as em dashes, 5 instances (\"on a multitude of fronts – economic justice\"), -6. Subtotal 57, minus 6, gives 51 (mid band)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraph 1 down to two plain sentences and open with the thesis now in paragraph 3 (\"unlimited money in politics is the root cause...\"). Delete \"necessary dichotomy\", \"perhaps the greatest\" and \"a trend that has persisted throughout all of human history\". Use the roughly 250 words this frees for evidence. While editing, replace all five dashes with commas or periods and fix \"Statesevidenced\", \"his/hers\" and \"nations destiny\". This recovers voice and prompt points and removes the -6 deduction.",
+  "Fix the 2008 paragraph's logic. The crash and bailout came before Citizens United (2010), so either reframe the paragraph as money in politics in general (pre-2010 lobbying and donations) or cut it and spend the words on the 2012 Super PAC figures. Ask Enes whether he has a real source tying finance-industry donations to a specific vote or non-prosecution decision; if he does not, cut \"for causing all of it\" and \"dignity\" rather than overstate.",
+  "Sharpen the oil and gas paragraph and the ending. Ask Enes for a real, sourced figure (for example, lobbying or campaign spending by Exxon Mobil or BP) to replace \"have used their massive profits\", or else cut \"push humanity further towards the border of extinction\" and \"insurgency of termites\". For the last line, return to the opening idea of power held by citizens instead of restating, for example by contrasting the self-governance promise from paragraph 1 with the $950 million figure."
+ ]
+}

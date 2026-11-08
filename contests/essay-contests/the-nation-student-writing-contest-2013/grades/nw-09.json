@@ -1,0 +1,54 @@
+{
+ "id": "nw-09",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 792,
+ "source_url": "https://www.thenation.com/article/archive/plutocracy-problem/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names one root cause, Citizens United and corporate money, and explains why. But the opening first lists unrelated corporate harms (\"profiting off military conflicts, poisoning the environment and food supply and taking over public schools\"), and the cause shifts between 'corporations', 'big money' and 'lobbyists'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with figures a reader could check: Lessig's \"just 196 Americans gave more than 80 percent\", $10 billion in 2012, $3.5 billion in lobbying in 2009, \"almost 5,400 former congressional staffers\", the Tillman Act of 1907. These are dated, though (\"As of June 2013\", \"new book\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Opinionated and human, but it leans on stock phrasing: \"tsunami of money\", \"win-win for the rich\", \"cringe-worthy\", \"aptly explained\", \"run amok\", a closing triplet, and a borrowed Lincoln slogan. It has 3 em dashes and grammar slips (\"resembles ... than ever before\", \"lose his sense ... and comes\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so a case study can stand in for a story. The essay has none, only a run of statistics. Lessig's 'gift economy' and the Paul Douglas quote come closest but get one paragraph, and the Reagan and Nixon asides are summaries with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains how the influence works through the gift economy (\"grounded upon relationships, not quid pro quo\") and gives a concrete fix with the steps (two-thirds of Congress, three-fourths of states) and a precedent (Tillman Act). It never says why an amendment would pass now or who drives it beyond \"the American people\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized and the close returns to corporations, but it ends on a slogan instead of a payoff: \"by a government of the corporations, by the corporations and for the corporations.\" The Nixon paragraph wanders."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): remove all 3 em dashes ('favors—fundraising dinners and galas—and' becomes 'favors, such as fundraising dinners and galas, and'; 'sugar daddies—\"old' becomes 'sugar daddies, or \"old'). Cut 'tsunami of', 'cringe-worthy', 'It's a win-win for the rich', 'aptly' and 'run amok'. Fix the two grammar errors: 'more closely resembles ... than at any time since' and 'loses his sense of mission ... and comes to feel'.",
+  "Story/case study (+6 possible): cut the first sentence's list of unrelated harms (military, food supply, schools) and the Reagan line. Use the freed words to make the gift economy paragraph (Lessig, Paul Douglas) the case study that carries the essay, with one documented lobbyist-to-politician relationship laid out step by step. Use a real case Enes can cite a source for; don't invent one.",
+  "Ending and accuracy (+4 possible): replace the final 'of the corporations, by the corporations' slogan with a line that brings back the essay's strongest image, the 196 donors or the Tillman Act, so the close pays off a fact the reader already has. Also replace the stale 'As of June 2013', 'new book' and 2009/2012 figures with current numbers Enes has checked, or mark them clearly as historical."
+ ]
+}

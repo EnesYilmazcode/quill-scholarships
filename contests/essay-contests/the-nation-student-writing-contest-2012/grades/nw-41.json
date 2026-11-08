@@ -1,0 +1,54 @@
+{
+ "id": "nw-41",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 763,
+ "source_url": "https://www.thenation.com/article/archive/sake-democracy-we-need-electoral-reform/",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names one issue plainly: 'the biggest issue of the 2012 election is... that many of us continue to see it... as the only form of political expression'. The issue then splits into three sub-problems (corporatization, fundraising, representation), so the single position gets diluted."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The checkable anchors are strong: Citizens United v. FEC, ALEC model legislation, 'ninety-one female-bodied elected officials outnumbered by 448', '87 percent Christian'. 'Racist immigration policies' and 'heuristic markers' are left abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 'not only props up but also actively legitimizes', 'neither a policy issue nor problematic party rhetoric', 'is not for Democrats to elect a Democrat... but a collective challenge', filler 'truly' twice, triplets ('builds bonds..., sows the seeds..., brings...'), stock phrasing ('opened the floodgates', 'sows the seeds'), 3 em dashes. It reads as seminar prose, not a person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories. The analytic prompt allows a case study instead, but Citizens United/ALEC and the Congress demographics are listed side by side as evidence, and none is developed fully enough to carry the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The diagnosis has a mechanism (Citizens United money feeds ALEC, which writes model state bills). The remedy is intent only: 'we must create new spaces for deliberative dialogue' never says what the space is, who runs it or why people would come."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is organized with the mechanical transitions 'To begin / Also / Additionally / Hence'. The last line, 'that differentiates itself from Capitol Hill's petty electoral games', restates the thesis and never returns to Rousseau's 'free only on election day'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12, plus 6 back from the em-dash deduction): rewrite the 'not only props up but also actively legitimizes' question as one direct claim. Rewrite 'neither a policy issue nor problematic party rhetoric' to say what the issue is, without the contrast frame. Recast the closing 'is not for Democrats to elect a Democrat... but a collective challenge' as a plain statement. Delete both instances of 'truly'. Replace the three em dashes ('see it—and the electoral system', 'us—Democrat, Republican or independent—to') with commas or parentheses.",
+  "Fact gate (+10 deduction): 'a body of 535 individuals' conflicts with 'ninety-one... outnumbered by 448', which totals 539. The Latina 5 percent is also compared against the whole Latino 16 percent. Recheck both against the writer's original source and correct the numbers or the denominator. Don't estimate a new figure.",
+  "Story and mechanism (+6 to +9): cut the infotainment paragraph and the religion statistic. Spend those words on Citizens United leading to ALEC as the one case study. In the 'Hence' paragraph, turn 'create new spaces for deliberative dialogue' into a concrete proposal (what the forum is, who convenes it, why a low-income voter would attend), using only what the writer actually knows or supports. Then end on Rousseau: tie 'reclaim our political voice during all four years' back to being free 'only on election day'."
+ ]
+}

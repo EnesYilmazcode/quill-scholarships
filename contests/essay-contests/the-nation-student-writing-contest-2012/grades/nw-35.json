@@ -1,0 +1,54 @@
+{
+ "id": "nw-35",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 799,
+ "source_url": "https://www.thenation.com/article/archive/democracy-sale-no-democracy-all/",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The essay names one issue early and argues for it throughout: 'What is really at stake in November is nothing less than the existence of an American republic,' with Citizens United and money in politics as the cause."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong checkable names: Koch-funded Wisconsin, Karl Rove's billion-dollar pledge, BP, Keystone XL, Jim Hansen's 'apocalyptic' warning, and the 2008 to 2010 Democratic supermajority. It loses a point for sweeping claims like 'Never before in American history' and 'the armies of corporate lobbyists who occupy all halls of power.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Tells found: 'not only without accountability but also with more political power', 'not a question of solutions (there are many), but whether', the slogan 'This is not an abstract question.', the 'twin crises' antithesis, and two em dashes. The prose is also overwrought ('maw of the corporate class', 'drowning in a ocean'). It reads as a real activist voice wrapped in stock rhetoric."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story: the union organizer's quote at a meeting. It is told as a summary with no scene and is dropped after the third paragraph. The case studies (Wisconsin, 2008 to 2010) are listed but not developed."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains why the 2008 to 2010 Congress failed even with a supermajority, which is a real mechanism. The only fix offered, 'a constitutional amendment banishing money in politics', appears once in the final paragraph with no detail on how it would work or who would pass it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but the close returns to the 'arc of history' image instead of the organizer's fear of never winning again. It ends: 'with a severely diminished chance of ever bending the arc in time.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): in the paragraph starting 'At the heart of both crises', change 'have all escaped not only without accountability but also with more political power' to 'have escaped without accountability and with more political power'. In the 'arc of history' paragraph, cut 'This is not an abstract question.' and change 'is not a question of solutions (there are many), but whether we can restore' to 'There are many solutions. The question is whether we can restore'. Cut or tone down the stacked metaphors ('suffocation... deafening', 'maw of the corporate class and drowning in a ocean'). Fix the typos 'a ocean' and 'worker's'.",
+  "Ideas (up to +6): the constitutional amendment is the essay's only fix, and it is buried in the last paragraph. Give it its own short paragraph in the middle, using only claims the essay already makes, to say why every other fix depends on it: Wall Street reform and climate action both stalled in 2008 to 2010 because of money. Make room by cutting the 'Viewed through the prism of our political process' paragraph down to its one sentence about who escaped accountability. If Enes knows of a specific real amendment he supports, ask him to name it.",
+  "Ending and em dashes (+4 from deductions, up to +4 on structure): replace 'our nation—and our planet—will face' with 'our nation, and our planet, will face' to remove both em dashes. Then end on the opening organizer by returning to his words 'I don't know if we, the not-super-rich-people, will ever win again', in place of the final clause 'with a severely diminished chance of ever bending the arc in time'."
+ ]
+}

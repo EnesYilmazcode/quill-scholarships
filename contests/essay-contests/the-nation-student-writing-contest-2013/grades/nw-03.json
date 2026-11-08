@@ -1,0 +1,54 @@
+{
+ "id": "nw-03",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "winner",
+ "words": 698,
+ "source_url": "https://www.thenation.com/article/archive/inequality-makes-democracy-impossible/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay never settles on one root cause. It names 'Too much money is what poisons the system', then 'Money is the root of all corruption', then the tax system, and ends on 'Effectively addressing this country's vast inequality is the only way'. The prompt asks for one cause, and here the 'why' is spread across three."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real figures and a source: '$175,000', '$50,500' and 'according to Credit Suisse'. The Applebee's/Safeway/Prius list is concrete. But no politician, bill, lobby or year is named, and 'politicians will join or start companies' gives no example."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a person writing, with real typos ('American is purported', 'form which', 'faucets of daily life'). But it leans on stock lines ('Money is the root of all corruption', 'by lobbyists, for corporations, of CEOs'), uses the filler adverb 'incredibly', and ends on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories and no case study. The Great Depression gets one clause and the shopping list is a list, not a scene. Nothing carries the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two partial mechanisms. Wealthy legislators 'have trouble recognizing the inequality', and consumer spending ('people who buy shampoo and dog food') drives the economy. Neither explains how money actually breaks politics through lobbying, campaign finance or revolving doors, and the fix ('the focus must be taken away from the wealthy') is a gesture."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs drift from lobbyists to salaries, then taxes, then consumer spending, then inequality rankings. The last line restates instead of returning to the opening: 'Effectively addressing this country's vast inequality is the only way to repair this country's broken politics.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Commit to one root cause in paragraph 2 and cut what doesn't serve it. Keep 'Too much money is what poisons the system' as the thesis. Then either cut the tax and consumer-spending paragraphs ('The economy is not built off gold toilet seats...' through 'Without a fair and effective tax system...'), or add one sentence linking low top tax rates back to the money-in-politics claim. Use the freed words to explain how money reaches lawmakers, building on the existing lobbyist and revolving-door sentence. If Enes has a real case he followed (a named bill, lobby or politician), ask him for it rather than adding one. This lifts answers_prompt and ideas_mechanism.",
+  "Fix the facts and errors a judge will catch. 'the most unequal country in the world, ahead of only Russia, Ukraine and Lebanon' contradicts itself (most unequal can't be 'ahead of only' three), so check the Credit Suisse report, name the year and the measure (wealth Gini), and rewrite it as something like 'fourth most unequal'. 'the House or the Congress' should be 'the House or the Senate'. Add a year to the $50,500 median income. Correct 'American is' to 'America is', 'form which' to 'from which', 'faucets' to 'facets', and 'an America' to 'an American'.",
+  "Clean up the voice and the ending. Replace the three en dashes used as em dashes ('long been disproven – money', 'alone – it is built', 'no experience – namely') with periods or commas. Cut 'incredibly' and the cliché 'Money is the root of all corruption'. Rewrite the last line so it returns to the opening 'by the people, for the people, of the people' image instead of restating the thesis."
+ ]
+}

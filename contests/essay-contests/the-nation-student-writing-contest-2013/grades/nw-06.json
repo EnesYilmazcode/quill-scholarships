@@ -1,0 +1,54 @@
+{
+ "id": "nw-06",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 793,
+ "source_url": "https://www.thenation.com/article/archive/neoliberalism-why-american-dream-losing-steam/",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names one root cause plainly ('The answer lies in... neoliberalism') and argues why, but the link to broken politics is stated in a single sentence ('we cannot have a functioning, participatory democracy while simultaneously eliminating jobs...') while most of the essay argues inequality instead."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense with names, sources and numbers (Dr. Skladany, a Cleveland steel mill, 100 students, Harvey, the 2012 Reuters 'Unequal States of America' series, $2 trillion, the NAACP's one in three). Some figures have no source ('CEO-to-worker pay has increased 1,000 percent since 1950') and some are dated ('As of 2001', 'Last year')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real student voice in the classroom scene, but with tells: an em dash pair ('There is no opportunity — and no democracy —'), the filler adverb 'genuinely', a triple 'We laughed because' run, inflated wording ('hegemonic political paradigm of the day', 'colossal divide', 'at every juncture') and a tidy closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story: the Skladany steel-mill story and the class laughing. It is on topic and told as a real scene, but it is dropped after paragraph 3, and the rest of the essay is a chain of book quotes (Harvey, Wolff, Hayes)."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some of the reasoning has a working mechanism (tax cuts send money upward, families take on debt and work longer hours, and people blame themselves), but the step from that to a broken political system is only asserted. The remedy, 'a concentrated effort to combat neoliberalism', names no actor and no change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc: story, thesis, evidence, argument. But the last line, 'a concentrated effort to combat neoliberalism at every juncture is the only thing that will fix our broken politics', restates the thesis and never returns to the steel mill or the laughing class."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 8 points back, plus 4 for the em dash deduction): rewrite 'There is no opportunity — and no democracy — when neoliberalism is the hegemonic political paradigm of the day' with no dashes and plain words (e.g. 'There is no opportunity, and no democracy, while neoliberalism runs our policy'). Delete 'genuinely' from 'who genuinely believe'. Change 'colossal divide' to 'divide' and cut 'at every juncture'.",
+  "Structure and story (about 4 to 6 points): replace the closing sentence with a line that returns to the opening: Dr. Skladany's summer at the mill against the 100 students who laughed, using only what the first three paragraphs already say. To make room, cut the Liddy aside '(and convicted criminal)' and one of the stacked book quotes (Wolff or Hayes).",
+  "Ideas and answering the prompt (about 4 to 7 points): expand the one sentence 'Neoliberalism is the main cause of our broken political system because...' into the actual chain from inequality to broken politics, using the evidence already in the essay: debt and overwork leave people with less time and trust for voting, and the elite who gain from the tax cuts are the ones writing policy. Cut the incarceration paragraph's least relevant stat to stay under 800 words. Ask Enes whether 'Last year' (Foxx) and 'As of 2001' are still accurate as of 2026."
+ ]
+}

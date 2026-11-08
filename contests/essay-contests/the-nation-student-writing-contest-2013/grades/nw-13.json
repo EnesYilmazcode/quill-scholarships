@@ -1,0 +1,54 @@
+{
+ "id": "nw-13",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 794,
+ "source_url": "https://www.thenation.com/article/archive/disappearing-voice-working-class/",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names one root cause, deunionization, and explains why it matters: \"Deunionization has yielded a disorganized and disempowered working class coupled with high wealth and income inequality.\" But it never says \"root cause\" in plain words, and the voter ID paragraph reads like a second cause rather than a result of the first."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The details are dated and named: Walker's 2011 Budget Repair Bill, Madison, Western and Rosenfeld's estimate that deunionization explains a fifth to a third of the rise in inequality, Zullo at Michigan, \"75 percent increase in productivity\" against \"22.6 percent\" wage growth, and turnout shifts of 9.4 and 10.1 points."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Tells found: an em dash in \"memorable—and not just because\", a \"not just\" construction, the filler word \"truly hopeful\", \"sadly\" used twice, stock academic phrases (\"Together these phenomena conspire\", \"self-amplifying feedback loop\"), and a slogan to close (\"It's time we fight back\"). The school-day aside is the one moment that sounds like a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story, the 2011 Madison protests. It is on topic but told as a summary, and after paragraph 2 it disappears, so the statistics carry the rest of the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning explains how the cause works: unionized workplaces build civic skills, non-union workers disengage, and lower turnout lets the wealthy gain more power. The closing remedy (\"reuniting labor into a cohesive movement... new methods of organization\") is a generic list with no concrete change and no one named to carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clearly organized, but the ending ignores the Madison opening and finishes on a borrowed quote and a slogan: \"It's time we fight back.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice, worth up to 8 points: cut the em dash in paragraph 1 and rewrite as \"It was exciting and memorable, and not only because I didn't have to go to school for several days.\" Better still, keep just the school-day aside, which is the most human line in the essay. Delete \"truly\" in \"truly hopeful\" and both uses of \"sadly\" (paragraph 2 and paragraph 6). Replace \"Together these phenomena conspire to strengthen and institutionalize\" with a plain clause such as \"Each of these makes the others worse.\" Spending fewer words here also gives room for fix 2.",
+  "Story, worth up to 6 points: bring Madison 2011 back into the body instead of leaving it in the first two paragraphs. Paragraph 5 or the feedback-loop paragraph is a good place. Point to what the writer actually saw, such as the recall results or how people in town reacted afterward, to show the turnout and disengagement mechanism. Ask Enes what he really saw. Do not add any scene that did not happen.",
+  "Ending and prompt, worth up to 4 points each: end on Madison, not on Warren Buffett. For example, link the remedy back to the brief feeling of power he describes from 2011, and cut \"It's time we fight back.\" If the Buffett quote stays, correct the spelling from \"Buffet\" to \"Buffett.\" In paragraph 2, state the answer plainly (\"The root cause is the decline of unions\"), and start the voter ID paragraph as a result of that cause so the essay clearly picks one cause, as the prompt asks."
+ ]
+}

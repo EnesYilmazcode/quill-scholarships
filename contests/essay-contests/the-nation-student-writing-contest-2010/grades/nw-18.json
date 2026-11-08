@@ -1,0 +1,54 @@
+{
+ "id": "nw-18",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 776,
+ "source_url": "https://www.thenation.com/article/archive/football-vs-asian-studies/",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks how the writer's own education was hurt by budget cuts and tuition hikes. The essay covers the cut only in third person (\"dozens of students will be forced to take courses in a different foreign language\"), never says what the writer lost, and never mentions tuition hikes. Deduction: -10 for the missing tuition-hike part."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with details a reader could check: Dr. Hoang Ngo, Nickie Tran, Will Muschamp at $425,000, Mack Brown's $2.1 million raise, about $45,000 for Ngo, $50,000 saved, $179 million in stadium renovations, the 2006 start date, and the 2009 graduation study."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The mirrored paragraphs are a deliberate, human choice, but the essay reads like detached reporting with no 'I'. It leans on stock phrases ('seemingly larger than life', 'soared to new heights', 'seemingly unstoppable athletic machine') and has no sentence over 45 words. Deduction: -4 for two em dashes ('thriving—last year', 'small size—its absence')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the students' lobbying, Ngo's hiring, the program's cut), but it is told as a summary with no scene and the writer never appears in it. The football paragraphs are a contrast device, not a second story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the program died ('expendable because of its small size') and implies misplaced priorities through the $50,000 vs $2.1 million contrast. It never says outright why that trade-off is wrong or what it costs Vietnamese-American students, apart from one borrowed quote."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Tight alternating structure, and the closing 'Come September' pair returns to the opening contrast between football and Asian Studies: '...the third most spoken language in Texas will no longer be taught due to budgetary constraints and sadly, hardly anybody will ask questions or even notice.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Biggest recovery (up to 22 points: criterion 1 plus the -10 deduction). The writer never appears, and tuition is never mentioned. Ask the writer which real facts apply: were they in Ngo's class, which language or requirement do they now have to take instead, and what were their actual tuition figures or increases? Put those facts in first person in the paragraph that begins 'With the elimination of the Vietnamese language program'. Keep the matching football paragraph as it is.",
+  "Voice (+8 possible, plus 4 points from the em-dash deduction). Replace both em dashes with periods ('...is thriving. Last year it generated...', '...because of its small size. Its absence will save...'). Cut the stock phrases 'seemingly larger than life', 'soared to new heights' and 'seemingly unstoppable athletic machine' and use the plain facts that are already there. Also fix the stray comma after the Nickie Tran quote and change 'is comprised of' to 'has'.",
+  "Ideas (+6 possible). Right after '$50,000 a year', add one sentence that does the math with figures already in the essay: Brown's $2.1 million raise alone would pay for the Vietnamese program for 42 years. That turns the implied contrast into stated reasoning. Do not add any new claims."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-30",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 640,
+ "source_url": "https://www.thenation.com/article/archive/global-problems-global-solutions/",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the issue clearly in the first paragraph: \"diplomatic cooperation is the most pressing necessity and issue to the survival of the human race.\" Climate, Iran and foreign aid each pull the argument in a different direction, so it never stays on one position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some checkable anchors: Washington's farewell address, Iran's nuclear program, The Economist's \"71%\" and \"less than 1% of federal money\". Most claims stay abstract, though, like \"Past international conflicts\", \"some countries didn't participate\" and \"Other funds help fight AIDs\". It also says the UN represents \"every sovereign country in the world\", which overstates it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a real student, with clumsy moments like \"may come in handy if an unyielding ruler developed a hatred\" and no em dashes. It still uses stock framing: \"not based on political borders, but the shared necessity\" (not X but Y), \"not only shouldn't be cut, but should be increased\", \"make the world a better place for everyone to live\" and \"most certainly\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is an analytic prompt, so a case study should do the job of a story. There isn't one: Iran gets two sentences, and climate and AIDS aid get one or two each. That makes three or four half-examples, and none of them carries the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the current approach fails: people think foreign aid is huge (71% want cuts) when it is under 1% of spending. The fix it offers is just \"should be increased\", with no idea of who does it or how, and the payoff is vague (\"violence and disease around the world could largely dissolve\")."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on Washington's farewell address but never comes back to it. The paragraphs jump from the UN to climate to Iran to the budget to aid. The last line is a generic restatement: \"Turning that tide around will be one of the most important challenges of the coming years.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Pick one of the examples already in the essay (Iran's nuclear program is the best fit for diplomatic cooperation) and make it the essay's case study. Cut the climate paragraph (\"Fighting dangerous climate change...\") and the AIDS sentence to free up about 150 words. Use them to tell the Iran oversight effort in order, with real names, years and which countries stayed out, taken from a source the writer has actually read. Ask Enes which source that is; don't add any fact he can't back up.",
+  "Rewrite the last paragraph so it returns to Washington. Replace \"make the world a better place for everyone to live\" and \"Turning that tide around will be one of the most important challenges of the coming years\" with a closing line that answers Washington's warning about foreign entanglement directly, using the 71% vs. under 1% gap the essay already has. Also add a concrete version of \"should be increased\" (who should do it, and what the change is), but only one Enes can actually stand behind.",
+  "Remove the stock framings. Turn \"not based on political borders, but the shared necessity of a stable planet\" into a plain claim, and change \"a figure which not only shouldn't be cut, but should be increased\" to \"a figure that should go up, not down\" (or reword it completely). Cut \"most certainly\". Change \"every sovereign country in the world\" to \"nearly every sovereign country\". Fix \"AIDs\" to \"AIDS\". Check the Economist 71% figure and the under-1% figure against NUMBERS.md or the original source before submitting."
+ ]
+}

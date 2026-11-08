@@ -1,0 +1,54 @@
+{
+ "id": "nw-14",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 766,
+ "source_url": "https://www.thenation.com/article/archive/bard-high-school/",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Budget cuts get a real answer ('art and music programs have been in the most danger of being eliminated', larger classes), but much of the essay describes BHSEC in general. Tuition hikes get no answer at all because the school is free, so a -10 deduction for an unanswered prompt part is included in the total."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There is a lot of checkable detail: '$4,000 per student', founded 2001, class of 2010, classes 'capped at twenty' against 'over thirty', Obama's NAACP speech, the 'Novels of Fyodor Dostoevsky' course, and 'Kafka ... over peanut butter and jelly sandwiches'. The harm itself stays vague, though: no cut class, teacher or program is named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real student's voice is there (the Kafka-at-lunch aside), but it is wrapped in stock filler: 'plethora', 'significant' used three times, 'deeply invested', 'tremendously lucky', 'extremely high potential', 'exponentially more valuable', 'raises an important question', and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories about the cuts. The course-catalogue opening is a happy scene about the school, and the Lockean-consent professor shows what is at stake, not what was lost. No moment shows a cut actually affecting the writer."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay explains one mechanism: bigger classes mean 'each student has less of an opportunity to contribute to the discussion.' The fix it offers is generic: 'a significant shift away from investing in students' test scores and toward funding programs like BHSEC', with no change named and no one responsible for making it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The paragraphs are clear, and the ending returns to the opening image: 'students all across the United States will be able to share that Christmas morning feeling, and unwrap the gift of their education.' But the close is a generic moral, and the middle paragraphs read like a school brochure."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the 'tuition hikes' half and center the essay on the harm (recovers about 18 points: the -10 deduction plus criterion 1 moving from 3 to 5). Cut paragraph 2 down to two sentences: keep the free public school, the Associate degree and the first-generation line, and drop the 'plethora' and 'doctorate degrees' sentences. Use the roughly 100 freed words for a direct answer. Ask the writer how rising tuition actually affects them, for example the college they are heading to after BHSEC, and use only what they report. If tuition truly does not apply, say so plainly in one sentence and explain why the budget cuts are the real threat.",
+  "Replace the general description of class size in paragraph 4 ('existing BHSEC faculty have had to teach more classes, meaning that fewer sections...') with the one real loss the writer lived through (recovers about 9 points on stories). Ask them which specific course, section, art or music class, or professor's office hours they lost or saw grow crowded, and how many students were in that room. Do not invent it. If no such moment exists, cut paragraph 4 to its mechanism sentence and let the Lockean-consent professor carry the essay.",
+  "Turn the paragraph 5 solution from a slogan into a mechanism (recovers about 9 points on ideas, plus some on voice). Replace 'Finding a solution to this problem will require a significant shift...' with something the writer actually knows, such as how the $4,000 gap is currently closed (city, state and federal grants plus parent fundraising), where that model breaks, and one concrete change and who would make it. Ask the writer for the real one. In the same pass, cut 'plethora', 'deeply', 'tremendously', 'extremely', 'exponentially' and the repeated 'significant'."
+ ]
+}

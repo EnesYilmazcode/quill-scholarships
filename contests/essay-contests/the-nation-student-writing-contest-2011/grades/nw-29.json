@@ -1,0 +1,54 @@
+{
+ "id": "nw-29",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 787,
+ "source_url": "https://www.thenation.com/article/archive/facing/",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one issue in the first line, \"we don't really face up to serious issues,\" and argues for it throughout. But paragraph 3 drifts into a list of other issues (debt, Medicare, newspapers, student loans) before coming back to the thesis."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has real anchors: \"In 2010, according to Civic Youth, only 24 percent of 18–29-year-olds voted,\" the Beijing \"blue-shirted volunteers—over a million in total,\" and the 2001 to 2010 output figure. Paragraphs 3 and 6 are mostly abstract lists with nothing a reader could check."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice is sardonic and personal, but it leans on speechwriter tells: \"It's not that... it's that\" (a not X but Y), paired lines like \"Yes, we will live longer; but will we live better?\", slogans such as \"unless we step up, we will inevitably stand down\" and \"It takes just a click to 'follow,' but a whole lot more to lead,\" and 7 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Tells one story, the Beijing Olympics volunteers, with physical detail (\"picked up my bags without my asking\"). It sits in the middle as a contrast and is not the spine of the essay. The writer's own part in the apathy never shows up as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasons given are guesses (\"Maybe it's because we never had a Normandy\"). The only fix offered is intent: \"We have to use the web's democratizing force to broaden thought and impel action.\" It names no concrete change, no person who would make it, and no reason people would follow through."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The phrase \"face up\" returns at the close, but the ending is a generic moral, not a return to an image: \"Whether we can muster the will—well, that's entirely up to us.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 7 (\"We have to use the web's democratizing force to broaden thought and impel action\") and the last paragraph state intent but offer no mechanism. Ask Enes what he has actually done or seen work to get people his age to show up, such as a real registration drive, a class or club practice, or a habit of his own. Replace the abstract call with that one concrete change, who carries it out, and why it works where the old approach fails. Worth up to about 9 points on ideas.",
+  "Remove all 7 em dashes (\"all talk—that\", \"face up—to show up\", \"volunteers—over a million\", \"nation—one that\", \"hand yet—and\", \"action—not distract\", \"will—well\"); use commas, colons or full stops instead. Then cut or flatten at least three of the slogan lines: \"unless we step up, we will inevitably stand down\", the \"Yes, we will... but will we...\" pair, and \"It takes just a click to 'follow,' but a whole lot more to lead\". Also rewrite the opening \"It's not that... it's that\" as a plain claim. This recovers the 6-point deduction plus about 4 to 8 points on voice.",
+  "Reorder the essay so the Beijing volunteers come first, as the opening scene, and the last line returns to the \"million blue shirts\" instead of \"that's entirely up to us.\" Cut the question list in paragraph 3 and the \"young, hip Illinois senator\" line to free words for the voting statistic, and check with Enes that the Olympics trip and the 2010/2008 figures fit his real timeline. Worth about 4 to 6 points on structure and story."
+ ]
+}

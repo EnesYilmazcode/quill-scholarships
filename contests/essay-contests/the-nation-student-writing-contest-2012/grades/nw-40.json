@@ -1,0 +1,54 @@
+{
+ "id": "nw-40",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 691,
+ "source_url": "https://www.thenation.com/article/archive/romneys-recession-reaganomics/",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names the issue plainly ('the economy is always the most important issue in a presidential election, and I think that it is especially true this time around'), but the filibuster and Romney-character paragraphs drift from the issue into partisan attack."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real anchors ('8.2 percent', 'three and half years', '17-year-old', competing with '30-, 40- and even 50-year-olds'), but the job search has no named store, no count and no place, and the charges against Romney ('evaded millions in taxes') come with no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real teenager ('I'm baffled by this', 'honestly feels guilty for not keeping up with politics'). Tells: 'not only teens like me but also', a slogan close ('I want to work for it, and for it to work for everyone'), the filler 'surely', and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the summer job search. It is on topic but told as a summary with no scene, and it disappears after the first paragraph."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names the failed fix (trickle-down) and offers a concrete change (minimum wage tied to inflation, higher taxes on the top 1 percent), but it asserts rather than explains ('Of course, this has not worked in the past') and never says how the change would get past the filibuster it blames."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The paragraphs are clear and the ending gestures back to work ('This is my country. I want to work for it, and for it to work for everyone.'), but it does not bring back the actual 'sorry, we're not hiring' moment."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the attack lines in paragraph 2 ('Although he is impersonal, inconsistent and elitist' and 'How could people put their trust in someone who has laid off thousands... evaded millions in taxes?') and the third filibuster paragraph's 'immature trick' sentence. Use the roughly 100 words this frees to explain the minimum-wage proposal step by step: how inflation-linked wages reach a teenager like the opener, and why that beats trickle-down. This lifts ideas and answers_prompt.",
+  "Rewrite the 'not only teens like me but also plenty of adults and even parents' clause as a plain list ('would help teens like me, and adults and parents working the same counters'). Drop the 'work for it / work for everyone' antithesis and end flat and concrete instead. This removes the main voice tells.",
+  "Close by reusing the opening's exact words, 'sorry, we're not hiring', in the final paragraph, tied to what a minimum-wage raise would change for that search. That gives the ending a real loop back and gives the one story weight beyond paragraph 1, which raises the structure and stories scores without adding any new events."
+ ]
+}

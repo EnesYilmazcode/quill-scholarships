@@ -1,0 +1,54 @@
+{
+ "id": "nw-12",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 780,
+ "source_url": "https://www.thenation.com/article/archive/absence-ideology-why-we-need-more-partisanship/",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position ('American democracy is being crippled by a lack of true ideology, not a surplus of it'), but the single root cause drifts between a lack of real debate and 'money and power', so the 'one root cause' the prompt asks for gets blurred."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Specific and checkable: July 1804 in Weehawken, the Center for Responsive Politics '90% of the time' figure, a quoted Hamilton line. But the policy-consensus paragraph is bare assertion ('Israel can do no wrong', 'disastrous effects of austerity in Europe') with no source or number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Opinionated human voice ('Imagine if Joe Biden had shot Timothy Geithner to death!'), but stock framing is dense: three 'Not only...' constructions, 'not to their beliefs, but to money', 'lack of true ideology, not a surplus of it', 'anything but', 'certainly valid', one em dash."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One case study, the Hamilton-Burr duel. It is vivid but works as a hook: the bridge 'There is a lesson to be learned from that bloody brawl' is asserted, and the duel never comes back as evidence for the money argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a partial why (spending predicts winners, so beliefs stop mattering), but treats correlation as cause. It also contradicts itself: both parties 'largely in agreement', then discord driven by 'an effort by the far right to block the agenda'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Ending loops back to the opening duel: 'It's time our politicians draw their pistols at ten paces, so that policy—not money or the promise of power—can once again drive our lawmaker's decisions.' The middle wanders through a counterargument paragraph that undercuts the thesis."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): rewrite the three 'Not only...' sentences ('Not only has the exchange of ideas dried up...', 'Not only do these ideas enjoy broad political consensus...', 'Not only that, but the floors...') as plain statements. Recast 'not to their beliefs, but to money and power' and 'a lack of true ideology, not a surplus of it' as single direct claims. Replace the em dash in the last sentence with commas ('so that policy, not money or the promise of power, can...'). Delete 'certainly' from 'Though this concern is certainly valid'. Fix the apostrophe in 'our lawmaker's decisions' (should be 'lawmakers').",
+  "Mechanism (+6 possible): commit to one root cause, money, and make paragraph two say that in one sentence. Then move the Center for Responsive Politics paragraph up to sit right after the thesis and explain the chain in your own reasoning: money decides who wins, so candidates answer to donors, so both parties converge and real debate dies. Cut or reframe the Tea Party/Obama paragraph, which claims partisan obstruction right after claiming the parties agree. Ask the writer for the exact CRP citation (year and House vs Senate) before keeping the 90% figure.",
+  "Case study (+6 possible): make the duel do argumentative work instead of decoration. Delete 'Imagine if Joe Biden had shot Timothy Geithner to death! It would be no different.' (it reads as dated and flippant against a current prompt). Move the Hamilton quote ('The clamors of interested and factious men are often mistaken for patriotism') up into paragraph two, so the opening scene ties directly to the money-over-belief thesis. Check with the writer whether the Obama-era references (Tea Party caucus, 'President Obama') should be updated or cut, since the prompt reads as present-day."
+ ]
+}

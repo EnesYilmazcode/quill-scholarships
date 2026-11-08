@@ -1,0 +1,65 @@
+{
+ "id": "nw-46",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "winner",
+ "words": 774,
+ "source_url": "https://www.thenation.com/article/archive/what-i-owe-radical-feminism/",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The prompt has one part and the essay takes a clear position early: \"This retrogression in the way women are treated, and the deterioration of women's rights, will be the biggest issue in the 2012 Election.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense with checkable facts (Equal Pay Act 1963 at fifty-nine cents, 'only 3 percent', 'Seven states require... an ultrasound', Paycheck Fairness Act in June, 'The Life of Julia'), but one source is misnamed and a few claims ('many states are proposing') have no numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Competent but stock op-ed voice. Tells: 'not just social but economic as well' (not X but Y), 'shockingly large', 'eternally grateful', a tidy moral close, and no sentence in the writer's own words over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so case studies count, but there are four or more (the all-male hearing, the ultrasound laws, the Paycheck Fairness Act, Life of Julia) and none is developed. The one personal beat (grandmother voting, mother becoming a lawyer) gets a single sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real why: women have outvoted men since 1980, so both campaigns must court them. Otherwise it shows that the issue was debated, not why it outranks the economy or other 2012 issues."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized, and 'radical feminists' echoes the Anthony and Santorum opening, but the last line restates the thesis: \"For that reason, issues affecting women must be in the forefront of the debates of the 2012 presidential election.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10: 'The Reuters Center for American Women and Politics' does not exist; the center is at Rutgers."
+  },
+  {
+   "rule": "em dashes",
+   "points": 0,
+   "reason": "-4: two em dashes, both inside the block-quoted Santorum passage ('someone else—or worse yet... afternoon—find')."
+  }
+ ],
+ "fixes": [
+  "Change 'The Reuters Center for American Women and Politics' to 'Rutgers University's Center for American Women and Politics' (check the source first). This recovers the 10-point fact deduction, the biggest single gain available.",
+  "Remove the em dashes and the block-quote format by trimming the Santorum passage to one inline fragment, e.g. Santorum blamed 'radical feminism' for mothers who leave children 'in the care of someone else'. This recovers 4 points and gives the writer back about 30 words.",
+  "Cut the stock phrasing ('not just social but economic as well' becomes 'are economic too'; drop 'shockingly' and 'eternally'). Spend the saved words on the grandmother and mother sentence, using only real details you can confirm with the writer. End on Anthony's line about consent instead of restating the thesis. This lifts voice and ending, worth about 6 to 10 points."
+ ]
+}

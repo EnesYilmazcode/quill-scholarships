@@ -1,0 +1,54 @@
+{
+ "id": "nw-42",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 789,
+ "source_url": "https://www.thenation.com/article/archive/selling-supreme-court/",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The single-part prompt gets a clear position in the opening paragraph: \"there is a more substantial issue at stake in November... the trajectory of the Supreme Court will have a more profound effect on posterity.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Strong proper nouns up front (four named justices, Citizens United v. FEC, Norquist at 2012 CPAC: \"We just need a president to sign stuff,\" Bork chairing the Justice Advisory Committee), but the long fourth paragraph is an unsupported list of predicted losses (privacy, abortion, birth control, LGBT rights, right to die, one man-one vote, indefinite detention, free speech) with no case, vote count or date behind any of them."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as a real person writing a heated op-ed, not model prose, but it leans on stock hyperbole (\"far-right despot,\" \"tyrannical conservative Court,\" \"Orwellian surveillance state,\" \"theocratic plutocracy\"), certainty words (\"undoubtedly,\" \"it is imperative\"), \"profound\" used twice, an em dash pair, and slips such as \"minds and conscious\" and \"ordinary American's rights.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so the case study counts as the story. The Norquist-to-Bork chain is the only sustained one, and it gets a single paragraph before the essay moves to a list of consequences, with no second case study developed."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real causal chain (president appoints justices, a Bork-led committee screens nominees, stare decisis is abandoned, the privacy precedent falls), but most links are asserted rather than argued (\"would most likely be recklessly abandoned\"), and the money-to-Court claim (\"If money buys Romney the presidency, the Court will be bought with it\") is a slogan, not reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized as thesis, money, Bork, consequences, call to action. The economy frame from the opening comes back in the second-to-last paragraph, but the last line drifts to a generic warning: \"Should we fail, right-wing hegemony will likely be codified and impervious, a stain upon America's global standing for generations to come.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 4 (\"Contemplate what is at stake... upon which our nation and Constitution is based\"): cut the catalog of about ten threatened rights down to the one or two precedents the essay can actually argue, such as the right to privacy. Ask Enes for the real, checkable decisions behind them (case names, years, and margins if any were 5-4) and show which of the four aging justices was in each majority. That turns an abstract list into a mechanism and recovers points on specificity and ideas (up to about 14).",
+  "Cut the hyperbole and certainty words that make the argument easy to dismiss: \"far-right despot\" (paragraph 1), \"tyrannical\" and \"undoubtedly\" (paragraph 4), \"Orwellian,\" \"theocratic plutocracy,\" and the second \"profound.\" Replace the em dash pair around the justices' names with a colon (\"With four aging justices: Ruth Bader Ginsburg, ...\") or commas. Fix \"minds and conscious\" to \"minds and consciences\" and \"ordinary American's\" to \"ordinary Americans'.\" This recovers the -4 em dash deduction plus up to 8 points on voice.",
+  "Replace the last line (\"Should we fail, right-wing hegemony...\") with a close that returns to the opening contrast between the economy, which is fixed within a term, and the Court, which lasts for decades. Build it only from facts already in the essay, such as the four justices or the appointment math. Cut or shorten the \"intellectual leaders and activists\" paragraph to make room within the 800-word limit (up to 4 points on structure)."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-34",
+ "contest": "The Nation Student Writing Contest 2011",
+ "year": "2011",
+ "outcome": "finalist",
+ "words": 544,
+ "source_url": "https://www.thenation.com/article/archive/winning-future/",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Never names 'the most important issue facing my generation' or mentions the writer's generation at all. It reviews one speech, and the closest it gets to a thesis is 'winning America's future really does depend upon it'. Deduction -10: the central part of the prompt gets no answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense with checkable facts: Eisenhower's 'Sputnik moment', the 'five-year freeze on domestic spending', the Bush-era tax cuts, Paul Ryan's 'Greek-style collapse' and Bachmann's response. None of it is personal or physical."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Pointed and human ('Party of No', 'fearmongered', 'antigovernment mania'), with long sentences and no em dashes or AI vocabulary. But it speaks as an editorial board ('we would have liked to hear', 'we feared'), not as a student, and leans on the cliché 'The devil is in the details'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "No personal story (0 stories). The 2011 State of the Union works as a case study, but it is about one speech, not about an issue facing the writer's generation."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains well why the competitiveness framing falls short (no 'climate change', no unemployment). The core claim that 'short-term deficits are necessary to create jobs' is stated but never explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc from the speech to its strengths, its gaps and the GOP response. The last line, 'winning America's future really does depend upon it', returns to the opening phrase 'win the future'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Originality check first: this text reads like a published editorial on Obama's January 2011 State of the Union (editorial 'we', events framed as current). The prompt requires an original, unpublished essay. If Enes did not write it, do not submit it. Ask Enes for his own essay on an issue he actually holds a view on.",
+  "If it is his own writing, put a plain answer in paragraph 1: replace the seating-plan opening with one sentence naming the issue (for example, public investment versus deficit austerity) and saying why it falls on his generation. Then cut the paragraph about Ryan and Bachmann's responses to make room for that reasoning.",
+  "Remove the dated, institutional framing. Change 'we would have liked to hear' and 'we feared' to first-person singular, put the 2011 speech in the past tense as a case study (cut 'the GOP is still the Party of No'), and use the space to explain the deficit claim in paragraph 4. Ask Enes whether he has a real connection to the issue rather than adding one."
+ ]
+}

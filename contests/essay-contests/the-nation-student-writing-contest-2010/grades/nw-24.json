@@ -1,0 +1,54 @@
+{
+ "id": "nw-24",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 670,
+ "source_url": "https://www.thenation.com/article/archive/undereducated-students-overburdened-teachers-and-future-america/",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The prompt has one part, and the essay answers it early with a clear list: \"we have not had a single field trip; our classes have been large and unruly; the SAT program has been minimized; and there are fewer athletic facilities\". Each item then gets its own paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: Cherry Hill, Romeo and Juliet versus Julius Caesar, the four sports cut by name, and an SAT course cut to \"four days\". But the class-size paragraph has no number, and the facilities claim (\"ten years back in time\") has no physical detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: \"not only X but also Y\" three times (\"curtailed not only... but also\", \"not only the plot but\", \"not only a form of recreation... but also\"), 2 em dashes, the triplet \"less skilled, less proficient and less educated\", \"Needless to say\", \"Any high school student... will tell you\", and a tidy moral at the end. One human moment saves it from a 1: \"stretch your arms and legs and finally breathe!\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two small stories, both on topic: the Romeo and Juliet field trip set against Julius Caesar with no trip, and soccer as a way to focus before studying. Neither gets a full scene, and the essay reads as a list of four complaints rather than being carried by one story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay explains why some cuts hurt: seeing the play brought the characters to life, and big classes mean less feedback. The long-term paragraph only asserts damage (\"less skilled... than the youth of other nations\", \"get us out of this recession\") and never shows how it happens."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Clear paragraphs, but the close is a generic civic moral that never comes back to the textbook-and-worksheet opening. The last line is \"When the government disinvests in education, it is crippling the youth who are its highest hope for the future.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 points back): rewrite the three \"not only... but also\" sentences as plain statements. For example, paragraph 1 becomes \"Their cuts have taken our extracurriculars and some of the courses we need for a future major,\" and paragraph 4 becomes \"Soccer was also how I got focused, because after practice I go home and study.\" Delete \"Needless to say\" and \"Any high school student (and probably any college student) will tell you\". Replace both em dashes with a period or comma (\"ten years back in time, judging from the facilities\" and \"my passion for soccer: to train, to play and to let off some steam\"). This also removes the -4 em dash deduction.",
+  "Structure and ideas (up to 6 points back): cut the final paragraph's national-competitiveness lines (\"less skilled, less proficient and less educated...\", \"recession\", \"strengthen our democracy\"), because nothing in the essay supports them. End by returning to the opening claim that a textbook, a worksheet and a teacher are enough, using Julius Caesar: this year that is all the class had, and the play stayed flat in a way Romeo and Juliet did not. The ending then pays off the opening with material already in the essay.",
+  "Specificity (up to 8 points back): the class-size paragraph is the vaguest one (\"cramped, compressed against other students\"). Ask Enes for the real student count in one named class and the year, and use them in place of the abstract wording. If he doesn't have a real number, cut the paragraph to two sentences and give the freed words to the field-trip paragraph, which is the strongest and most concrete part of the essay."
+ ]
+}

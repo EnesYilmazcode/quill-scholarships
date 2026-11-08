@@ -1,0 +1,54 @@
+{
+ "id": "nw-23",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "finalist",
+ "words": 797,
+ "source_url": "https://www.thenation.com/article/archive/students-lose-role-models/",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Budget cuts are covered at length, but the essay mostly describes staff losing their jobs rather than 'how their education has been compromised'. Only the writing class paragraph ('there was very little of that') shows the writer's own learning suffering, and tuition hikes never come up. The '$200 increase in bus fees' is a fee, not tuition. Deductions: -10 for the tuition-hikes part with no answer, and -5 because the literal '<span style=\"font-variant: small-caps\">am</span>' markup is pasted into the essay text."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The checkable details are strong: Mrs. Judie Smith at 'fifteen years', the bowl of hard candy, 'staff of four now consists of himself and one other night custodian', 'approximately 700 students', '40 percent of the staff was cut', 'nearly 100 students', '$200 increase', 'close to $600 a year'. It falls short of 5 because the bus drivers and Mr. Nguyen stay general and 'Mr. Al' appears without being introduced."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real person shows through ('taken a vow of poverty', 'did not accept mindless grunts', the 'causalities' typo). Stock framing undercuts it: the not-X-but-Y lines 'No, it is not the loss of technology... It is the uprooting' and 'It's not just a department but people', filler like 'tirelessly', 'profoundly' and 'a true professional', two rhetorical questions in a row, and a tidy closing antithesis."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are five short portraits (Smith, Nguyen, Armin, the writing class, the bus drivers) and none is told as a scene. The one beat about the writer's own education, the advanced writing class with no feedback, gets four sentences while Mrs. Smith gets a full paragraph."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The central claim that losing staff hurts more than losing supplies is stated rather than argued. The one real mechanism is the writing class: 40% staff cut, so about 100 students per teacher, so no feedback on papers. The others ('a void was left, no matter how intangible') are feelings, not causes."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay is organized as a list of losses, but it opens on an abstraction ('Inevitably, those who will lose the most...'), and the ending restates the thesis instead of returning to the 'vow of poverty' teacher. Last line: 'The loss of teachers, mentors and kind, dedicated friends… I do not think so.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Tuition hikes get no answer, which costs -10 plus 4 points on criterion 1. Ask Enes whether a real tuition or fee increase (college, dual enrollment, AP exam fees, the bus fee) changed what he could take or afford, and get the actual figure. Put it in a short paragraph right after the high school paragraph, and say plainly how it affected his own schooling. If nothing real exists, ask him whether to present the $200 bus fee as the cost increase, and name it accurately.",
+  "Make his own education the center. Move the advanced writing class paragraph up to second position. To make room, cut the Mr. Nguyen paragraph and shorten the bus driver paragraphs to two sentences. Use the freed words to sharpen what the missing feedback meant, using only details Enes confirms (what he wrote, what came back, what he couldn't fix). This lifts criteria 1, 4 and 5.",
+  "Clean the voice and the ending. Delete the literal '<span style=...>am</span>' markup (-5) and write '9 a.m.'. Fix 'causalities' to 'casualties' and 'greatly that affected' to 'that greatly affected'. Rewrite 'No, it is not the loss of technology... It is the uprooting' and 'It's not just a department but people' as direct claims, and cut 'tirelessly', 'profoundly' and the two rhetorical questions. Replace the final line with a close that comes back to the 'vow of poverty' teacher from the first paragraph."
+ ]
+}

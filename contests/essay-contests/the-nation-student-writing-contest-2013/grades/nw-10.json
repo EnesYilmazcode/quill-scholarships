@@ -1,0 +1,54 @@
+{
+ "id": "nw-10",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 631,
+ "source_url": "https://www.thenation.com/article/archive/end-majority-rule/",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for one root cause, but the essay names three: the filibuster ('filibustering has been used to bring democracy to a standstill'), 'inflexible ideologues', and 'Corrupt lobbying... veiled bribery'. It never says which one is the root."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong checkable detail: '90 percent of Americans', '74 percent of gun owners in the NRA', Harry Reid, cloture, TEFRA in September 1982, Tip O'Neill and Reagan. But the Manchin-Toomey vote was 54-46, not '55 to 45', and the amendment was bipartisan, not 'Obama's amendments'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a person, but with stock framing: a rhetorical-question opener, 'Unfortunately', 'Of course', 'upper echelons', a not-because-X-but-because-Y line ('did not do so because of their passionate belief... but because'), about 8 em dashes and a subject-verb error ('Tools... has')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are two on-topic case studies: the 2013 background-check vote and the 1982 TEFRA compromise. The first is muddled by the aside on Reid's 'lesser of two evils' choice, which weakens the essay's own argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains how the 60-vote cloture threshold lets a minority block a majority, and quotes Sinclair on why money shapes votes. But it then concedes Reid's route 'really was the lesser of two evils' and never connects the three causes into one."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on 'What happens to a democracy when the voice of the majority is no longer heard?' and ends on a borrowed JFK quote: 'Let us accept our own responsibility for the future.' The ending is a generic moral and never returns to the opening question."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1 (answers_prompt, about +12): commit to one root cause in a plain sentence, for example the 60-vote cloture rule that lets a Senate minority block what the majority wants. Cut 'This, coupled with a dangerous proliferation of inflexible ideologues'. Then rewrite the lobbying paragraph as the reason that rule gets abused, so it is no longer a second cause, or cut it.",
+  "Paragraph 2 (accuracy, recovers the -10): fix the facts before submitting. The Manchin-Toomey background-check amendment failed 54-46 on April 17, 2013, and it was a bipartisan Senate amendment, not 'Obama's amendments'. Change 'recent' to '2013'. Cut the 'perhaps this route really was the lesser of two evils' sentence, because it argues against your own thesis.",
+  "Voice and ending (about +8 plus the -6 recovered): remove all em dashes, change 'Tools... has' to 'have', and rewrite 'did not do so because of... but because' as a direct statement. Replace the JFK quote at the end with a closing line that answers the opening question, 'What happens to a democracy when the voice of the majority is no longer heard?', using the 54 senators from your own vote example."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-19",
+ "contest": "The Nation Student Writing Contest 2010",
+ "year": "2010",
+ "outcome": "winner",
+ "words": 731,
+ "source_url": "https://www.thenation.com/article/archive/losing-ignition/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Budget cuts get a full answer ('Facing devastating financial burdens, the state broke its promise. My scholarship was pulled away from me a month before tuition was due'), but tuition hikes, the second half of the prompt, are never named or answered."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and physical detail (the Packard Plant at 3.5 million square feet, the Promise Scholarship, the bankruptcy filed to keep the house, 'the weight of three dollars spent on a morning's bagel and coffee'), but the central loss has no dollar amount, date or hours worked."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Mostly a real person talking, but it slides into stock framing: a balanced antithesis ('Their stories can be heard; their lessons can be learned'), a triplet ('painted on, trampled on, dumped on'), a tidy moral close ('how to rebuild and reinvent, how to keep moving forward'), two em dashes, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story (the Promise Scholarship pulled, then the senior year spent working to fill the gap), plus a parents beat that adds context. The key moment is told as a summary, and the Packard frame and the 'staying in Detroit' paragraph take words away from it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains the chain of cause well (state cut, then mother's bad credit and father's low income, so no private loan, so tips and hours fill the slot). It never explains why the cuts happened or what they cost students beyond the writer, and the plan to teach at community colleges is stated, not reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending loops back to the opening Packard Plant image, but the last line is a generic moral: 'If there's anything this period of time has taught us, it's how to rebuild and reinvent, how to keep moving forward and to keep working hard even when feeling abandoned.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 8 points): cut the last sentence ('If there's anything this period of time has taught us...') and end on the community-college line about laid-off workers. Remove both em dashes ('losing its ignition—students' should become a period or colon, and '—or maybe ever' should become a comma). Change 'Their stories can be heard; their lessons can be learned' into one plain sentence. Join two short sentences in the scholarship paragraph into one long, natural sentence over 45 words. The em dash fixes also recover the 4-point deduction.",
+  "Prompt coverage and mechanism (about 10 points): the prompt asks about tuition hikes and the essay never mentions them. Ask the writer whether tuition at their school actually rose during these years and by how much, then add one or two sentences in the paragraph that starts 'Living away from home'. To make room, trim the Packard history in paragraph 2 (cut the steering wheel and 'dream cars' sentence).",
+  "Specificity (about 4 points): in the scholarship paragraph, ask the writer for the real dollar amount of the Promise Scholarship they lost and roughly how many hours a week they waited tables to replace it. Put those numbers where 'I worked as many hours as I could' and 'pulled away from me' now sit. Cut the paragraph about classmates moving out of state ('When many students are asked...') to keep the word count under the limit."
+ ]
+}

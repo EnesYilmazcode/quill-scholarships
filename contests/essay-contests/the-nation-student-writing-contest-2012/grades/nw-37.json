@@ -1,0 +1,54 @@
+{
+ "id": "nw-37",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 786,
+ "source_url": "https://www.thenation.com/article/archive/give-undocumented-voice-election/",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay never names one issue as the most important. It splits between 'Issues like immigration and education' and later calls the school board race 'the greatest struggle', so the single-issue answer the prompt asks for comes out hedged."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of checkable facts: Marco Galdino, seven years in detention, the $10,000 bond, CCA, Amnesty's 'Jailed without Justice', the 2008 ICE quote, the SB1070 'show me your papers' ruling, and the 3 TUSD board seats."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real activist with clumsy moments ('a the social whim', 'fill a surplus of invisible human stories'). Tells: the triplet 'irrelevant, invisible and illegitimate', the 'You won't hear... You won't see...' anaphora, and 4 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story (Marco), on topic but told as a summary ('I met and came to know Marco Galdino upon his release') with no scene. The TUSD section is argument, not story, and Marco drops out after paragraph 6 apart from one late mention."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains some causes well (state sanctions forced the MAS shutdown, the college programs are next, so every MAS program is at risk). The close falls back on vague intent: 'all sorts of people are determined to create change within and outside the ballot box.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the last line is a generic shrug that drops Marco and Tucson: 'As always, elections are nothing if unpredictable—no matter which way they turn out.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1: replace 'Issues like immigration and education impacting the Mexican-American community especially continue to dominate public life...' with one plain sentence naming immigration enforcement and detention as the most important issue of 2012. Then reframe the TUSD paragraphs as part of that same anti-immigrant push (the essay already says 'The same Arizona politicians'), so the essay gives one answer instead of two.",
+  "Last line: cut 'As always, elections are nothing if unpredictable—no matter which way they turn out.' and end by returning to Marco, using facts already in the essay: he cannot vote in November, yet he is still advocating for the people held where he was held. That closes the loop with paragraph 2 and removes an em dash.",
+  "Fix the voice and the em dashes: change all 4 em dashes ('headlines—mostly', 'prisons—among', 'disappeared—virtually', 'unpredictable—no') to commas or periods, fix the 'a the social whim' typo, and cut padding ('In this hot, airless climate', 'hair-splitting', 'fill a surplus of invisible human stories'). Use the freed words to move Marco's role higher in the TUSD and closing paragraphs instead of adding anything new."
+ ]
+}

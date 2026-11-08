@@ -1,0 +1,54 @@
+{
+ "id": "nw-08",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 790,
+ "source_url": "https://www.thenation.com/article/archive/gated-minds/",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The root cause only appears in the second-to-last section, and it is hedged: \"maybe the problem isn't schisms but our refusal to talk across them.\" A cause introduced with \"maybe\" is a gesture, not a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The scene is full of real detail: Obama campaign, Wisconsin two days before the election, \"Only two had slammed doors,\" The Theology of the Body, a decade in Catholic schools, the two girls. The evidence for the argument is weak, though: \"A recent study found\" gives no source, author or year."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, unflattering moments included (\"I sneer\", \"I storm off\", \"I feel very small\"). Tells found: 5 em dashes, \"shepherds, not salesmen\", \"isn't schisms but\", the stacked triplet \"ratings rule, and campaigns rally, and the echo chamber echoes\", and a slogan close \"we gate our minds as we gate our communities.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One story, told fully as a scene: the doorstep argument with the man and his daughters, which directly shows the refusal to talk across divides. The Chicago headquarters setup supports it rather than competing with it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay hints at a mechanism (campaign targeting writes off non-supporters, so nobody argues across lines) but never connects it to the broken system. \"if we deem divides uncrossable, we make divisions inevitable\" claims the effect without explaining how, and the only evidence is an uncited study."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay opens on \"technology had rendered argument obsolete\" and comes back to door knocking at the end: \"Maybe we would all benefit if my fellow campaigners, as well as broadcasters and journalists, did the same.\" The loop works, but the last line is a generic moral, and \"So it goes.\" is filler."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Criterion 1 (+8): Name the root cause plainly and early. Change the line \"And now I worry, because maybe the problem isn't schisms but our refusal to talk across them\" to a flat claim with no \"maybe\" and no isn't-X-but-Y frame, for example \"The root cause is that the people who run our politics have decided persuasion isn't worth the time.\" Then add one clause to the opening paragraph that points ahead to this answer, so the reader knows the Wisconsin story is the evidence for it.",
+  "Criterion 5 (+6): Replace the \"So it goes. And ratings rule...\" paragraph with the mechanism already in the essay: the campaign's likely-supporter lists meant volunteers were told not to argue (\"Your job is not to argue\"), so nobody on either side gets asked for reasons, and the man at the clipboard was the exception. Ask Enes for the real name, author and year of the \"recent study\" on knowing a gay person, and cite it. If he can't find it, cut the statistic instead of keeping it vague.",
+  "Deductions and voice (+6 and toward a 5): Remove all 5 em dashes. Use a colon after \"on the left and the right\", cut the dash before \"And,\" in the quote, use \"and...\" for the interruption, a colon after \"how this feels\", and a comma before \"out for a walk with Daddy.\" Also rewrite \"We were shepherds, not salesmen\" as a plain statement of the job (\"Our job was to herd our people to the polls\")."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "nw-39",
+ "contest": "The Nation Student Writing Contest 2012",
+ "year": "2012",
+ "outcome": "finalist",
+ "words": 815,
+ "source_url": "https://www.thenation.com/article/archive/mother-nature-bring-trojan-horse/",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay names one issue plainly ('the dire, uphill attempt to nurse our sickly Earth back into health') and stays on it. It is barely tied to Election 2012, though: no candidate, platform or campaign position is named, only 'a leader who is willing to... change tactics'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It gives real, checkable figures: 'less than 5 percent of the federal budget', '$7.6 billion dollars in the year 2010 alone', the Nature Conservancy 'seventeen to 420 times' quote, '30 percent of the spending benefited financiers'. Two weak spots: 'each photovoltaic panel... has only about 40 percent efficiency' overstates typical 2012 panels, and '$... billion dollars' is redundant."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real humor carries it ('bring out your pans', the aside that a wooden horse 'would probably cause deforestation'). Against that: three 'not only X but' constructions ('not only sick but', 'not only the technology... but the government', 'not only emits... it also'), one em dash and one spaced en dash, stock phrases ('a great disappointment and a grave problem', 'the big picture', 'daunting problem'), and a slogan-like line ('the hero who will save us all')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so the case study counts as the story. There is one strong case, corn ethanol as a Trojan horse, with the ad detail ('corn stuffed inside a car's gas tank'), the subsidy figure and the land-use evidence. The Achilles/Trojan frame is on topic, and nothing is off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names the existing fix (ethanol subsidies) and explains why it fails (land-use 'carbon debt', fertilizer runoff, 30 percent going to financiers). The remedy then stays generic: 'more of the pie should be given', 'wise investments must be made', 'careful allotment of the federal budget'. It never says what changes, by how much, or who does it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens on the 'fighting' frame and Achilles, and the last line comes back to it: 'a leader who is willing to stop the inattentive and endless fighting and change tactics.' But the paragraph before it ('Technology with a capital T...') mostly restates the thesis, and the close lands on a general moral rather than a concrete image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Word limit: the essay is 815 words against an 800 limit, which costs 10 points. Cut at least 15 words without losing facts. Candidates: the parenthetical 'such as religion, public service and recreation', 'basically,' and the redundant 'dollars' in '$7.6 billion dollars'. The 'Technology with a capital T' paragraph can drop to one sentence, since the closing line already makes its point.",
+  "Ideas (3 to 4 or 5): in the 'Further research and wise investments must be made' paragraph, replace the general call with the specific change your own evidence already supports. For example, stop the $7.6 billion yearly corn-ethanol subsidy and move that money into solar and wind efficiency research, with an audit so the 30 percent no longer goes to financiers. Then name who does it. To tie this to Election 2012, ask Enes whether he knows each 2012 candidate's real stance on ethanol subsidies or renewable funding, and use it only if it is sourced.",
+  "Voice and dashes (3 to 4, and about 2 to 4 deduction points back): rewrite the three 'not only' sentences as plain statements. 'The Earth is not only sick but is surprisingly neglected' becomes 'The Earth is also neglected.' 'It's not only the technology that's inefficient, but the government itself' becomes 'The government spends inefficiently too.' Split 'This consequent deforestation not only emits...' into two sentences. Replace '–' and '—' in the photovoltaic sentence with commas or a period. Check the 40 percent panel figure against its source; if it is the lab record, say so, or use the typical commercial figure."
+ ]
+}

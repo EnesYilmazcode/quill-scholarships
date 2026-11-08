@@ -1,0 +1,54 @@
+{
+ "id": "nw-05",
+ "contest": "The Nation Student Writing Contest 2013",
+ "year": "2013",
+ "outcome": "finalist",
+ "words": 762,
+ "source_url": "https://www.thenation.com/article/archive/american-politics-and-apathy-minority/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names one root cause and defends it ('our winner-take-all electoral system is at the root of American politics' biggest problem: voter apathy'), but the thesis mixes up cause and problem, and the essay never answers the obvious objection that district splits invite gerrymandering, which it raises itself."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: Omaha district, 2008 split ('went for Obama while the state's other four votes went for McCain'), Seattle exchange, '120th out of 169 nations', Benin. The childhood paragraph stays abstract ('whispers and judgmental glances')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human moments ('a blue speck of algae in a red Nebraskan ocean', the gerrymander aside 'but that is another story') sit next to stock framing: the triplet 'a healthy nation, a healthy political system, and an engaged group of citizens', slogan lines in paragraph 6 ('even our very selves, are worthless as well'), the Jefferson moral and two dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the Seattle exchange defending a Republican freshman, and the Omaha blue dot in 2008. Both are told as summaries rather than scenes, and the Nebraska childhood is a third summary beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a concrete fix (split votes by district like Nebraska) and says who gains (Latino Texans, rural farmers), but never shows that safe-state voters actually vote less than swing-state voters, and leaves its own gerrymandering example unanswered as a flaw in the fix."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc from story to data to fix. The close returns to Texas and the blue dot but lands on a general line, 'at least you know that it was a fair fight', instead of the opening Republican in Vermont or the election map on CNN."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 6 ('We cannot continue to place undue influence...'): cut the slogan sentences ('When our vote is worthless... worthless as well', the triplet 'For a healthy nation, a healthy political system, and an engaged group of citizens') and the Jefferson moral. Use the space for one plain sentence linking the blue dot to why you kept voting. Replace both dashes in 'Every single voice – even those... –' with commas. That recovers about 8 voice points plus the -4 dash deduction.",
+  "Paragraphs 5 and 7: support the causal claim and answer your own objection. Ask Enes whether he has a real, sourced figure comparing turnout in swing states and safe states, and put it next to the 40 percent stat. In the closing proposal, add a sentence on how a district split survives the gerrymandering you describe in the 2008 parenthetical, for example by pairing it with independent redistricting (only if that is what Enes actually believes). That moves ideas from 3 to 4 or 5.",
+  "Opening paragraph thesis: make the root cause and its effect one clear claim, e.g. 'The root cause is winner-take-all electoral votes, because they teach most Americans their vote won't count.' Right now apathy is called the 'biggest problem' and winner-take-all is only 'at the root' of it. Then end the last line on the opening image (the Vermont Republican or the CNN map) instead of 'a fair fight'."
+ ]
+}
