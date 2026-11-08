@@ -1,0 +1,54 @@
+{
+ "id": "dd-19",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1127,
+ "source_url": "https://www.mkhlawyers.com/scholarship/second-place-winner-2026-chloe-noever/",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The 'practical ways' part gets two paragraphs (DND, insurance apps), but 'how can we educate our community' is never answered as its own part. It gets a gesture: 'our friends and family are the movement's biggest advocates' and 'We must remind drivers that the people they love the most... are often passengers'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The numbers that look checkable are wrong or misstated. '12,405 traffic deaths per year in the United States' is far below the real figure of roughly 40,000. 'about twenty seconds for our eyes to readjust' is not a real figure. 'the average highway speed limit is as high as 85' is Texas's maximum, not its average. The vivid detail (pink frills, the payment-plan text) belongs to a made-up scenario."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real human moments ('Her eyes sparkle-literally from the makeup', 'how much I wanted to get my license and... how much I want to keep it'). They sit inside stock framing: 'it is simply not enough', 'very real, very violent consequences', 'is critical to reducing', 'To truly create change', a 'their children, their siblings, their best friends, their parents' list, and a slogan to close. The hyphen-dashes ('a girl- a senior') read like em dashes, though technically they are not."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two stories. The main one is a hypothetical ('Imagine this scenario') with no real person. The writer's own real slip ('nearly forgotten to check for other cars in my blind spots before merging') is on topic but summarized in one sentence with no scene, and it comes in the second-to-last third."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The DND paragraph has the right shape: the existing fix, why drivers turn it off (emergency calls, music), and a change. But the 'pass through' contacts change already exists on iPhone and Android (allowed contacts, repeated calls). The insurance-app idea names no change and says nobody does it. The education side is a generic menu with no who or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and the last line loosely echoes the opening text: 'our lives aren't worth what could, after it all is over, have been a spam message.' But the prom girl never comes back, the ending is a tidy moral, and the ideas come before the personal paragraph instead of after it."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix or cut the false numbers in paragraph 7 (deduction -10 plus specificity). Replace '12,405 traffic deaths per year' with NHTSA's published distraction-affected death count for the latest year, and replace 'about twenty seconds for our eyes to readjust' with NHTSA's '5 seconds at 55 mph is the length of a football field'. Change 'average highway speed limit is as high as 85' to 'speed limits reach 85 mph on some Texas highways'. Check each number against the source before submitting.",
+  "Add a paragraph that directly answers 'how can we educate our community' (criterion 1, worth up to 8 points). Build it from the true material already in the essay: friends saying they don't mind driving in silence, and family keeping the radio off. Ask the writer who started those rules, what was said, and whether it spread to anyone else, then present that as the education method: peers and passengers setting the rule, not assemblies. Keep only what the writer confirms happened.",
+  "Cut the hypothetical prom-night opening, or shrink it to two lines. Lead with the writer's own true slip from paragraph 9 (thoughts drifting, fiddling with the radio, nearly merging without checking the blind spot). Sharpen that slip only with details the writer confirms, then end by returning to that same merge instead of a slogan. Also rewrite the DND idea to admit that allowed contacts already exist and say why teens still don't turn it on, or drop it."
+ ]
+}

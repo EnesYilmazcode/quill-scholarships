@@ -1,0 +1,54 @@
+{
+ "id": "dd-02",
+ "contest": "Marks & Harrison Driver Safety Scholarship",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 869,
+ "source_url": "https://www.marksandharrison.com/wp-content/uploads/2020/05/Marks-Harrison-Distracted-Driving-Scholarship-Essay_-Marianna-Drapas-1.pdf",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own answer: education ('stronger education programs in schools and driver's education classrooms') and practical reduction (hands-free, AI monitoring). The education answer is a generic list ('videos', 'community presentations'), not a firm position on how to reach a community."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Aunt Jojo, the overnight nursing shift and '5 seconds, 146 yards' are real, checkable anchors (the math holds at 60 mph). There is no place, year or road name, and the citations '(Smith, 2022)' and '(Johnson, 2021)' are too vague to verify."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock imagery ('Rain pounded against the windshield', 'roads stretched endlessly', 'shattered my family overnight'), stacked triplets ('every late-night drive, every unanswered text, and every flashing notification'), balanced antitheses ('Technology cannot replace responsible choices, but it can help'), 'promising solution', 'potential to transform road safety', a tidy moral close and no sentence over 45 words. The one plain human line is 'My grandmother stopped sleeping through the night.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story told as a scene, and the aunt comes back in the AI paragraph. The closing résumé beat ('I have goals of working as a Corporate Lawyer... University of Virginia... Commerce on a pre-law track') is off-topic and weakens the ending."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu: school programs, videos, police and hospital presentations, hands-free tech, AI monitoring. It names one failure ('Many people ignore these features because they are unfamiliar with them') and one incentive ('Insurance companies could also reward... discounts'), but neither is developed into who does what and why people would comply."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and the story comes first, but the close restates the thesis ('Communities have the power to reduce distracted driving accidents through stronger education...') and ends on a generic moral, 'No message, call, playlist, or social media post is worth risking a life.' It never returns to the '5 seconds, 146 yards' opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+up to 12): cut or flatten the stock lines. Remove 'Rain pounded against the windshield', 'stretched endlessly beneath the headlights', 'shattered my family overnight', 'Technology cannot replace responsible choices, but it can help...', 'promising solution' and 'transform road safety in the same way seatbelts and airbags once did'. Write each the plain way, as in 'My grandmother stopped sleeping through the night.' Break up at least two of the triplets, and merge the cousins/grandmother/road sentences into one long, run-on-style sentence of 45+ words, the way the writer would actually say it.",
+  "Ideas (+up to 9): drop the generic menu (assembly videos, police and hospital presentations, 'Research has shown... (Smith, 2022)'). Build out the one idea with a mechanism, the insurance discount. Name the existing fix (phone driving mode and Bluetooth already exist), say why it fails (it is opt-in, so 'many people ignore these features'), give the small change (driving mode on by default, discount tied to it), and say who does it (local insurers, the DMV, the driver's ed class). Tie the AI monitoring paragraph to night-shift workers like the aunt, with a concrete actor such as hospitals subsidizing it for staff, but only if the writer actually supports that.",
+  "Ending and specificity (+up to 8): cut the Corporate Lawyer / UVA Commerce lines and end on the opening numbers and the aunt, e.g. a last line that brings back '5 seconds' and '146 yards' instead of 'No message... is worth risking a life.' Verify or cut '(Smith, 2022)', '(Johnson, 2021)' and the IIHS quote attributed to Cicchino, 2023. Ask the writer for the real year, the road or town, and her hospital rather than adding any detail that may not be true."
+ ]
+}

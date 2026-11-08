@@ -1,0 +1,54 @@
+{
+ "id": "dd-04",
+ "contest": "Marks & Harrison Driver Safety Scholarship",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 1027,
+ "source_url": "https://www.marksandharrison.com/wp-content/uploads/2025/06/Chiara-Munz-distracted-driving-scholarship-essay.pdf",
+ "total": 74,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered with a position: the community learns through stories ('those who have been directly or indirectly affected by distracted driving must be given a platform to share their stories') and the practical fix is an immediate citation plus an escrow account. But 'a platform' never says where, who runs it, or how, so the education half stays a gesture."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong physical facts: April 2024, an SUV going 'over 30 miles an hour', 'leg grotesquely twisted under her', 'it was a person!', three days in the hospital, scars covered 'with makeup, or a strategic hairstyle'. There is no city, intersection or dollar amount, and the costs stay abstract ('a significant emotional, financial and physical toll')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real voice comes through ('she literally drove away from the whole situation unscathed'), but it sits inside stock phrasing: 'heartbreaking call', 'traumatically hit', 'forever changed our lives', 'in the depth of my soul', 'healing journey', 'It is critical that'. There are also triplets ('emotional, financial and physical', 'the text, the call, the email', 'focused, alert and undistracted') and two 'a ect' typos. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: the mom's crash, told as a full scene, and the writer's own habit of showing friends the photos. The recovery is told twice ('After nearly a year of recuperation...' and 'Over a year later, my mom is doing much better'), which weakens the arc."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is a real mechanism: a citation changes the story the driver tells her friends ('which the driver would have relayed to her friends'), and quick consequences make the driver feel the impact. The escrow account is a concrete change. It loses a point because nobody is named to run it and nothing says how it would be enforced."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and the story comes first, but the scars passage sits in the middle of the citation argument, the recovery is repeated, and the close restates the thesis instead of returning to the mom: 'We need to find ways to reasonably allow distracted drivers to immediately feel the impact, to see firsthand the pain their actions have caused, because that will be the most effective way to ensure they do not happen again.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut the stock phrases and say it plainly. 'I got a heartbreaking call informing me that... she was traumatically hit' becomes 'In April 2024 a stranger called me from my mom's phone. A car had hit her.' Also cut 'in the depth of my soul', 'forever changed our lives' and 'healing journey', collapse at least two of the triplets to one item, and fix both 'a ect' typos to 'affect'.",
+  "Structure (+4 possible): move the scars passage ('My mom usually tries to cover the scars on her face...') out of the citation paragraph and merge it with the 'Over a year later' paragraph so the recovery is told once. Then replace the last sentence ('We need to find ways...') with a close that returns to her, such as the scars she still covers in the morning set against the driver who got no ticket.",
+  "Answers prompt and specificity (+4 each possible): the education half only says 'given a platform to share their stories'. Ask Enes where his family's story could actually be told (a driver's ed class, the police department, a school assembly he has spoken at) and who would run it. Also ask whether he can name the city or intersection and a real cost figure from the bills, and use only what he confirms."
+ ]
+}

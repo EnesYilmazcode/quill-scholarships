@@ -1,0 +1,54 @@
+{
+ "id": "dd-13",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2019",
+ "outcome": "runner-up",
+ "words": 1071,
+ "source_url": "https://www.mkhlawyers.com/scholarship/second-place-2019-emily-lovejoy/",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers both parts. Education gets 'there needs to be an installment of a distracted driving education program' built on first-hand testimonies, and practical reduction gets the phone app that 'would send a notification to a local police officer.' The education answer stays general: it never says who runs the program, who speaks, or where."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The crash is concrete and checkable: 'April 26, 2018', Florence, Alabama, 80 mph down the second hill, the names Coby Hines, Braden Turner and Tyler Nelson, Wilson High School, and a broken jaw, wrist and ankle. The middle and ending fall back to unsourced claims like 'gradually increases each year' and 'Distracted drivers can be arrested for murder.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a real student, clumsy in places ('this wreck was detrimental', 'implant a driving program'), with no em dashes and no AI vocabulary. It still leans on stock lines: the 'Not only does a distracted driver... they are also' construction, 'This has changed their lives forever.', 'This terrible, devastating incident', 'Distracted driving is dangerous.' and a closing rhetorical question."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one story, the Florence crash, told fully with a scene. It is on topic because phones, video and music distract the driver, though peer pressure and speeding share the cause. The writer never appears in it, so there is no second beat from his own behavior or connection."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The testimony program is the generic assembly idea. The police-alert app does have a mechanism (a ticket risk), but it ignores phone driving modes that already exist, and it breaks on the essay's own point that passengers use phones. 'Track it to see if that driver is still on their phone' is not workable, and nothing says who builds it or why makers would agree."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear and the story comes first, but the close restates ('Distracted driving is dangerous.') and adds a new, muddled ticket point. It ends on a generic question, 'With all of this said, is distracted driving worth the risk?', and never returns to Florence or the three boys."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the cell phone paragraph, the one starting 'Since teenagers have several different brands of cell phones', to fix the ideas score (up to +9). Name the existing fix: iPhone Driving Focus and Android driving mode already silence phones, but a driver can dismiss them with one tap ('I'm not driving'). Say why that fails, then propose one small, enforceable change and who makes it. Cut the officer-tracking steps. If he keeps the police idea, he has to deal with the passenger problem the essay raises in the sentence before it.",
+  "Cut the stock lines to fix the voice score (up to +8): 'Not only does a distracted driver put their own life at risk, they are also risking...', 'This has changed their lives forever.', 'This terrible, devastating incident', 'No one wants to go to prison for a crime they didn't mean to commit.' and 'Distracted drivers can be arrested for murder', which overstates the law and should say vehicular homicide or be dropped. Replace 'there needs to be an installment of a distracted driving education program' with a plain statement of who speaks and where. Ask Enes whether the surviving driver or families have actually spoken at Wilson High or other Florence schools before naming them.",
+  "Replace the whole last paragraph to fix the ending score (up to +6). Drop 'Distracted driving is dangerous.', the new ticket sentence and the rhetorical question. Close by returning to the opening: the second hill outside Florence, or Coby Hines, Braden Turner and Tyler Nelson, tied to the one change the essay proposes, using only facts already in the essay."
+ ]
+}

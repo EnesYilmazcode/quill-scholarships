@@ -1,0 +1,54 @@
+{
+ "id": "dd-18",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 1079,
+ "source_url": "https://www.mkhlawyers.com/scholarship/first-place-winner-2026-walker-williams/",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real answers: education ('begins at home with good driving behavior being modeled', instructors teaching visual/manual/cognitive/auditory) and practical steps (enforce Alabama's hands-free law, Do Not Disturb, GPS set before the trip). But they come only after about 500 words of story and statistics, and much of the answer is a list."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong details: fifth grade, coming home from the Galaxy of Lights in the rain, the driver 'posting on Snapchat', a busted ear drum and airbag burns, borrowing the grandmother's car, the uninsured driver, Alabama's June 15, 2023 law. The statistics have no source, and '3,275 deaths and 324,819 injuries' sits right after an Alabama sentence, so it reads as an Alabama figure when it is the national one."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real teenager, with clumsy honest lines like 'Car insurance is very expensive for teenage boys.' and 'I have never heard of any teenager being stopped'. Tells found: 'not only financially but emotionally', the slogan 'One death is one too many', and a closing moral ('just like wearing a seatbelt'). No em dashes. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two beats, both on topic: the Snapchat crash told as a full scene, plus the writer's own behavior (the safe driving app, multitasking across three screens). The crash disappears after paragraph one and never comes back to carry the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Spots why the old fix fails ('Do not disturb mode... doesn't do us any good if we don't use it'), and has one real mechanism (the app that 'lowers our premium price') plus an enforcement argument. The rest is the generic menu: pamphlets, 'YouTube videos, Instagram posts and Tik Tok', speak up, install apps."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Story first, but two statistics paragraphs in the middle stall it, and the ideas are spread across three paragraphs. The last line, 'If we all do our part to promote phone free driving, it will become a popular habit just like wearing a seatbelt.', is a generic moral that never returns to the crash."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (worth up to 6 points): build the practical-ways section around the safe driving app from paragraph 3, the essay's one real mechanism. Move it next to the enforcement argument. Ask the writer for the real app or insurer name and how much the premium actually dropped, then say who should offer it (insurers, as a default for teen policies). Cut the 'YouTube videos, Instagram posts and Tik Tok' and pamphlet sentences to make room.",
+  "Deduction (5 points) plus accuracy: delete 'As I was doing research for this essay, I found some interesting information.' and start that paragraph at 'Alabama's \"Hands-Free\" law...'. Then change 'In 2023, 3,275 deaths and 324,819 injuries occurred involving distracted drivers' so it clearly says these are national figures, with the source (NHTSA), so it does not read as Alabama data. Check the unsourced '2025, drivers aged eighteen to thirty four' figure, or cut it.",
+  "Structure (worth up to 4 points): replace the seatbelt closing line with one that returns to the opening, using only facts already in paragraph one (the green light, the driver posting on Snapchat, sitting on the curb in the rain with his brother). Cut paragraphs 4 and 5 down to the one or two strongest statistics so the story and the ideas sit closer together."
+ ]
+}

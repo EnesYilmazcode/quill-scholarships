@@ -1,0 +1,54 @@
+{
+ "id": "dd-17",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 1031,
+ "source_url": "https://www.mkhlawyers.com/scholarship/third-place-2023-anna-waldrop/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get real space: education ('annual poster contests starting in elementary schools', 'monthly social media blitz', the totaled car) and practical reduction (phone in the back seat, employer bans, insurance apps). But it is a menu with no lead position, and the two parts blur together."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are real anchors: 'Guntersville to Boaz on Highway 431', the NSC survey ('more than fifty percent of drivers believe this myth'), 'seven percent of all drivers', and the driver 'using their knees to guide the steering wheel'. The ideas section is still mostly unnamed sponsors, such as 'a local government agency, local education foundation or civic organization'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person: 'please don't tell her I said that', 'this drive is not for the faint of heart', the anger at being denied music, and clumsy lines like 'A car to in the lane'. It has no AI vocabulary, no em dashes and no not-X-but-Y. The tells are filler intensifiers ('really', 'very important', 'so scary') and the stock line 'No text, email or phone call is worth losing your job or life over.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic beats: Mom banning music during lessons, and the Florida near miss. The near miss is the strongest material, but it is held back to the last paragraph, cut off from the ideas, and summarized ('It all happened so fast and it was so scary') instead of carrying the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Most of the list is generic (poster contest, social media blitz, billboard, apps list). A few ideas have a reason behind them: the infotainment myth backed by the NSC figure, the phone in the back seat doubling as a child-left-in-car safeguard, and employers using the threat of 'discharge' against drivers who think their job needs the phone. The OSHA incentive is not specified."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The essay opens on Mom's lessons and closes on her: 'I also understood why my mom emphasized being a defensive driver ... but please don't tell her I said that.' The loop works, but the story sits after the ideas and 'The posters from the poster contest I mentioned earlier' shows the order is patched together."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Move the Florida near-miss paragraph to the top, replacing the rhetorical opener 'How many times have you been driving down the road...'. Then put Mom's no-music lessons and the Highway 431 drive after it, so the opening story carries the ideas. That raises stories (3 to 4) and structure. Keep the last line, 'please don't tell her I said that', as the closer. Cut 'It all happened so fast and it was so scary' and let the knees-on-the-wheel detail do the work.",
+  "Delete 'Since I found out about the topic of this essay I have really been thinking about what is the best way to educate drivers about the dangers of distracted driving.' It is writing about the essay (-5). Start the paragraph at 'I think we start young...'. Also cut the filler intensifiers ('really', 'very important', 'so excited', 'so thankful').",
+  "Cut down the menu. Drop the billboard fallback and the 'I am not sure how well this would be received' hedge. Give more space to the two ideas that have a reason behind them: insurance-tracker apps and the employer phone ban. For each, say who does it and why drivers will actually comply. Ask the writer whether their family uses an insurance tracker or whether Mom's job has a phone policy; if either is true, use that real detail. Do not invent a discount figure."
+ ]
+}

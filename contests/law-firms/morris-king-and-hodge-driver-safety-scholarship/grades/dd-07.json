@@ -1,0 +1,54 @@
+{
+ "id": "dd-07",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2017",
+ "outcome": "winner",
+ "words": 1267,
+ "source_url": "https://www.mkhlawyers.com/scholarship/first-place-michael-mcmeen/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get substantial answers: the danger (\"Trying to text and drive is parallel to closing your eyes for ten to fifteen seconds\") and three numbered steps. The steps are broad positions rather than one sharp argument."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has many checkable statistics (38,300 deaths, 88 feet per second, $20 to $500 fines, Cellebrite), but the only personal event, the Morris, King & Hodge presentation, has no date, no name and no scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock framing throughout: \"Today's society has been blessed\", \"an epidemic that must be fixed now, not later\", \"not just punish offenders but to prevent\", \"truly understand\", \"In short\". It also has an em dash, typos (\"ne behavior\", \"Dr. Stra's\", \"testalyzer\") and stray footnote markers (ii, iii, iv)."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story beat, the school presentation by a family whose daughter was killed, told in a single summary sentence. The sample text message is a device, not a story, and nothing comes from the writer's own driving."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The textalyzer with breathalyzer-style laws and fines that cost more than a video game have some mechanism and name who acts. The rest is a generic menu: school cartoons, assemblies, media awareness, art contests."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Five-paragraph thesis structure that opens on abstract technology and ends with a generic moral (\"you, the reader, must stop texting and driving and enact the change, too.\"). It never returns to the text message or the presentation."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 at most): delete the whole first paragraph (\"Today's society has been blessed...\") and open on the sample text message instead. Cut \"not just punish offenders but to prevent offenders as well\", \"truly\", \"In the end\" and \"In short\". Replace the em dash in \"dangerous driving—all of the Jason Bourne\" with a period. Fix \"ne behavior\", \"Dr. Stra's\" and \"testalyzer\", and remove the stray ii/iii/iv markers.",
+  "Story (+9 at most): the Morris, King & Hodge presentation is the only lived moment and gets one sentence. Ask Enes what he actually remembers of it (when it was, what the family member said, what he did differently afterward), expand it from that real material, and move it up to the front half of the essay.",
+  "Ending (+6 at most, plus recovering the -5 deduction): delete \"While the steps and dangers have been explained above, they are simply words on a page\", which is writing about the essay. Close by returning to the opening text (\"Want to come?\") and its 7 to 8 seconds at 88 feet per second, not the generic \"you, the reader\" line."
+ ]
+}

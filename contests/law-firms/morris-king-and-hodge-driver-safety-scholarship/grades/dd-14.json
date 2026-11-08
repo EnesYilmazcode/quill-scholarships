@@ -1,0 +1,54 @@
+{
+ "id": "dd-14",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2019",
+ "outcome": "runner-up",
+ "words": 991,
+ "source_url": "https://www.mkhlawyers.com/scholarship/third-place-2019-sarah-black/",
+ "total": 40,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The practical-ways part gets a full list ('Place your phone in \"do not disturb\"... Sign a contract with your parents'). The educate-the-community part is only implied by the speech format plus one line: 'Start a club at school to raise awareness.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The central scene is an imagined Friday night ('At 6pm as you are leaving your driveway'). It has no real name, place or date, and the many statistics are unsourced, inconsistent and in places implausible ('Your risk of being in an accident is 32%', '58%' used for both calling and texting)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real student speech and has no AI vocabulary, but it relies on stock slogans ('Make a pact with your friends to arrive alive', 'You don't have to be another statistic'), all-caps emphasis ('YOURSELF', 'ALIVE!'), a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 real stories. The parents-modeling passage and the football-night timeline are both generic hypotheticals addressed to 'you', so nothing happened to the writer."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is a generic menu of 10 or more tips (seatbelt, do not disturb, contract, limit passengers, start a club). None says why the existing fix fails or why teens would actually follow the new one."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The speech arc is clear (freedom, then the timeline, then the tips), and the close returns loosely to the freshman future with 'making that speech at your graduation'. It ends on a slogan sign-off: 'A High School Senior that made it out ALIVE!'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add community education to the paragraph that starts 'Do you notice that the odds are stacked against you?'. Pull 'Start a club at school' out of the tip list and give it its own paragraph: who runs it, what it does each semester, and how it reaches parents and freshmen. Then pick the 2 or 3 tips with the strongest reason teens would actually follow them and say why, so the essay stops reading as a 12-item list. Ask the writer which of these they have actually done or seen at their school, and use only those.",
+  "Cut or fix the shaky statistics in the timeline: the repeated '58%' given for both calling and texting, 'Over 50% of all accidents are caused by speeding', and 'Your risk of being in an accident is 32%'. Keep only the 3 or 4 figures the writer can source (for example NHTSA or CDC) and name the source once. That removes the impossible-fact deduction and lifts specificity.",
+  "Make the timeline the writer's own if any part of it is true. Ask the writer whether the Friday-night drive, the McDonald's stop or the late drop-offs actually happened to them or their friends, and rewrite those beats in the first person with real names and places. If none of it happened, shorten the timeline to its 3 strongest stops and cut the 'Sincerely... made it out ALIVE!' slogan sign-off."
+ ]
+}

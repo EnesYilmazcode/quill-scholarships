@@ -1,0 +1,54 @@
+{
+ "id": "dd-08",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2017",
+ "outcome": "runner-up",
+ "words": 1246,
+ "source_url": "https://www.mkhlawyers.com/scholarship/second-place-bethaney-jackson/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It covers both parts: the dangers in paragraphs 2 and 3, and the steps in paragraphs 4 to 6 (\"Time should be devoted in schools...\", \"the first offensive being a meager $25 fine\"). Most steps are gestures rather than positions."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable local fact is \"In the state of Alabama... a meager $25 fine\". The rest are unsourced national statistics (\"660,000 drivers\", \"6 times more likely\", \"1 in 5\") with no name, place or scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a real student, with typos (\"could had\", \"texting a driving\", \"first offensive\") and \"boom, a crash happens\". It is padded with stock lines (\"Life is too precious of a gift\", \"it takes a village\", \"truly learn\", \"enlightened\") and repeats \"could had easily been prevented\" twice."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories. The essay is all general claims and statistics, and the pebble-in-a-lake image is the only concrete picture."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic menu: speakers, assemblies, PSA posters, parent talks, apps. Only the Alabama fine points at a mechanism, and it stops at \"should be raised to a higher price\" with no amount, no reason it would change behavior, and no one named to do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized: dangers, then teens, then fixes. The close repeats the thesis instead of returning to the pebble image: \"so that unavoidable accidents and unneeded heartbreak and distress can be avoided.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1, cut or correct \"In a year in the US, 4,015 teen lives will end too soon as a result of texting while driving.\" This cannot be true, because total US distracted-driving deaths across all ages run around 3,000 a year. This costs the -10 fact deduction. Also source or cut \"6 times more likely... than drunk driving\" and \"660,000 drivers\", and keep only the statistics the writer can name a source for.",
+  "Make the Alabama fine paragraph the center of the ideas section and sharpen it into a mechanism. Say why $25 fails (it costs less than a tank of gas), and if the writer has looked it up, name the escalation for repeat offenses. Then name who should change it (the state legislature) and what amount the writer actually proposes. Cut the generic menu in paragraphs 4 and 5 (speakers, posters, short movies, events) down to one sentence so this idea carries the weight.",
+  "Cut the stock filler (\"Life is too precious of a gift to be taken for granted\", \"People need to become enlightened and truly learn\", \"it takes a village to raise a child\") and the repeated \"could had easily been prevented\". Fix the typos (\"could have\", \"texting and driving\", \"first offense\"). Rewrite the last sentence so it returns to the opening pebble-and-ripple image instead of restating the thesis."
+ ]
+}

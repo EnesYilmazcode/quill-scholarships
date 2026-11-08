@@ -1,0 +1,54 @@
+{
+ "id": "dd-12",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 1020,
+ "source_url": "https://www.mkhlawyers.com/scholarship/first-place-2019-emily-mann/",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The 'practical ways' part gets real answers: Apple's do-not-disturb setting, the phone in the trunk, higher Alabama fines and signal blockers. The 'educate our community' part never gets its own answer. The closest it comes is 'Think to yourself next time you go to grab your phone' and the Instagram poll, which is offered as evidence, not as a way to educate."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has checkable numbers and places: April 2016, the tree hit head on, the Alabama first-offense ticket of $25 against about $200 for speeding, and the poll of 1,584 followers with 300 votes and 68% admitting it. The crash victims have no names, and the statistics come from secondhand sources ('Walk Up Law Office')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real teenager, with clumsy lines like 'a litter over a week' and 'something in which kills' and no em dashes or AI vocabulary, and one sentence runs past 45 words. The tells are stock rhetorical questions ('is it really worth someone's life?', 'how many more will it take?') and a cliché triplet ('one text, one phone call, one status update') on a soul-mate line."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic beats: the friend's April 2016 crash and the Instagram poll. The crash is mostly summary and sits second, behind a block of statistics. It has one felt line ('Having to attend a funeral for two teenagers was devastating'), and the essay never comes back to it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The fine argument has a real mechanism: a $25 texting ticket against a $200 speeding ticket means the penalty is too cheap to change behavior. The other ideas are a standard menu (do not disturb, the trunk, signal blockers) with no account of why people skip the existing fixes or who would make the change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on statistics, puts the story second and adds more statistics late. The paragraphs repeat each other instead of building. The last line, 'Too many people have died from this, how many more will it take?', is a generic moral that never returns to the friend or the funeral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the false fact (recovers the -10 deduction). In the ticket paragraph, 'something in which kills hundreds of thousands of people a year' cannot be true: the essay's own figures are 3,477 deaths and 391,000 injuries. Change it to 'something that kills about 3,500 people a year' or 'injures hundreds of thousands', and cut the confusing clause 'which is not any safer or more dangerous'.",
+  "Answer the education half directly (about +8). The Instagram poll paragraph already describes something the writer did that reached their community. Move it up so it follows the crash, and say plainly that showing friends the 68% result is how they would educate people. Ask Enes whether anyone reacted to the poll results, and use their real answer rather than making one up. Cut the repeated 'It is a scary thing to see' sentence to make room.",
+  "Restructure so the story leads and the ending returns to it (about +6 on structure and story). Open with 'In April 2016, a friend of mine and a classmate were in a distracted driving related accident' and move the opening statistics paragraph into the later Walk Up Law Office stats paragraph. Replace the final paragraph's 'Too many people have died from this, how many more will it take?' with a line that returns to the one text and the funeral for two teenagers, built from facts already in the essay."
+ ]
+}

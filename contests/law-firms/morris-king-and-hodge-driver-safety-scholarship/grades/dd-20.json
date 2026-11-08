@@ -1,0 +1,54 @@
+{
+ "id": "dd-20",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1013,
+ "source_url": "https://www.mkhlawyers.com/scholarship/third-place-winner-2026-alyssa-bernat/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. Education gets most of the space (SADD, social ads, billboards). The 'practical ways to drastically reduce' part gets three short suggestions at the end: a passenger with a GPS, 'Apple's \"Driving Focus\" and Android's \"Driving Mode\"', and billboards. None of them is argued as a drastic cut in crashes."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are many numbers and names ('approximately 3,500 deaths', '60% of drivers', SADD, 'up to 587,000 U.S. youth'). They are all borrowed statistics with no source, and there is no detail from the writer's own life or town. 'a twelve-second decrease' in attention span is shaky."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a student report, not model prose. Tells: filler adverbs ('truly inform', 'simply decides'), the setup line 'There is simply one problem:', 'countless lives' used twice, 'utilized'/'utilizing' three times, and a stock moral at the close. No em dashes. A few sentences run long."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 real stories. The only scene is a made-up family road trip ('Picture a family on a road trip'), and about 200 words go to describing vaping and smoking ads (metal monster, Little Lungs) that are not about driving."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It says why the old fix fails ('\"It Can Wait\"... are vague', attention spans) and backs the ad model with Real Cost results. Then it falls back on the standard list: assemblies, social media, PSAs, billboards, driving mode. Nobody owns any idea, and it never says why drivers would actually switch on driving mode."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is organized by audience (teens, then adults). The two-sentence ending restates a moral instead of going back to the iPhone opening: 'Similar to the rampant decrease in smoking, distracted driving can be eliminated over time, saving countless lives in its process.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the false claim in sentence 2, 'Its key feature, iMessage, allowed for texts to be sent instantaneously'. iMessage came out in 2011 with iOS 5, not with the first iPhone in 2007. Rewrite it as plain texting on the 2007 iPhone, or cut the sentence. While you're there, check each unsourced statistic against a real source and cut any you can't find (the 'twelve-second decrease' first). This removes the -10 deduction and lifts specificity.",
+  "Cut the 'Picture a family on a road trip' hypothetical. Ask Enes whether he has a real, on-topic moment, such as something he saw from a passenger seat or his own phone habit while driving. Only if he does, put it at the top in place of the iPhone history, and make the closing line go back to it. If he has nothing, keep the analytic angle and make the closing line go back to the 2007 iPhone instead. This is worth up to about 9 points on stories and 4 on structure.",
+  "Shrink the metal monster and Little Lungs passage (from 'Two infamous ads' to 'e-cigarettes.') to two sentences that keep the 587,000 result. Use the space you free up to explain how one idea would actually get adopted. For example: who runs a Real Cost-style driving campaign (SADD chapters, the state DMV), or why drivers would leave Driving Focus on, and who requires it (parents, driver's ed, insurers). Also cut 'truly', 'simply' and the second 'countless lives'."
+ ]
+}

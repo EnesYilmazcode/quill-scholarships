@@ -1,0 +1,54 @@
+{
+ "id": "dd-09",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2017",
+ "outcome": "runner-up",
+ "words": 1013,
+ "source_url": "https://www.mkhlawyers.com/scholarship/third-place-tyler-behrens/",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers both the dangers (\"In 2014, 3,179 people were killed\") and practical steps (laws, the glove compartment, apps), but the steps are a list rather than a position the writer argues for."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has many numbers and app names (Cellcontrol, Live2Txt, the AAA poll), but none are sourced, there is no personal physical detail, and \"almost 8 people killed\" is wrong because 3,179/365 is about 8.7."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The clumsy slips sound human (\"conscience decision\", \"every driver make\"), but it leans on stock framing: \"not only would they... but there's also\", \"it's not just their problem, it's ours too\", slogan endings like \"Actions as mild as these can save many lives\", and the filler \"surprisingly\" and \"shocking\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. The writer's own accident appears only as a claim in the last paragraph (\"Accidents happen, I know, I've had one\"), and the rest is statistics."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Mostly a generic menu (laws, billboards, blocking apps, \"SafeDrive actually reward[s] safe drivers!\"). The one concrete idea, a passenger asking \"Can I hold your phone while you drive?\", gets no reason why people would actually do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear but the essay has no arc, and it ends on a generic moral: \"no one has to suffer from the gruesome and painful results that come with the choice of distracted driving.\" It does not return to the new-driver opening. Total includes -5 for the title line used as a heading."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+12 possible): \"Accidents happen, I know, I've had one\" is buried in the last paragraph. Ask the writer for the real details of that accident (when, where, whether a phone was involved, what they did differently afterward). Move it to replace the generic opening line \"When you first become a licensed driver...\", and make the last line return to it. Do not add anything the writer can't confirm.",
+  "Ideas (+9 possible): Cut most of the government paragraph (the 41 states, the Obama order, the billboards), since those are fixes that already exist. Spend the space on the passenger line \"Can I hold your phone while you drive?\": say why the existing fixes fail (the paragraph's own figure is that 94% of teens know the danger and 35% do it anyway), and why a passenger asking works when a PSA doesn't. If the writer has really done this or seen it done, ask them for that.",
+  "Voice and specificity (+8 possible): Remove the slogan closers (\"Actions as mild as these can save many lives and can end texting and driving\", \"together, we can end the texting and driving trend\") and the \"not only... but\" and \"not just their problem, it's ours too\" constructions. Fix \"almost 8 people killed\" to \"almost 9\". Name the source for each statistic (NHTSA, AAA) and drop the title line."
+ ]
+}

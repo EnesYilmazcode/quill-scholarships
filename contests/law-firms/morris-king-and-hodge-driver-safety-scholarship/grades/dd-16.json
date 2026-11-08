@@ -1,0 +1,54 @@
+{
+ "id": "dd-16",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 1045,
+ "source_url": "https://www.mkhlawyers.com/scholarship/second-place-2023-evan-barnett/",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The 'practical ways' part is answered through the driver, passenger and parent roles. The 'educate our community' part gets almost nothing beyond 'spread the word of the dangers' and a parent who can 'explain the dangers of texting and driving, as listed above'. There is no plan for teaching a community."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few numbers ('Over 400 deaths', 'an average of around 5 seconds', 'the full length of a football field'), but none has a source. There are no names, places or dates, and the long list of road signs is filler, not detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This reads as a real, clumsy student voice and not as machine prose. It still has stock tells: 'Imagine, if you will', 'In this new day and age of technology', 'not only are they putting their life in danger but also your own life', and the sentence structure keeps repeating ('miss a ... and ...')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "0 real stories. The only scene is a made-up second-person grocery run ('Imagine, if you will, you're behind the wheel'), and nothing from the writer's own life appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It says why the usual fix fails ('lap, pocket, or even ... the center console ... all of these choices still provide easy access') and then offers a standard fix: glovebox, backseat or trunk. It does not say how to get people to actually do it, and there is no community-level idea."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The second paragraph is one huge block. The essay ends on a general moral, 'we as a people can prevent the danger that causes many US citizens their lives.', and never returns to the grocery-run opening. The title heading also costs 5 points under the deductions (51 weighted, minus 5, gives 46)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer 'how can we educate our community' head on (criterion 1, about 8 points). Add a paragraph after 'there are many roles that we can take' that names a specific place and method (a school, a driver's ed class, a job, a family group chat). Ask Enes what he has actually seen, done or would really propose there. Don't make up a program.",
+  "Cut the second paragraph's history of phones ('You no longer have to spend several minutes pressing the same buttons...') and the list of road signs ('traffic lights, the tail lights of other cars, stop signs, yield signs...'). Keep the 5-second / football-field point and give each statistic a named source, such as NHTSA and the year. Ask Enes to confirm the '400 deaths' figure and where it came from (criterion 2, about 8 points).",
+  "Fix the structure and voice (criteria 3 and 6, about 6 points plus the 5-point deduction). Delete the title line. Split the second paragraph into dangers and multitasking. Change 'not only are they putting their life in danger but also your own life' to 'they are risking your life too'. Replace the last sentence with a return to the grocery run, the phone in the lap and the ding, showing it now sitting in the glovebox."
+ ]
+}

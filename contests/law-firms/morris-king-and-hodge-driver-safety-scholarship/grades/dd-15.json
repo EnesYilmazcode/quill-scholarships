@@ -1,0 +1,54 @@
+{
+ "id": "dd-15",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 1053,
+ "source_url": "https://www.mkhlawyers.com/scholarship/first-place-2023-kensley-jones/",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. Education gets its own section ('We can make it a requirement for anyone who is a high school student, even non-drivers'), and practical ways gets the closing paragraph. The education answer is mostly a list of places ('schools, places of worship, our jobs') rather than a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details: the driver 'still holding her phone to her ear' until police came, the swerve onto a sidewalk, the phone kept in a bag with Do Not Disturb turned on over Bluetooth, and a dated Consumer Reports citation. But the crash has no place, car or year, and the strongest numbers are borrowed statistics."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads as a real person, clumsy parts included ('I remember thinking, \"that must be a really important person on the phone with her.\"'). It has no em dashes and no AI vocabulary, but it leans on stock phrases ('a lifetime of pain', 'hustle and bustle', 'out of sight, out of mind'). It also has a broken sentence ('I was about 10 years old but a few details about a car accident')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic family stories (father's crash, mother's drowsy drive) plus the writer's own phone habit. The crash is buried in the middle of a paragraph about hands-free tech, and the Toyota and statistics paragraphs take over the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic menu: speak up at schools and churches, refresher courses, keep the music low, don't drive tired. Only the driver's ed for non-driving passengers idea has a reason, and none says who runs it, why the current fix fails, or why people would comply. The Toyota paragraph praises carmakers instead of proposing anything."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a generic claim ('With the rate of distracted driving constantly increasing'), puts the story second, and ends on a general moral that never returns to the crash: 'The goal is for everyone to arrive to your destination safely after every drive.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+9 to +18): Cut the whole Toyota/Consumer Reports paragraph. It praises carmakers and proposes nothing. Use that space to build out the one idea with a real reason behind it, driver's ed required for non-driving passengers. Say what current driver's ed misses (passengers like the 10-year-old in the back seat get no training), who would run the class, and what a passenger would actually be taught to say or do. Ask the writer what their own school's driver's ed covers instead of guessing.",
+  "Specificity and stories (+8 to +14): Move the father's crash out of the hands-free paragraph and make it the opening. Start on the driver 'still holding her phone to her ear and still talking on it' and the line 'that must be a really important person on the phone with her.' Fix the broken sentence 'I was about 10 years old but a few details...'. Ask the writer for details they really remember (the neighborhood or town, the car they were in, how old their sister was) and leave out anything they don't remember.",
+  "Structure (+4 to +6): Replace the closing line 'The goal is for everyone to arrive to your destination safely after every drive' with a line that brings back the woman on the phone. Contrast her phone at her ear with the writer's own phone in the bag on Do Not Disturb, so the ending returns to the opening. Also cut the generic first paragraph ('one would think that we would do a better job...')."
+ ]
+}

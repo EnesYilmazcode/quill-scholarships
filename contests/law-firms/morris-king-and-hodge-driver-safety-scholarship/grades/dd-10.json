@@ -1,0 +1,54 @@
+{
+ "id": "dd-10",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 1155,
+ "source_url": "https://www.mkhlawyers.com/scholarship/first-place-2018-jordan-jett/",
+ "total": 76,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay covers both the danger (the wreck) and practical steps, but the steps are hedged and never settle on one position: 'Though a mandatory feature would certainly be beneficial to drivers, that would prove to be overkill.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong, checkable detail: 'Jordan Jett, born June 12, 2000, died April 3, 2018', the 'Every Fifteen Minutes' program, a truck, a mailbox, a power line pole, a shattered window and glass covering him; the ideas section turns general ('many other things')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, with clumsy honest moments ('Knowing how much trouble I would be in if I hit a mailbox'). Tells found: the filler 'truly care about me', a stock line ('I felt almost invincible'), and several typos ('This type technology', 'would the roads safer', 'by have touch sensors'). No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "There are two stories and both are on topic: the mock-obituary program and his own texting crash, told as a full scene from the lit-up screen to the call to his dad. The program then comes back in the solutions section."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It names the existing fix and why it fails ('Do not disturb while driving... has to manually be turned on... the temptation or allure of using the phone is too strong'), then gives specific changes: a parent-controlled lock for the driver only, and two-hand steering-wheel sensors compared to the lawn-mower seat cutoff. It never says who would build or require them, and there is no incentive."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is organized and the close brings back Every Fifteen Minutes, but it ends on a generic moral with a typo: 'Even changing the mindset of some drivers would the roads safer for us all.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "In the last paragraph, cut 'As I mentioned at the beginning of this essay' (a -5 deduction for writing about the essay) and just write 'My school's Every Fifteen Minutes program...'. Replace the final sentence with a line that returns to the opening: the obituary that was read for him and the crash one week later. Use only words and facts he already wrote, which recovers about 9 points.",
+  "The timeline is unclear. The first paragraph says he crashed 'one week after I was killed', but the second paragraph opens 'Just this week'. Ask Enes whether these are the same crash, then make the two lines agree or cut one of them. Also fix the typos that read as carelessness: 'This type technology', 'would the roads safer', 'by have touch sensors', 'removed from then it all', and 'Iphones ( and'. Cut the filler 'truly'.",
+  "Paragraph 3 talks itself out of a mandatory lock ('that would prove to be overkill. In other words...'). Shorten that hedging to one clause and give the space to who would actually do each fix: carmakers for the wheel sensors, parents for the driver-only lock, and possibly insurers or the state. Ask Enes which of these he really means instead of adding new claims."
+ ]
+}

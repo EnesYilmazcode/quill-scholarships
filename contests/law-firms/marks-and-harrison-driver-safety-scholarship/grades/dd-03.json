@@ -1,0 +1,54 @@
+{
+ "id": "dd-03",
+ "contest": "Marks & Harrison Driver Safety Scholarship",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1057,
+ "source_url": "https://www.marksandharrison.com/wp-content/uploads/2020/05/RWarren-Driver-Safety-Scholarship.pdf",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The education half gets a full answer with the #LastMessagesReceived campaign. The 'practical ways to drastically reduce' half gets only 'If distracted driving became socially embarrassing rather than socially accepted, behavior would start to change', which is more awareness, not a step that cuts crashes."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real detail ('His car rolled three times', 'spinal surgery', Emily Trunko's book, 55 mph). The friend has no name, no month and no place, and the opening and middle stay general ('Almost all of my friends', 'Some hit parked cars')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human moments ('It sounds dumb', 'a serious case of FOMO') wrapped in stock framing. Tells: 'not only their own life but those around them', 'A car is not just transportation', 'Instead, it would show reality', the triplet 'raw, relatable, and deeply human', 'truly', and a stack of short slogans at the end. No sentence runs over 45 words. Typos: 'occured', 'Recieved', 'One my way home', 'work risking life', 'distracting driving'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the friend's rollover, told as a summary with no scene. The fender-bender list is a backdrop. There is no beat about the writer's own phone habits, even though the essay opens with his own driving."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Last Messages campaign is original and gives a reason it would work ('People saw themselves in the messages'). It never says who runs it or how people would see it, and the second idea ('meet young people where they already are') is the generic social-media menu."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The ending goes back to the opening idea of freedom ('Driving once represented freedom to me') but then turns into a generic moral: 'What matters the most is arriving safely to those I love.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the factual contradiction (-10). Paragraph 3 says 'Seeing someone my age also lose their life', but the friend survived. Change it to say he almost died, or ask Enes whether someone his age actually died and, if so, who. In the same pass, fix 'occured', '#LastMessagesRecieved', 'One my way home', 'work risking life', 'distracting driving' and the stray 'quickly became something much bigger occured' clause.",
+  "Strengthen the 'practical ways to drastically reduce' half (criteria 1 and 5, up to +12). Replace the generic paragraph that begins 'Social media is often part of the problem' with a concrete next step for the Last Messages idea: who launches it (ask Enes, for example his school, the driver's ed class or a local group he really belongs to), where the posts would appear, and one change beyond awareness that he actually believes in. Also cut 'Unique campaign ideas are the only way to get people's attention.'",
+  "Cut the AI framing and tighten the ending (criteria 3 and 6, up to +10). Delete 'not only... but', 'A car is not just transportation; it is something powerful enough to save or destroy lives', 'deeply human', 'truly' and the closing run of 'The message can wait. Social media can wait.' End on the friend instead, for example the rollover or his spinal surgery tied back to the freedom Enes wanted at the start. Ask Enes for the friend's first name and the month of the crash so the anchor story can be checked."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "dd-11",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2018",
+ "outcome": "runner-up",
+ "words": 1088,
+ "source_url": "https://www.mkhlawyers.com/scholarship/second-place-2018-john-washington/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The practical-steps part is answered at length. The dangers part only gets a vague claim, 'has led to a higher number of fatal crashes', with nothing to back it up."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The app names (LifeSaver, AT&T DriveMode, TrueMotion Family, Mojo) are the only checkable details. The essay has no number, date, place or scene, and 'the staggering number of accidents' is never given."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The clumsy phrasing sounds like a real student ('meditated precautions', 'relies none on technology', 'self-deprecating'). Stock tells remain: filler words ('highly serious', 'truly', 'genuinely'), a balanced antithesis ('the goal is not to force them into a state of anxiety... the purpose... is'), a tidy moral ('No phone call or message is worth risking your life') and a slogan close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are no stories. The only personal beat is one line, 'I personally like to make sure I have responded to all the notifications on my phone in a timely manner', and nothing is built on it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains why awareness campaigns fail ('it won't happen to me', not wanting to feel threatened). It also offers tracking apps as a fallback for drivers who find blocking apps 'overbearing' and says a phone out of reach 'becomes a burden'. The rest is a menu (videos, accountability, voice commands, pull over) with no price, incentive or owner."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Two of the essay's three body paragraphs are walls of 400+ words. The opening is a thesis, not an image, so there is nothing to return to. The last line is a slogan: 'Don't be distracted – stay focused.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Opening and stories (could recover the most points, up to about +18 across stories, voice and structure): cut the abstract first paragraph ('Distracted driving is a highly serious matter...'). Open instead with the real admission now buried in paragraph 3: 'I personally like to make sure I have responded to all the notifications on my phone in a timely manner.' Sharpen it into a plain first-person statement of his own habit, and use only what actually happened. Return to that same habit in the last line in place of 'Don't be distracted – stay focused.'",
+  "Specificity and dangers (about +12): replace 'has led to a higher number of fatal crashes' and 'the staggering number of accidents' with one sourced figure he looks up and cites (for example, the current NHTSA distracted-driving death count with its year). This gives the dangers part a real answer. Then cut the paragraph-2 menu items with no mechanism ('create the personal story videos', 'challenge family and friends to hold each other accountable'). Keep the blocking-versus-tracking app point and the phone-out-of-reach point, since each explains why it would work.",
+  "Voice and form (about +7 from deductions, plus voice): delete the 'Distracted Driving' title line. Remove the dash in the last line. Cut the fillers 'highly', 'truly', 'genuinely', 'at its very core' and 'Not to say that these apps are the only four'. Split the two 400+ word paragraphs into dangers, the apps idea, and the habit-based steps, with one point per paragraph. Drop the closing moral 'No phone call or message is worth risking your life or the lives of others.'"
+ ]
+}

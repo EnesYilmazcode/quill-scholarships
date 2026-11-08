@@ -1,0 +1,54 @@
+{
+ "id": "dd-05",
+ "contest": "Marks & Harrison Driver Safety Scholarship",
+ "year": "2025",
+ "outcome": "runner-up",
+ "words": 1075,
+ "source_url": "https://www.marksandharrison.com/wp-content/uploads/2025/06/Acevedo-Marisol-Marks-Harrison-2025-Scholarship-Campaign-for-Virginia-and-Washington-DC-Students.pdf",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts get answered only in the numbered list that starts about 450 words in. Before that, the opening and two of the first four paragraphs are about foster care and speech pathology, and 'drastically reduce' is never argued beyond 'These experiences bring the message to life.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The life story has real detail ('two-hour daily commutes', 'left to care for my infant brother while she disappeared for days', 'Peer Helping program'). The distracted-driving half has only the NHTSA '3,500 lives' figure and invented slogans like '#EyesOnTheRoad'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense with AI tells: repeated 'isn't X--it's Y' ('isn't fear--it's empathy', 'not about shaming--it's about empowering', 'not just a career; it's a calling'), 'not only... but also', triplets ('empathy, action, and community', 'creativity, community, and compassion'), 'deeply committed', 'incredible influence', slogan closers ('When students lead, students listen.'). The foster paragraph is the only human stretch."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, and it is off-topic hardship (addiction, custody, homelessness). It is tied to the prompt only by 'In many ways, I understand the cost of inattention.' There is no distracted-driving story or beat from the writer's own driving."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic menu the rubric caps at 2: speaker testimony, a hashtag campaign, 'mock crash scenes or virtual reality programs', church pledges and peer role-play. None says why current efforts fail, who pays, or why a teen would actually change behavior."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized, but the middle is a numbered list, and the ending turns to a scholarship ask and slogan: 'Let's work together to make our roads--and our communities--safer.' It loops back to the writer's life, not to anything about distracted driving."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 at most): delete every 'X isn't Y--it's Z' and 'not just X; it's Y' sentence ('The key to reducing distracted driving isn't fear--it's empathy...', 'It's not about shaming--it's about empowering.', 'distracted driving isn't just risky--it's deadly', 'more than just a buzzword--it's a national crisis', 'it's not just a career; it's a calling'). Replace each with a plain statement, change all 12 double-hyphen dashes to commas or periods, and cut 'deeply', 'incredible' and the three-item lists. This also removes the -6 em dash deduction.",
+  "Ideas (+9 at most): cut list items 2 to 5 and turn the strongest one (the Peer Helper role-play, since the writer actually did Peer Helping) into two paragraphs. Say what schools do now and why it doesn't stick, what exactly the peer session would look like, and who runs it. Remove the '1.' to '5.' headings and the title so it reads as prose, which also clears the -5 headings deduction.",
+  "Stories and prompt focus (+15 at most combined): cut the speech-pathology paragraph ('It was during this time that I was introduced...') and the scholarship-ask paragraph, and reduce the foster story to the lines that matter here. Ask the writer whether they have a real distracted-driving moment (from the two-hour commutes, their aunt's or grandparents' driving, or their own driving). If they do, put it in that space. If not, use the freed words to answer 'drastically reduce' head-on."
+ ]
+}

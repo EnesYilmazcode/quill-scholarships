@@ -1,0 +1,54 @@
+{
+ "id": "dd-01",
+ "contest": "Marks & Harrison Driver Safety Scholarship",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 1340,
+ "source_url": "https://www.marksandharrison.com/wp-content/uploads/2020/05/HenockAsmare_Essay.pdf",
+ "total": 92,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Both parts get their own substantive answer. On education it says 'let real people talk in driver's ed' and makes passengers speaking up the normal thing to do. On practical fixes it proposes driving mode on by default above 15 mph plus an insurance cut, and argues each one with a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The opening is dated and physical ('Bahir Dar, Ethiopia, 1999', 'six months pregnant', the curb), and so is his own slip at a red light in his 'second or third week' of driving, plus the CDC figure of nine deaths a day. The driver's ed idea falls back on vague claims like 'I've sat in rooms where someone told a real story' with no name, place or occasion."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly sounds like a real person, with an unflattering admission ('I don't actually know that friend's name. I should.'). Tells found: 'isn't going to be solved by... It's going to be solved by' (not X but Y), 'Knowing the facts isn't really where the gap is. The gap is', the staccato 'Not as a lecture. Just as a hand.', the fragment triplet 'A passenger speaking up. A phone that locks itself. A driver's ed class...', about eight uses of the filler 'really', plus 'Honestly' and the cliché 'move the needle'. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "Two stories, both on topic: the mother's sidewalk near miss told as a full scene, and his own slip unlocking the phone at a red light. The sidewalk story comes back in each of the three ideas."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "Names the existing fix (driving mode exists but is off by default), says why it fails ('if you've ever met a teenager, basically means it isn't on'), proposes a small change (auto-lock above 15 mph), says who does it (OS makers and insurers) and adds a price: 'People will rearrange their habits for a hundred bucks in a way they won't rearrange them for a PSA'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Story first, then the gap between knowing and habit, three ideas, then a return to the friend and the driver. The last line pays off the opening: 'Three seconds saved my mom's life. I think we can build a world where three seconds isn't the difference.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +4): rewrite the two not-X-but-Y turns as plain claims. Change 'Distracted driving isn't going to be solved by people becoming some new and improved version of themselves... It's going to be solved by small acts of attention becoming the default.' to one sentence such as 'What fixes this is small acts of attention becoming the default.' Change 'Knowing the facts isn't really where the gap is. The gap is that your hands...' to 'The gap is that your hands...'. Cut 'Not as a lecture. Just as a hand.' and the fragment list 'A passenger speaking up. A phone that locks itself. A driver's ed class...' from the closing paragraph, since the three ideas were already argued.",
+  "Specificity (up to +4): the driver's ed paragraph rests on 'I've sat in rooms where someone told a real story about losing someone, and years later I still remember those rooms.' Ask Enes whether a real occasion sits behind this (which school, which speaker, what year). If there is one, name it in that sentence. If not, cut the sentence and let 'A friend on a sidewalk in Ethiopia is not an abstract anecdote to me' carry the argument.",
+  "Voice cleanup (also within the voice gap): delete the filler 'really' wherever it appears (about eight times, e.g. 'didn't really land', 'I really wasn't expecting', 'may really be unique'), cut 'Honestly' before 'that's the only reason', replace 'would actually move the needle' with 'would actually help', and change 'The third one is the one I think may really be unique, because it doesn't require anyone in power to do anything.' to 'The third doesn't need anyone in power to do anything.'"
+ ]
+}

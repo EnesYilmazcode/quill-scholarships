@@ -1,0 +1,60 @@
+{
+ "id": "dd-06",
+ "contest": "Morris, King & Hodge Driver Safety Scholarship",
+ "year": "2015",
+ "outcome": "runner-up",
+ "words": 1048,
+ "source_url": "https://www.mkhlawyers.com/blog/william-talbert-scholarship-essay-texting-while-driving-words-that-can-hurt-you/",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The prompt has one part, and the essay takes a clear position on it early: \"effective implementation of this plan, along with perseverance among those who are implementing the plan, will lead to a dramatic reduction\". All three steps are argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: the VTTI 23x risk, \"Act 2012-291\", the $25/$50/$75 fines against a \"$500\" smartphone, AT&T's \"It Can Wait\". Two things hold it back: the core figures are stale (\"As of December 2014\"), and the 34%/27% split flips between paragraphs 1 and 3."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real person comes through (\"a not so staggering $75\", \"the comically unlucky soul\", \"I suppose\"). It is wrapped in stock framing: the \"Three words. Three simple words\" hook, the rhetorical \"The answer is that they simply cannot.\", and the triple anaphora \"The person who ... is you\" ending on a slogan. There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are 0 personal stories. This is an analytic prompt, so the Alabama fine schedule works as a case study and carries paragraph 3. The It Can Wait ads are only summarized (\"Some are siblings of deceased teens\"), with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Paragraph 3 explains well why the current fix fails: under 2% of drivers are observed texting while 27-34% admit to it, and a $25 fine is small next to a $500 phone. The essay never names the change it wants, though. The education step is a generic menu: \"Public figures ... must join together and send a clear message\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The three-step structure is clean, but the close is a generic moral that never brings back the \"On my way\" opening. The last line is \"The three-step plan can tell you not to text while driving and punish you if you do, but you are the one that can end it.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. Paragraph 1 says \"about 34% of teens and 27% of adults\", but paragraph 3 says \"34% of adult and 27% of teen drivers\". Both cannot be true. The subtotal is 72.0 and the total after this deduction is 62 (mid band)."
+  }
+ ],
+ "fixes": [
+  "Fix the swapped statistic. Make the paragraph 1 sentence (\"about 34% of teens and 27% of adults\") and the paragraph 3 sentence (\"34% of adult and 27% of teen drivers admit\") match whatever Enes's VTTI source actually says. This recovers the 10-point deduction. While you're there, ask Enes whether the \"As of December 2014\" state count and Act 2012-291 fines are still current; if not, cite the current figures from his source or label them clearly as 2014 data.",
+  "Turn the paragraph 3 analysis into a concrete proposal. After \"The current enforcement, however, is not impactful enough to ensure success,\" add one or two sentences saying what Alabama should change and who should do it, for example a specific fine level or license points, measured against the $500-phone comparison he already makes. Ask Enes which change he actually supports instead of inventing one. Then cut the generic \"Public figures hold the responsibility ... send a clear message\" sentences in paragraph 4 to make room. This could move ideas from 3 to 4-5 (about 3-6 points).",
+  "Rewrite the ending to return to the opening. Replace the slogan close (\"The person who ... is you\" x3 and \"you are the one that can end it\") with one or two sentences that bring back the \"On my way\" text from the first line, so the essay closes on that image instead of a moral. Also cut the stock beats \"Three simple words that can end a life in seconds\" and \"The answer is that they simply cannot.\" This helps structure (+2-4) and voice (+4), and is worth up to about 8 points across the two criteria."
+ ]
+}
