@@ -1,0 +1,54 @@
+{
+ "id": "pa-06",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2013",
+ "outcome": "runner-up",
+ "words": 2998,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_Third_Hollingsworth_Naan-in-the-Afghan-Village.pdf",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay names a real ethical dilemma, \"Why would you want to help those people? Don't they deserve to suffer, after what they did to us?\", and the voice is clearly individual. But it mostly shows the dilemma through scenes and answers it in a few lines (\"They are human. I felt that I had to try to love them.\") without weighing the other side."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The details are dated, physical and hard to fake: Jalalabad road, Cheryl \"one of nine killed\", \"1 in every 8 mothers\", melman khana, toshaks, the kisses \"right, left, right\", the widow's tumbleweed fuel, and the Taliban warlord's wife with henna-dyed hair."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a specific person, with unflattering moments (\"told myself strictly that I would kiss her\", pushing the worm pictures away, \"whiter than my chadar\"). Tells found: about 15 em dashes, the stock phrase \"meager, priceless gift\", a tidy moral (\"But we were all broken.\"), and the slogan line \"Bread brings healing.\" standing alone."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One main story carries the essay (the village visit ending with the naan). Inside it sit four flashbacks: the girl in the well, Cheryl's death, the Mississippi couple and the Pentagon. All are on topic, but that is more than the one-plus-one beat the rubric prefers, and the Rashid history paragraph reads like a report."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some reasoning has a mechanism: Pashtun guest protection (\"they will protect the guest with their life\") and the peace-bread tradition, which explains why it fails (\"the terrorists do not honor tradition\"). But the central question, whether to help people tied to your attackers, gets a feeling rather than an argument."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear and the ending pays off the title's naan: \"We ate together.\" It does not return to the opening image of hiding her face, and the stray page numbers \"8\" and \"9\" break the text in the middle."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas and answering the prompt (about 9 points): right after the couple asks \"Don't they deserve to suffer, after what they did to us?\", add a paragraph in the writer's own reasoning that weighs the case for that question against the Pentagon memory before reaching \"They are human.\" To make room, cut most of the Ahmed Rashid paragraph down to the 1933-1973 peace statistic. This also fixes the count: 2998 is 2 words under the contest's 3,000 minimum, which the contest itself enforces even though the rubric only penalizes shortfalls over 10%.",
+  "Em dashes (6 points): replace all of them with commas, colons or periods. Examples: \"I had a glimpse of the village: the dirt, the mud huts...\", \"The chadar made it easier to breathe. It blocked out the dust.\", \"a compassion, a love, that shamed me\", \"I had heard the stories. Now I wanted to see them.\"",
+  "Voice and ending (about 6 points): delete the stray page numbers \"8\" and \"9\" (they split \"the village and words / and women\"), cut \"meager, priceless gift\" to \"this gift\", and cut the moral \"But we were all broken.\" Then make the final paragraph also echo the opening chadar or van so the close loops back to the first image, using only details already in the essay."
+ ]
+}

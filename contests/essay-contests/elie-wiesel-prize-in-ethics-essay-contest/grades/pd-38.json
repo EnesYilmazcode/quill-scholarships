@@ -1,0 +1,54 @@
+{
+ "id": "pd-38",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2026",
+ "outcome": "honorable-mention",
+ "words": 2586,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2026/09/Maya.pdf",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Answers both questions through a three-part framework ('silence has preserved dignity, moments where it ravages identity, and times where silence becomes an act of solidarity') and takes a position. The position gets blurry when the essay calls outward pride 'silence' ('Now we refuse to be silent in the physical sense... We choose to be spiritually silent')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some strong real details: Leviticus 10:3 'Vayidom Aaron', parents born in Soviet Uzbekistan, the brother told to wear 'a hat on top of his skullcap' on the New York subway, being told to 'say we were Russian', and the relative sent to Siberia. The October 7th paragraph turns generic ('Thousands of Jewish young adults...', 'Jews around the world aren't afraid...'), and the orientation scene has no place or name."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real voice comes through in the opening and the family paragraphs, but stock framing is dense. There are five 'not only X but Y' or 'not only X... also' constructions, plus 'isn't just the absence... Rather', 'foster', 'The optimum example', 'pendulum of silence', 'fine, yet harsh line', and a tidy moral line ('wrong silence aligns us with tormentors, but inner silence aligns us with our heritage')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic personal frame (the orientation question) and one family thread (the hat, 'say we were Russian'), both told as summary rather than scene. They compete with six case studies: Aaron, Vygotsky, the Conversos, the Siberian relative, Rabbi Akiva and Wiesel. None of these is developed far enough to carry the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The three-category taxonomy explains why silence preserves or destroys identity, and the Converso example shows the mechanism ('caused them to forget their true identity'). The Vygotsky inner-speech link is asserted, not argued, and the jump to 'spiritual silence' renames outward expression instead of explaining it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Opens and closes on the same question, and the last line pays it off: 'I smiled and said, \"Yes, I am\".' The middle drifts (the martyrs and Akiva come before the third category is named), but the arc is clear."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut the five 'not only... but' constructions. Rewrite each as a plain claim: 'Much of what I'm about to say is not only true for...', 'They taught us not only how to be Jewish, but why', 'Judaism is not only a religion, but an ethnicity', 'Elie Wiesel was not only a storyteller... He also', 'is not only against the ethics of the Jewish religion but'. Also cut 'isn't just the absence of thought... Rather', replace 'foster' and 'The optimum example', and drop the closing antithesis 'wrong silence aligns us with tormentors, but inner silence aligns us with our heritage'. Replace the dash in 'Jewish pride– not born out of embarrassment' with a comma (-2 deduction applied).",
+  "Specificity (+8 possible): the October 7th paragraph ('Thousands of Jewish young adults chose... Jews around the world aren't afraid to wear their skullcaps...') reads like a news summary. Ask the writer what they themselves did or saw after October 7th, for example whether they started wearing a Star of David or what their brother did about the hat. Put that real detail in place of two of the 'Thousands...' sentences. If nothing true fits, cut the paragraph down to its one strongest line.",
+  "Stories and mechanism (+6 possible): the family thread (the hat on the subway, 'say we were Russian', the Siberian relative) is the strongest material but sits under too many case studies. Cut the Vygotsky paragraph, which is the weakest link and only restates the Aaron point, and fold the ten-martyrs paragraph into the Akiva parable. Use the freed space to state plainly how 'spiritual silence' differs from the parents' silence, which fixes the 'refuse to be silent... choose to be spiritually silent' contradiction. Check the count after cutting: the essay sits near the 2,500-word minimum, and if the Works Cited is in the 2,586, any net cut could fall under it."
+ ]
+}

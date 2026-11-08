@@ -1,0 +1,60 @@
+{
+ "id": "pd-35",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 2545,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2026/09/Noella-Stones-That-Remember.pdf",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position on both halves: 'Silence protects dignity when it's chosen instead of forced' and 'Silence betrays dignity when it's coerced'. But the answer is spread through repeated hedges ('I don't have clean answers') and only lands near the end."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There is real detail: the Anglican Cathedral built over the slave market, 'the altar sits directly above where the whipping post stood', the Aminatta Forna essay, and hair heat-straightened 'until it broke and thinned'. But the visit has no year and no age, there is no named proverb, and the second half is abstract ('linguistic hierarchy', 'linguistic capital')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense tells: 'wasn't just what had been preserved... but what had been silent', and repeated 'not X - it's Y' ('not protection - that's surrender', 'not erasure, but reverence', 'not a metaphor'). It also has a closing triplet ('breath by breath, choice by choice, story by story'), stacked runs of rhetorical questions, 'navigate' used three times, 'That's crucial', and a tidy moral. Human moments like 'hit them with the classic \"come on\"' get buried."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two on-topic threads: the museum visit and the assimilation habits (hair, Swahili, the eye-rolling). The museum is a real scene but only lasts about two paragraphs, and later beats are summaries ('I asked my mother to teach me Swahili proverbs'). The back half is essay with no story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some reasoning explains why, not just that: curators' restraint because 'some horrors get smaller when you explain them too much', the parents' code-switching for 'linguistic capital', and chosen vs coerced silence. But most of it is stated rather than argued, and the same chosen/forced distinction comes back about four times."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Opens on the museum and comes back to 'The echoes from that museum', but closes on a generic moral: 'it's a practice you maintain, breath by breath, choice by choice, story by story.' The middle loops (language, colonial silence, museum, language again) instead of building."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "Deductions",
+   "points": 0,
+   "reason": "Weighted subtotal 60.0. Pasted prompt as line one, -5: 'When does silence protect dignity and when does it betray it ?'. Spaced hyphens used as em dashes throughout, -6 (max): 'smell first - earthy', 'immediate, real', 'not protection - that's surrender'. Total 49, which is the low band."
+  }
+ ],
+ "fixes": [
+  "Voice (+8 possible): delete every 'not X - it's Y' and 'wasn't just X, but Y' construction and state the claim directly. For example, 'The silence I'd been keeping wasn't protecting my dignity at all - it was eating away at it' becomes 'The silence I'd been keeping was eating away at my dignity.' Cut the final paragraph's triplet ('breath by breath, choice by choice, story by story') and 'That's crucial.' Collapse each run of three or more rhetorical questions to one. Replace all spaced hyphens with commas or periods, which also recovers the -6.",
+  "Specificity and story (+8 to +10 possible): ask the writer for the real details already behind the essay (the year and their age at the museum visit, which Swahili proverb their mother actually taught them, what the jokes they laughed along with were). Put those into the museum scene and the 'I asked my mother' sentence, so those beats become scenes instead of summary. Do not add anything that didn't happen.",
+  "Structure and compliance (+5 to +7 possible): delete the pasted prompt on line one. Cut the repetitive middle (the second language section starting 'Language became its own ethical minefield' restates the earlier Swahili point; merge it into one paragraph) and cut the generic 'This is the work' close. End on the museum's stone wall or the chains from the opening. The essay must stay at or above 2,500 words, so put the recovered length into the real details from fix 2, not new commentary."
+ ]
+}

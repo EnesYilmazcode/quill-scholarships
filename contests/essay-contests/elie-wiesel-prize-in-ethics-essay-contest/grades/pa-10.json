@@ -1,0 +1,54 @@
+{
+ "id": "pa-10",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2014",
+ "outcome": "runner-up",
+ "words": 4415,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_Second-Prize_Hu_The-Silenced-Voice.pdf",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It raises real ethical dilemmas, such as 'would not introducing the child to the Deaf community constitute a different form of limiting his/her options for an \"open\" future?', and the individual voice is clear. But the writer's own position mostly hands off to others ('Personally, I agree with bioethicists in that one should respect the choices parents and guardians make'), and the funding and developing-world dilemmas end in 'I honestly do not know how to effectively grapple with these dilemmas.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, physical details nobody could make up: 'In 1997, when she was three years old', the stuffed monkey that 'would clap his two cymbals together', the 'small wooden hoop with a black covering', Hands Across the Water in March 2011, the 'Can You Read My Hands?' t-shirt, and cited figures such as 'over 90 percent', '$40,000' and 'nearly 75 percent'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Memoir passages sound like a real person ('fingers shiny black with graphite', Sophia's 'He was offended.'). Tells: about 7 dashes used as em dashes ('there is no need – indeed', 'where she is today – an Ivy Leaguer', 'it literally moved – back and forth'), 'absolutely' used twice for emphasis, stock academic phrasing ('comes to the forefront', 'has forced, and will continue to force'), and a tidy moral at the close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Sophia's implant and therapy carry the essay, and every beat is on topic: the surgery and speech therapy, the mall food court, the friend told 'it's like you're not deaf', the poetry festival, her art, and the Rochester festival. That is six beats rather than one or two, so the later ones get summarized and the main story thins out."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning explains why, not just that: Ruben's speech-versus-language 'flux' argument, 'over 90 percent of deaf children are born to hearing parents' as the reason Deaf culture would shrink, and lower-income children being 'twice as likely to be deaf' yet missing out on implants. Most of the mechanism comes from cited scholars, though. The writer's own proposal (present both models to parents) has no 'how' or 'who does it'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear: story, then literature, then the field, then reflection. But it opens on Sophia's 'I'm sorry you're hearing' and ends on a general moral instead of returning to her: 'Indeed, we should all learn to hear (or rather, see) the voices of others, including those from Deaf communities, even when that voice is silent – especially when it is silent.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice plus the em-dash deduction (about 10 points back): replace every spaced dash with a comma, colon or period ('there is no need, and it would be an insult, for someone to say', 'where she is today: an Ivy Leaguer, rugby player...', 'it literally moved, back and forth, across the stage'). Change 'Savulescu strongly argues for pediatric cochlear implantation –' to end with a colon. Drop 'absolutely' from 'absolutely nothing wrong' and 'absolutely no obligation', and change 'comes to the forefront' to 'gets sharper'.",
+  "Headings deduction (5 points): delete the section headings 'A Brief History', 'The Sound and Silence', 'The Sharing and Preservation of Deaf Culture' and 'Moving Forward'. Have the first sentence of each section carry the transition instead, for example start the history section with 'The fight my parents walked into was already seven years old: in 1990, the FDA approved cochlear implantation for children.'",
+  "Ending and position (about 8 points across structure and answers_prompt): cut the final paragraph that starts 'The bioethical debate surrounding...'. End right after the 'hearing-centric' sign paragraph by bringing back Sophia's opening line, 'I'm sorry you're hearing', so the last image is hers rather than a moral. Then sharpen the 'Personally, I agree with bioethicists' paragraph into a stance you can defend, such as whether implanted children should also get ASL from the start. Ask the writer which side they actually hold rather than supplying one."
+ ]
+}

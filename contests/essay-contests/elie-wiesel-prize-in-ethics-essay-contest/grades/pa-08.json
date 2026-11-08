@@ -1,0 +1,54 @@
+{
+ "id": "pa-08",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2013",
+ "outcome": "honorable-mention",
+ "words": 3544,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_HM_Yang_The-Silent-Color-Red.pdf",
+ "total": 34,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks for an essay that raises questions and names ethical dilemmas. This one argues a verdict instead ('I boldly and unapologetically claim China's Forced Abortion Laws as one of the greatest ethical calamities'). It treats almost nothing as an open dilemma, and its one real question ('how can this heinous rapacity be solved?') never gets an answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Many details a stranger could not invent: Ku Hua village, the Bible filed under 'Western Pornographic Literature' and copied by hand for four weeks, the 'Theology' read as 'Technology', the $6,350 fine, and Song Jian in Helsinki. Some figures are inflated or shaky, such as '700 million women just like her' and 'the largest genocide in the history of humanity'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The family material sounds like a real person, but the prose around it is overwrought. Tells: many em dashes; 'not only... but also' three times ('not only formed the largest standing army, but also created', 'not only arrested, but abducted', 'not only taught him English'); stacked triplets ('protocol, preeminence, and pretense'); filler intensifiers ('boldly and unapologetically', 'mercilessly', 'deepest sense'); slogan lines ('control is at the center of corruption', 'Freedom happens when reality meets intentionality')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Three stories: the cousin escaping through the window, Feng Jianmei, and the father's story. The cousin opens the essay and never comes back. The father's story takes about a third of the essay but is mostly about the Bible, the visa and Tiananmen. It reaches forced abortion only through 'I was the second child' and the sister his mother was able to keep."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The policy's mechanisms are explained well: quota rewards and demotions, the Club of Rome link through Song Jian, and UNFPA money turned into slogans painted on village walls. The ethical reasoning is thin. It never takes up the strongest opposing view, and its claim about what women are for rests on 'Biologically speaking, it has always been the function of a woman to bear children'. The proposed remedy is hope, with no one named to carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized as introduction, history, then biography, but the ending moves to a Gibran poem and a slogan: 'And someday, these heinous acts of genocide and ensuing gendercide shall be aborted.' The cousin and the father's 'fighting for chances of life' line from the opening never return."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice and em dashes (about 18 points: criterion 3 is 2 of 5, plus the -6 for em dashes). Remove every em dash. Rewrite the three 'not only... but also' sentences as plain statements. Cut the intensifiers and slogans ('boldly and unapologetically', 'protocol, preeminence, and pretense', 'control is at the center of corruption', 'Freedom happens when reality meets intentionality'). Let the father's own quoted words, and plain retellings like the Bible copied into a pillowcase, carry the feeling.",
+  "Factual errors (-10 deduction, plus credibility). 'President George W. Bush, Sr.' should be George H. W. Bush. 'Mao Zhedong' should be Mao Zedong. 'Kahil Gibran' should be Kahlil Gibran, and 'Kristoff' should be Kristof. Cut or attribute '700 million women just like her' and 'the largest genocide in the history of humanity'. Remove the line 'The following is a short and accurate account', which describes the essay instead of making a point (-5). Remove the section headings 'Introduction', 'History of Atrocity' and 'Biographical Narrative' (-5) unless the contest format expects them.",
+  "Answering the prompt (about 8 points on criterion 1, plus help on criterion 5). Turn the 'Indeed, there is much evidential warrant' paragraph into dilemmas the essay already has material for. Was the UNFPA responsible for how its grant was spent? Do the quota-bound local officials carry the guilt? What about his parents, who memorized the Little Red Book as Youth League leaders and later were blacklisted? Then end on the cousin from the opening, or on 'I was the second child', in place of the Gibran poem."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pa-07",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2013",
+ "outcome": "honorable-mention",
+ "words": 3131,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_HM_Odom_Sandwiched-Dignity.pdf",
+ "total": 91,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It raises real questions and an ethical dilemma ('Did I, in participating, reduce even further those people's dignity? I don't know.'), but the dilemma is only implied by the stories. It is never stated plainly, so the analytic side the prompt asks for is thinner than the narrative."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dense and could not be made up: the People-Mover, a 'neon orange shoestring' lanyard, the 'teal green puffy jacket', the 'purple low-rider car', and Leroy who loves 'fried chicken and a good dog' and his late wife Carolyn."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 5,
+   "reason": "It sounds like one particular person and admits unflattering moments ('if he had a car then he wasn't really homeless, so we told him no'). It has long sentences and no em dashes or AI vocabulary. There is only one mild stock turn ('stopped being a problem and started being a man')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "Two full stories (the fifth-grade Tulsa trip and the Chicago lunch with Leroy) plus a short food-bank bridge. All of it serves the dignity question, and both main stories end on a close, specific moment (the toothless man refusing the apple, the passersby avoiding Leroy)."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why things happen, not just that they do: passersby 'had made homelessness into something that could fit into a charity box', and guilt stopped them from giving to Leroy. The ending backs away from the questions it raised ('I don't know what to do')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The sandwich-making scene in Chicago mirrors the one in Tulsa, which is a strong structural echo. But the last line, 'He is better than I am. I just don't know how to deal with that.', closes on a moral about Leroy rather than coming back to the opening image or to the title's 'sandwiched dignity'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt (+4): rewrite the paragraph that ends 'We mock-emulated their way of life. Why?' and the one that starts 'Was what I had been a part of in fifth grade worth it?' into one or two sentences that name the ethical dilemma outright, using only her own material: whether charity that simulates poverty and hands out boxes protects the dignity of the giver at the cost of the receiver. That way the essay states the dilemma instead of leaving it implied.",
+  "Ideas/ending (+3): cut the moralizing in 'Those men and women living on the streets are my brothers and my sisters... And it might. But does that excuse me from not helping them or ignoring them? No.' and in 'Talk to them and it will become quite obvious quite quickly...'. Put that space into sharpening the mechanism she already found, that people buy their guilt away with spare change and her presence beside Leroy took that option away from them.",
+  "Ending/polish (+2): close on an image already in the essay, not on 'I just don't know how to deal with that.' For example, move Leroy's line about praying for the people who pass him to the end, or bring back the apple the toothless man could not eat or the sandwiches from the title. Also fix the typos and garbled phrases a judge will notice: 'changeyour-perspective', 'halfsecond', 'plead' to 'pleaded', 'The fragment rest of that memory', 'Leroy once who married', 'Unforgiveable'."
+ ]
+}

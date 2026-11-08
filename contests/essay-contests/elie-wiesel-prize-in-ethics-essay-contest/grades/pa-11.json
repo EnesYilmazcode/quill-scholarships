@@ -1,0 +1,54 @@
+{
+ "id": "pa-11",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2014",
+ "outcome": "runner-up",
+ "words": 4291,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_Third-Prize_Camacho_Exploring-the-Ethics-of-National-Loyalty.pdf",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a real ethical dilemma and takes a position: \"What responsibility do individuals have toward their country of origin after being exposed to experiences and opportunities that provide them with an advantage over their fellow citizens?\" The other side gets almost no space, though. The only objection, Julio's \"You will never change anything,\" is about whether change is possible, not about whether the duty exists. The case for staying is called \"a seductive thought\" and dropped."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The anchors are strong and hard to fake: Miguel, 19, dying in the Sonoran Desert while crossing; the consulate's phone call; Julio the Diputado shaking ash off his cigar; Presunto Culpable; the \"Jeeps and not Hummers\" mantra; the hoodie under Texas A/C. But long stretches stay abstract, like \"Infrastructure is decaying and the state of law and order in Mexico is in even worse condition.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real person's voice comes through (\"and, of course, soccer\" and the hoodie detail), but it is wrapped in stock rhetoric. Tells: fragment triplets (\"There is so much to do. So many things to change. So many places where optimism can be dared\"), a slogan close (\"If we stop dreaming we become small.\"), filler (\"profound indignation\", \"deeply rooted\", \"indisputably\"), stacked rhetorical questions, 5+ em dashes, and long lists of names."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: Maria's collapse when she learns Miguel has died, and the after-dinner conversation with Julio. Both serve the dilemma. The middle drifts into a history survey, a US-vs-Mexico statistics section and roll calls of famous people (Rivera, Orozco, Cuarón, Ochoa, Tarbell, Parks, Williams), which weakens how much the stories carry the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ethical reasoning is asserted, not argued: \"Privileged citizens have the ethical obligation of giving back to the country that has allowed them to be in such positions.\" The solutions are a generic menu (\"trial by jury, governmental accountability, a fight against monopolies\", \"small actions that will produce large changes\") that never says what the small action is, why returnees in the past failed beyond greed, or why this generation would act differently."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens with Maria and closes with her: \"The day I saw Maria cry, I knew something needed to be done.\" That is a real loop back. But the last line falls back on a balanced antithesis (\"we do not deserve a nation from which we feel an urge to escape, but rather a nation to which we seek to return and help transform\"), and the middle sprawls through history, statistics and lists. Deductions applied: -5 for the title, section heading and *** break, and -6 for em dashes (cap); 70 - 11 = 59. No word-limit deduction: the 3,000 to 4,000 word range seems to hold once the ~350-word reference list is excluded."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+6): replace the solutions menu (\"Solutions are out there: the introduction of trial by jury, governmental accountability, a fight against monopolies...\") and the \"small actions that will produce large changes\" lines with one worked case already in the essay: what Hernández and Negrete actually did with Presunto Culpable, why it worked where the US-educated technocrats did not, and what the writer will do in public policy along the same lines. Ask the writer for the real specifics; do not invent them.",
+  "Human voice (+8): delete the fragment runs (\"There is so much to do. So many things to change.\"), the slogan lines (\"If we stop dreaming we become small.\", \"Good governments and good countries are built upon good citizens.\"), the filler (\"profound\", \"indisputably\", \"deeply rooted\") and every em dash. Cut one of the two stacked rhetorical-question paragraphs. Cut the Rivera-to-Ochoa list and the beach and bougainvillea paragraph, and use the words saved on the stories that are true.",
+  "Answers prompt (+4): in the paragraph after \"What is my compromiso with Mexico's future?\", give the strongest honest case for staying (the right to leave, the risk of returning to violence, remittances and diaspora influence as another way to help) and say plainly why the writer still decides to return. Make room for it by cutting the 1521 to 1848 history and the US household-income comparison down to two sentences."
+ ]
+}

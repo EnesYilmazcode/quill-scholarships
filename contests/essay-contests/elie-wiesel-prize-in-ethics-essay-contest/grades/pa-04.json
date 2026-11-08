@@ -1,0 +1,54 @@
+{
+ "id": "pa-04",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2013",
+ "outcome": "winner",
+ "words": 3862,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_First_Brown_LosingSelfFindingSelf.pdf",
+ "total": 79,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay raises a real ethical question in the voice the contest asks for: \"What was it that prevented me from approaching the evacuees, from introducing myself, from listening?\" It also stages the drunk-man dilemma: \"We knew we couldn't throw him out... but we couldn't let him stay.\" The hardest dilemma gets one line and no reasoning: \"When a cocaine-addict prostitute asked to be admitted into the shelter, I couldn't let her in.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated, physical and hard to invent: the text \"Volunteers needed at 192nd and Audubon,\" the evacuee reading Kissinger's American Foreign Policy: Three Essays, Gil saying \"Welcome to chaos,\" Abu's Yiddish, the transfer from the Graphics High School shelter in Hell's Kitchen, and the gym cheering when the election was called."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This is clearly one specific person, including unflattering moments (\"I did, in fact, sleep through synagogue services\"). Tells: 7 em dashes, the triplet \"free of guilt, free of burdens and free of responsibilities\", the slogan \"Little do we realize that in losing self we gain freedom\", \"navigate\", and the stacked adjectives \"raw, animalistic, unrefined, and unrepentant\". There are also typos: \"conscience of\", \"they day\", \"an others\", \"shied way\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One story, the Sandy shelter at George Washington High School, carries the whole essay. Its beats (the drunk man, Abu, the named evacuees, election night) all serve the ethical question. There is no résumé material."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The essay explains why the walls stand (fear of \"the chaos within the Other\", language like \"hobo\" and \"bum\") and what takes them down (names, shared events, Buber's \"confirmation\", Rosenzweig's \"like you, but not you\"). The opening thesis (\"in losing self we gain freedom\") is never squared with the ending (\"I did not lose sense of self\")."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The *** sections alternate story and philosophy cleanly, but the essay opens on the subway beggar, the Styrofoam cup and the \"invisible walls\" of the city. It ends with \"And then I walked back into another life.\" That gestures at the city without bringing back the opening image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Remove all 7 em dashes (\"bridge campers”—verbal\", \"Breaking down—or better yet—shattering\", \"introducing myself—from listening\", \"me—in Yiddish—for\", \"More had to be done—this time\") and replace them with commas or periods. That recovers the full -6 deduction. In the same pass, cut \"Little do we realize that in losing self we gain freedom\" and the triplet \"free of guilt, free of burdens and free of responsibilities\", and fix \"conscience of\" (conscious of), \"they day\", \"an others\" and \"shied way\".",
+  "Fix the thesis contradiction. The opening says \"in losing self we gain freedom\" while the Friday-night paragraph says \"I did not lose sense of self.\" Rewrite the opening's last line so it sets up the Rosenzweig turn the essay actually makes (you keep the self and recognize the other), so the reasoning reads as one argument instead of a reversal.",
+  "Make the ending return to the opening. Move the subway, the Styrofoam cup or the hand holding it up into the final paragraph, but only with a moment that really happened, so ask the writer whether there was one after the shelter closed. If there wasn't, end on the Joelle or Natalie goodbye and restate it as the hand behind the cup, not as \"another life\". Separately, add 2 to 3 sentences of reasoning, from what actually happened, on why he turned away the woman at the door. That is the essay's sharpest ethical dilemma and it currently gets one line."
+ ]
+}

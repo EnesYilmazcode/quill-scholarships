@@ -1,0 +1,54 @@
+{
+ "id": "pd-37",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2026",
+ "outcome": "honorable-mention",
+ "words": 2638,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2026/09/Shah-Wasif-Stillness.pdf",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It takes a clear position on complicity: \"Silence had functioned as consent, not because I agreed with what was said, but because my stillness allowed it to stand unchallenged.\" The 'when does silence protect dignity' half is only gestured at in a circular line: \"When silence preserves dignity, it does so by refusing to let harm pass unnoticed.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The yearbook line \"she had thought maybe I would say something\" is the only unfakeable detail. The class, the school, the year, what the comment was about, the speaker and the girl all stay unnamed: \"A comment was made about a girl sitting a few rows ahead.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "The tells are dense. The essay writes about itself (\"This essay argues\", \"What this essay leaves me with\"). It uses not-X-but-Y again and again (\"Not as panic, not as confusion, but as clarity\"; \"It was not that she blamed me. It was that she had expected me\"; \"not in what it avoids, but in what it enables\"). Triplets are everywhere (\"awareness, maturity, and control\"), paragraphs end on punchlines (\"It felt polite. It spared embarrassment. It avoided escalation.\"), and it closes on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one on-topic story (the classroom comment, then the yearbook exchange) told as a real scene with a strong second beat. But it covers only about 4 of 14 paragraphs, and the last 6 drop it for abstraction."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some real mechanism: \"laughter is one of the easiest ways to signal alignment\" and hierarchies \"did not require enforcement because they were sustained through habit.\" But the later claims (\"silence becomes infrastructure\") are asserted rather than shown, and the dignity side has no mechanism at all."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear (learned silence, the moment, justification, the yearbook, reckoning), but paragraphs 9 to 13 repeat one point, and the close is a generic moral rather than a return to the girl or the room: \"to remember that what we protect through quiet often reveals who we are willing to leave alone.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): delete \"This essay argues that...\" at the end of paragraph 1 and \"What this essay leaves me with is not certainty, but vigilance\" in the last paragraph (also clears the -5 deduction for writing about the essay). Then rewrite every not-X-but-Y and every three-beat punchline run as one plain, longer sentence, starting with \"Not as panic, not as confusion, but as clarity\", \"It was not that she blamed me. It was that she had expected me\", and \"It felt polite. It spared embarrassment. It avoided escalation.\"",
+  "Specificity (up to +12): ask Enes for the real details he can confirm (which class and teacher, roughly what the comment targeted, who laughed, her exact yearbook words, and what she wrote above them) and put them into paragraphs 4 and 7. To stay over the 2,500-word minimum, pay for them by cutting the matching amount from the repeated abstraction in paragraphs 9 to 12 (\"What troubled me most\", \"This realization forced me\", \"As I sat with that obligation\").",
+  "Answer the dignity half and loop the ending (up to +6): paragraph 6 already has the real counter-case (\"respecting her dignity meant respecting her stillness\"). Turn it into an honest argument about when staying quiet does protect someone (for example, when the target has chosen not to react) versus when it only protects the bystander. Then make the last line come back to the girl or the yearbook instead of a general maxim."
+ ]
+}

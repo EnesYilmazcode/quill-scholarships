@@ -1,0 +1,54 @@
+{
+ "id": "pd-36",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 3403,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2026/09/Kaia-What-We-Carry-Quietly-Guilt-at-the-Bedside.pdf",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It covers both questions, compassion vs complicity and protecting vs betraying dignity, through the discharge scene: 'That silence shielded the family from immediate judgment... Yet it also betrayed dignity by disguising structural abandonment as personal responsibility.' But the final position hedges ('Silence is not escape or acquiescence. It is a call to awareness'), so it never commits to when silence crosses the line."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are strong concrete details: Hilo and Moku o Keawe, a three-month stay after a stroke, 'he asked whether someone would be there to help him shower', a 90-day stay, $10,000 a month, '3 to 4 percent', a WWII veteran and a retired teacher. But whole sections (the Hawaii overview and the guilt paragraphs) are abstract and could describe any state."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense AI patterns. 'Not X but Y' appears over 10 times ('not as peace, but as resignation', 'not because they agree, but because', 'not loudly, not cruelly, but efficiently', 'is not just the absence of conversation'). It uses AI vocabulary ('foster independence', 'navigate tension' and 'navigate that line', 'profound weight', 'landscape'), stacks of three ('fragile, essential, and constant'), punchline closers on most paragraphs ('It rarely feels humane.'), and a tidy moral ending. The real scene in the middle is the only stretch that sounds like a specific person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One central story is told fully as a scene: the man being discharged and his apologizing wife. There are three smaller beats: the great-grandfather, Mrs. L and Mr. H. All are on topic, but the tourism and climate-zone paragraph and the plantation-ancestry paragraph are background that does not serve the question."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It gives a real mechanism for how silence becomes complicity: 'medically necessary' cutoffs move the risk onto families, who 'internalize the limitations of coverage as personal failure rather than systemic constraint'. Medicaid reimbursement and Arendt back it up. But the same claim is restated about five times instead of being developed further, and it never asks whether the writer's own 'I told her I was sorry' was complicity."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It returns to the discharge afternoon, which works. But it then runs three more abstract paragraphs and two 'In the end' openers, and closes on a generic moral: 'living with integrity is found not only in action, but in how we bear what cannot be undone.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Human voice (up to +12): cut every 'not X but Y' and 'not just X' line and keep only the plain clause. For example, 'Silence settled over the moment, not as peace, but as resignation' becomes 'Nobody said anything else.' Delete 'foster', both 'navigate's and 'profound', and drop the one-line punchline at the end of each paragraph ('It rarely feels humane.', 'It simply shifted, quietly and completely...'). Do the heaviest cutting in the 'In Hawaiʻi's elder care landscape' paragraph and the closing paragraphs, which say the same thing several times.",
+  "Ending (up to +4) and answering the prompt (up to +4): delete the last three paragraphs ('Silence, I have learned...' through '...what cannot be undone') and end on the discharge scene itself. Before that, add one plain sentence answering the prompt with a real position, such as when the wife's apology and the writer's own 'I told her I was sorry' crossed from compassion into complicity. That sentence should judge his own silence in his own words, and the line itself should come from him.",
+  "Stories and specificity (up to +3 and +4): cut the tourism and climate-zone paragraph ('known around the world for its adventure tourism... eight of the thirteen climate zones') and shrink the plantation-ancestry paragraph to one sentence. Use the freed words to sharpen the Mrs. L and Mr. H beats with details the writer actually remembers, such as the exact words Mrs. L whispered or what Mr. H said to the nurses, if Enes has them. Do not add anything that did not happen."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pa-09",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2014",
+ "outcome": "winner",
+ "words": 3206,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_First-Prize_Whitcomb_The-Ethics-of-Intrusion.pdf",
+ "total": 80,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The essay is built around one ethical dilemma, intrusion by well-meaning outsiders, and asks it plainly in a personal voice: \"Is it ethical to jeopardize the long-term psyche of the new generation in La Plant, or are the friendships that we form enough...?\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail could not be invented: La Plant on Cheyenne River, 35 miles to the nearest grocery store, 99% unemployment, the shotgun threat at dinner, the camper who threatens self-harm over the front seat, and the call in Copenhagen in November 2012."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It admits unflattering things (\"these traditions might be holding the country back... as if every place should be observed through a first-world lens\") and has long sentences, but it uses eight em dashes, the antithesis \"it is not just about how money is spent,\" \"remarkable\" five or more times, and purple lines like \"infiltrated my soul\" and \"my chest splits open\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, La Plant with Jack and the Peru trip, both on topic. Jack's death is told fully. But the Peru girl is a hypothetical (\"Consider, for example\") rather than an observed scene, and Jack's death sits late, separate from the argument it should drive."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning explains how the harm happens (the girl links the latrines to the builders' identity, the summer rush leaves a winter void, a kid says \"you must be really rich\" and steps away), but the remedy is generic (\"finding people on the inside to lead the charge\") and micro-lending gets one undeveloped line."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The *** sections hold together, but the essay ends on a generic moral instead of returning to the wall map, Jack or Ben. Last line: \"It is my personal responsibility to find a time and place for the values that I find important—to understand when my intrusion is harmful, and subsequently when it has real value.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Remove all eight em dashes (deduction is -2 each, capped at -6). Use a comma or a period in their place: \"conditions—that Jack*\", \"someone else—a white, more privileged outsider—delivered\", \"impossible—I only learned\", \"come from—what their perceived identity\", \"as a person—their values\", \"power and money—and ultimately\", \"lead the charge—people\", \"important—to understand\". Also remove the \"*Names have been changed for privacy\" line from the top and put it as a footnote at the end.",
+  "Rewrite the last paragraph so it returns to the opening instead of ending on a moral (structure 3 to 5, +4). Cut the closing sentence \"It is my personal responsibility to find a time and place...\" and end on material the essay already has: the fourteen-year-old staring at the wall map from paragraph 3, or the moment she \"failed to find words the first time I saw Ben after Jack's death.\" Ask the writer which image is true to how she feels now. Do not invent a new scene.",
+  "Cut the stock phrasing (voice 4 to 5, +4). Change \"But it is not just about how money is spent or how power is used. I believe one has to stop and consider who is spending it\" to \"One has to consider who is spending it.\" Delete \"infiltrated my soul like nothing in my hometown in Connecticut could\" and \"built me up from a thousand separate pieces into a cohesive human being\". Keep \"remarkable\" at most once (it now appears for the mission, the number of child suicides, the children's awareness and more). Change \"labors tirelessly\" to a plain verb."
+ ]
+}

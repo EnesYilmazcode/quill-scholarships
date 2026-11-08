@@ -1,0 +1,60 @@
+{
+ "id": "pa-05",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2013",
+ "outcome": "runner-up",
+ "words": 4630,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2013_Second_Kuehnert_Grace-and-Gasoline.pdf",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names a real ethical dilemma, questions it from four angles and takes positions, e.g. 'Self-immolation, then, because it does not harm the person or thing protested against, ought to be considered nonviolent' and 'the proliferation of suicides seems at this point to exceed the bounds of moral action.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with names, dates and sources a stranger could not invent: Morrison and Emily at the Pentagon, Sopa Tulku's note about 'the six million Tibetans', Sonam Dhargyal's 'disabled teenage son and \"seriously ill\" wife', Chengdu in the summers of 2010 and 2011."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A real voice comes through in the Yunden café scene and the list of friends ('Or Dorje, or Palden, or Bryan.'), but it is wrapped in stock and AI-flagged wording: 'sad testament', 'has fostered ethical tension', 'pivotal catalyst', filler adverbs (deeply, profound used many times, undoubtedly), the diamond simile, and the slogan 'a sad but beautiful virtue'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: the Morrison case study (opening, McNamara, Christina) and the writer's own Yunden café moment. The Chengdu friendships are mostly told as a summary, and Yunden's scene comes only at the very end, so it carries less of the essay than it could."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning has real mechanisms: protest is defined by harm to the target, not to the protester; repeated deaths are desensitizing the media; morality is relational. The motivation section admits it 'fails to provide any firm foothold' and stops there."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The four sections are clearly organized, but the ending does not come back to Morrison or the opening image. It closes on a generic moral: 'in a world of increasing globalization, unparalleled technological advances... that is a lesson we must not forget.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "Deductions",
+   "points": 0,
+   "reason": "Subtotal 82.0. Minus 10 because a fact cannot be true: Morrison burned on 'November 2, 1965' but the headlines are dated 'November 3, 1963', and King's letter is cited as 'King Jr. 1863'. Minus 5 for writing about the essay ('In this essay, I will investigate...', 'this essay endeavors to show'). Minus 2 for the em dash in the Lowell epigraph ('choose life and die—'). No word-limit deduction: the 4,630 count includes the references and epigraphs, and the body looks to be under the 4,000-word cap, but check that. Total 65, mid band."
+  }
+ ],
+ "fixes": [
+  "Fix the impossible dates (10 points): in the Morrison effectiveness section, change 'November 3, 1963' to 'November 3, 1965' so it matches the opening's 'November 2, 1965'. Change the citation 'King Jr. 1863' to 'King Jr. 1963'. Also check 'Hauslohner 2012' in the text against 'Hauslohner 2010' in the reference list.",
+  "Strip the AI-flagged wording (up to 8 points): change 'a sad testament to the inescapable brutality' to plain wording ('show how brutal death by burning is'). Change 'has fostered ethical tension' to 'has divided Tibetans and other observers'. Cut 'pivotal' from 'effective and perhaps pivotal catalyst'. Delete most uses of 'profound/profoundly', 'deeply' and 'undoubtedly'. Replace the slogan 'a sad but beautiful virtue' and the diamond simile with the plain claim. Let at least one paragraph keep the café-scene voice.",
+  "Cut the self-reference and redo the ending (5 + 4 points): delete 'In this essay, I will investigate the question from four distinct but related approaches' and let the * section breaks do that job. Delete 'this essay endeavors to show that'. Replace the last paragraph's globalization moral with a close that goes back to Morrison or Christina, using only material already in the essay. For example, set Christina's question about whether her father knew how much his act would hurt them next to Yunden's 'We shouldn't talk of this.'"
+ ]
+}

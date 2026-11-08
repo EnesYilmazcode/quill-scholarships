@@ -1,0 +1,54 @@
+{
+ "id": "pa-12",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2014",
+ "outcome": "honorable-mention",
+ "words": 4071,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2022/09/2014_HM_Edwards_Hi_My-Name-is-White-Foreigner.pdf",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Touches the ethics prompt through stigma, the gaze and inequality, but it never states a dilemma as one. The moral question stays inside reflection such as 'I was not born normal, as I once presumed, but rather, I was deemed normal: America said so.' It never asks what anyone should do."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense, checkable detail: Kumasi, Komfo Anokye Hospital, Smile Train, 'With deft hands and 45 minutes', '12 foot walls covered in barbed wire', '3,000 dancing bodies', Kofi asking to cut her blond hair, and the Twi exchange 'Obrani, etay seng?'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "A specific person with unflattering moments ('I accidentally peed on my shoe', 'I drooled on to my leg'). Tells found: 'not X but Y' three times ('not a mark of Satan, but a seal of imminent death', 'not born normal... but rather, I was deemed normal', 'not only by cultural constructs, but also by economic privilege'), the line 'I became the White Foreigner and I hated it.' closing a section on a punchline, and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One Ghana arc carries the essay, framed by Disney and Spencer, with scenes at the roadside, church, operating room, King's court and Kwadwo. Spencer drops out after the setup and only comes back as a name. Kofi's hair and the King's court come close to travelogue rather than the ethical question."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains how normality is made, through Fabian ('never simply given... but made') and the King and Kwadwo contrast. But the essay repeats the gaze it criticizes without examining it ('little black fingers', 'eyes as rich as the harvested cocoa beans', 'half-naked children'). It treats the Plato line as a point about gaze, which is a stretch, and the conclusion about American gluttony is stated rather than argued."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear sections, and the close brings back the opening image ('sitting atop my father's shoulders', 'pixie dust'), but the last line is a tidy moral: 'I had to go out and be the Other, because in becoming the White Foreigner, I became a better Kate.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers the prompt (+8): the Kwadwo and King section ends on 'he would hold gold flecks in the palm of his hand, but never wear them on his finger.' After that, and in the JFK paragraph, state the ethical dilemmas the essay already holds: whether her Disney people-watching and her Ghana photographs are the same act, what the free surgery owes mothers sleeping on cardboard, and whether a month as the Other gives an outsider any standing to judge Ghana. Ask Enes or the writer which of these she actually wrestled with; do not invent a conclusion.",
+  "Ideas with mechanism (+6): in the roadside paragraph, cut or confront the exoticizing phrases ('little black fingers', 'eyes as rich as the harvested cocoa beans', 'half-naked children', 'tattered rags', 'Goat shit littered the ground'). The strongest move is one sentence admitting that she is doing to them what she did to the Disney tourists. Also drop the misapplied Plato quote, or tie it to what it actually says.",
+  "Voice and accuracy (+4, and it heads off a -10): replace the closing moral 'in becoming the White Foreigner, I became a better Kate' with the concrete image of Spencer or Kwadwo. Cut the three 'not X but Y' lines. Remove all five em dashes ('—Friedrich Nietzsche', 'accommodating” —to the detriment', 'lunch —eat up', 'social goods — income', 'happiness —if it did'), which costs -6 here. Fix factual and copy errors: 'the Asante King of Ghana' should be the Asantehene, king of Asante; 'The only white people most Ghanaians ever see are the migrant Chinese workers' contradicts itself; Schwable should be Schwalbe in the text; 'golden thrown' should be 'throne' and 'hospitable' should be 'hospital'; and the Ghana sacrifice claim needs a source."
+ ]
+}

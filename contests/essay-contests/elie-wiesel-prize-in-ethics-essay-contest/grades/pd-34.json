@@ -1,0 +1,54 @@
+{
+ "id": "pd-34",
+ "contest": "Elie Wiesel Prize in Ethics Essay Contest",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 2839,
+ "source_url": "https://eliewieselfoundation.org/wp-content/uploads/2026/09/Cynthia-When-I-Said-I-Was-Fine.pdf",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Takes a clear position on compassion versus complicity, on when silence protects or betrays dignity, and on responsibility: \"My responsibility is to refuse the kind of silence that makes harm easier to live with... and to honor the quiet that lets people heal.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has real anchors (October 7th, the cafeteria \"I said I was fine\", the avocado split with a fork, Mexican mother and Sephardi-Moroccan father, the 2005 name, Matilda at Bondi), but the friend, the school and the person in the kitchen (\"someone\") go unnamed, and the institutions and budgets section has no single instance in it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prose is full of contrast pairs: \"Not foggy in the weather sense. Foggy in the mind sense\", \"did not protect dignity. It protected comfort\", \"That silence is not compassion. It is convenience\", \"The point is not... The point is\". There are also anaphora runs (\"Silence can be...\" more than 12 times, \"Silence betrays dignity when...\" 3 times, \"It teaches you\"), a punchline closing almost every paragraph, and a tidy closing moral (\"I want a conscience... I want a courage... I want a responsibility\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories plus one case study: the October 7th cafeteria \"I said I was fine\" moment carries the essay and comes back several times, the kitchen avocado scene shows protective silence, and Matilda serves as the case study. The cafeteria exchange is still told in a single line, and the middle section on institutions and budgets has no story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay has a real mechanism (\"who pays for your speech, and who pays for your silence\", \"silence has a direction\", Leviticus pairing harmful speech with standing idly by), but it is stated over and over instead of being developed, and the budgets claim (\"The absence of a line item can be the absence of a lifeline\") is asserted with no example."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending pays off the opening image: \"The air still presses back. Now I refuse to pretend I have not heard anything.\" Two things cost points: the middle drifts through abstract sections on institutions and budgets, and the last line, \"That is where I choose, and that is where I refuse,\" falls back into a slogan."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): Cut the run starting \"Silence can feel good. Silence can feel safe...\" and ending \"Silence can be the sentence I offered because it was easier.\" Also cut the three \"Silence betrays dignity when...\" lines and the \"I want a conscience... I want a courage... I want a responsibility\" triplet. Change each \"not X, it is Y\" pair (\"did not protect dignity. It protected comfort\", \"is not compassion. It is convenience\", \"Not foggy in the weather sense\") into one plain statement. Merge the one-line opening paragraphs (\"The sky looks clean. The light looks forgiving...\") into one or two long sentences. End on \"Now I refuse to pretend I have not heard anything\" and drop the slogan line after it.",
+  "Specificity (up to +8): Ask Enes who actually came home late in the avocado scene and who the friend at lunch was (relation or first name), plus any real detail of that lunch table or class, and put them in place of \"someone\" and \"a friend\". If he has a real language-barrier letter or 'that's the process' moment from his family, ask for it. If not, cut the paragraphs on institutions and budgets (\"Institutions are often silent...\" through \"absence of a lifeline\") rather than leaving them abstract.",
+  "Ideas and stories (up to +6 each): Use the words freed by those cuts to work through one mechanism in full, \"who pays for your speech, and who pays for your silence\", against the cafeteria moment: what saying \"no\" would have cost him, and what \"fine\" cost him. Ask Enes whether there was a real later moment where he did not say \"fine\". If there was, tell it briefly as the counter-beat. If not, keep the reflection but tie it to that one lunch rather than restating the thesis."
+ ]
+}
