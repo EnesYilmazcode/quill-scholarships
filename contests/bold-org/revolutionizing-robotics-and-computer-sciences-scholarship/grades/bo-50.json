@@ -1,0 +1,54 @@
+{
+ "id": "bo-50",
+ "contest": "Revolutionizing Robotics and Computer Sciences Scholarship",
+ "year": "Dec 20, 2023",
+ "outcome": "winner",
+ "words": 440,
+ "source_url": "https://bold.org/scholarships/revolutionizing-robotics-and-computer-sciences-scholarship",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt has one part, and the first line answers it plainly: 'Gender equality within the STEM ... sector is one area I'd like to see experience a revolution.' It never says what the revolution would change beyond more role models."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only two checkable facts: 'one-third of the STEM workforce ... National Science Foundation' and 'the InnovateX Club at Citrus College'. The event is only planned ('We intend to invite'), with no date, speakers, members or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense with tells: 'not only valued but also celebrated', 'not just the rights of women', 'fostering', 'imperative', 'crucial', 'tirelessly', 'In conclusion'. Paragraph 6 is a reworded copy of paragraph 5, which reads like a revision pasted in next to the original. No sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told. Founding the club is the only real event, and it gets one summary sentence with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The one idea is a standard role-model event: 'bringing prominent female leaders in STEM to share their experiences'. It never says why existing efforts fail or why this one would change anyone's behavior."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay repeats paragraph 5 in full and ends on a generic thesis restatement opened by 'In conclusion': 'I'm ready to lead this revolution by tirelessly promoting the advancement of women in STEM fields and fostering an inclusive and equitable STEM community.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 to +16 points): delete paragraph 6, since it is a duplicate of paragraph 5. Cut paragraphs 3 and 4 completely, because they are abstract filler ('dispelling outmoded ideas', 'not only valued but also celebrated'). Rewrite the closing paragraph without 'In conclusion', 'not just', 'fostering' and 'tirelessly'. Then let the club sentences carry the essay in plain first person.",
+  "Specificity and story (+8 to +12 points): use the space freed by the cuts to expand the InnovateX Club sentence into what actually happened. Ask the writer for the real details: when and why they started it, how many members it has and how many are women, what the club has already done, and whether the Women in STEM event has a confirmed date or speakers. Use only details they confirm; don't invent any.",
+  "Ideas and ending (+6 to +8 points): add one or two sentences, in the writer's own words, on why a role-model event works better than what Citrus College already offers, and who runs it. Then end on the club or the NSF one-third figure from the opening, not on a slogan. Ask the writer what they have actually seen in their own STEM classes or club that supports this reasoning."
+ ]
+}

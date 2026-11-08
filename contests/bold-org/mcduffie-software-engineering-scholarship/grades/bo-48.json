@@ -1,0 +1,54 @@
+{
+ "id": "bo-48",
+ "contest": "McDuffie Software Engineering Scholarship",
+ "year": "Aug 15, 2023",
+ "outcome": "winner",
+ "words": 549,
+ "source_url": "https://bold.org/scholarships/mcduffie-software-engineering-scholarship",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "'Tell us about yourself' gets four paragraphs. The other two parts get very little. How the scholarship helps is one gesture: \"With the help of this scholarship, I will be a role model for young computer scientists\". The software area gets two sentences: \"I plan to focus on mobile app development\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some real anchors: the NCWIT affiliate award, junior year, about fifteen girls, launch in August, age seven, block-based coding. There is no school, no named program or app the club built, no algorithm book title and no named schools visited."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as human with no AI vocabulary and no em dashes. It leans on stock phrasing and repetition: 'gratifying' twice, 'instilled' or 'instill' three times, 'young minds' twice, 'express my creativity' three times. It also uses the filler 'To be completely honest' and has a slip: 'less stress-free'. No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories, both on topic: the isolation that led to founding the Girls Who Code club and the outreach, then her Dad starting her on code at seven. Both are told as summaries with no scene. The meetings and school visits are never shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Only one line explains anything: \"we continued to code in high school because it was instilled in us in our elementary schools\". The choice of mobile apps rests only on \"reminds me of the eight-year-old\", and the essay never says how the money changes anything."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, but the ending never returns to the opening question \"How do you understand that?\" or to the loneliness. Last line: \"With the help of this scholarship, I will be a role model for young computer scientists, just as my Dad was for me.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas and answering the prompt (about 17 points): rewrite the last paragraph to answer both remaining parts plainly. Replace \"With the help of this scholarship, I will be a role model\" with what the money concretely pays for or frees up, such as tuition, fewer work hours, or a course or device, given that her Dad is the sole income. Replace \"it reminds me of the eight-year-old\" with the kind of app she wants to build and why mobile, rather than web or something else. Ask the writer for the real costs and the real app idea; do not invent them. Fix 'less stress-free' to 'less stressful'.",
+  "Specificity (about 8 points): in paragraphs 2 and 3, swap the general lines for the real items. 'create new programs to show our creativity' should name one program the club actually built. 'visit elementary and middle schools' should give how many schools and what was taught. The Dad paragraph should name the first block-based tool or the algorithm book he bought. The ending should name one game she made at eight. Ask the writer for each; cut any line that has no real detail behind it.",
+  "Voice and ending (about 12 points): cut 'To be completely honest', the second 'gratifying', two of the three 'instilled' or 'instill', the repeated 'young minds', and the doubled 'express my creativity' sentence at the end of paragraph 4. Use the words saved to close on the opening question, \"How do you understand that?\", now asked by the girls in her club or at the schools she visited, if that really happened. Ask the writer before using it."
+ ]
+}

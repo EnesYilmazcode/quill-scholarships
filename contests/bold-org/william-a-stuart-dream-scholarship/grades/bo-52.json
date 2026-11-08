@@ -1,0 +1,54 @@
+{
+ "id": "bo-52",
+ "contest": "William A. Stuart Dream Scholarship",
+ "year": "Apr 30, 2024",
+ "outcome": "winner",
+ "words": 475,
+ "source_url": "https://bold.org/scholarships/william-a-stuart-dream-scholarship",
+ "total": 30,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Goals are a gesture ('continue my academic and professional journey at UT Austin... contribute to cutting-edge research initiatives') with no career named, and the second part, how the scholarship will be used, is never answered (-10 deduction applied for the missing part)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real facts (Kuwait, Palestinian parents, 10 AP classes, top 3%, Urban Air, over 20 employees, Tarrant County College, UPS, UT Austin), but the goals are abstract ('sustainable energy development and environmental conservation') and the TCC paragraph has nothing specific ('volunteer work or involvement in STEM clubs')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Model prose throughout: 'deeply passionate', 'leveraging' (twice), 'foster', 'cultivated', 'academic journey', 'not only enriched... but also reinforced', 'pressing global challenges', 'invaluable leadership skills', 'In conclusion', a tidy closing moral, and the opening line could belong to any applicant."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "No story is told as a scene. The essay is a résumé recital (multicultural weeks, Urban Air, TCC, UPS), and the one real seed, 'Witnessing the wastage of batteries and excessive energy consumption at the park', gets a single sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It asserts motivation without explaining it. The battery waste is the only causal link to the goal and is never developed, and there is no explanation of what he would research or why, or how the money changes anything."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the essay opens on a generic thesis and closes with 'In conclusion... contribute to the advancement of engineering solutions for a sustainable future,' which restates the opening instead of returning to an image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add a paragraph before the close that answers 'How will you use this scholarship': ask the writer for the real numbers, such as UT Austin tuition, how many UPS hours a week he works now, and what the money would replace (fewer shifts, a research lab position, a specific course load). Then state plainly what the award pays for. This recovers the -10 deduction and lifts answers_prompt from 2 toward 5.",
+  "Make the Urban Air battery waste the one story that carries the essay and cut the multicultural-week paragraph and the generic TCC paragraph to make room. Ask the writer for the true details: what used the batteries, roughly how many were thrown out, and whether he changed anything as manager. Then link that directly to the specific sustainable-energy research he wants to do at UT Austin. This lifts stories, ideas and specificity.",
+  "Strip the AI phrasing. Replace the opening sentence with the real Kuwait-to-US-before-ninth-grade fact. Delete 'deeply passionate', 'leveraging', 'foster', 'cultivated', 'academic journey', 'invaluable', 'pressing global challenges' and the 'not only... but also' sentence. Replace the whole 'In conclusion' paragraph with one line that returns to the Urban Air batteries or the move from Kuwait."
+ ]
+}

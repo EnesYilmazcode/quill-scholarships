@@ -1,0 +1,54 @@
+{
+ "id": "bo-47",
+ "contest": "McClendon Leadership Award",
+ "year": "Dec 1, 2023",
+ "outcome": "winner",
+ "words": 477,
+ "source_url": "https://bold.org/scholarships/mcclendon-leadership-award",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay touches both parts, but its definition, \"leadership is what keeps the planet spinning,\" is a slogan. The 'why it's important' part gets one sentence with no argument: \"Without doing that, the impact is lessened and does not allow for lasting prosperity.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real anchors: the American Red Cross, the Section Lead title, the Los Angeles Area and the 10 missing people in a simulated earthquake. But it gives no dates, no participant names, no program name and no ages. \"Presented lessons, led activities, and so much more\" is filler."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Three \"not only X but also Y\" constructions, \"foster\" used twice, the stock phrases \"grow and flourish,\" \"lasting prosperity\" and \"searched high and low,\" and a tidy moral at the end. A few clumsy human moments survive, such as \"It felt like a nightmare\" and the repeated \"the 10 missing people were found.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories, both on topic: the search-and-rescue simulation and the shy-to-speaker growth. Both are summaries without a scene. \"Under my direction\" tells us he led but never shows a decision he made."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It claims leadership matters because it creates space to grow, but never explains how a choice he made produced that growth. \"Allowed to make mistakes\" has no example of a mistake or of how he handled one."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, but the close restates the thesis instead of returning to the rescue: \"made sure others had lifesaving information.\" The opening slogan never pays off."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 12 points): cut all three \"not only... but also\" sentences (paragraph 4 opening, paragraph 5 opening, and the last paragraph) and say each point once, plainly. Replace both uses of \"foster\" and drop \"grow and flourish\" and \"lasting prosperity\". Merge the short public-speaking sentences in paragraph 5 into one longer sentence that tracks the first presentation through to the last-day speech.",
+  "Reasoning (about 9 points): the 'why it's important' paragraph (\"It is important to me... lasting prosperity\") asserts and never shows. Ask the writer whether a participant actually made a mistake during the search-and-rescue or a lesson, and what they did about it. If that really happened, use it to explain why letting people make mistakes matters. If not, cut the abstract claim and point back to the 10 people his group found.",
+  "Answers the prompt and specificity (about 8 points each): replace the opening line \"leadership is what keeps the planet spinning\" with a plain definition taken from the search-and-rescue. Move the rescue to the front, cut \"and so much more,\" and ask the writer for the real program name, dates and group size to sharpen paragraph 2. End by returning to the rescue or the last-day speech instead of restating the thesis."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bo-51",
+ "contest": "Rivera-Gulley First-Gen Scholarship Award",
+ "year": "Aug 7, 2023",
+ "outcome": "winner",
+ "words": 596,
+ "source_url": "https://bold.org/scholarships/rivera-gulley-first-gen-scholarship-award",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get an answer: about yourself (Ghana, immigrant, first-gen), why college ('honor the sacrifices my parents made') and goals ('Electrical and Computer Engineering... bridge the gap between developed and developing nations'). The goals part is a direction with no concrete target."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The checkable facts stop at Ghana, 2019, the accent, the high school's college club and ECE. 'The day my father left' has no year, place or physical detail, and 'limitations caused by a lack of access to technology' is abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy tell density: 'I vividly recall' as the opener, four contrast frames ('not just knowledge, but a promise', 'not only introduced... but also', 'not just possible for me, it was necessary', 'not just a physical one it was a journey of hope'), plus 'deep understanding', 'deeply rooted', 'embark on my own educational journey', 'meaningful impact' and a tidy closing moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One right arc (father leaves, the 2019 reunion, the accent isolates him, he joins the college club), but every beat is a summary sentence and none has a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasoning stays generic: 'technological advancement was a critical component of economic growth' leads to ECE, which will 'bridge the gap'. It never says what he would build, for whom, or why it would work where other efforts haven't."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs 5 and 6 repeat the same line ('secure my own future and allow me to give back to the communities that shaped me'), and the last line restates instead of returning to the father's departure: 'Attending college is about more than personal growth, it's about honoring my parents' sacrifices...'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 points): rewrite each contrast frame as one plain claim. 'It has represented not just knowledge, but a promise of a more secure and successful life' becomes 'To my family, school meant security.' 'The club not only introduced me... but also provided me' becomes two plain sentences about what the club did. 'not just possible for me, it was necessary' becomes 'I realized I could go.' 'not just a physical one it was a journey of hope' gets cut. Also cut 'I vividly recall', 'deep understanding', 'deeply rooted', 'embark' and 'meaningful impact'.",
+  "Specificity and structure (up to 16 points): merge paragraphs 5 and 6, which say the same thing twice, and cut paragraph 7's 'personal growth... broader goal... embark' restatement. Use the roughly 120 freed words to give more room to the true concrete beats he already has (the day his father left Ghana, the 2019 reunion, the accent at school, the college club), so each reads as a moment instead of a summary. If the writer has the real year his father left or the club's name, ask him for them; don't supply them.",
+  "Ending (up to 6 points): replace the closing line 'Attending college is about more than personal growth, it's about honoring my parents' sacrifices...' with a last sentence that goes back to the opening image of his father leaving Ghana, tied to the stated goal that 'people like my parents don't have to leave their homes to find opportunities.' That sentence is already in paragraph 6 and is the essay's strongest line, so it should sit at the end."
+ ]
+}

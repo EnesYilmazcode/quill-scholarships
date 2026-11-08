@@ -1,0 +1,54 @@
+{
+ "id": "bo-49",
+ "contest": "Phoenix Opportunity Award",
+ "year": "Jul 15, 2023",
+ "outcome": "winner",
+ "words": 343,
+ "source_url": "https://bold.org/scholarships/phoenix-opportunity-award",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It names the goal, 'a bachelor's degree in Psychology... on a Pre-Medical track to become a Psychiatrist', but never says how being first-gen led to that goal. The link stays general: 'I wanted to take a route that would benefit all around.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real details: a Spanish minor, a mother who wanted to be a lawyer, her recent house purchase, and 'a pool and movie room'. But there is no country, no job title, no place and no number anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice sounds like a real person ('houses ive only seen on Tv'). It loses points for the filler words 'truly' and 'so very', the stock line 'I truly believe that it is important to seek any sort of beneficial improvement', the tidy moral 'being the first generation is really about dreaming big', and having no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two beats. The mother's lost dream of law is told as a summary, not a scene. The house talks are a small real moment but have nothing to do with career goals."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It never explains why psychiatry, or why first-gen status points toward it. 'Giving back to communities that weren't as lucky' is the only reason given, and it's generic."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on career goals and closes on 'simply just a room where arts and crafts are made', which never comes back to the career. The 'As I write this' paragraph stops the essay in the middle to state a moral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1: replace 'I know that there are individuals that are not able to follow their wanted path due to financial or citizenship status' with the writer's real reason for choosing psychiatry over other careers. Ask the writer for it. Then tie that reason to being first-gen in one plain sentence, so the essay actually answers the 'how does it influence' part (up to +8 on criterion 1 and +6 on criterion 5).",
+  "Cut 'I truly believe that it is important to seek any sort of beneficial improvement in life if you get the chance' and the whole 'As I write this... dreaming big and taking action on these dreams' paragraph. Use the space for real facts the writer already knows: which country the mother moved from and what 'the only job that she could' actually was. Ask the writer for both (about +8 on voice and specificity).",
+  "Move the house conversations next to the career goal, and end with a sentence that connects them back to the opening: becoming a psychiatrist is how the house promise gets kept. Only write that if it's true; ask the writer whether the career and the promise to buy her mother a house are connected in their mind (about +4 on structure)."
+ ]
+}

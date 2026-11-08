@@ -1,0 +1,54 @@
+{
+ "id": "bo-53",
+ "contest": "William Griggs Memorial Scholarship for Science and Math",
+ "year": "Jul 20, 2023",
+ "outcome": "winner",
+ "words": 541,
+ "source_url": "https://bold.org/scholarships/william-griggs-memorial-scholarship-for-science-and-math",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The contribution plan is concrete ('become an aerospace engineer with NASA... observational spacecraft to search for signs of organic material in space'), but 'tell us about yourself' is mostly a list of activities, and the women-in-STEM contribution is a gesture ('will bring new perspectives to projects')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real proper nouns (UC Davis, Stanford, Arduinos, Raspberry Pis, C++, VP of Women in STEM, Strategic Visioning Guiding Coalition, UC Berkeley), but there are no numbers, dates, scenes or results. Nothing says what the club or the coalition actually did."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 'navigated the world of circuitry', 'the epitome of advanced machinery', 'driving my parents to the brink of insanity', 'facilitate humanity's drive for answers', 'sparked my curiosity... inspiring my pursuit', a stock diversity line ('new perspectives... innovative solutions'), 'Additionally' used twice, and one em dash. The only human moment is the Lego robots line."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "0 stories told as scenes. The library summers and the robotics path are summaries, and paragraph 2 reads as a résumé recital of positions."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay states intent but never explains how. The organic-material spacecraft goal names no problem it would solve or role she would play, and 'potentially leading to innovative solutions' has no mechanism behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and in order, but the close is about the sponsor: 'achieve my own dreams of exploring space and all it has to offer'. It only loosely returns to the library and neutron stars opening and reads like a generic thank-you."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (20-weight criterion, scored 2): replace 'I navigated the world of circuitry and learned the language of C++' with plain wording like 'I wired Arduinos and Raspberry Pis and learned C++'. Cut 'the epitome of advanced machinery', 'to the brink of insanity' and 'facilitate humanity's drive for answers'. Replace the em dash after 'Women in STEM' with a comma, and drop both 'Additionally's. Pair it with fix 2: as written, paragraph 2 is still a list of titles without a scene, so this fix alone only partly lifts the score.",
+  "Specificity and stories (paragraphs 2 and 4): delete the generic 'I believe that my experiences as a woman in a male-dominated field will bring new perspectives...' sentence. In its place, ask the writer for one real event from Women in STEM or the Strategic Visioning Guiding Coalition: what she ran or proposed, how many students came, and what changed. Tell that one event as a short scene. Do not invent any of these details.",
+  "Ideas and ending (paragraphs 3 and 5): ask the writer what part of an observational spacecraft she actually wants to work on (instrument, materials, sensors) and why current approaches fall short, then say that in one sentence. Rewrite the last line so it returns to the library summers and neutron stars, tied to that spacecraft goal, instead of 'all it has to offer'. Keep the William Briggs mention to one clause."
+ ]
+}

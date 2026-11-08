@@ -1,0 +1,54 @@
+{
+ "id": "bo-46",
+ "contest": "McClendon Leadership Award",
+ "year": "Dec 1, 2023",
+ "outcome": "winner",
+ "words": 569,
+ "source_url": "https://bold.org/scholarships/mcclendon-leadership-award",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered plainly and early: \"good leadership positively impacts the world because people become motivated, inspired, and most importantly feel supported\" and \"Leadership is crucial... because visions are created, tone is established, and performance is improved.\" The position is generic, though, and the first three sentences are spent on other essays."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "It names \"Auburn University,\" \"Eastman Chemical Company\" and \"Employee Resource Groups,\" but there is no scene, date, number, person or quoted line, and \"My commander conveys critical information about the mission\" stays abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: not-only-but-also (\"not only benefits the organization but also the individuals\"), more-than-X (\"Leadership is more than a position; it is a mindset\"), triplets in almost every paragraph, \"pivotal,\" \"truly,\" \"thoroughly,\" \"of the utmost importance,\" a tidy closing moral, and the misspelling \"waiver.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Three stories are each mentioned in one or two sentences (commander, Auburn sustainability office, Eastman internship) and none is told as a scene. They read as a résumé list attached to abstract claims."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Mostly bare claims (\"A powerful leader instills motivation\"). The Eastman part comes closest to a reason (\"felt supported doing so during work hours because the company generated the space, resources, and people\") but never shows what changed or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "This is a five-paragraph template with \"Lastly\" and an ending that restates a generic moral instead of returning to the opening: \"Guidance in an ever-changing world will always be of the utmost importance.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the first three sentences of paragraph 1 (\"I have written a few essays... far exceeds a 600-word limitation\"). That is writing about the essay and costs -5. Open on the strongest real experience you already have, such as the Eastman intern ERGs or your commander's delegation, and state your definition of leadership in one plain sentence after it.",
+  "Pick one of the three experiences, probably Eastman ERGs since it has the only cause-and-effect, and tell it fully using only what really happened: ask the writer for the real ERG name, what they actually did in it, and one concrete result. Cut or shorten the Auburn and commander mentions, and cut the abstract paragraphs (\"Leaders possess the high visibility...\", \"Initially outlining the general attitude...\") to make room.",
+  "Strip the AI tells: rewrite \"not only benefits... but also\" and \"Leadership is more than a position; it is a mindset\" as direct statements; delete \"pivotal,\" \"truly,\" \"thoroughly,\" and \"of the utmost importance\"; break up the triplet lists; fix \"waiver\" to \"waver\"; and replace the last line with one that comes back to the opening story instead of a general moral."
+ ]
+}
