@@ -1,0 +1,54 @@
+{
+ "id": "gen-42",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 1215,
+ "source_url": "https://afsa.org/2019-high-school-essay-contest-winning-essay",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has a success case (Panama) and a failure case (Somalia), covers what worked, and ties both to security interests ('notorious choke point', 'Gulf of Aden'). But it never directly compares what the Foreign Service and the military were each better at, and the lessons part is one generic paragraph: 'Through the power of cooperation, United States offices can promote worldwide political and economic security'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Panama is dense and checkable: December 20, 1989; 27,000 troops; 10,000 kept on as interim police; $500 million through USAID; Guillermo Endara; Resolution 794; 18 Americans killed. The Somalia counterfactual goes abstract ('this policy could have ensured safety for USAID officials')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Solid analytic prose, but it leans on inflated filler ('fundamentally', 'meticulously', 'paramount importance', 'a plethora of') and overclaims ('entirely based on', 'easily could have'). It also uses a rhetorical question ('What do these cases teach us?') and closes on slogans: 'teamwork has never been a more powerful vessel' and 'Cooperation is the inevitable gateway to peace.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two case studies, both on topic, and they carry the essay. Panama is told as a sequence: talks with Endara before the invasion, the capture of Noriega, then the policing and funding. Somalia is less concrete: the main failure, disarming the guards who protected NGO staff, is stated rather than shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names real failure points in Somalia: no talks with the warlords beforehand, no clear enemy, guards pulled from aid workers, staff shortages, and soldiers doing civilian jobs. The fix it offers is hand-waving ('This strategy easily could have legitimized the government's actions'), and the general lessons have no mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear order: thesis, Panama, Somalia, counterfactual, lessons. The ending restates the thesis as a moral and never comes back to the December 20, 1989 opening. Last line: 'Cooperation is the inevitable gateway to peace.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add one paragraph before 'What do these cases teach us?' that directly answers the relative-strengths question using facts already in the essay. Foreign Service: the talks with Endara before the invasion, and the political mapping that was missing in Somalia. Military: 27,000 troops for the operation and 10,000 kept on as interim police. Then name what each side could not do alone.",
+  "Replace the last paragraph's slogans ('teamwork has never been a more powerful vessel for the protection of American ideals' and 'Cooperation is the inevitable gateway to peace') with two or three concrete lessons taken from the cases. For example: settle the political transition partner before troops land, and do not withdraw security from aid workers before civilian staff are in place. End by bringing back the December 20, 1989 opening. Also cut 'fundamentally', 'meticulously', 'paramount', 'plethora', 'entirely' and 'easily could have'.",
+  "Fix the Somalia facts and labels. Restore Hope (UNITAF) handed over to UNOSOM II in May 1993, and the October 1993 Black Hawk Down raid and the withdrawal order came under UNOSOM II, so either call the failed case 'the U.S. intervention in Somalia, 1992-1994' or split the two phases. Change 'invasion of Somalia', since it was a UN-authorized deployment, and capitalize 'Operation Nifty Package'."
+ ]
+}

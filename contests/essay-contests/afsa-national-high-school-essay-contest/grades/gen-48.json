@@ -1,0 +1,54 @@
+{
+ "id": "gen-48",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 1431,
+ "source_url": "https://afsa.org/2025-high-school-essay-contest-winning-essay",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers the role before, during and after the war, long-term impacts, refugees and contemporary relevance, and takes a clear position: 'whenever diplomatic caution is overridden by political urgency, the United States risks repeating its most costly foreign policy mistakes.' The 'most significant effect' is spread across many effects instead of being argued as one."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some real anchors (Pentagon Papers, Paris talks, Operation New Life, 110,000 refugees, FSI training), but most claims are abstract ('Foreign Service officers in Saigon consistently reported...'). No cable, date or quoted officer from the FSJ coverage it cites. Some details are doubtful: 'Lucien P. Stone', and Babylift was an orphan airlift, not part of a 110,000 figure."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Interchangeable model prose: 6+ em dashes, 'not about evading warfare but about', 'not just errors... but deep systemic failures', 'The question is not whether', 'navigating', 'navigates', 'fosters', 'watershed', 'paradigmatic', 'eerily echoed', 'profound cost'. Repeated awkward 'in' constructions suggest a paraphrasing tool."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "An analytic prompt, so the case study should be the story, but none is told fully. It surveys Paris, the Pentagon Papers, the Saigon evacuation, the Balkans, Iraq, Afghanistan, Libya, Syria, North Korea, Iran and Project 2025, each in a sentence or two."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a partial mechanism: excluding career diplomats leads to intelligence failures and then avoidable entanglements, and FSI added area expertise after Vietnam. Mostly it asserts that the lessons echo rather than showing how they changed a specific practice."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Chronological and organized, but the ending restates the thesis with a generic moral: 'history warns that neglecting the hard-earned wisdom of Vietnam will come at a profound cost.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 12 points plus 11 in deductions): delete 'This paper discusses... this paper reveals' from paragraph 1 (-5), remove every em dash (-6), and remove the title/byline block (-5). Then rewrite the antitheses as plain claims: 'diplomacy is not about evading warfare but about...', 'not just errors in military strategy, but...', and 'The question is not whether these lessons remain relevant'. Cut the stock words: navigate, foster, watershed, paradigmatic, eerily, profound.",
+  "Stories (about 9 points): cut the survey sentences on Libya, Syria, North Korea and Iran in paragraph 5 and the Balkans/Iraq/Afghanistan repeats in paragraphs 4 and 6. Use the space to tell one account from the FSJ 40th-anniversary issue in full, for example a named officer's Saigon reporting or the April 1975 evacuation, using only what that source actually says. Then tie that one case to Project 2025 in the closing.",
+  "Specificity and fact check (about 8 points, and avoids a -10 fact deduction): replace 'Foreign Service officers in Saigon consistently reported...' with the named officer, cable or date from the cited FSJ pieces. Verify 'Lucien P. Stone (2002)' against a real source or cut it. Fix the refugee line: Babylift moved about 3,000 children, and the 110,000+ figure belongs to the broader evacuation and New Life/resettlement. Cite McNamara's own 'In Retrospect' instead of Logevall and Moyar for his postmortem."
+ ]
+}

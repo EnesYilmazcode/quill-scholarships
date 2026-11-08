@@ -1,0 +1,54 @@
+{
+ "id": "gen-35",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2012",
+ "outcome": "winner",
+ "words": 1260,
+ "source_url": "https://afsa.org/2012-high-school-essay-contest-winning-essay",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt isn't shown, but the essay stays on its title topic and gives a plan ('I hope to lead our team in a bottom-up approach to development'). Most of the space goes to listing what the U.S. already does, not to taking a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is full of checkable facts: Mary Nyekueh Ley, the NYT in February 2012, Omdurman, 'over seventy percent of the oil,' '4.7 million people facing starvation,' the OFAC licenses and Kristof p. 187. Vague claims weaken it, such as 'Studies repeatedly show that education is the most effective' with no study named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Stock phrasing throughout: the list 'stability, inclusion, efficiency, and peace,' the filler word 'truly reflect,' 'forefronts of our minds and hearts,' 'break the oppressive bonds of poverty and build a brighter future,' and a closing moral built from a list. It has no em dashes and no not-X-but-Y lines, and the long sourced sentences sound like a real student writing."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study, Mary Ley, is on topic and comes back in the health, grassroots, microfinance and education paragraphs. The middle third (the Kordofan, oil, conference and OFAC paragraphs) drops her and reads like a briefing memo."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names the failure ('much of our approach has been top-down') and offers fixes: regional farming training, and microfinance 'modeled after... Self-Help Groups in India or Grameen Bank.' It never says how these would work in Juba, who would run them, or why people would take part."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and it opens on Mary, but the last line is a generic moral instead of a return to her: 'A long-term vision, willingness to work hard, flexibility and sensitivity to the needs of the people will be the foundation we can offer South Sudan as it works toward a self-sustaining prosperity.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 8 points): cut the stock phrases. Delete 'truly' in 'truly reflect.' Replace 'at the forefronts of our minds and hearts' with plain 'in mind.' Cut 'break the oppressive bonds of poverty and build a brighter future for themselves' back to what the schools would actually do for Mary's four children. Replace the closing list ('A long-term vision, willingness to work hard, flexibility and sensitivity...') with one concrete commitment the writer has already named.",
+  "Ideas (up to 6 points): build out the microfinance and farming-training paragraphs using only facts already in the essay. Say which Juba partner (the embassy, OPIC, or the FAO office under George Okeh) would run them, and how a group modeled on the Self-Help Groups would get Mary a legal income instead of the alcohol sales that jailed her. To make room, cut the Kordofan and Washington-conference paragraphs down to one sentence each.",
+  "Ending (up to 4 points): move the Clinton quote up to the start of the closing paragraph and end on Mary instead. Her four remaining children and the school she never had are already in the opening, so the last line can come back to her instead of 'self-sustaining prosperity.'"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gen-44",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2021",
+ "outcome": "winner",
+ "words": 1351,
+ "source_url": "https://afsa.org/2021-high-school-essay-contest-winning-essay",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the situation, the partners (USAID, USIP, Peace Corps, 'multiple NGOs', 'thirty-one Tunisian municipalities') and three characteristics. The analysis is mostly asserted, though. The one real mediation success, the National Dialogue Quartet, is credited to Tunisian civil society, and the essay never shows US diplomats working with it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: 'December 17, 2010', 'over 4,000 domestic observers', 'over 1.4 billion dollars', '47 percent of council seats went to women', and named towns such as Douar Hicher and Medenine. Some partners stay vague: 'multiple NGOs', 'multiple technology companies'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several tells: 'not only a grassroots initiative but also an international priority', 'foster peace', 'multifaceted approach', 'deeply rooted', 'exemplifies' (twice), two em dashes, and a triplet in nearly every paragraph. It reads as interchangeable report prose with no person behind it."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One case study, Tunisia, with the Bouazizi opening as its only scene. Everything after that is a catalogue of programs (SHAREKNA, TADAEEM, DEMT, ATF, Peace Corps, FMF), not one initiative followed through."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The 'why' is mostly assertion: 'the advancement of democracy promotes citizen inclusion, trust in institutions, and social cohesion. As a result, extremism... [is] avoided.' The grassroots point comes closest to a mechanism, but the essay never ties a specific program to a specific outcome."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clearly organized, but the ending restates the thesis instead of returning to the opening: 'it will serve as a paradigm for other global peacebuilding initiatives.' Bouazizi and Sidi Bouzid never come back."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice, worth about 12 points. Remove the two em dashes ('—a key part of democracy building', '—a network of mediators'): make the first a new sentence and turn the second into a comma clause. Replace 'not only a grassroots initiative but also an international priority' with a plain statement. Cut 'foster', 'multifaceted', 'deeply rooted' and the repeated 'exemplifies'. Break up at least two of the three-item lists in the analysis paragraph.",
+  "Mechanism, worth about 6 points. In the paragraph that starts 'The Tunisian peacebuilding enterprise was successful because...', replace 'the advancement of democracy promotes citizen inclusion... As a result, extremism... [is] avoided' with a causal chain built from facts already in the essay. For example: the election-monitoring program registered youth, women and rural voters, and then 47 percent of seats went to women and 37 percent to people under 35. Do the same for ATF's work in Douar Hicher and Medenine. Cut the generic 'Finally, bilateral dialogue' paragraph (Obama/Jomaa statements, Kerry/Clinton visits) and use the space to explain why each approach worked.",
+  "Ending and compliance, worth about 4 points plus a possible 10 if the stated limit is enforced. The prompt says 'no more than 1,250 words' and this is 1,351. Cutting the bilateral-dialogue paragraph fixes that. Remove the title and the 'BY MARIAM PARRAY' byline. Rewrite the last paragraph so it returns to Sidi Bouzid, where Bouazizi's protest happened and where SHAREKNA later worked, in place of 'it will serve as a paradigm for other global peacebuilding initiatives.'"
+ ]
+}

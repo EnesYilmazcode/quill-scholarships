@@ -1,0 +1,54 @@
+{
+ "id": "gen-34",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2011",
+ "outcome": "winner",
+ "words": 1254,
+ "source_url": "https://afsa.org/2011-high-school-essay-contest-winning-essay",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown. The essay plainly plays out a Foreign Service role ('As the newly appointed U.S. Ambassador to China, I have my work cut out for me') and covers named policy problems, but the dream framing turns the role into a costume instead of a position the writer argues."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense and checkable: Renminbi, SIPO 'established in 1998', '330% over the last ten years', '$300 billion annual loss', the NSLI exchange in 2009, the 'Remember the Titans' screening. Several of the numbers are borrowed citations, not things the writer saw himself."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Stock phrases ('got the ball rolling', 'my work cut out for me', 'This was a life changing experience for all of us', 'I planted a seed of equality'), a slogan ('Mr. Hu Jintao, tear down this firewall!'), and stiff memo prose ('It is imperative that we speak uniformly'). It is saved by the clumsy, very human alarm-clock gag."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two real beats, both on topic: the NSLI talks about censorship and the Titans screening. Each gets a summary of 3 to 4 sentences ('They said the government has too many restrictions'). They sit late, after the made-up meeting has done most of the work."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Currency appreciation has a stated mechanism ('increasing the purchasing power of the average laborer'), and the SIPO merger names the old fix and why it failed. Censorship and IP end in vague staffing moves: 'I will initiate a special attaché', 'request a special envoy to come up with a soft power plan'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The meeting agenda gives clear order, and the reveal returns to the ambassador opening: 'Maybe someday I will be able to live the dream as a diplomat in the U.S. Foreign Service.' Just before it, a list paragraph restates every issue."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): delete 'This was a life changing experience for all of us' and 'I planted a seed of equality in them, which I hope will grow with them in the years to come'. Replace 'President Obama got the ball rolling for us' with a plain statement of what the Obama-Hu meeting decided. Swap the writer's own dashes ('– from those in the Executive Branch', '– it has arrived') for commas or periods. That last change also recovers the -4 em-dash deduction already counted in the total.",
+  "Stories (+6 possible): move the 2009 NSLI paragraph and the Titans screening up so they sit right after the opening. Replace the summary 'They said the government has too many restrictions' and 'they asked questions about life as an American teenager' with the actual question or remark a Chinese student made, if Grant remembers one word for word. Ask him for it; do not make one up.",
+  "Ideas and structure (+10 possible): cut 'I will request a special envoy to come up with a soft power plan' and 'I will initiate a special attaché to confront this dilemma', and give that space to the SIPO merger (who does what, by when). Then cut the recap paragraph that starts 'As the U.S. Ambassador to China, it is my job to solve...' so the alarm-clock reveal comes straight after the last real point."
+ ]
+}

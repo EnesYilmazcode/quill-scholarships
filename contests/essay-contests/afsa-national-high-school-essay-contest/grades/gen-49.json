@@ -1,0 +1,54 @@
+{
+ "id": "gen-49",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 1185,
+ "source_url": "https://afsa.org/2026-high-school-essay-contest-winning-essay",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Takes a clear position (\"The United States cannot maintain global leadership with fewer diplomats and fewer tools\") and covers capacity, risks and costs. But the Foreign Service gets one paragraph, the tools the prompt names (USAID, Voice of America, Fulbright) are never discussed, and the Maduro and tariff sections are about policy choices rather than reduced diplomatic capacity."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, sourced and checkable: \"On Feb. 21, 2026\", \"98 percent of Foreign Service employees\", \"583 ports across 127 countries\", \"withdrew the United States from 66 international organizations\", plus named quotes from Nepal and Risse."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The analytic voice holds up and has long sentences, but it has stock tells: \"This paper argues\", \"only the tip of the iceberg\", \"The numbers tell a story that needs no embellishment\", \"stands at a crossroads\", the \"not whether... The question is whether\" antithesis, list triplets, and six spaced dashes used as em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two case studies. The Greenland hospital ship is told fully, with the Danish \"No thanks\", and works as the essay's story. Maduro is the second. Both concern diplomacy, but neither shows the cut tools or the smaller Foreign Service at work."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives some reasons why: soft power \"lowered the cost of leadership\", and vacuums get filled by the BRI. But it never traces how a 25 percent cut causes any specific failure, and the recovery steps are a generic menu (\"rebuilding Foreign Service staffing to historic levels; restoring morale\")."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized from case to thesis to evidence to recovery. The ending moves to a new fact and a generic call (\"whether a generation that has watched the dismantling from afar is ready to step forward and do the rebuilding\") and never returns to the Greenland opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Remove the voice tells and deductions (recovers about 19 points). Cut \"This paper argues that\" so the thesis starts with \"The dismantling of U.S. soft power institutions...\". Replace all six spaced dashes with commas, parentheses or a period (\"the U.S. military, which would actually have to deploy the vessel, had not been notified\"). Delete \"The numbers tell a story that needs no embellishment\" and \"is only the tip of the iceberg\". Rewrite the closing \"not whether... The question is whether it will\" pair as one direct sentence.",
+  "Make the argument about the Foreign Service and the named tools (recovers about 7 points across prompt and mechanism). The essay never mentions USAID, Voice of America, Fulbright or the 25 percent cut, so bring in those facts from the prompt. In the Latin America and BRI paragraphs, add one sentence each linking the loss to fewer officers or a closed program (for example, who now does the work that a USAID mission or VOA did in that region). Cut or shorten the tariff paragraph, which is trade policy rather than diplomatic capacity. Use only sourced facts, nothing assumed.",
+  "Bring the ending back to the opening (recovers about 4 points). Replace the closing \"generation... ready to step forward\" line with a return to the hospital ship and the Danish \"No thanks\". For example, contrast that ship nobody asked for with the 66 withdrawals, so the last image pays off the first. Also make the recovery paragraph specific or cut it to one sentence, since it is the vaguest part of the essay."
+ ]
+}

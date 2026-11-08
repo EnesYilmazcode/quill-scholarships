@@ -1,0 +1,54 @@
+{
+ "id": "gen-46",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 1486,
+ "source_url": "https://afsa.org/2023-high-school-essay-contest-winning-essay",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Picks Vietnam, argues success plainly ('the two countries are close economic and strategic partners thanks to the Foreign Service's successful reconciliation efforts'), and gives three paragraphs of proposals that include a concession on human rights."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Nearly every claim has a name, number or date a reader can check: 58,220 American dead, 45.6 million liters of Agent Orange, about 90,000 square meters cleaned at Da Nang from 2013 to 2018, Desaix Anderson, Nguyễn Xuân Phong, the Triệu Tổ Temple grant."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Competent report prose with stock tells: 'understandably tense', 'a staggering two million', 'not only to Vietnam but also to the US', 'multifaceted reconciliation campaign', and a tidy moral at the end. No em dashes, and long sentences are present."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "On an analytic prompt the case study is the story. The Vietnam reconciliation arc (POW/MIA, Agent Orange, the Huế temple) is on topic throughout, but the Mekong and trade sections read more like a list of programs than a narrative."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The South China Sea proposal has a real mechanism: joint exercises conflict with Vietnam's non-alignment, so the Foreign Service should fund monitoring and publish data on Chinese vessels. The trade and investment proposals ('niche sectors such as education and information technology') are thinner."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological structure, but the ending gives a generic moral instead of returning to the 1975 opening: 'As in Vietnam, the Foreign Service can look to build peace and advance productive, mutually beneficial relationships around the world.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the factual errors, which recover the -10 deduction. 'The Socialist Party of Vietnam suppresses...' should name the Communist Party of Vietnam. 'The United States of Peace accompanies this initiative' should be 'The United States Institute of Peace'. The citation '(Vu and Dang)' should match the earlier '(Vu and Wells-Dang)'. Check each one against the source before changing it.",
+  "Strip the stock phrasing for up to +8. Cut 'understandably' and 'a staggering'. Rewrite 'This issue is important not only to Vietnam but also to the US because...' as 'The US has its own stake: ...'. Replace 'the Foreign Service has led a multifaceted reconciliation campaign' with the concrete pieces it has already named (MIA accounting, the dioxin cleanup, the 2000 trade agreement).",
+  "Rewrite the last two sentences to return to the opening for up to +4. Cut the 'around the world' moral and close on a fact the essay already uses, such as the more than 1,000 MIAs identified and repatriated alongside US help finding Vietnam's own missing, to echo the 58,220 and three million dead in the first paragraph. Optionally, merge the thin investment sentence (Nguyen 51) into the trade paragraph so the proposals stay focused on the South China Sea mechanism."
+ ]
+}

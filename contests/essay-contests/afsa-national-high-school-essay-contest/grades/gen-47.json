@@ -1,0 +1,54 @@
+{
+ "id": "gen-47",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2024",
+ "outcome": "winner",
+ "words": 1512,
+ "source_url": "https://afsa.org/2024-high-school-essay-contest-winning-essay",
+ "total": 78,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the challenge in paragraph one ('a pervasive diplomatic challenge itself'), describes it through elections and the Qatar blockade, and gives a definite course of action ('an open opportunity for an international treaty') backed by real past efforts (the 2021 UN General Assembly resolution, Cyber Command in 2018, the September 2023 partnership with Bulgaria)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and sourced facts a reader can check: 'purchased around 3,400 advertisements on Facebook and Instagram during the US 2016 election campaign', the 2017 Qatar blockade lasting until 2021, Cyber Command 'disconnecting servers' around the 2018 midterms, and the Guterres 2022 report pages 17-19."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Careful student research voice, but it leans on stock framing: 'would not only affirm ... but commit', 'Disinformation is more than a danger', 'not just internally but', 'aforementioned', 'it is imperative', several three-item lists, and 4 spaced dashes used as em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so the case studies count as the stories. The Qatar 2017 case is told in full (accusation, hack claim, US finding, blockade, 2021 resolution), the 2018 Cyber Command action is a solid second beat, and the Sweden and Brexit mentions are passing references that thin the focus."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Names the existing fix (the UN resolution and Guterres report) and says why it falls short ('limited to remediating damage and building institutional trust, not dismantling the systems'), then proposes a multilateral treaty modeled on unilateral US disruption. It never says what the treaty would require of its signers or who enforces it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Opens on Franklin's Junto and returns to him near the end ('reignite the spirit of the US's original diplomat, Benjamin Franklin'), but the last line closes on a general moral: 'cooperate to preserve good faith and truth, without which diplomacy cannot function.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): rewrite the paired contrasts as plain claims. Change 'Such an agreement would not only affirm the standards ... but commit the international community' to 'Such an agreement would affirm the standards ... and commit the international community'. Change 'Disinformation is more than a danger to individual relationships between specific nations.' to a direct statement of what it does. Change 'pursues truth not just internally but throughout' to 'pursues truth throughout'. Cut 'aforementioned' and 'it is imperative that'.",
+  "Ideas (+3 possible): in the treaty paragraph, swap the list of past UN landmarks ('International Covenant on Economic, Social and Cultural Rights and the Vienna Declaration') for one or two sentences on what the treaty would oblige signers to do. Use only measures the essay already cites: Guterres's platform transparency rules and media literacy programs, plus a coordinated version of the 2018 Cyber Command disruption. Then say which diplomats negotiate it.",
+  "Dashes and focus (+6 deduction plus +3 possible): replace the 4 spaced dashes ('– from deep fakes to fabricated \"facts\" –', '– an effort which', '– ramifications beyond', '– coordinated and agreed upon by diplomats –') with commas or parentheses. Then cut the one-sentence Sweden aside and the Brexit/Netherlands sentence so the Qatar case carries the middle. That also brings the body comfortably under the prompt's 1,500-word ceiling."
+ ]
+}

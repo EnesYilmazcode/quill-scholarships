@@ -1,0 +1,54 @@
+{
+ "id": "gen-45",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2022",
+ "outcome": "winner",
+ "words": 1253,
+ "source_url": "https://afsa.org/2022-high-school-essay-contest-winning-essay",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a current situation (the Tigray War), US partners, a world power (China), local actors (Ministry of Finance, Bureau of Women, Children, and Youth) and stability outcomes. But Foreign Service Officer tactics get only one line, \"the US has offered to provide administrative assistance and mediate ceasefire dialogues\", and the rest is USAID, the Peace Corps and companies."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has many proper nouns and numbers: \"13.7 billion USD\", \"over 1,000 projects in Addis Ababa and Hawassa\", \"13,000 youth\", \"250 schools\". Some claims are weak or dated wrong: war broke out in November 2020, not \"by November 2019\". The Peace Corps is not \"under the Department of State\". And \"BRI constructors regularly utilize US power supplies\" has no source detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Two \"not only... but also\" sentences in one paragraph. AI vocabulary: \"multifaceted\", \"fostered\", \"epitomizes\", \"spearhead\", \"vitality\". It uses triplets throughout and ends on the antithesis \"cooperation–not competition\". Every paragraph closes with a summarizing punchline, and the essay ends on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One case study (Ethiopia) is on topic, but it is spread across about 10 programs (Market Systems for Growth, Peace Corps, WPVE, Ex-Im Bank, BRI railway, Africa CDC, Amhara Youth, Power Africa). None of them is followed far enough to show it working."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is some real reasoning: US and China put money into different areas, Chinese plants are urban while Power Africa is rural, and Ethiopians \"don't have to and don't want to choose\". But outcomes are asserted, not shown: \"Together, these projects ensure...\", \"Such programs deter future political fragmentation\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are logically ordered, but the ending restates the thesis instead of returning to the Abiy Nobel opening: \"Ethiopia's ongoing development now epitomizes how international cooperation–not competition–amplifies foreign peacebuilding efforts, even in conflict-affected countries.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): In paragraph 3, rewrite both \"not only provides... but also promotes\" and \"not only distributes... but also partners\" as plain two-clause sentences. Replace \"multifaceted\", \"fostered\", \"epitomizes\" and \"spearhead\" with plain verbs. Cut the summary punchline closing each body paragraph (\"Together, these projects ensure...\", \"Such programs deter...\", \"Collectively, these factors...\"). Replace the \"cooperation–not competition\" last line with a concrete claim.",
+  "Ideas and story depth (up to +12): Cut 3 or 4 of the briefly mentioned programs (for example the Peace Corps line, Amhara Youth and the corporate-contracts paragraph, whose claims are hardest to source). Use the freed words to explain one or two partnerships properly, such as the Africa CDC training or Power Africa versus the Chinese plants: who in the Foreign Service did what, what changed in Ethiopia, and the sourced evidence it worked. Before keeping them, fix the war start date (November 2020) and the claim that the Peace Corps is under State.",
+  "Dashes and ending (+6 deductions, up to +4 structure): Change all 7 dash pairs (the \"partnerships—and their successes...—highlight\" em-dash pair plus six en-dash pairs, such as \"Ethiopia–already one of...–had\") to commas or parentheses. Then rewrite the final paragraph to return to Abiy's 2019 Nobel and the \"justice, accountability, and transparency\" quote, measuring what the partnerships delivered against that promise instead of restating the thesis."
+ ]
+}

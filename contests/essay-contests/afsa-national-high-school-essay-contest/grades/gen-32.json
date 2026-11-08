@@ -1,0 +1,54 @@
+{
+ "id": "gen-32",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2009",
+ "outcome": "winner",
+ "words": 1000,
+ "source_url": "https://afsa.org/2009-high-school-essay-contest-winning-essay",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the essay names one challenge in its first paragraph ('the Israeli-Palestinian conflict will be the greatest challenge to the American Foreign Service') and then says how the Service meets it. Paragraph 3 only lists the Service's value ('First... Next... Finally') and doesn't take a clear position on any of it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Full of dated, sourced facts a stranger could check: 'In November 2003, a 10-year-old Palestinian boy hunting birds', '960 Palestinian civilians dead', '2.2 billion dollars in aid since 1993', 'On April 1st 2009... Avigdor Liberman', 'On April 13th 2009... Morocco'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock phrasing throughout: 'resolutely persisted', 'invaluable work... plays a fundamental role', 'foster goodwill', 'tireless efforts'. There's a triplet ('time, patience, and persistence'), a not-solely-but-also antithesis ('cannot be measured solely by... but also by'), a First/Next/Finally scaffold and a tidy closing moral. The longest sentence is about 45 words. No personal voice."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so the case study counts as the story. There are three news incidents in the opening and a Road Map case study in paragraph 4, but each is a one-sentence summary. None is followed through, and the boy from the Gaza incident never comes back."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two ideas have a reason behind them: USAID loans 'helping to create a future partner in free trade', and polls showing majority support for two states, used to press officials. The recommendations are mostly 'must persist in opposing' and 'must reiterate', with no concrete lever and no one named to carry them out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clearly organized, but the ending is a generic moral. It doesn't return to the opening incidents: 'The 21st century may know many challenging conflicts, but through solidarity and commitment to international partnerships, peace is always possible.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 possible): cut the filler praise in paragraphs 3 and 6 ('resolutely persisted', 'invaluable work... plays a fundamental role', 'foster goodwill', 'tireless efforts'). Remove the 'First/Next/Finally' scaffold and let each fact (Wood's call on home demolitions, the $2.2 billion in USAID aid) stand without a label. Break up the 'cannot be measured solely by... but also by' antithesis and the 'time, patience, and persistence' triplet.",
+  "Structure and ending (+4 to +6): replace the closing moral ('through solidarity and commitment... peace is always possible') with a return to one of the opening incidents already in the essay, such as the November 2003 Gaza shooting or the 2004 Tel Aviv market bombing. Tie that incident to the Road Map's first phase, which called for an end to violence, so the last line closes the loop the first line opened.",
+  "Ideas and stories (+6 possible): in paragraph 5, replace 'must persist' and 'must reiterate' with how each lever works, using only facts already cited. Say what the State Department actually gives or withholds when it opposes settlement expansion, and how Mitchell's April 2009 Arab tour turns Arab support into pressure. Expand the Road Map case study in paragraph 4 so it carries the argument rather than sitting as a four-sentence aside. Also drop the title and byline lines above the essay (-5 heading deduction)."
+ ]
+}

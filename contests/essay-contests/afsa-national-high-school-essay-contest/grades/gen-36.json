@@ -1,0 +1,54 @@
+{
+ "id": "gen-36",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2013",
+ "outcome": "winner",
+ "words": 1246,
+ "source_url": "https://afsa.org/2013-high-school-essay-contest-winning-essay",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the essay states a clear ambassador's position early ('I must continue to promote democratization and political liberalization') and gives economic, civil-society and human-rights sections. I can't check the parts against the real prompt, so it gets 4, not 5."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and checkable throughout: Ne Win in 1962, the 1990 elections, the 2012 by-elections, '$20 billion in the years 2010-2011', the OpenNet Initiative in 2005, Tint Swe, and Rakhine in April 2013, with sources cited."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Stiff academic register with these tells: 'most poignantly epitomized', 'foster' and 'Fostering', 'incredibly picturesque', 'truly begin', two 'not merely X' antitheses, one em dash, and a tidy moral to close. It does have long sentences, and the cited reasoning sounds like a real student."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so the case study counts as the story. There is one through-line (Burma's junta and Aung San Suu Kyi) and every section stays on it. The Rohingya and Rakhine material is a list of issues rather than a developed case."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The economic plan has a real mechanism: it names the old fix (blanket sanctions), proposes lifting them 'tied to measurable and verifiable progress', and assigns it to the Economic and Commercial Officers. The civil-society and human-rights plans are vaguer ('bring positivity to the bilateral relationship', 'I will encourage')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The Kipling quote that opens the essay comes back in the closing paragraph, which is the right move. But the last line is a generic moral rather than that payoff: 'the United States can offer more than merely words— but also a vision of mutual economic development, united by our democratic goals.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Human voice (worth up to +8): cut the AI-style and inflated wording. In paragraph 1, change 'is most poignantly epitomized by' to 'shows most clearly in'. Change 'foster infrastructural improvements' to 'pay for irrigation and schools' and 'Fostering the development of civil society' to 'Building civil society'. In the final paragraph, drop 'incredibly' from 'incredibly picturesque' and 'truly' from 'can truly begin'.",
+  "Ending (worth up to +2, plus it removes the -2 em-dash deduction): delete the last sentence ('the United States can offer more than merely words— but also a vision...'), which holds the em dash and the 'not merely X but Y' pattern. End on the Kipling callback instead, finishing with 'somewhat democratic yet controlled by a military', so the last line pays off the opening quote.",
+  "Ideas (worth up to +3), plus format (+5): in the civil-society paragraph, replace 'coordinate our efforts to bring positivity to the bilateral relationship' with the specific action the Public Affairs and USAID officers would take, using only programs the cited sources name; otherwise cut the sentence. Then remove the title line and the 'BY KAILEE MARIE PEDERSEN' byline from the essay body."
+ ]
+}

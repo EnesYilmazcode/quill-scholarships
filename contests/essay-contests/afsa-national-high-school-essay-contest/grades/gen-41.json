@@ -1,0 +1,54 @@
+{
+ "id": "gen-41",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 1179,
+ "source_url": "https://afsa.org/2018-high-school-essay-contest-winning-essay",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Bosnia (success) and Iraq (failure), tools (Dayton 'mediation', IFOR, USAID's '126 reconstruction and community projects'), security relevance (al-Qaeda branch, 'eight out of thirteen of the major ISIS leaders') and lessons are all answered. The Foreign Service's and the military's relative strengths are only argued for Bosnia. In Iraq the essay lists agencies Bremer ignored but never says what diplomats would have brought."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, numbered and sourced: 'On May 16, 2003', 'forty thousand teachers and one-third of Health Ministry employees', '20,000 U.S. soldiers', '6,000 ... as opposed to the reality of nearly 100,000', and the direct quote from the CIA station chief."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Competent student analytic prose with some real word choices ('flopped', 'Why was the U.S. unable to see'). It has two 'not only X but Y' constructions ('not only between military and diplomatic branches but among all agencies', 'not only capable of peacebuilding ... but has a moral obligation'), a balanced antithesis thesis, a tidy moral close and stock words ('galvanized', 'unquestionable', 'efficacy'). There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two case studies act as the stories. Srebrenica plus Dayton/IFOR is told with scene detail ('some Bosnians even offered refreshments to soldiers'), and Bremer's order gets a strong scene with the warnings he ignored. Iraq's part is one decision, not the whole intervention, which stays narrow but on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The failure is explained causally (Bremer had near-total authority and no Middle East experience, and the fired Baathists had military training and no jobs, so insurgents could recruit them). The fixes are concrete but thin: 'Weekly meetings between the leaders of the CIA, NSC, and State Department' and a 'lateral communication structure that incentivizes frequent reporting'. The incentive is never named and no one is made responsible for running it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clean (case, case, lessons), but the close drifts to R2P and a generic moral instead of returning to Srebrenica. Last line: 'the United States can regain its reputation in foreign intervention, allowing for a more stable and democratic international landscape.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph (+4 structure, +voice): cut the R2P and 'more stable and democratic international landscape' close. End instead by tying the Srebrenica opening to the lesson, using facts already in the essay: for example, the eight thousand killed in three days, against Bosnia never again seeing that level of violence, set beside the 30,000 to 50,000 Baathists the station chief said would go underground 'by nightfall'.",
+  "Human voice (+4 to 8): rewrite both 'not only X but Y' sentences as plain claims ('De-Baathification shows every agency with insight into a conflict must be consulted, not just the military and diplomats' still repeats the pattern; use 'De-Baathification shows the CIA, NSC and State all needed a say before the order went out'). Also swap 'galvanized', 'unquestionable' and 'efficacy' for plain words, and fix the typo 'up until when there were announced'.",
+  "Answers prompt (+4): in the Iraq section, add one or two sentences on what the Foreign Service and the military specifically offered and lost (the military commanders' warning on Sunni-Shi'a tensions, and what State's regional knowledge would have caught). Draw only on the cited sources (Ferguson 149, 152; Ricks 159). Then drop the title/byline block from the submitted essay text if the form does not ask for it (-5 heading deduction)."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gen-37",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2014",
+ "outcome": "winner",
+ "words": 1253,
+ "source_url": "https://afsa.org/2014-high-school-essay-contest-winning-essay",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the thesis sets out three parts (the hurdles, how the Foreign Service overcame them, the legacy) and each gets its own paragraph: 'despite facing several bureaucratic and policy hurdles, the Foreign Service successfully implemented'. What Foreign Service officers actually did stays thin next to the macro history."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense and checkable: Molotov at the 1947 Paris conference, 'more than 250 short films', '$13, 368 million', '40 percent above prewar level', the Foreign Assistance Act of 1961. But the Roving Ambassador is never named, and the essay mislabels the plan as the 'Economic Recovery Program' and 'Economic Recovery Act'. The real names are the European Recovery Program and the Economic Cooperation Act, which the essay itself uses earlier."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a competent student, but with stock tells: three 'not only X but also Y' constructions ('create not only a thriving Western economy, but a precedent', 'Not only did these media efforts... but they also', 'Not only did it salvage... but it also'), a slogan pivot ('Yet the success of the Marshall plan went beyond numbers'), filler ('worked tirelessly', 'rose to the challenge'), 'plethora' used twice and 'groundbreaking'. There are no em dashes, and there are long sentences over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "For an analytic prompt the single case study (the Marshall Plan, from Harvard speech to hurdles to rollout to legacy) serves as the story and stays on topic. It has no scene and no named Foreign Service actor carrying the middle section."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Real mechanisms: the peer-review structure 'ran the risk of creating either a quid-pro-quo system... or a competitive state', and the Roving Ambassador missions acting as 'checks and balances'. Two claims are asserted, not argued: 'could only be attributed to those who worked tirelessly' and 'Such programs would not be in place today if...'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clean arc that opens on the 1937 Roosevelt quote and closes on it: 'by providing \"...enough for those who have too little\" (Roosevelt, 1937) in every corner of the world, even on its 90th anniversary.' The sentence before that restates the whole thesis as a summary, which softens the payoff."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): rewrite the three 'not only... but also' sentences as plain claims. For example, the thesis ends at 'implemented to create a thriving Western economy and a precedent for American international relations'. The media paragraph becomes 'These films strengthened international faith in the program and the bonds tying the western world together'. Cut 'Yet the success of the Marshall plan went beyond numbers.' and start that paragraph at 'It salvaged the western economy...'. Also replace 'worked tirelessly' and 'rose to the challenge' with the actual action the next sentence describes, and use 'plethora' at most once.",
+  "Accuracy and specificity (up to +4): change 'Economic Recovery Program' (twice) and 'Economic Recovery Act' to 'European Recovery Program' and 'Economic Cooperation Act', which the essay already uses correctly. Replace 'the new office of Roving Ambassador' with the officeholder's name if the cited source (U.S.A., 1948, or the Mutual Security Agency report) gives it, so that Foreign Service people, not just agencies, carry the middle section.",
+  "Mechanism and ending (up to +5): replace 'This immediate success could only be attributed to those who worked tirelessly to secure it.' with one sentence tying the 40 percent rise back to the mission-review structure described just before it. Then cut the summary sentence in the last paragraph ('In the face of a failing European economy... future foreign aid initiatives') so the close goes straight from 'just as relevant today' to the Roosevelt payoff. Also drop the title and byline lines from the submitted text (-5 heading rule)."
+ ]
+}

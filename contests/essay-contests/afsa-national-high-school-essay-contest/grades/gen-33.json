@@ -1,0 +1,54 @@
+{
+ "id": "gen-33",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2010",
+ "outcome": "winner",
+ "words": 970,
+ "source_url": "https://afsa.org/2010-high-school-essay-contest-winning-essay",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the essay states a clear position on the challenge it names: 'one of the greatest challenges to the Foreign Service in the 21st century, as it must confront the realities of a failing state while combating terrorism'. It covers democracy, regional diplomacy and the economy, though its claim that the effort is succeeding is asserted rather than weighed."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is dense with facts a reader can check: '176th out of 179 countries in Transparency International's Corruption Perceptions Index for 2008', 'August 20th, 2009', named officials and quoted statements. Some claims are vague, though, such as 'numerous hectares of illicit poppy fields' and 'access to healthcare for over 85 percent'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It reads like an interchangeable policy brief. It uses AI-flagged vocabulary ('foster political development', 'it is imperative', 'serves as a catalyst'), puffery ('unfailing commitment towards bettering humanity', 'vehement efforts') and a tidy closing moral. No individual person is audible."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so Afghanistan is the case study. It is spread across about six sub-topics (elections, Pakistan, USDA, opium, USAID, Obama's visit), each summarized and none followed through."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It makes some real recommendations ('integrating aspects of existing Sharia law into the Karzai government', regional 'mutual noninterference'). It never explains why these would work where the current approach fails, and the economics section only lists existing programs."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clearly organized by theme. The last line, 'Afghanistan is making an optimistic progression towards peace, stability, and sustainable development', is a generic moral that never returns to the 2,400 civilian deaths it opens with. (5 points were deducted from the subtotal of 64 because the title and byline 'BY EVALINE BAI' sit at the top of the essay.)"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 pts): delete the puffery sentences 'The Foreign Service proves an unfailing commitment towards bettering humanity while exemplifying the U.S. as a leader in humanitarian assistance.' and 'Economic stability serves as a catalyst towards social change, the main beneficiaries being the citizens of Afghanistan.' Replace 'foster', 'it is imperative' and 'vehement efforts' with plain verbs, and let the facts make the case.",
+  "Story and mechanism (up to 12 pts): cut the USDA paragraph and the Obama-quote framing down to a sentence each. Use the space to expand the poppy-to-wheat-and-apples conversion, which is already in the essay, into the one worked example: explain why farmers grow poppy, what made the switch pay for them, and what would make it last. Only use facts from the sources the writer actually cited.",
+  "Ending and length (up to 4 pts): replace the final sentence with one that returns to the opening figure of 2,400 civilian deaths in 2009 and ties it to the change the essay most wants. Remove the title and byline from the essay body. Fix 'J. Alexander Their' to 'Thier', 'Hilary' to 'Hillary' and 'principle objective' to 'principal objective'."
+ ]
+}

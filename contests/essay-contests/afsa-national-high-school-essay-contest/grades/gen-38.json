@@ -1,0 +1,54 @@
+{
+ "id": "gen-38",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2015",
+ "outcome": "winner",
+ "words": 1197,
+ "source_url": "https://afsa.org/2015-high-school-essay-contest-winning-essay",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the essay states a clear policy position early (\"Increasing the amount of microfinance loans to Honduras should be one of the U.S. State Department's top priorities\") and develops both parts of the plan. The crime-to-poverty link, though, rests on one cited correlation, and the essay never argues it for Honduras."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The detail is dense and checkable: \"one in nine,\" \"70% of U.S.-Assisted Microfinance Institutions,\" the Makueni District, \"$0.24\" per click and \"$50.3 billion.\" It loses a point because the Feldman paper has no date or publisher and the view count is miscalculated."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real student policy writer, with clumsy human phrases such as \"this cesspool of crime\" and \"the very criminals who make Honduras so deplorable.\" There are no em dashes, no \"not X but Y\" and no AI vocabulary. A few stock lines remain (\"The key to curtailing,\" \"This is exactly what microfinance loans solve\"), and \"profound lack of capital\" uses a filler adverb-style word."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic essay, so the case study counts as the story. Its one case study (Kiiru's work in Makueni, Kenya) comes from a different country, and nothing from Honduras itself appears beyond statistics."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The asset assessment has a real mechanism: assets show need, screen out the desperate, and serve as collateral, and USAID staff already in Honduras would do the visits. The social media grant is weaker because it counts clicks without explaining how a click becomes a long-term donor."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is well organized (problem, thesis, two-part plan, cost), but the ending restates the thesis instead of returning to the boy with a one-in-nine chance of being murdered. Last line: \"We can put Honduras on the path to becoming a safer and more stable country with a freer market economy.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the arithmetic in the Facebook paragraph (deduction recovered: +10). $2,000,000 / $0.66 × 1,000 comes to about 3,030,303,030 views, not \"3,030,321,212.\" Or cut the views figure entirely, since the essay argues for paying per click anyway.",
+  "Remove the title line and the \"BY THOMAS KELLER\" byline from the essay body (deduction recovered: +5), and put them in the submission form fields if the contest asks for them.",
+  "Rewrite the last sentence of the closing paragraph so it comes back to the opening: tie the house visits and the grant to the boy born in Honduras with a one-in-nine chance of being murdered (structure 3 to 5, +4). Also add a sentence in the social media paragraph that explains, from a real source, why a click turns into a repeat donation, or cut the CPM discussion (ideas 4 to 5, +3)."
+ ]
+}

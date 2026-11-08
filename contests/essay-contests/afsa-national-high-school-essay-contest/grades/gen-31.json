@@ -1,0 +1,54 @@
+{
+ "id": "gen-31",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2008",
+ "outcome": "winner",
+ "words": 963,
+ "source_url": "https://afsa.org/2008-high-school-essay-contest-winning-essay",
+ "total": 76,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt isn't shown, but the essay names one challenge (\"the reason why China is the greatest challenge facing the Foreign Service in the 21st century\") and says how to meet it. The plan is a gesture in places, though: \"must unite in a collateral effort to promote a strong U.S. presence in China.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and cited facts a stranger could check: \"July 20, 2005: Lin Hongying, a 56-year-old woman farmer\", Hu Jia's \"three and a half years\", \"1.25 million\" houses demolished, exports \"from $18 to $52 billion\", 12 rounds of talks."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a student research paper, with no em dashes, no 'not X but Y' and no AI filler adverbs. Some stock phrasing remains: \"multidimensional challenges\", \"one of the most critical and complex in the world\", the slogan \"Change of any kind requires time.\", and a tidy quote as the moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "This is an analytic prompt, so the China case study counts as the story and it is on topic. But the two people who open the essay (Lin Hongying, Hu Jia) get one line each and never come back. The one-child sentence wanders off the Olympics thread."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The no-boycott argument has real reasons (bitterness, losing progress toward talks, the 1980 Moscow parallel). The other fixes stop at intent: \"influence China to make the right choices\", and the claim that the FCS cutting the deficit will \"gain leverage\", with no step saying how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear and it opens on a dated case. It ends on someone else's slogan instead of the opening people: \"Change may take time, but change will come.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph 3: replace \"must unite in a collateral effort to promote a strong U.S. presence in China\" and \"influence China to make the right choices\" with one concrete use of the talks already in the essay (\"talks are scheduled for spring 2008\"). For example, the ambassador puts Hu Jia's case by name on the agenda of that resumed dialogue. That uses only facts the essay already states and gives the reader a who, a when and a what.",
+  "Ending: cut \"Change of any kind requires time.\" and close by bringing back Hu Jia or Lin Hongying from the first line. The Rice quote can sit just before that line instead of being the last word, so the essay comes back to its opening person and doesn't end on a borrowed slogan.",
+  "Cut the one-child sentence and \"multidimensional challenges\", and tie the trade paragraph's last line to a step the essay already names (the FCS pressing on intellectual property). That keeps every paragraph on the Olympics and human-rights thread and removes the stock phrasing that costs voice points."
+ ]
+}

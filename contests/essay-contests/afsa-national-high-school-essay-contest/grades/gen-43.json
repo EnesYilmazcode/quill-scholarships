@@ -1,0 +1,53 @@
+{
+ "id": "gen-43",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1265,
+ "source_url": "https://afsa.org/2020-high-school-essay-contest-winning-essay",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names a specific challenge (Kosovo) and gives clear Foreign Service examples (KDOM, KVM, Holbrooke and Hill's mediation), but collaboration with US civilian agencies is thin: the Helsinki Commission gets one sentence ('cooperated with the Helsinki Commission... to inform US policies') and USAID gets one short paragraph. Most of the 'collaboration' is with OSCE, UNHCR and CRS, which are not US Government agencies."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense with checkable facts: 'two thousand diplomats', Racak in January 1999 with '45 civilian men and boys', Holbrooke's quoted ultimatum, 'On March 24, 1999, NATO began its 78-day bombing campaign', all with page citations."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a competent report with no personal angle. It uses stock phrases ('uniquely positioned', 'played a crucial role', 'underscores the courage and humanity', 'a powerful foreign policy asset'), has a triplet in the conclusion ('verifying atrocities, exhausting diplomatic solutions, and galvanizing international support') and ends on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study (Kosovo) carries the essay, and the Racak scene ('a beheaded elderly man and others with gunshots to the head') is its strongest moment. But the essay spreads across five or more episodes (KDOM, KVM, Racak, mediation, Rambouillet, the task force, the CRS riot, USAID), so none of them gets space to land."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some reasoning about why things worked: the failed agreement mattered 'to show that all diplomatic avenues were being explored', and Walker's report 'galvaniz[ed] international condemnation'. But it never explains how interagency collaboration itself produced results. It lists the partners and asserts the benefit ('benefits the US by promoting democracy and combating extremist, destabilizing activities')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized and chronological, but the 'Conclusion' section restates the thesis instead of returning to an opening image. Last line: 'Foreign Service interagency collaboration is a powerful foreign policy asset that furthers global peace, and in turn, US peace and prosperity.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Recover 11 points from deductions (-5 for headings, -6 for three em dashes). Remove the seven section headings ('Kosovo Conflict', 'Role of US Diplomats', 'Observation & Verification', 'Mediation', 'Peacebuilding', 'Conclusion') and the byline line, and use topic sentences as transitions instead. Replace the em dashes in 'conflicts—such as Haiti, Somalia, and Bosnia—that' with commas, and in 'final opportunity for a peaceful resolution—the Rambouillet peace talks' with a colon. Also run a word count on the body alone: the prompt says 1,000 to 1,250 words and the full text is 1,265, so cutting the headings should bring it under the limit.",
+  "Recover up to 8 points on voice by cutting the stock framing. Delete 'underscores the courage and humanity of Foreign Service officers' and 'Foreign Service interagency collaboration is a powerful foreign policy asset...', and replace 'played a crucial role' with what actually happened. End on the Racak image or Walker's report instead of a moral: for example, close on the fact that one ambassador walking into a village in January 1999 changed what NATO was willing to do. Also break up the citation-heavy sentences so at least one long sentence reads as the writer's own argument."
+ ]
+}

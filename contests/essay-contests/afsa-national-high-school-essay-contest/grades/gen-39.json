@@ -1,0 +1,54 @@
+{
+ "id": "gen-39",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2016",
+ "outcome": "winner",
+ "words": 1235,
+ "source_url": "https://afsa.org/2016-high-school-essay-contest-winning-essay",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the essay states one clear position and defends it ('our chief strategy will be to disseminate educational technologies... rather than solely build schools'). Capped at 4 because no prompt parts can be checked."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense and checkable: '4,300 Afghan security personnel', 'sixty-four percent higher' (Pitt and Khandker 958), the XO laptop at about $200 against $280 per student, EB/CIP and DCHA/ASHA named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Stiff policy register with a stack of connectors ('Thus', 'thus', 'ergo', 'clearly', 'Additionally'). One 'not X but Y' line: 'Women are not just passive victims of conflict—they are potential agents of change'. Six or more em dashes and a tidy moral to close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "On an analytic prompt the case study is the story, and here the case is spread thin across five or more studies. The one human voice, the young recruit ('I now want to join [the Taliban] so I can make an income'), gets one sentence and never comes back."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "Names the current fix (building schools), says why it fails (Taliban attacks shut 'almost ten percent of schools'), gives a concrete change (laptops through local CSOs), says who does it (EB/CIP, DCHA/ASHA) and why it pays ($200 against $280)."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are well ordered, but the close restates the thesis instead of returning to the Malala opening: '...bringing a sustainable peace to Afghanistan and mitigating the Taliban threat to American democracy.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): rewrite 'Women are not just passive victims of conflict—they are potential agents of change' as a plain statement with no contrast. Replace every em dash with a comma, colon or parentheses (this also clears the -6 deduction). Cut 'ergo', 'clearly' and at least half of the 'thus' connectors.",
+  "Story (up to +6): make the existing young-recruit quote from Robertson the case that runs through the essay. Move it to the opening instead of the Malala quote, then tie the laptop plan's income argument back to him by name. Add no new detail; use only what the source says.",
+  "Ending (up to +4): replace the final sentence ('By capitalizing on these women's potential... threat to American democracy') with a line that returns to the opening image, either the recruit or the girl who cannot say 'I want to be a doctor'. Do not restate the thesis."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "gen-40",
+ "contest": "AFSA National High School Essay Contest",
+ "year": "2017",
+ "outcome": "winner",
+ "words": 1232,
+ "source_url": "https://afsa.org/2017-high-school-essay-contest-winning-essay",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The prompt is unknown, but the memo takes a clear position on its own question with three numbered steps ('I recommend three steps: 1) ... 2) ... 3)'), and each step gets its own section. Scored 4 rather than 5 because I can't check it against the parts of the real prompt."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated, sourced, checkable figures run all the way through: '4.4 million Iraqis', '200 deaths due to improvised explosive devices' in Ramadi, '$5 million to Janus Global Operations', 'Kuwait contributed just $2 million', 'only 14.5 percent of its proposed $112 million budget'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a competent institutional memo, but there is no personal voice, and it has stock framing: the balanced pair 'both a humanitarian disaster and a security threat', the punchline 'It is the building block of stabilization.', the mixed cliché 'reinvent the wheel—or to slow the wagon with excess programmatic baggage', and 'propitious time to bring our influence to bear'. It has several sentences over 45 words, which passes rule 1."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so the case study counts as the story. There are two on-topic cases: the 200 IED deaths after the early return to Ramadi, and the $5M PM/WRA demining grant that later let Ramadi residents return. They are told as data rather than as scenes."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "Each step names the current fix, says why it falls short, and gives a concrete change with a named actor. For example, UNMAS is 'only 14.5 percent' funded, so fund demining from FFIS and seek PM/WRA money. The Gulf states are 'suspicious of Iraq's Shia leaders', so go through the Bureau of Near Eastern Affairs, use a Sunni envoy, and take advantage of the al Jubeir visit."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The memo is clearly organized, and the last line returns to the title: 'Bringing home the country's displaced millions is a key to winning the peace.' It loses a point because that close is a tidy slogan rather than a return to the opening image of the 4.4 million displaced people."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 8 points): cut 'It is the building block of stabilization.' from the end of the Background section, since the sentence before it already makes the point. Replace 'We must resist the temptation to reinvent the wheel—or to slow the wagon with excess programmatic baggage.' with a plain statement of the risk, for example that adding livelihood and reconciliation projects now would pull funds away from infrastructure. Change 'both a humanitarian disaster and a security threat' to the specific mechanism that follows it (idle displaced young men as an ISIL recruiting pool).",
+  "Em dashes (worth 6 points): replace all of them. Use commas around 'one in eight', parentheses or commas for the IDP definition, a period before '24 people a minute are displaced', a period before 'or to slow the wagon' (or cut that phrase, per fix 1), and a semicolon or period before 'and bringing more Iraqis home'.",
+  "Format (worth 5 points): if the real prompt doesn't require a memo format, drop the TO/DATE/RE header and the four headings and use topic sentences instead. Each Proposed Step already opens with one ('Keep the focus on basic services.', 'Increase demining activities.'). If the contest requires a memo, ask for the prompt so this deduction can be removed. Also ask for the real prompt so criterion 1 can be checked against every part."
+ ]
+}
