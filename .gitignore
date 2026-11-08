@@ -1,0 +1,5 @@
+# Essay texts belong to their authors. Build them locally, never commit them.
+essays/
+regrades/
+__pycache__/
+*.pyc
