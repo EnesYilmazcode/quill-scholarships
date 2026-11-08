@@ -1,0 +1,54 @@
+{
+ "id": "vt-11",
+ "contest": "Varsity Tutors Scholarship (August 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 399,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/valeria-57488",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the feedback (the coach's 'The biggest opponent has never been the girl next to you, but yourself') and says how it changed her ('From that day forward I approached feedback differently'), but the wider growth gets one generic line: 'changed how I handle challenges in school and in my life' with no school example."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The coach's quote and the 'quick ten min' mat pilates reset are real details, but the sport, the event, the meet, the coach's name, the team she 'helped to build' and the race result are all left out, so a stranger could not check anything."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clumsy human phrasing ('the heart', 'not of those around me', 'ten min workout') shows a real writer, but there is a 'didn't just make me a better athlete but also changed' construction, a triplet ('discipline, consistency, and the heart'), and a tidy closing moral ('I trust that I can overcome any challenge that tries to hold me back'). No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two beats, both on topic: the coach pulling her aside before a race, with dialogue, and the pilates habit that followed. But the scene stops before the race, so we never learn what happened next."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a real mechanism, a negative thought triggers a ten-minute pilates set that 'would re-set my mind', and explains why it shifted ('my coaches trusted me... I should do the same'), but the move from comparison to progress is stated, not shown working in a later case."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and follow the doubt, feedback, change, lesson arc. 'The comparison that once controlled me' half-returns to the opening, but the last line is a generic moral: 'I trust that I can overcome any challenge that tries to hold me back.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (up to +8): in paragraphs 1 and 2, swap 'my own sport', 'a meet' and 'my coach' for the real names. Ask the writer what the sport and event are, which meet it was, and what the coach is called. Then add one sentence after the coach's speech saying what actually happened in that race, using only the real result, even if it was not a win.",
+  "Human voice (up to +8): replace the last paragraph's 'didn't just make me a better athlete but also changed how I handle challenges in school and in my life' and the closing 'I trust that I can overcome any challenge that tries to hold me back' with one real school moment where she used the same switch from comparison to progress. Ask the writer which class or test it was; if there isn't one, cut the school claim and end on the sport. Also cut the triplet down to the one quality the coach actually stressed.",
+  "Ending and ideas (up to +5): make the last line answer the opening thought 'I'm not good enough, I can't do it, she's faster than me'. For example, say what she thinks now on the blocks or at the start line, in her own words, and include how often she still uses the pilates reset. That shows the mechanism lasting instead of just claiming it."
+ ]
+}

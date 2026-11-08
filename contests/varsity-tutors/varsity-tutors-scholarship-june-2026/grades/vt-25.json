@@ -1,0 +1,54 @@
+{
+ "id": "vt-25",
+ "contest": "Varsity Tutors Scholarship (June 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 728,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/grace-56917",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the project and the reason in the first paragraph ('the creation of a public splash pad in Lincoln, Alabama'), but it never says how the project would be designed: no site, cost, funding or who builds it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "'Lincoln, Alabama' and 'Title I' are the only checkable facts. The rest is abstract: 'many families', 'A large number of students', 'very few safe, free, and accessible places'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Reads as interchangeable model prose. Tells: an 'On the surface... But... something much bigger' reveal, stacked lists ('opportunity, equity, connection, and hope'), 'matters deeply', 'In a world where screens...', 'Most importantly', 'In conclusion', 3 em dashes and no first-person moment after line one."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories. The essay is a list of benefits with no person, summer or place the writer actually saw."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a real reason the usual fix fails ('Unlike a swimming pool, which requires lifeguards, maintenance, and sometimes fees'), then falls into a generic list of benefits (economy, health, equity) with no cost, owner or way to get it built."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the ending opens with 'In conclusion' and restates the benefits. Last line: 'a place where children can laugh freely, families can gather, and summer days can become memories worth holding onto.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 8 or more points with the deductions): delete the 'On the surface... But... something much bigger' reveal and the list 'opportunity, equity, connection, and hope'. Cut 'In a world where screens often replace face-to-face interaction' and 'that matters deeply'. Remove all 3 em dashes ('summer—memories', 'jobs—both', 'exercise—it feels'), which wins back the -6 deduction. Join some short sentences so at least one runs over 45 words.",
+  "Ideas and prompt (about 6 points): cut the local economy and health paragraphs, which are the generic benefits list. Spend those words on the pool-vs-splash-pad paragraph, the one real argument here, and on how it would actually get done: where it would go, roughly what it costs, and who would pay for and run it (city, school, a grant). Use only facts Enes can confirm. Ask him rather than guessing.",
+  "Structure and specificity (about 4 points): delete the 'In conclusion' paragraph. End with one plain sentence that brings back the opening image of a long, hot Alabama summer in Lincoln with nowhere free to go. Then swap 'many families', 'A large number of students' and 'very few safe, free, and accessible places' for the real figures or place names, but only if Enes has them (for example, the school's actual Title I share, or where the nearest public pool really is). Otherwise cut those claims."
+ ]
+}

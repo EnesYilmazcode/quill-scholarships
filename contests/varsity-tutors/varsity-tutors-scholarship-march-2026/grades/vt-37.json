@@ -1,0 +1,54 @@
+{
+ "id": "vt-37",
+ "contest": "Varsity Tutors Scholarship (March 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 376,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/greta-56242",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered: the help story, then two lessons. The vanity lesson takes a real position ('I also learned over again that my vanity is enormous'). The first lesson gets only two sentences of claim and no argument."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong physical detail: 'summer of 2023', 'Friday', 'the director fell and broke her hip', 'upstairs supply rooms', 'I took photos so she could see the completed stage setup', 'Romans 3:10b-11'. The camp, the town, the play's title and the number of campers are never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like one particular person. 'I was proud just now as I wrote those preceding words' is unfakeable, and it has 45-word sentences and no em dashes or AI vocabulary. Stiff spots: 'That opportunity to assist affords me opportunity for introspection' and the filler 'certainly'. It also closes on a tidy prayer-moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story, told in order with concrete actions (cleared surfaces, fetched, decorated, arranged props, photographed). Most of it is a summary of tasks, with no single moment slowed down into a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay says the work was easier because he volunteered and because he loves theater, but never explains why. The library trade-off in paragraph 1 would show the choice but is never tied back to it. The vanity lesson has live evidence but stops at confession."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Two blocks, a story and then a reflection, and the ending never comes back to the director, the stage or the photos. Last line: 'May God sanctify me so that I lay up treasure in heaven, instead of seeking man's approval.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2, sentences 1 to 3: cut 'That opportunity to assist affords me opportunity for introspection.' Rebuild the first lesson on the real choice from paragraph 1: he gave up hours at the library, which he loves, and the work still felt easy because nobody had assigned it and it was theater. Say why that difference matters to him. Ask Enes what the work felt like compared with a job he was told to do, rather than inventing it.",
+  "Ending: bring back the opening image. Tie the vanity lesson to the actual compliments he got that night, from the director, her husband or the campers. Ask Enes who said what. Then cut the Romans quote down to its sharpest clause ('there is no one who does good, not even one') so the last line lands on the director's stage, not a general prayer.",
+  "Specificity and structure in paragraph 1: split the long block where the director falls. Ask Enes for the camp's name, the town, the play's title and roughly how many campers there were, and put them in the first two sentences in place of 'a week-long summer junior drama camp'."
+ ]
+}

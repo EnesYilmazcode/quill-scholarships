@@ -1,0 +1,54 @@
+{
+ "id": "vt-32",
+ "contest": "Varsity Tutors Scholarship (April 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 261,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/elliott-56539",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but the skill stays vague ('My goal is to improve my way of learning and what I've done with the information I've learned') and the plan is generic ('attending a multitude of classes')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are the saved tutorial videos and '3 months later'. It names no medium, technique, tutorial, class or drawing, and 'methods I have recently been integrating' never says what the methods are."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, with its clumsy run-ons, a lowercase 'i'm' and 'I'll totally use it!'. There are no em dashes and no AI vocabulary. The weak spots are stock phrases like 'nothing short of', 'a massive improvement... will occur' and the cheerful exclamation at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero full stories. The tutorial-hoarding habit is on topic but is told as a general pattern, with no particular video, drawing or moment shown as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It correctly says why the old approach fails ('an infinite amount to learn... overwhelms me before I even start'). The fix is still only 'a slower more hands on approach', with no concrete practice, schedule or way to check progress."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Three paragraphs in a sensible order, but the ending is a generic hope instead of returning to the saved tutorials: 'I can't wait to see how much I can improve in the next couple of years!'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2 and the last line: replace 'methods I have recently been integrating into how I work now' and 'a slower more hands on approach' with the real methods. Ask the writer what they actually changed (for example how many tutorials they now work through at once, or what they do with one before moving on) and name it exactly. This lifts specificity and ideas_mechanism, worth up to about 21 points.",
+  "Paragraph 1: sharpen the skill and the opening habit with true details. Ask the writer which medium or technique they want to master, and which saved tutorial or drawing showed the 3-month stall. Replace 'improve my way of learning and what I've done with the information I've learned' with that named skill so the prompt's first part has a clear, specific answer.",
+  "Ending: cut 'a massive improvement, though it may take many years, will occur' and the closing exclamation. End by returning to the saved-tutorial image from the opening, using only what is true, such as how the writer now handles that saved list. Also replace 'attending a multitude of classes' with the actual classes or studio courses they plan to take, if they know them."
+ ]
+}

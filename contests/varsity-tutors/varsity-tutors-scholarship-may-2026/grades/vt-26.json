@@ -1,0 +1,54 @@
+{
+ "id": "vt-26",
+ "contest": "Varsity Tutors Scholarship (May 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 521,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/lindsey-56850",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The challenge is only named indirectly ('how am I supposed to create it?', 'It overwhelmed me that I couldn't make that sustained impact'), and 'what changed' gets one abstract line: 'This change in how I framed my name's meaning helped fulfilling this state of \"forever happy\" seem more manageable.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real detail ('13 hour shifts at the local grocery store', 'take care of her 3 siblings', 'lettuce serve!'), but the conference has no name, date, school or number beyond 'hundreds of nervous eyes' and 'impressive speakers'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real human moments ('every bone in my body cringed as I smilingly joked'), but also 3 em dashes, a 'doesn't mean always being happy but rather creating' antithesis, stock words ('facilitate', 'intangible lightheartedness'), a tidy closing moral, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories: the dad jokes at the foot of the bed and the Interact conference joke. Both serve the theme, but the dad story is told as a habit ('Every day, I'd test ways') rather than as one night."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The conference paragraph explains why the joke worked ('students from underfunded public schools sat with peers at private academies... made intellectual challenges feel personal and unsafe'), but the dad payoff is only asserted ('It showed him that his state of exhaustion wasn't forever')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It returns to the name from the opening, but closes on a generic moral instead of the dad or the name: 'showing up imperfect—but authentically—is the first step toward understanding the person across the table.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 4 and the last line: rewrite 'I learned that \"forever happy\" doesn't mean always being happy but rather creating...' as a plain statement, and remove all 3 em dashes ('success—full', 'smiles—moments', 'imperfect—but') by using commas or periods. This recovers the -6 em dash deduction and lifts voice. Then replace the final sentence about 'the person across the table' with a line that returns to the dad at the foot of his bed or to 'Wing yun'.",
+  "Paragraph 1: say the intimidating challenge in one plain sentence right after the family details (something like 'Making the people around me happy for longer than one joke felt impossible'). In the second-to-last paragraph, say directly what changed. Use the writer's own words and cut 'helped fulfilling this state... seem more manageable'.",
+  "Paragraph 3: ask the writer for the conference's real name or year, the number of schools or attendees, and one school or speaker, and use those in place of 'full attendance, impressive speakers'. Also cut the repeated '13-hour shifts' in paragraph 2, since paragraph 1 already says it."
+ ]
+}

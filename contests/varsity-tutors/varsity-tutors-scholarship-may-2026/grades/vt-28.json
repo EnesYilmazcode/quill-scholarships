@@ -1,0 +1,54 @@
+{
+ "id": "vt-28",
+ "contest": "Varsity Tutors Scholarship (May 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 749,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/gabrielle-56862",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It answers both parts. The challenge is 'I was a chronic procrastinator' and the change is 'I needed to overcome my fear of failure, which masked itself as procrastination.' But 'now feels manageable' is only claimed in general terms ('Assignments were completed well before their due date') and never shown in one real instance."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are '2:30 a.m.' and 'my first year at college'. No class, assignment, grade, teacher or school is named. 'Countless nights', 'every essay' and 'video lectures and TED talks' are things a stranger could make up."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The opening is honest, but the rest is stock framing. It uses 'not X but Y' three times ('was not a bad thing, but a way for me to grow', 'did not reach their goals by giving up... but by trying', 'no longer saw it as a measure of self worth, but as'). It also has list triplets, filler intensifiers ('overwhelming', 'immense', 'countless', 'greatly'), dash-set asides and a slogan close. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story: the procrastination arc. After the 2:30 a.m. opening it is told entirely as summary. No college moment shows the change happening."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The diagnosis has a real mechanism: easy A's, then self-worth tied to grades, then fear of failure, then delay. The fix is a generic menu, though: 'manageable to-do lists, studying with classmates', TED talks and 'mindset shift', with no detail on which one worked or why."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the ending is a generic moral that never returns to the 2:30 a.m. clock. Last line: 'The only true failure we ever face in life is the failure of not trying.' Subtotal 54.0; deduction of -4 for the two dashes in '–doctors, entrepreneurs, teachers, authors, producers–', which work as em dashes. Final total 50, mid band."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8 to +12): In paragraph 5, cut 'I read stories of successful, influential people... trying over and over again' (the TED-talk and 'doctors, entrepreneurs' list). Replace it with the one practice that actually worked, named exactly: which class or assignment the writer first started early in college, what the to-do list really looked like, or who the classmates were. Ask the writer for these real details; don't supply them.",
+  "Structure and voice (+6 to +8): Delete the final four sentences ('I have learned that failure is in no way a bad thing... the failure of not trying'). End by returning to the opening clock with a true present-day contrast, for example the time the writer now actually finishes work or goes to sleep before a deadline. Ask the writer for the real time instead of inventing one.",
+  "Voice (+4 to +6, recovers the -4 dash deduction): Rewrite the three 'not X but Y' sentences as plain statements. Remove the dash-set list '–doctors, entrepreneurs, teachers, authors, producers–'. Cut 'overwhelming', 'immense', 'countless' and 'greatly'. Fix the typo 'follow though'."
+ ]
+}

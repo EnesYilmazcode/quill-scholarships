@@ -1,0 +1,54 @@
+{
+ "id": "vt-23",
+ "contest": "Varsity Tutors Scholarship (June 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 316,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/toyosi-56949",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The first line names the focus plainly ('building more sidewalks and creating safer walking routes throughout Waldorf, Maryland'), but the 'why' is mostly a generic list of benefits ('reduce traffic congestion, encourage healthier lifestyles, and help protect the environment') rather than a firm position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real anchors (Waldorf, a 20-minute walk to middle school and 30 minutes to high school, 'trees, land, and bushes'), but no school names, road names or intersections, so the danger stays abstract ('busy roads', 'large intersections')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The opening sounds human, but paragraphs 3 and 4 stack six triplets ('walk, exercise, and access', 'interact with one another, support local businesses, and participate', 'safety, health, and community engagement'), use a 'rather than' antithesis, and end on a tidy moral ('may seem like a simple improvement, but'); no sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no full stories: just one on-topic fact (walking distances to his schools along road edges) told as a summary with no single walk or moment, and the last two paragraphs have no story at all."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names a root cause ('focused on making the area easier to drive through'), but the fix is generic ('constructing sidewalks along major roads'), with no specific road, no one named to do it, no cost, and no reason this hasn't already happened."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending is a generic moral that never returns to the Waldorf trees or his walk to school: 'Sidewalks may seem like a simple improvement, but they can have a significant impact on safety, health, and community engagement.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the whole last paragraph ('Walkable communities help bring people together... community engagement.') and the triplet-heavy middle of paragraph 3 ('These improvements would make it safer... short trips.'). End instead by coming back to his own route: the 30-minute walk to high school, or the Waldorf that was once 'trees, land, and bushes'. Use the room you save for one longer sentence in his own voice. This recovers points in voice, structure and stories.",
+  "Ask Enes for the real names behind 'busy roads' and 'large intersections': the road he walked along or avoided, the intersection with no crosswalk or walk light, and the names of his middle and high school. Put those names into paragraph 2 in place of the general phrases. Also ask whether he actually walked those routes, or whether the danger is the reason he was driven. Use whichever is true.",
+  "Rewrite 'My project would focus on constructing sidewalks along major roads' so it names one specific stretch (the gap Enes names) and who would build it. Ask him whether he knows of Charles County or a state road project, or a past request for that stretch. Then keep his good point that development was built 'easier to drive through rather than easier to walk in' as the reason the gap still exists."
+ ]
+}

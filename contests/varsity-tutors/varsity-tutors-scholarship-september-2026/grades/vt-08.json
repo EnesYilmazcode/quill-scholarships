@@ -1,0 +1,54 @@
+{
+ "id": "vt-08",
+ "contest": "Varsity Tutors Scholarship (September 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 204,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/lexie-57882",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It names the strategy and gives a general why ('easier to remember things when you organize it'), but never ties bubble maps to his own academic success: no class, test, grade or result."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete example is a made-up one ('one group for French cuisine, one group for Italian cuisine'). There is no subject, course, school, date or number from his real studying."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real student ('You may be thinking \"What's that?\", well that's what I'm here for'), with no em dashes and no AI vocabulary. Tells found: 'Not only that' and 'such a great way to study'. There are also grammar slips: 'Bubble maps is' and 'more organized but yet compatible'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories. The essay explains what a bubble map is but never shows him using one."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It gives a reason ('Your brain often processes information by grouping similar things together' and handwriting helps you remember), but these are general claims with nothing from his own experience to back them up."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay just stops after the example: 'This leaves a more organized but yet compatible study sheet.' It has no conclusion and never returns to 'only one has ever stuck with me'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories and specificity: replace the food example in paragraph 3 with the real class and topic where Enes first used a bubble map and it worked. Ask him which course, which test or unit, and what changed (a grade or how the test went). Don't make these up; if he can't remember, keep the example short and cut the cuisine walkthrough.",
+  "Answers the prompt: in paragraph 2, replace 'Bubble maps is such a great way to study' with a sentence saying what bubble maps did for his own results, using whatever outcome Enes reports. As it stands, the 'academic success' part of the prompt gets no answer.",
+  "Ending and voice: add a short closing paragraph that returns to the opening line ('only one has ever stuck with me') and says why it stuck for him. Also change 'Bubble maps is' to 'Bubble maps are', cut 'Not only that,', and change 'more organized but yet compatible' to plain wording he would actually say."
+ ]
+}

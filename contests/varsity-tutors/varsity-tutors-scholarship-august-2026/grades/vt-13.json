@@ -1,0 +1,54 @@
+{
+ "id": "vt-13",
+ "contest": "Varsity Tutors Scholarship (August 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 293,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/leah-57478",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The feedback is named ('some would question if I would ever start working with other mediums'), but the 'how it shaped your approach to learning' part gets only a slogan: 'you should absolutely push yourself because you'll never know what you can truly do until you give it a shot.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete items are the list of mediums ('Color pencils, Paint, Markers') and 'children's book illustrator'. No person who gave the feedback, no piece, no age or date, and the setback is vague ('distractions and other certain problems')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real student, with run-on comma splices and odd capitals ('I Would'). It has no AI vocabulary and no em dashes. Tells found: the filler 'truly', the stock moral 'you'll never know what you can truly do', and the cliché 'outside my comfort zone'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (people questioning her mediums, she tries new ones). It is told as a summary with no scene, and the 'distractions and other certain problems' aside goes nowhere."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "She says why she refused ('I felt it was too hard to grasp'), but not how the feedback changed the way she learns now. 'Over time my confidence grew larger when merging mediums together' states a result with no process behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The whole essay is one block paragraph with no breaks. The last line, 'I Would love to inspire kids with my drawings on each page of a book just to see them smile and make them feel heard,' moves on to her career goal and doesn't return to the quiet kid or the question she kept answering 'No' to."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+up to 12): In 'When showing my work to others they admired the sketches... some would question if I would ever start working with other mediums', ask the writer who actually asked (a teacher, a friend, family?), roughly when, and which sketch they were looking at. Then ask what her first real non-pencil piece was and what went wrong with it. Replace 'Color pencils, Paint, Markers the list goes on' and 'Even others see how far I have gotten' with those real details, and cut 'distractions and other certain problems' unless she can name them.",
+  "Ideas with mechanism and answering the prompt (+up to 9, +8): Cut the moral 'It shows me that you should absolutely push yourself because you'll never know what you can truly do until you give it a shot.' In its place, ask her what she does differently now when someone critiques her work, or how she practiced a medium she found 'too hard to grasp', and put her real answer there. That covers the prompt's 'how did it shape your approach to learning' part with a process instead of a slogan.",
+  "Structure (+up to 6): Split it into three paragraphs: (1) the quiet kid who only sketched and kept answering 'No', (2) the switch and what learning new mediums was actually like, (3) what she does now. End by bringing back the opening, for example tying the illustrator goal to the quiet kid or the 'No' she used to give, instead of the general 'make them feel heard' line. Also fix the comma splices and the capitals ('Color', 'Paint', 'Markers', 'I Would', ', When', ', My answer')."
+ ]
+}

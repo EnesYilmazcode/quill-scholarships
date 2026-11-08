@@ -1,0 +1,54 @@
+{
+ "id": "vt-27",
+ "contest": "Varsity Tutors Scholarship (May 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 430,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/danay-56877",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The challenge (depression and failing grades) is clear, but 'what changed' gets a list instead of an explanation: 'In addition to medication and weekly therapy sessions, I also had to do some self-reflection and self-discovery.' It never says what the writer learned beyond 'I am worthy.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The GPA numbers (1.75, 3.7, 2.05, 3.25) and 'November 2025' are real anchors, but the rest is abstract summary: 'something that would lead me down a darker path', 'unhealthy relationships', 'negative encounters'. None of these is named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The awkward grammar sounds like a real person ('which boost my overall GPA', 'the driving the force'). Against that, it has a 'not only X but also Y' sentence, 'foster new relationships', 'forge my own path', 'With hard work and determination', and a tidy moral to close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no scene. The essay lists ten years of hardships (divorce, hospitalizations, self-harm, transfer, new school), and the father's death, which it calls the turning point, gets one sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says that things changed but not why. 'Medication', 'therapy' and 'self-reflection' are named, but nothing shows how the semester GPA went from 1.75 to 3.7 or what was done differently day to day."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 1,
+   "reason": "The whole essay is one 430-word block with no arc. The last line is a stock moral ('as I take it one day at a time slaying all demons') and never returns to the opening line, 'I knew I was different from other kids'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rebuild the middle around 'what changed', since that answers the prompt's hardest part and covers criteria 1, 4 and 5. Cut the long hardship list (from 'Depression led me to isolation' through 'forced to transfer schools') down to one or two sentences. Then move the November 2025 sentence up and ask the writer what they actually did differently during the 3.7 semester and what one therapy insight they put into practice, so the change has a real cause. Use only the writer's own answers.",
+  "Break the block into four paragraphs (the low point, the senior-year decision with the 1.75 GPA, what changed, now at 3.25). Replace the last line with one that returns to the opening 'different from other kids' line and says what the writer knows about who they are now. Ask the writer for that answer instead of writing it for them.",
+  "Remove the stock phrasing. Rewrite 'not only push me academically but also mentally' as two plain sentences. Cut 'foster', 'forge my own path', 'With hard work and determination' and 'slaying all demons'. Fix the slips the writer would want fixed ('which boost' to 'which boosted', 'the driving the force' to 'the driving force', 'parents divorce' to 'parents' divorce')."
+ ]
+}

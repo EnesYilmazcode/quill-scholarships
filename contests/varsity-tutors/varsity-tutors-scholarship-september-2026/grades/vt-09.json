@@ -1,0 +1,54 @@
+{
+ "id": "vt-09",
+ "contest": "Varsity Tutors Scholarship (September 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 200,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/ifetayo-57872",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The strategy is named in line one ('practice beyond what is required') and the 'why' gets a real answer ('more opportunities to understand the material, learn from my mistakes, and feel confident before an exam'), but the why is short and generic, and paragraph 2 repeats it instead of building on it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The odd and even problems rule from his parents is the only concrete detail. No course, subject, exam, grade or year appears anywhere, so it never shows that the strategy led to 'academic success'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock phrases and patterns: 'Success is not always about completing the bare minimum', 'going above and beyond', 'the best version of yourself', 'this new chapter', 'a lesson I will carry throughout my education and career', a three-item list, and a tidy moral to close. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no story told as a scene. The parents' rule is summed up in one sentence, and the shift from 'extra work' to 'eventually realized' happens off the page, with no single moment shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It claims the extra problems help but doesn't say how (for example, that the even-numbered problems have no answers in the back of the book, so you have to check your own work). It then drifts into 'builds habits that can make a difference over time'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The three paragraphs are clear, but the ending ('I hope to pass it on to my own children when I become a parent someday') is a generic future moral. It only points loosely back to the parents and never returns to the odd and even problems."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut all of paragraph 2 (from 'This strategy has helped me' to 'make a difference over time'), since it scores 2 on voice and adds no facts. In its place, ask Enes for one real class where he did both the odd and even problems (the course name, the exam, or what he got wrong on an even problem and then fixed) and tell only that, in plain words. This raises specificity, stories and voice.",
+  "Make the 'why' in the last sentence of paragraph 1 more exact. Replace 'gave me more opportunities to understand the material, learn from my mistakes, and feel confident' with the actual reason it worked for him, in his own words (for example, whether the even problems had no answers in the back so he had to check his own work, if that is true). This raises the mechanism score and fixes the three-item list.",
+  "Replace the last paragraph's 'new chapter' and 'carry throughout my education and career... my own children' with one plain sentence that returns to the opening, the odd and even problems, tied to what he is studying in his master's program (ask Enes for the program name). Cut 'whenever I can' and 'someday'."
+ ]
+}

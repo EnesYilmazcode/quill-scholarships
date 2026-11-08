@@ -1,0 +1,54 @@
+{
+ "id": "vt-29",
+ "contest": "Varsity Tutors Scholarship (May 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 217,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/sarai-56842",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The challenge (returning to track) is clear, but 'what changed' gets one vague sentence: 'I grew to manage my anxiety, think positive and remind myself of the journey I've taken.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only ages and grades are given ('seven years old', 'by the age of 12', 'tenth grade', 'spikes'). No event, distance, time, meet, coach, place or result, and 'despite my accomplishments' names none."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some clumsy human lines ('often times better than me', 'the overwhelmed me back in middle school'), but stock framing throughout: an aphorism opener with filler adverb 'deeply rooted', the corporate 'working through my opportunities', a triplet ('manage my anxiety, think positive and remind myself'), and a tidy moral close. No sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (quitting at 12, returning in 10th grade), told as a summary across years. The one near-scene ('It was scary running with high school students') gets one sentence."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says that the fear became manageable, not why or how. 'Grew to manage my anxiety' and 'became better at understanding my strengths' name outcomes, not the practice, person or moment that caused the change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "An aphorism opener plus one block paragraph. The ending echoes the opening's 'journey/goal' only as a generic moral: 'I am a proud student athlete who is stronger mentally and ready to face every journey, with the mindset of achieving my goals.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+12 possible): in the middle paragraph, replace 'despite my accomplishments' and 'competition was stronger' with the writer's real facts. Ask them for the event they ran, a real time or placing at 12, and the first meet back in 10th grade. Do not invent any of these.",
+  "What changed (+9 ideas, +8 answers): replace 'Thankfully since that time, I grew to manage my anxiety, think positive and remind myself of the journey I've taken' with the specific thing that actually changed it. Ask the writer what they did before races or in practice, or who said what, and give that its own short paragraph.",
+  "Voice and ending (+8 voice, +6 structure): cut the opening aphorism ('Sprinting through life... that's the real goal') and open on 'At seven years old I ran my first race'. Cut 'working through my opportunities' and replace the closing moral with a line that goes back to that first race, using only what really happened."
+ ]
+}

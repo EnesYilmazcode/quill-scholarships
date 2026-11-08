@@ -1,0 +1,54 @@
+{
+ "id": "vt-18",
+ "contest": "Varsity Tutors Scholarship (July 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 434,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/nina-57233",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay names the topic and the struggle early ('my hardest class was AP Literature and Composition'). The critical-thinking part is mostly a definition ('Critical thinking is the attempt to reason at the highest level of quality in a fair-minded way') instead of showing how the writer's reasoning changed."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has plenty of proper nouns (Beloved, The Awakening, Foster p.40, 'Free Flight' by June Jordan, Adichie's TED talk). But the turning point is 'one day when my teacher read us a poem', with no line from the poem and no detail about what the writer actually understood differently."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Typos ('conk shell', 'Shakespear') and the rhetorical question sound like a real student. Tells: 'not black and white but rather', 'A hat is not just a hat', 'not a single story, but rather', triplets ('more empathetic, more aware, to face our society'), filler 'brilliantly', a closing moral ('a well-rounded education is the key to leading a responsible life'), and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story, the poem read aloud, and it is on topic. It is told as a two-sentence summary ('Suddenly, I was the girl in the poem') with no scene, and the Adichie paragraph is commentary, not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says reading changed it but never shows the new method at work. It does not go back to the hat, Beloved or Edna's death to show the reading it can now do, so the 'ideas' are asserted ('broaden my perception and awareness')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The 'black and white' image returns, but as a restated moral, not a payoff. The last line is 'The discomfort of learning is never over, but a well-rounded education is the key to leading a responsible life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the abstract Adichie paragraph and 'Learning has broadened my world...' with the critical-thinking payoff, using only what the writer actually did: go back to one opening example (the hat in Catcher in the Rye, or Edna's death 'was happy?') and show the reading the writer can now argue for after the poem, as one sentence of reasoning. Ask Enes what that reading actually was.",
+  "Sharpen the 'Free Flight' paragraph. Quote the actual line from June Jordan that made the writer feel like 'the girl in the poem', and say in plain words what feeling it named. Cut the en dash in 'touched me – \"Free Flight\"' (-2) and the stock 'no piece of literature was a single story, but rather an opportunity' line.",
+  "Rewrite the last paragraph to drop the thesis restatement and the moral ('a well-rounded education is the key to leading a responsible life'). End on the opening image instead: the hat, the conch shell or Edna, now read differently. Also cut the 'not X but rather Y' constructions in paragraphs 1 and 3, and fix 'conk' to 'conch' and 'Shakespear' to 'Shakespeare'."
+ ]
+}

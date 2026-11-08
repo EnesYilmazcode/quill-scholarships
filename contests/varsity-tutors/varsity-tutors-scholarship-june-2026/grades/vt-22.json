@@ -1,0 +1,54 @@
+{
+ "id": "vt-22",
+ "contest": "Varsity Tutors Scholarship (June 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 298,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/alexander-56964",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get a direct answer early: what (\"I would make a free tutoring center\") and why (\"some students have trouble keeping up in class and do not have extra help at home\"). The why is a general claim, though, not tied to his school, which is never named."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There are no proper nouns, numbers, places or physical details. \"subjects like math, English, science, and history\" and \"Teachers, older students, and volunteers\" could describe any school anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: an opening truism (\"Education is important because...\"), lists of three (\"academic support, helpful resources, and a place to learn\"), \"In conclusion\", a tidy closing moral (\"a stronger school and a better community for everyone\"), and no sentence over 45 words in a 298-word draft."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories. The essay only says that \"Many students struggle\" and never shows a real student, moment or place."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names who would run the center and what it would offer, but it never says what help exists now, why that help fails, how the center would be paid for or staffed, or why students would actually come."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending opens with \"In conclusion\" and restates the thesis instead of going back to an opening image. Last line: \"By helping students succeed, the project would create a stronger school and a better community for everyone.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and stories (up to 20 points): cut the opening truism \"Education is important because it helps students learn new skills and prepare for the future.\" Ask Enes what real situation in his own school or community made him pick tutoring: the school's name, a class or subject where he saw students fall behind, or a time he tutored or needed help himself. Open on that true moment and replace \"some students have trouble keeping up in class\" with what he actually saw. If nothing real exists, ask him whether a different project idea has a true story behind it.",
+  "Ideas with mechanism (up to 9 points): rewrite paragraph 2 so it names the help that exists now at his school (office hours, an existing tutoring program, the library), says why students don't use it, and gives one concrete change that fixes that, such as where the center is, who staffs it, and how. Ask Enes for the real details rather than filling them in. Cut the generic study-habits paragraph if it pushes this out.",
+  "Voice and ending (up to 18 points): delete the final paragraph that starts \"In conclusion\" and end on the person or place from the new opening. Break the lists of three (\"academic support, helpful resources, and a place to learn\"; \"organization, note-taking, and studying\") and combine two short sentences in paragraph 2 into one longer sentence over 45 words in his own phrasing."
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "vt-38",
+ "contest": "Varsity Tutors Scholarship (March 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 420,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/ailen-56221",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are answered, but the first three paragraphs are an unrelated financial-need statement and the self-lesson is one line: \"I learned that I'm a patient person and that I actually enjoy helping others\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The central event stays abstract (\"a classmate of mine was really struggling with a big assignment\"), with no class, subject, assignment, date or quoted words; \"stay after school\" and \"read the directions together\" are the only concrete bits"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Plainly human with typos and run-ons, but the ending is stock framing and tidy morals (\"doesn't have to be something huge to matter\", \"Small acts of kindness can really impact someone's day\"), with the filler adverb \"truly\" and \"really\" used four times"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One on-topic story told as a five-sentence summary with no scene, and it is outweighed by off-topic material about money and the parents' immigration"
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says what was learned but not why or how the tutoring showed it; \"Sometimes just taking the time to explain something... can make a big difference\" is a claim with no reasoning behind it"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Two essays joined by a \"Response :\" label; the ending is a generic moral, \"that's something I want to continue doing. THANK YOU\", and does not return to the classmate"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "pasted prompt label / heading",
+   "points": 0,
+   "reason": "-5: the \"Response :\" heading and the sign-off \"THANK YOU\" sit inside the essay body. Subtotal 48.0, total 43, band low"
+  }
+ ],
+ "fixes": [
+  "Cut the first three paragraphs (from \"Hello my anme is\" through \"move forward in my education\"), plus the \"Response :\" label and \"THANK YOU\". This removes the -5 deduction and the off-topic material, and lets the essay open on \"One time I helped someone\", which lifts answers_prompt and structure.",
+  "Sharpen the tutoring paragraph with details only the writer knows. Ask them for the real class, the assignment, which part of the directions confused the classmate, and anything the classmate actually said, then swap those in for \"a big assignment\" and \"what the teacher was asking\". If they don't remember, leave the lines as they are rather than guessing.",
+  "Replace the closing paragraph's moral (\"Small acts of kindness can really impact someone's day\") with one sentence that ties the self-lesson to what happened in the room. For example, explain why going step by step showed patience, then end on the classmate finishing the assignment. Also delete the extra \"really\"s and \"truly\"."
+ ]
+}

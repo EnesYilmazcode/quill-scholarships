@@ -1,0 +1,54 @@
+{
+ "id": "vt-15",
+ "contest": "Varsity Tutors Scholarship (August 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 333,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/angely-alejandra-57458",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It answers both parts: the feedback is the mom's line, and the change is 'Now I try to listen, take what's useful, and keep going.' But most of the essay is about hiding from criticism, not learning from it, and the school answer is a gesture."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening is strong: the exact quote, 'when I was 12', and 'a bee here, a bunny there' on math notes. The recovery has no names, no first piece shown, no person, and no year, and 'some of my newer pieces' is vague."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "'Faces and ideas everywhere.' sounds like a person, and there are no em dashes. Tells: a balanced antithesis ('Some people won't like what I make, but some people will'), a cliché ('every piece of paper becomes my canvas'), stock phrasing ('I treat it as information and figure out the next small step'), a tidy moral at the end, and no sentence over 45 words in a 333-word draft."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story, and only its opening (the mom's comment) is a real scene. The turn back to sharing art is a summary ('That simple idea is what finally helped me start showing my art again'). The school beat is generic and has no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It gives a reason for the change (private practice led to a personal style, and 'art is subjective' made it safe to share). But it never shows how 'take what's useful' works on a real piece of criticism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear, and the close nods to 'those first harsh words', but it widens into a general moral: 'in art and in everything else I'm trying to get better at.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 4, 'When a teacher points out something weak in my work or a project feels hard...': this is the only part about actually learning from feedback, and it has no example. Ask the writer for one real time a teacher, friend, or viewer criticized a specific piece or assignment, and what they changed because of it. Put that in place of the generic sentence. If there isn't a real instance, cut the school sentences so the essay stays about art.",
+  "Paragraph 3, 'That simple idea is what finally helped me start showing my art again': ask the writer who they first showed their art to again, what the piece was, and roughly how old they were. Put those true details in this sentence. Also cut 'Drawing comes naturally to me, and every piece of paper becomes my canvas' and the balanced 'Some people won't like... but some people will'.",
+  "Ending: delete the closing moral ('Knowing I could recover... in everything else I'm trying to get better at'). End instead on the sentence about the mom ('Even now, when my mom doesn't like some of my newer pieces, I still feel proud.'), moved to the end so the essay closes on the person from the opening. Also change 'Those two sentences' to 'Those words', because the quote is one comma-joined sentence."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "vt-40",
+ "contest": "Varsity Tutors Scholarship (March 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 360,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/jessica-56180",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered: the helping ('we cleaned the gutters... painted the houses, and mowed the lawns') and the lessons ('I learned a couple of different things about myself'). The lessons, though, are a list of four claims, not one position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real names and numbers: Atenas, Hogar de Vida, 'a team of about 20', 'a week and a half', 'groups of 4'. But no child, staff member or single moment is named, so the emotional core stays abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "One human line ('They never got tired of it, so that means I couldn't get tired of it either') sits among clichés: 'tremendously rewarding', 'worked ceaselessly', 'truly love', 'opened up my heart in ways I didn't know were possible', 'hardest thing I've ever had to do'. There is a filler adverb (truly), a tidy moral, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (the mission week), but it is told as a summary of chores and a schedule, with no scene. The bonds and the goodbye are stated, not shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Four lessons are listed with almost no 'why'. Only the last one ('Seeing the kids beam over the tiniest things reminded me of that') ties a lesson to something that caused it. 'I learned what it means to truly love someone' has no mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "One unbroken block that runs from a chronological summary into a lesson list. It ends on a generic moral, 'Overall, this mission trip changed my life and attitude for the better.', and never returns to Hogar de Vida or the children."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the four-lesson list ('I learned what it means to truly love someone... Finally, I learned that I need to get better at appreciating the little moments') with one lesson. Explain it through the one moment that taught it: the kids who 'never got tired' of being spun and chased is already the strongest line. Ask the writer which lesson is truest and what exactly they saw that taught it.",
+  "Cut the stock phrases ('tremendously rewarding', 'worked ceaselessly', 'truly', 'opened up my heart in ways I didn't know were possible', 'hardest thing I've ever had to do'). Use the freed words on one real, nameable detail: ask the writer for the name of a child or staff member, what their station did at VBS, or what was actually said at the goodbye. Use only what they confirm.",
+  "Break the block into about 3 paragraphs (the work, the afternoons with the children, the lesson). Replace 'Overall, this mission trip changed my life and attitude for the better' with a closing line that returns to Hogar de Vida or the children being spun around, tied to the single lesson."
+ ]
+}

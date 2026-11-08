@@ -1,0 +1,54 @@
+{
+ "id": "vt-35",
+ "contest": "Varsity Tutors Scholarship (April 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 495,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/nicholas-56497",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get a plain answer early: the skill is named in line one ('expert-level film composition') and the plan comes as 'three areas: technical training, film analysis, and consistent creative practice'. The plan is a list, not a position the writer argues for."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only proper nouns are three famous composers. 'Playing in these ensembles' points back to ensembles the essay never names. There are no pieces, schools, years, software names or numbers, and 'digital audio workstations and film scoring software' could fit any applicant."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Heavy AI patterns. It uses 'not just about writing soundtracks; it is about', 'will not only be a personal achievement but also', 'More importantly', 'enhances rather than overshadows' and 'meaningfully'. Almost every sentence ends in a triplet ('silence, tension, rhythm, and resolution', 'technical skill, emotional sensitivity, and creative discipline'). There is a dash in line one and no clumsy or personal moment anywhere."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. 'My foundation for this goal began through my experience as a trumpet player' only claims a background, and 'leadership responsibilities of section roles' is a résumé line with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan to watch 'scenes without music and then with music' and to score 'silent clips' is concrete. Everything else is a generic menu ('strengthen my understanding of music theory and orchestration at a deeper level') with no named tool, teacher, schedule or way to measure progress."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The First/Second/Third order is clear, but the essay opens with a thesis instead of a story. The last line restates that thesis as a tidy moral: 'I hope to grow into a composer who can meaningfully shape how stories are experienced through film.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 16 points). Cut every stock pattern. In paragraph 1, replace 'film composition is not just about writing soundtracks; it is about...' with one plain sentence about what the writer actually wants to write. Delete 'More importantly' in paragraph 2, 'not only... but also' in the last paragraph, 'enhances rather than overshadows' and 'meaningfully'. Replace the dash in line one with a period. Cut each triplet down to the one item the writer means. Let at least one sentence run long and loose, the way the writer actually talks.",
+  "Story (worth up to 12 points). Paragraph 2 ('My foundation for this goal began through my experience as a trumpet player...') is the only place a real story could go. Ask the writer for the one real moment in an ensemble when a phrase changed how a piece felt, or when they first wanted to write music instead of playing it. Rebuild that paragraph around it and move it to the opening. Do not supply a moment; use only what they confirm happened.",
+  "Specificity (worth up to 12 points). Replace 'these ensembles' with the actual ensembles. Replace 'digital audio workstations and film scoring software' with the program they actually use or plan to use. Swap the three famous composers for the one score they have really studied, with the film and the scene named. Ask the writer for each of these real facts rather than guessing. Then cut the generic last paragraph and end on that same scene or the trumpet moment, so the close returns to the opening."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "vt-17",
+ "contest": "Varsity Tutors Scholarship (July 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 460,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/emma-57253",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The topic is named early ('The most difficult part came when the data was ready to be analyzed'), and the change is stated ('I stopped looking for results that simply proved our hypothesis'). The gain in critical thinking is mostly asserted rather than shown in a decision the writer made alone afterward."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names checkable specifics: Holden Comprehensive Cancer Center, NK cells, a bispecific antibody, Rituximab and Epcoritamab, a dosage matrix, and the mentor's exact question. But 'subtler patterns', 'what happened to the immune cells' and 'three new questions' are never named, and there are no numbers or dates."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 'not just X but also Y'; 'not as something to eliminate, but as something to work with' (a not-X-but-Y line); the punchline 'data doesn't give us an answer. It gives us the next question.'; the filler words 'truly' and 'meticulously'; 'crystallized'; a tidy moral at the end; 4 em dashes; and no sentence over 45 words. 'Spiral of questions' and the mentor's quote are the only lines that sound like a specific person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are 2 stories, both on topic: the main analysis session with the mentor, and the Rituximab/Epcoritamab side experiment shown to the lab manager. Both are told mostly as summary. The lab manager scene gives no example of what he actually said."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains why the writer's thinking changed: the mentor's question moved them from proving the hypothesis to reading the patterns, and some dose combinations were synergistic while others were antagonistic. But the main experiment's actual finding is never stated, so the reasoning stays general."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs move clearly from expectation to struggle to the side experiment to reflection. The essay ends on 'But I am leaving the Holden Comprehensive Cancer Center better equipped to ask them.' That repeats the place name but not the opening idea that pipetting would be the hard part, and the paragraph before it closes on a generic moral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the voice for +12 to 18 points, which includes recovering the -6 em-dash deduction. Replace all 4 em dashes with periods or commas ('protocols — these', 'patterns — even', 'trend — instead', 'uncertainty — not as'). Cut 'truly' and 'meticulously'. Rewrite 'not just the combinatorial effect... but also' as two plain clauses. Delete the line 'not as something to eliminate, but as something to work with'. Cut or plainly restate 'data doesn't give us an answer. It gives us the next question.' Join two related sentences in paragraph 2 into one sentence over 45 words.",
+  "Make the reasoning in paragraphs 2 and 3 concrete for +6 to 10 points. Ask the writer what the 'subtler patterns' actually were in the NK and T cell ratio data, and what happened to the immune cells during co-culture. Ask what the 3 new questions from the lab manager meeting were. Put one real finding and one real question in place of the vague phrases. Do not supply any of these yourself.",
+  "Close the loop for +4 points. Rewrite the last paragraph so it returns to the opening contrast: they expected pipetting and sterility to be the hard part, but it was the analysis. End on the mentor's question or on one of the real follow-up questions, not on 'better equipped to ask them'. Cut 'That lesson crystallized' and simply open paragraph 3 with the side experiment."
+ ]
+}

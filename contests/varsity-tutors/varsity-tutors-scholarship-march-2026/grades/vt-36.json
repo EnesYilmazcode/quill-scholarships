@@ -1,0 +1,54 @@
+{
+ "id": "vt-36",
+ "contest": "Varsity Tutors Scholarship (March 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 328,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/autumn-56202",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay covers the act of helping. The 'about yourself' part gets general lessons rather than a finding about the writer: 'I learned that compassion can have a powerful impact, even through the smallest action.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "'Providence House' is the only proper noun. There is no date, no name for the woman and none of her words, and the main event is abstract: 'she began sharing some of the struggles she had been facing.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Two 'not X but Y' lines ('not just for the meal, but for taking the time', 'not measured by the size of the action, but by the sincerity behind it'), a triplet ('pass out food, refill drinks, and help clean up'), stock phrases ('feel seen and valued', 'meaningful difference'), a tidy moral at the end and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (the woman sitting alone), but it is told as a summary. The conversation itself never appears, and the last two paragraphs are pure reflection."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says listening matters but never explains why it helped this woman or what changed in how the writer works. 'Taking a few moments to treat someone with respect and attention can make them feel seen and valued' is a claim with no reasoning behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens with a thesis instead of a scene and closes with a general moral that never returns to the woman: 'It taught me that even simple moments of empathy can make a meaningful difference in someone's life and my own.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the last two paragraphs ('From this experience...' and 'Helping someone that evening showed me...'). Replace them with one paragraph about the writer specifically. The second paragraph already sets this up: 'I focused on completing these tasks quickly so everyone could be served.' Ask the writer what the evening showed them about that habit, or about themselves, and close on the woman at the table rather than on a moral.",
+  "Sharpen the conversation paragraph. Ask the writer for the real details they remember: roughly when it was, what she actually said, and what they said back. Replace 'she began sharing some of the struggles she had been facing' and 'responded with encouragement' with those real words, even a single quoted fragment. If they don't remember any, cut the vague clauses instead of padding them.",
+  "Remove the AI tells. Change 'she thanked me not just for the meal, but for taking the time to speak with her' to a plain report of what she thanked them for. Cut 'does not always mean... Sometimes it means', 'seen and valued' and the opening thesis line 'Sometimes the most meaningful way to help someone is simply by listening', and start at 'One evening, I noticed a woman sitting alone'. Fix the typo 'a plate or food' to 'a plate of food', and merge two short sentences so at least one runs past 45 words."
+ ]
+}

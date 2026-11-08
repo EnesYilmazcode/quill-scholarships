@@ -1,0 +1,54 @@
+{
+ "id": "vt-10",
+ "contest": "Varsity Tutors Scholarship (September 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 406,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/wes-57863",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names a method and explains why it works: 'I learn by attempting it myself, making mistakes, correcting them, and trying again'. But the answer only arrives after about 60% of the essay is spent on background, and 'repetition allows me to turn mistakes into understanding' states the why without showing it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real proper nouns (Mathnasium, Kumon, Khan Academy, the AP course names), but the turning point has no course, unit, grade or moment. 'Whether I am solving a calculus equation, analyzing a historical question, or working through a grammar problem' is generic."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several tells: 'profound positive impact', the filler 'genuinely challenged me', and 'not that I was incapable of learning; I simply had not' (not X but Y). Also a triplet ('rigorous courses, heavier workloads, and material'), another in 'practice, adapt, and improve', and a tidy-moral closer built on 'not that... it is that' plus an em dash."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One on-topic arc (the high school struggle, failed tutoring, then Khan practice), told only as a summary with no scene. A six-course AP résumé list in sentence four is off-topic recital."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives real reasons the old fixes failed ('my potential tutors were often classmates facing the same challenges', programs 'not designed for the level of coursework'). Khan's value gets one mechanism line ('immediately identifying where I went wrong'). Videos, notes and flashcards are dismissed without saying why they failed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "A single 406-word block with no paragraph breaks. Last line: 'My greatest academic strength is not that I always know the answer—it is that I have learned how to keep working until I do.' It loosely answers the opening 'never particularly good at studying' but reads as a slogan, not a return to an image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the voice tells, which recovers about 8 points plus the em dash deduction. Replace the last sentence with a plain statement with no 'not X, it is Y' and no em dash, for example 'Now when a subject gets hard, I open a practice set instead of another video.' Cut 'profound positive impact' to 'helped', delete 'genuinely', drop the 'practice, adapt, and improve' triplet, and change 'the problem was not that I was incapable of learning; I simply had not discovered how I learned best' to 'I had never figured out how I learn.'",
+  "Fix structure and the story beat (about 10 points). Cut the AP list sentence to the one course where Khan practice actually turned things around (ask Enes which one it was). Then split the essay into four paragraphs: gifted kid who never studied; the high school wall and failed fixes; the practice method with one real example; the close. Ask Enes whether he wants to keep the opening 'I was never particularly good at studying', because it reads as a negative disclaimer (-5). 'I never had to learn how to study' says the same thing.",
+  "Sharpen specificity (about 8 points), using only what is true. Ask Enes for the real course, unit or test where repeated Khan practice changed his result, and the grade before and after if he remembers it. Put it in the practice paragraph in place of the generic 'calculus equation... historical question... grammar problem' list. Also add one clause on why videos and flashcards did not stick for him, if he can name it; otherwise cut that sentence."
+ ]
+}

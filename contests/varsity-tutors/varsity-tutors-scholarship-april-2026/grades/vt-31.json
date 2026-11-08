@@ -1,0 +1,54 @@
+{
+ "id": "vt-31",
+ "contest": "Varsity Tutors Scholarship (April 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 483,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/shane-56518",
+ "total": 31,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered plainly: the skill ('patience is the skill I most want to master') and a plan ('To develop patience, I plan to start with small, everyday changes'). The plan is a position, but it is generic."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There is no name, date, place, number or physical detail anywhere. The central struggle stays abstract: 'Whether it's school, relationships, or personal goals, I tend to expect things to work out right away.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Heavy density of tells: the 'In a world where' opener; the triplet 'Growth takes time. Healing takes time. Success takes time.'; three 'isn't just X' or 'not X, it's Y' antitheses ('isn't just waiting', 'isn't about becoming passive – it's about becoming stronger', 'isn't just a skill – it's a mindset'); 'Ultimately'; the slogan 'trust the process'; a tidy closing moral; six spaced en dashes used as em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. The essay only claims one: 'I've noticed this most in my relationships' is followed by general observations, with no moment or scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan is a generic self-help menu ('being more mindful', 'setting realistic expectations', 'sit with discomfort', 'surround myself with people'). It never says what will change, when, or why this plan would work when past attempts did not."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the ending opens with 'Ultimately' and restates a moral instead of returning to the opening. The last line is 'Because in the end, patience isn't just a skill – it's a mindset that can change the way I experience life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): Cut the opening sentence ('In a world where everything is instant...'), the triplet 'Growth takes time. Healing takes time. Success takes time.', the sentence 'Patience, in this sense, isn't just waiting.', and the whole last paragraph from 'Ultimately' to 'experience life.' End on the plan paragraph instead. Then replace all six spaced dashes with a period or comma, and rewrite 'trust the process' and 'stay grounded' in the writer's own plain words.",
+  "Specificity (up to +16): Replace the list 'school, relationships, or personal goals' with the one area where impatience actually costs the writer the most, and drop the other two. In the relationships paragraph, cut the general sentence 'people move at different speeds' and keep only what is concretely true for this writer. Ask the writer for the real situation behind 'I've noticed this most in my relationships' rather than writing one in.",
+  "Plan (up to +9): Cut 'being more mindful', 'sit with discomfort' and 'Sometimes, I believe the best thing you can do is wait and let things unfold naturally.' Keep only 'pausing before I respond' and 'surround myself with people who remind me to slow down'. Sharpen each one to say exactly when it happens and who is involved, using only what the writer really does or really plans to do."
+ ]
+}

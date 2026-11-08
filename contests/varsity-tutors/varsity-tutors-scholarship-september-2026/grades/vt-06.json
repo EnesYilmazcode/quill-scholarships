@@ -1,0 +1,54 @@
+{
+ "id": "vt-06",
+ "contest": "Varsity Tutors Scholarship (September 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 338,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/zachery-57851",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Names two separate strategies: 'act as if the future is already here' and a music, whiteboard and ask-for-help routine. It never says which one had the greatest impact. The 'why' gets one line: 'It helps keep me focused as well as motivated.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a couple of real physical details ('classical music. The more dramatic, the better', 'a large white board'). It names no class, problem, grade, year or result, and the success the prompt asks about is never shown."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person, clumsiness included ('bear with me', 'like nobody's business', 'At least, that's my take on it'). There is one filler 'truly', and the slogan 'You will become your greatest self' is stock. It has no AI vocabulary and no em dashes, but it does have typos ('what you future', 'their issues productivity', 'which help')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories, just a habitual routine ('My process is this'). No single study session, problem or exam is told."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It asserts the strategy works ('the answers just fly out of my head') but never explains why. Music 'gets me in the zone' and the whiteboard 'help[s] with visualization' are claims with no reasoning or evidence."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The opening future-self idea is dropped after paragraph 1, and the essay ends on a generic opinion, 'At least, that's my take on it.', instead of returning to it."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story (+21 possible): in paragraph 2, after 'writing it on a large white board', ask Enes for one real time he used this routine. Get the course name, the problem or test, and what happened (grade, result, or the moment it clicked), then tell that one session in place of the general 'My process is this' summary. Use only what he confirms.",
+  "Answers the prompt and ideas (+20 possible): pick one strategy, either the whiteboard breakdown or the future-self idea, and say plainly that it had the greatest impact. Replace 'It helps keep me focused as well as motivated' and 'which help with visualization' with his own reason for why it works: what the board lets him see that paper or his head does not. Cut 'the answers just fly out of my head like nobody's business' unless he can back it up.",
+  "Structure and voice (+8 possible): cut or shrink paragraph 1's abstract 'greatness already exists... It's simply in your future', or tie it to the routine. Replace the last line 'At least, that's my take on it.' with a sentence that returns to the whiteboard or the opening idea. Fix the typos ('what you future' to 'what your future', 'their issues productivity' to 'their issues productively', 'which help' to 'which helps') and delete 'truly'."
+ ]
+}

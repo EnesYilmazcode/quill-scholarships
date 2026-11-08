@@ -1,0 +1,54 @@
+{
+ "id": "vt-16",
+ "contest": "Varsity Tutors Scholarship (July 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 474,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/jimmy-57213",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It names the topic in line one ('When I first started AP Research'), gives the early challenge ('the real challenge was navigating uncertainty') and states how it built critical thinking ('it taught me how to evaluate them')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real anchors ('5,000-word paper', 'twenty-minute presentation', 'remote, hybrid, and in-person work environments', APA), but it never gives the research question, the sample size, the finding, or one survey question it quotes."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 'I couldn't have been more wrong', 'navigating uncertainty', the triplet 'deliberate, adaptable, and curious', the filler adverb 'fundamentally', 'not because it taught me how to find answers, but because', 'not the ones that sound the most convincing, but', and the tidy moral 'wasn't a finished paper. It was a new way of thinking.'"
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (his AP Research study), but it is told as a summary of stages with no single scene, such as the moment a survey question failed or a defense question he could not answer."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasoning stays at slogan level ('uncertainty is something to investigate'). It never shows one decision he made differently because the evidence disagreed with what he hoped to find."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear and 'find answers' faintly echoes the Google opening, but the ending restates a generic moral: 'The most important thing the course gave me wasn't a finished paper. It was a new way of thinking.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+12 possible): cut the stock frames instead of adding to them. Delete 'I couldn't have been more wrong.', 'Rather than discouraging me, that uncertainty taught me to become more deliberate, adaptable, and curious throughout the entire process.', and the whole sentence 'The strongest conclusions are not the ones that sound the most convincing, but the ones that remain faithful to the evidence...'. Change 'navigating uncertainty' to plain words such as 'not knowing if I was right', and remove 'fundamentally'. Also replace the two-sentence closer ('wasn't a finished paper. It was a new way of thinking.') with a plain last line that goes back to the Google idea from paragraph one.",
+  "Specificity (+8 possible): ask Enes for real details from his own paper and use them in place of the generic lists in paragraph 3. That means his exact research question, how many responses he got, what the data showed about remote vs hybrid vs in-person, and one survey question he actually reworded to reduce bias. These replace 'Every survey question had to be carefully worded to minimize bias, every source had to be evaluated for credibility...'.",
+  "Story and mechanism (+6 story, +6 ideas possible): reorder so paragraph 2 (the abstract 'no answer keys' material) comes after the study is introduced. Then shrink paragraphs 2 and 4 and let one real moment carry them, but only a moment Enes confirms happened, such as a defense question he got or a limitation he had to admit in the implications. That way the critical-thinking claim is shown through a decision he made, not stated as a lesson."
+ ]
+}

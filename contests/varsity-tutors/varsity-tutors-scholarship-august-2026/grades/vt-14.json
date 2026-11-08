@@ -1,0 +1,54 @@
+{
+ "id": "vt-14",
+ "contest": "Varsity Tutors Scholarship (August 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 565,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/brianna-57469",
+ "total": 42,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks for 'a time', but the essay never picks one. It gives a pattern instead ('There have been times where a coworker has corrected the way I handled a customer'). The 'how did it shape you' part is answered at length but in general terms."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The central event is abstract. There is no name of the restaurant, no role, no customer, no single correction and no words anyone said. The only checkable fact is 'almost two years'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock antitheses ('feedback is not something to ignore... It is something to listen to', 'not only about completing my own responsibilities. It is about contributing', 'growth does not come from... It comes from'). Triplets ('listen, apply, and use', 'employee, coworker, and person'). 'Most importantly' tidy moral. No sentence over 45 words. The slip 'having a good attitude make' is the one human mark."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes. Paragraph 3 mentions one recurring kind of event (a coworker correcting how he handled a customer) as a summary, and paragraph 4 drifts into general customer-service attitude."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Gives one real reason feedback matters ('A restaurant depends on everyone doing their part... It can make someone else's job harder'). The changes it describes are generic ('being more patient, paying closer attention to how I respond')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, and the close does return to the opening belief about becoming 'experienced enough'. It then ends on a generic moral: 'It comes from being willing to learn something new every day.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story (up to 28 points): reorder so the coworker-correction material from paragraph 3 opens the essay, and cut paragraph 1's thesis lines ('Working in a restaurant has taught me that feedback is not something to ignore...') and most of paragraph 2's general reasoning. Narrow 'There have been times where a coworker has corrected...' to the single correction he remembers best, using only what really happened (what he did, what the coworker said, what he did differently after). Ask Enes for that real moment rather than writing one.",
+  "Voice (12 points): cut every 'not X... It is Y' pair (paragraph 1 opening, 'it does not only affect me', 'not only about completing my own responsibilities. It is about contributing', 'growth does not come from... It comes from'). Cut the triplets 'listen, apply, and use' and 'employee, coworker, and person', and 'Most importantly'. Fix 'make' to 'makes'. Join two or three short sentences in paragraph 3 into one long, natural sentence over 45 words.",
+  "Focus and ending (about 8 points across answers_prompt and structure): cut or shrink paragraph 4 (customers remembering how they were treated), which is about attitude, not feedback. End the essay on 'I know I will never reach a point where I have nothing left to learn, and I no longer think that is something to be embarrassed about.' Delete the last three sentences of moral summary."
+ ]
+}

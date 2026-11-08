@@ -1,0 +1,54 @@
+{
+ "id": "vt-34",
+ "contest": "Varsity Tutors Scholarship (April 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 244,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/deanya-56510",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered plainly and early: the skill is 'program development and community leadership' and the plan is 'study public relations at Clark Atlanta University'. The skill is two loose things joined together, and the essay never explains why a PR major builds program development."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "It names The Give Back Project, Youth Commissioners, Youth Advisory Council Internship and Clark Atlanta, but has no dates, numbers or physical details. Nothing says what the club did, for whom or how many people it served, and 'how many students, including myself, have struggled' stays abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The 'I wanna' informality reads human, but the essay leans on stock framing: two 'not X but Y' lines ('not just helpful in the moment, but', 'I don't wanna just help for now, I want'), triplets ('plan, fund, and manage'; 'create... provide... build'), and filler phrases ('actual lasting impact', 'meaningful resources', 'build systems that support people long-term')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero stories, only the claim of one ('I have seen firsthand'). The club is mentioned as a fact, with no moment of starting or running it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan is a generic menu (major, leadership roles, 'seek mentorship', 'expanding my outreach'). It never names what makes programs fade in the writer's own club or which step fixes that."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Four clear paragraphs, but the close restates the thesis rather than returning to a person or image: 'I want the resources and opportunities I create to be there for forever.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2: replace 'I have seen firsthand how many students, including myself, have struggled to find ways to get involved' with the real start of The Give Back Project. Ask the writer when they started it, what the first project was, how many people came and who it helped, and put those true facts in place of the abstract claim. This lifts both specificity and stories (about 15 points).",
+  "Paragraph 3: replace the generic list ('continue organizing service initiatives, expanding my outreach... seek mentorship') with the real problem the writer has hit running the club, such as funding, volunteers dropping off, or one-off events that don't last. Ask them which one, and which specific class or skill at Clark Atlanta would fix it. That gives the plan a mechanism and explains the PR major (about 9 points).",
+  "Voice and ending: cut 'not just helpful in the moment, but are able to help people over long period of times' and 'I don't wanna just help for now, I want...'. Break up the closing triplet ('create actual consistent opportunities, provide meaningful resources, and build systems'). End on The Give Back Project itself, for example where the writer wants that specific club to be in a few years. Also fix 'leadership.I', 'long period of times' and 'for forever' (about 8 points)."
+ ]
+}

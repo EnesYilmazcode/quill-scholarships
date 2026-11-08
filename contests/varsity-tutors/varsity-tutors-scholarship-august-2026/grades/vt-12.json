@@ -1,0 +1,54 @@
+{
+ "id": "vt-12",
+ "contest": "Varsity Tutors Scholarship (August 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 406,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/susan-57487",
+ "total": 71,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The feedback is the meeting with Nicole, and the growth is 'Since that suspension I have not been late once', but the 'approach to learning' half only gets the general closing paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay names real particulars: 'mom of six and grandma to two', boss Nicole, the 'suspension without pay paperwork', 15 minutes early and about a year. It never names the job, says how late she usually was, or gives the length of the suspension."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person ('Boy, was I wrong.', 'hands down'). The tells are a triplet in the close ('take feedback seriously, accept responsibility... see my mistakes as opportunities'), a stock moral ('best version of ourselves') and no sentence over 45 words. There are also typos: 'f I ever' and 'its been'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one on-topic story, the suspension meeting, told as a scene with Nicole's actual words. The lead-up about being late is summary rather than scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It gives the reason the feedback landed ('it caused others to have to pick up my slack') and one concrete change (arriving 15 minutes early to prepare). It doesn't explain how she made the change stick with six kids at home."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear, but the ending is a generic moral instead of a return to the opening: 'Sometimes the feedback we think is nothing serious is feedback we really need to hear to be able to be the best version of ourselves.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8 possible): In paragraphs 2 and 3, replace 'more often than not, I was late to work' and 'my suspension without pay paperwork' with the real facts. Ask the writer what her job is, how late she usually was, and how many days the suspension lasted. Then add those details in place of the general phrasing.",
+  "Ending and voice (+6 possible): Cut the last paragraph ('This experience taught me... best version of ourselves'). End on her own concrete change and bring back the opening's '45' or Nicole's line 'no one could take me seriously if I was always late'. For example, close by saying that a year later she is the one who is there before everyone else. Fix 'f I ever' to 'If I ever' and 'its been' to 'it's been'.",
+  "Mechanism (+6 possible): In paragraph 4, replace the general lines 'I had to show my co-workers and boss that their time was important to me. I also needed them to know that I had integrity' with what she actually changed at home to be on time with six kids, if she will share it. That shows how the feedback reshaped her habits, not just that it did."
+ ]
+}

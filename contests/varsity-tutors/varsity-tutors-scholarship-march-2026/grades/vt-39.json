@@ -1,0 +1,54 @@
+{
+ "id": "vt-39",
+ "contest": "Varsity Tutors Scholarship (March 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 602,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/micah-56200",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The helping story is answered in full, but 'what did you learn about yourself' gets about two sentences: 'how frequently I genuinely sit and listen to someone... Very little to none.' Most of the final paragraph is about Tyler and empathy in general, not about the writer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has real physical detail: Lifetime Fitness, 'the pull-out gray table in the gym', 'his hood pulled down over his head', '3 toys', 'head tucked between his knees'. It has no date, and the '(a placeholder name; ...)' aside breaks the scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A human story wrapped in stock framing. Tells found: one em dash ('—claiming'), the filler adverb 'genuinely', the line 'Empathy is a valuable character trait that helps more than we realize', 'This reveals the impact', 'Via this experience', 'valuable lessons' and a tidy moral. 'Very little to none.' is the one honest, human moment."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story, told as a scene up to the corner. The turning point, Tyler opening up about his father, is summarized instead of shown ('I listened quietly as Tyler told me about his personal struggles')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The mechanism is present but not spelled out: asking 'why three toys were not enough' is what shifted the talk, and 'all behavior makes sense with enough information' explains why. The essay then falls back on the general claim that 'just listening' works, instead of naming the question that changed things."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on 'I typically enjoy my work' and ends with a generic call to the reader: 'I now challenge myself, and I challenge the reader to develop a listening ear.' The ending never comes back to Tyler, the corner or the toys."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and voice (up to +16): replace the generic middle of the last paragraph ('This reveals the impact that just listening to someone can have. Empathy is a valuable character trait that helps more than we realize.') with the writer's own lesson. Build it on 'Very little to none.' and ask Enes what he actually noticed about himself: what he had assumed about Tyler before that morning, and what he does differently now. Use only his real answer.",
+  "Ending and structure (up to +6): cut 'I challenge the reader to develop a listening ear.' and end on Tyler or on the question 'why three toys were not enough', since that question is what worked. Move 'Very little to none.' to just before the last line so the self-admission lands near the end.",
+  "Voice cleanup (+2 back from the deduction, plus a better voice score): replace the em dash before 'claiming' with a comma; cut 'genuinely', 'Via this experience' and 'teaching them valuable lessons'; and turn the placeholder-name parenthetical into a short note like 'Tyler (not his real name)'."
+ ]
+}

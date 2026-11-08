@@ -1,0 +1,54 @@
+{
+ "id": "vt-24",
+ "contest": "Varsity Tutors Scholarship (June 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 220,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/bryeton-56934",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get a direct answer. The focus comes in line one: \"I would add sidewalks to the neighborhood.\" The why is safety. It never says why this project matters more than others, or to the writer personally."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The cost figures are real and checkable: \"21,804 square feet of concrete\" and \"$18 a square foot\". The neighborhood, the streets and the walkers are never named, and no physical detail places the reader anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are no em dashes and no AI vocabulary, but the prose is flat and repetitive. The essay says the same thing three times: \"allow them to stay safe\", \"making them safer in the long run\" and \"allow residents to stay safe while walking\". It also has a filler opener (\"Unfortunately\") and a generic \"creates a level of danger\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. There is only a general claim that \"My neighborhood has many people who enjoy walking\", and the writer never appears in the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is a real mechanism: separating walkers from cars at peak hours, with a priced plan and a funding path. But \"a loan or a grant\" names no program, no funder and no person who would apply."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It is one undivided block with no arc. It ends on logistics rather than the opening walkers: \"the rest of the project should go smoothly if we hire a good contractor.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the two repeated safety sentences (\"When people do not have to share a road with cars...\" and \"Adding sidewalks would allow residents to stay safe while walking.\"). Replace them with real specifics from Enes: the neighborhood or street names, whether he walks or drives these roads at those hours himself, and what he has actually seen there. Use only what is true, and add no invented scene. This lifts specificity and stories, which are the two biggest gaps.",
+  "Replace \"we would likely have to apply for a loan or a grant\" with a named, checkable funding route: the city or county sidewalk program or a state Safe Routes / transportation alternatives grant that actually covers his area. Say who would apply, such as the HOA or a neighbors' petition to the city council. Also correct the math: 21,804 x $18 is about $392,000, not $395,000.",
+  "Split the essay into three paragraphs: the problem with the walkers, the plan and cost, and the funding. End by returning to the morning and evening walkers instead of the contractor, cutting \"if we hire a good contractor\". Then rewrite the stock openers (\"If I were to make an improvement\", \"Unfortunately\", \"creates a level of danger\") in Enes's own plain phrasing."
+ ]
+}

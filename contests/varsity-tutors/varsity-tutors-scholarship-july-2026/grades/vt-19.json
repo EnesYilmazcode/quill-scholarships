@@ -1,0 +1,54 @@
+{
+ "id": "vt-19",
+ "contest": "Varsity Tutors Scholarship (July 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 436,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/amira-57212",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the topic (Chemistry, lab vs lecture) and the challenge plainly, but the critical-thinking half is a gesture rather than a position: 'I learned to connect concepts that had different formats, and how to adapt to different thinking when not knowing what to do.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real details (OIL RIG, 'watch the solutions change color', flashcards, 'after failing my second test'), but no course name, lab name, reaction, equation type or grade, so a stranger could have written it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The brain-being-oxidized metaphor and the clumsy grammar ('The more I had struggled, was the more I wanted to give up') sound human. But it is wrapped in stock lines: 'truly learned', 'transformed how I approached learning entirely', 'stopped studying harder and began to study smarter', 'a lesson I will carry with me in every subject', and a triplet ('The math, the equations and the lengthy calculations'). No sentence reaches 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (lecture confusion, lab clarity, a failed exam, a new method). It is told as a summary, and the turning point ('after failing my second test everything changed') gets no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a real reason the change worked ('they were ways to measure and predict what I had already been observing in lab') but never shows one equation mapped onto one lab result, so 'Suddenly, the math started to make sense' stays an assertion."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The arc is clear and OIL RIG comes back near the end, but the 436 words sit in a single block and the essay closes on a generic moral: 'that is a lesson I will carry with me in every subject that I encounter.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8): Ask Enes for the real names behind the vague nouns and put them in place. Which course and school was this? Which lab had the color change (titration, redox)? What kind of problem kept beating him on tests (stoichiometry, balancing redox equations)? What was the grade on the second test? Swap each into its sentence, e.g. 'watch the solutions change color' becomes the actual lab, and 'balance a chemical equation' becomes the actual problem type. Use only what he confirms.",
+  "Voice (+8): Cut the slogans. Delete 'That is where I felt I truly learned', 'and that transformed how I approached learning entirely', and 'I had stopped studying harder and began to study smarter'. Replace the last sentence with a short line that returns to the opening metaphor, e.g. that the lecture had been oxidizing him and connecting it to the lab was the reduction. Also fix the slips: 'Reduction is gained' should be 'Reduction Is Gain', 'the math ... weren't' should be 'wasn't', 'repeating practicing' should be one word, and 'The more I had struggled, was the more' should be 'The more I struggled, the more'.",
+  "Story, reasoning and structure (+9 across criteria 4 to 6): Expand 'When I actually was able to piece them together' into two or three sentences showing the one real calculation he linked to a lab he had already done (ask Enes which one). Then break the block into four paragraphs: lecture, lab, failed test, the connection and what it changed in how he studies."
+ ]
+}

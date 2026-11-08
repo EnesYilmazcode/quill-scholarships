@@ -1,0 +1,54 @@
+{
+ "id": "vt-07",
+ "contest": "Varsity Tutors Scholarship (September 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 493,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/jonathan-57891",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the strategy in the first sentence ('actively solve problems rather than passively study them') and gives the why its own paragraph, but the timed-practice paragraph and the research/AI-model paragraph drift into a second strategy and a side topic."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only course names ('Applied Math and Statistics', 'data structures and algorithms'). There is no actual problem, topic, course number, exam or grade, and 'a particular edge case, a proof, or an assumption' is a generic list."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Five 'rather than' antitheses, stock phrasing ('In terms of study habits', 'This methodology has proved to be very effective', 'dive right into', 'pinpointed feedback'), and a slogan line ('a partial knowledge of something may lead you nowhere'). It has no em dashes and does have one sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "The single story (the DSA course) is a summary of a habit with no single moment in it, and it sits in paragraph 5. The research and disability-tool mention is a résumé beat, not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a real mechanism ('requires me to retrieve information rather than recognize it'; the problem 'uncovered exactly what aspect... I wasn't understanding'), but it is the textbook retrieval-practice explanation, with no evidence from his own results."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The example comes late, and the ending restates a generic claim: 'This alone has been one of the most significant changes to my performance in academics.' The previous sentence also contradicts the opening by saying he stopped using problems to prove understanding."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and story (up to +21): Ask Enes for the real DSA moment: the course number, the exact topic or problem (which data structure, which proof), and what the practice problem showed he had wrong. Then open the essay with that moment and replace the habitual summary in paragraph 5 ('In the vast majority of cases, the problem uncovered...'). If he has a real before-and-after exam score or grade, ask for it and add it. Do not supply one.",
+  "Voice (up to +12): Cut 'In terms of study habits,' and start with the strategy. Keep one 'rather than' and rewrite the other four as plain statements. Delete 'This methodology has proved to be very effective even outside of classes' and the slogan 'such training is essential since a partial knowledge of something may lead you nowhere.' Either cut paragraph 4 (AI model / disability tool) or reduce it to one sentence that names the real project.",
+  "Ending (up to +6): Replace the last paragraph, which contradicts the opening ('Instead of using practice problems as a way of proving to myself whether or not I understood the material'), with one or two sentences that return to the specific DSA problem from the new opening and say what he does differently now. Drop 'one of the most significant changes to my performance in academics.'"
+ ]
+}

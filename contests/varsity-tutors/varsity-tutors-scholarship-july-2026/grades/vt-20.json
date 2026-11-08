@@ -1,0 +1,60 @@
+{
+ "id": "vt-20",
+ "contest": "Varsity Tutors Scholarship (July 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 638,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/danielle-57193",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The topic (math, from pre-calc to AP Calc) and the challenge are covered fully. The part about critical thinking gets only one abstract claim: \"I gained the ability to see things piece by piece and as a whole, to take them apart and then put them back together.\" Most of the payoff is about perseverance, not thinking."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong named detail: Mrs. Lukemeyer, Mr. Lerner, AP Calculus AB, the styrofoam ceiling tiles, Jack bringing the teacher \"a new packet each day\", and \"My graphs were flipped, rotated, mirrored wrong.\" The detail fades in the politics paragraph, which names no real problem."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person: \"Big whoop, I thought.\" \"Eh. A good effort.\" Tells: a stock moral (\"you can't give an issue on knock and then quit\"), a tidy closing line (\"taught me the most valuable lesson\"), \"Most useful of all\", a spaced hyphen used as a dash, and no sentence over 45 words. Typos: \"expectedly\", \"on knock\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two scenes frame the essay (third-grade long division, the AP Calc limit question), and one real story carries it (watching Jack in pre-calc). All are on topic. The turning point after Jack is told as a summary (\"I started doing my homework, redoing it, and then doing it again\"), not as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains why the change worked: Jack's loop of repeating the work and getting teacher feedback, then learning \"the parts of the problems like parts of a well-running machine.\" But the jump to critical thinking in Political Science is only asserted (\"problems are more complex than they may seem at face value\") and never shown."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Opens on the limit question and loops back with \"the limit ceased to exist\", which is a good callback. But it then adds a generic moral as the last line: \"In the end, my least favorite subject taught me the most valuable lesson.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. \"I blink, and I'm fifteen years older\" puts the writer in AP Calculus AB at about 23, but AP Calc is a high-school class. Also, the AP Calc scene (doodling, giving up) comes after the 10th-grade breakthrough, which contradicts the arc. Subtotal 73, minus 10, gives 63 (mid)."
+  }
+ ],
+ "fixes": [
+  "Answers prompt and ideas (+7 to +10): In the paragraph starting \"Most useful of all,\" replace the general claim that political problems \"are more complex than they may seem at face value\" with one real Political Science or Public Affairs assignment or problem the writer actually broke into pieces and rebuilt. Ask the writer which one it was and what the pieces were; don't invent one. That shows the critical-thinking skill the prompt asks for instead of asserting it.",
+  "Remove the -10 fact problem: \"fifteen years older\" can't be right for a high-school AP Calc class. Ask the writer for the real gap (third grade to senior year is about eight or nine years) and correct it. Also fix the timeline: the AP Calc scene where they doodle and give up comes after the 10th-grade turnaround. Ask the writer whether that moment really happened before pre-calc, and either move it earlier or cut the doodling line so the arc holds.",
+  "Voice and ending (+4): Delete the last sentence (\"In the end, my least favorite subject taught me the most valuable lesson\") and end on \"the limit ceased to exist.\" Cut the moral \"you can't give an issue on knock and then quit\". Fix \"expectedly\" to \"expectantly\" and replace the spaced hyphen in \"from hours to years\" with a comma. Join two short sentences in the Jack paragraph so at least one sentence runs past 45 words."
+ ]
+}

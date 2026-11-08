@@ -1,0 +1,54 @@
+{
+ "id": "vt-30",
+ "contest": "Varsity Tutors Scholarship (May 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 464,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/felicia-56825",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered. The challenge is timed essays and overthinking. The change is a mindset shift: 'I immediately wrote down my thoughts as fast as I could... I focused more on what the prompt was asking and quickly made a decision.' But the 'what changed' part never shows a specific turning point or result."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are no proper nouns at all: no exam, class, subject, school, teacher's name or real prompt. The only numbers are '2 hours... more than 7 hours' and '5 minutes', and they are attached to a habit, not to one event."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some lines sound like a real person: '(well, mostly)', 'the paper of all papers', 'spamming the backspace key'. They are wrapped in stock framing: the triplet 'quality, substance, and richness of ideas', 'In short', 'Furthermore', the 'I remind myself' anaphora (repeated openings) and a tidy moral at the end. Spaced hyphens are used as dashes. No sentence goes over 45 words. There are typos: 'compete' and 'a that'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic scene: the timed-essay opening. It is told in the habitual present ('I begin. I write. I pause.'), so it describes every exam rather than one specific exam. The teacher talk gets a single summary sentence: 'I talked to my teacher about this issue, and told her about my progress.'"
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It names a real cause: 'I was simultaneously thinking, drafting and editing all at the same time'. The fix that follows is general ('worked to be more flexible', 'not overthinking too much'). It never shows the new method working on a real exam or assignment."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the clock and the prompt from the opening never come back. The essay ends on a generic moral: 'I need to be kinder to myself and a that it is ok to keep things simple.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+12): ask Enes for the real details and put them into paragraphs 1 and 4. Which timed test or class was it (for example an AP or in-class exam), what subject, and what did the prompt actually ask? What was the 2-hour task that took 7 hours? What is the teacher's name and subject, and what did she actually say? Swap 'The prompt', 'Tasks that should take me 2 hours' and 'my teacher' for those real facts. Do not make up any of them.",
+  "Voice (+8): cut 'the quality, substance, and richness of ideas that I want to communicate' down to one plain phrase. Delete 'In short,' and 'Furthermore'. Fix the typos 'compete' to 'complete' and 'a that' to 'that'. Replace the spaced hyphens (' - at least I try to', ' - despite... - ') with commas or parentheses. Merge the three 'I remind myself' sentences and the 'I tell myself that this is simple' line into one longer sentence that says what he actually tells himself.",
+  "Ending and story (+10 across structure and stories): rewrite the last paragraph so it goes back to the opening clock. Have Enes describe a real recent timed essay where the new method worked, and say what he did when the timer started. End on that image instead of 'be kinder to myself... keep things simple'. If he can't name a real instance, cut the moral and end on 'I try not to be the critic when I am drafting.'"
+ ]
+}

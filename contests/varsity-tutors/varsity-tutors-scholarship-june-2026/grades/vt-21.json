@@ -1,0 +1,54 @@
+{
+ "id": "vt-21",
+ "contest": "Varsity Tutors Scholarship (June 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 376,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/ashawntie-56924",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It answers both parts early and plainly. The focus is 'I would create a Mental Health Resource Hub' and the why is in paragraph 4, but that why is a general belief ('mental health affects every part of a person's life') rather than his own reason."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There is no school name, town, number, person, date or physical detail. Every item is abstract ('counseling services, stress management techniques, local mental health organizations, and wellness workshops'), and a stranger could have written it about any school."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "This reads as interchangeable model prose. It has a 'not X but Y' line ('would not be to replace professional help but to make it easier') and an 'is not separate... It is part of' antithesis. It has three triplets ('accessible, visible, and understood', 'seen, heard, and empowered', 'discussions, guest speakers, and awareness events'), the slogan 'a sign of strength, not weakness', the moral 'no one should feel like they have to face their struggles alone', and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories. The only concrete image is a generic wound analogy, and nothing shows why Enes in particular cares about this."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It is the generic menu: workshops, guest speakers, awareness events, a resource list. It hints at why current help fails ('without knowing where to turn') but never names an existing fix, a concrete change, who runs it, or why students would actually use it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending restates the thesis as a moral: 'I hope to build a community where students feel seen, heard, and empowered to take care of both their physical and emotional well being.' It only loosely echoes the opening wound analogy."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and stories (+28 possible): ask Enes why this topic is his. Is there a real moment, a real person, or a real gap at his actual school or community, such as a counselor nobody knew about or a resource he went looking for? Replace the generic opening analogy ('Too often, people know exactly what to do when they have a physical injury...') with that true moment, using real names and places. If he has no personal connection to mental health, ask whether a different real project would suit him better instead of padding this one.",
+  "Human voice (+16): cut the stock lines rather than rewording them. Delete 'asking for help is a sign of strength, not weakness', 'no one should feel like they have to face their struggles alone', and 'seen, heard, and empowered'. Rewrite 'The goal would not be to replace professional help but to make it easier...' as a plain statement. Break up the triplets in paragraphs 1, 3 and 4, and drop paragraph 5 ('A culture of empathy can create stronger friendships...'), since it only restates.",
+  "Ideas mechanism (+9): replace the paragraph 3 menu ('hosting discussions, guest speakers, and awareness events') with one concrete change. Ask Enes what his school actually has now (for example, a counseling office or a hotline poster), why students don't use it, what small change would fix that, and who would run it. Then end on that real school or person instead of the closing moral."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "vt-33",
+ "contest": "Varsity Tutors Scholarship (April 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 375,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/elannia-56526",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get answered plainly and early: the skill in line one ('One skill I hope to master in the next few years is financial literacy') and the plan in its own paragraph ('To develop this skill, I plan to be proactive and disciplined'). The plan is a list of intentions, though, not a position."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete fact is 'responsible for paying for my own college education'. The essay has no number, no school, no job, no dollar amount and no named tool. 'learn the value of every dollar' stays abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense AI tells: 'more than just understanding numbers; it represents independence, security, and the ability to...' (an 'isn't just X' line plus a triplet), 'is about more than personal success; it is about breaking cycles' (not X but Y), 'not just surviving, but thriving' (a slogan), 'will not only support... but it will also empower' (not only/but also), 'empower', and a tidy moral to close. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories, only a claim that one exists: 'My motivation... comes from my personal experience' followed by general statements and no moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan is a generic menu ('create and maintain a budget', 'set aside money for savings', 'financial literacy programs, online tools, and real-life practice'). It names no tool, no amount, and no reason this plan would hold when the usual one fails."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are ordered, but the ending restates the thesis as a moral instead of returning to an image: 'Financial literacy will not only support my goals during college, but it will also empower me to build the future I know I am capable of achieving.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): cut every slogan line and say the plain fact instead. Replace 'mastering this skill represents more than just understanding numbers; it represents independence, security, and the ability to build a better future for myself' with what money control actually lets Enes do. Cut 'not just surviving, but thriving' and 'is about more than personal success; it is about breaking cycles' entirely. Rewrite the last sentence with no 'not only... but also' and no 'empower'. Merge two of the short paragraph-2 sentences into one long sentence over 45 words.",
+  "Specificity (up to +12): in paragraph 2, replace 'I have had to quickly learn the value of every dollar' and 'There is a different level of responsibility...' with the real numbers. Ask Enes what he actually pays per semester, how he covers it (job, hours, scholarships, loans) and what he already tracks. Cut 'create opportunities for myself that were not always easily accessible' unless he can say which opportunities.",
+  "Ideas and ending (up to +9 and +6): in paragraph 3, swap 'financial literacy programs, online tools, and real-life practice' for the actual tool or method Enes uses or will use (ask him: the app or spreadsheet, the savings rule, the credit card or account he plans to open), and say why it fits a student paying his own tuition. Then end on that same tuition fact from paragraph 2 instead of a general moral."
+ ]
+}
