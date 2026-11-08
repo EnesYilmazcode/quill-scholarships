@@ -1,0 +1,54 @@
+{
+ "id": "tech-02",
+ "contest": "BrightStar Systems Future Technologies Scholarship",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1191,
+ "source_url": "https://brightstarsystems.com/the-2020-brightstar-systems-future-technologies-scholarship-winner/",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All five parts get a paragraph, but 'favorite' is split between GPS ('the best invention ever') and the laptop ('The true MVP'), and the future part is a general forecast: 'make it much more interactive, digital, and global.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real proper nouns (flip Nokia, Blackberry, Snake, Chicago, the CTA line, Mac, the on-campus timesheet), but there are no dates, the home country is never named, and the studies section is mostly abstract ('proper and fast research')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Asides like 'Crazy, right?' and 'My \"digital me\", I guess' sound human. Tells found: 2 em dashes, 'not only allow me to communicate with my family but with the whole wide world', 'incredibly important', 'I truly believe', 'indispensable', 'facilitate', 'unprecedented levels', a four-item list 'accessible, enriching, extensive, and global', and slogans like 'Technology brings us together' and 'the world is at our feet'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 2 possible stories (arriving in Chicago with only Google Maps; calling family from abroad), but both are one-line summaries with no scene, and most of the essay is general claims about 'we'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The future section says that technology will make learning better but never explains why or how. The one real position ('we still need that face-to-face and human factor') gets no reason."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the opening (the little brother, the flip Nokia) never comes back. The last line is a generic moral: 'will without a doubt continue to advance our learning experience and taking it to unprecedented levels.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (about 8 pts): remove both em dashes ('I don't—even my grandparents do!' and 'the world—its portability'). Cut these slogans: 'Technology brings us together, and I'm so thankful for it', 'with GPS, the world is at our feet. I truly believe it's the best invention ever', and 'In the context of education, this is incredibly important.' Rewrite the 'not only... but' sentence as a plain statement. Shrink the final four-adjective list to the one adjective the writer means. Also fix 'I couldn't take online classes with it' to 'without it'.",
+  "Stories and specificity (about 9 to 13 pts): paragraphs 2 and 3 ('Nowadays, we simply can't live without technology...' and 'We are obsessed with technology...') are general 'we' claims, so cut most of them. Use the space for the true Chicago arrival and the calls home. Ask the writer for real details only: the home country's name, which CTA line, the first place they looked up, and the time difference or app they use to call family. If they don't remember, leave the details out rather than guess.",
+  "Ideas and ending (about 9 to 10 pts): replace the generic future paragraph with reasoning taken from what the writer already does (online enrollment, the student portal, the timesheet) and say plainly why face-to-face still matters to them. Make one device the favorite and drop the 'best invention ever' claim for the other. End by returning to the little brother who thinks phones have always had big screens, instead of 'unprecedented levels'."
+ ]
+}

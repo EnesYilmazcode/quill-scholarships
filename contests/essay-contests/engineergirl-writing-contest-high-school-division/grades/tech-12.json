@@ -1,0 +1,60 @@
+{
+ "id": "tech-12",
+ "contest": "EngineerGirl Writing Contest (High School division)",
+ "year": "2024",
+ "outcome": "winner",
+ "words": 1190,
+ "source_url": "https://web.archive.org/web/2025/https://www.engineergirl.org/153972/Papers-Life",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The first-person narrator stays consistent from tree to journal to recycled pulp, and the essay names control, mechanical, chemical and industrial engineers. But the disciplines mostly appear as badges ('A small tag on her chest reads, \"Control Engineer\"'), the industrial engineers are only mentioned, and the control engineer does no control work."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are many checkable details: Neenah Paper Mill, sodium sulfide and sodium hydroxide, a 500-pound brick of pulp, 96% water, 0.05 to 0.1mm, twin roll press, and a robin's-egg-blue home. The second half, from the warehouse to the girl's room, loses that density."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The narration has a real voice, but several stock patterns weaken it: two triplets ('Her emotions. Her happiness. Her pain.' and 'full, happy, satisfied'), a mirrored line ('She is me. I am her.'), a list ('thoughts and feelings and memories and ideas'), dialogue that only delivers information (the Amazon/COVID/toilet paper speech), and a tidy moral at the end. No sentence runs past 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story carries the whole essay: the tree's life cycle. The journal and the girl give it emotional weight. The mill dialogue is summary rather than scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The engineering is mostly stated, not explained. The pulping step says 'sap and natural glue' instead of explaining lignin removal. The layout change is only described as 'makes the process go faster', the press fix is never explained, and the control engineer does nothing tied to her discipline."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc follows the life cycle cleanly and closes it with recycling, but the last line is a soft moral instead of a return to the tree: 'Yet again a new hope fills me, and I wonder what life I might touch next.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. The paper steps are in an impossible order. The essay dries the paper to '96% pulp and 4% water' on a heated drum and then says 'I'm poured onto a slat', but pulp that dry cannot be poured. On a real paper machine, the sheet is formed and pressed first and dried on heated drums last. Weighted subtotal is 73.0; with this deduction the total is 63 (mid band)."
+  }
+ ],
+ "fixes": [
+  "Fix the paper machine steps in the two paragraphs from 'I am loaded onto a heated steel drum' to 'only 0.05-0.1mm thick' (recovers 10 points). Put them in the real order: the watery mix is spread and pressed into a sheet, then dried on heated drums to about 4% water, then cut. Delete 'poured' after the drying step. Ask Enes which source the 96%, 500-pound and 0.05-0.1mm figures come from and check them against it.",
+  "Remove the stock patterns (worth up to 8 points). Cut 'Her emotions. Her happiness. Her pain.', 'She is me. I am her.', 'full, happy, satisfied' and the closing 'Yet again a new hope fills me, and I wonder what life I might touch next.' End on the image that is already there, 'the memory of the girl slowly fades from my fibers', or tie it back to the pine in northern Michigan. Join two of the short paragraphs from the warehouse section into one long sentence so at least one sentence runs past 45 words.",
+  "Make each discipline explain its step instead of wearing a badge (worth up to 6 points). Cut the Amazon/COVID/toilet paper speech (about 60 words) and spend those words on mechanism: name lignin where it says 'sap and natural glue', say why moving the chipper closer to the digester speeds things up, and say what the twin roll press does. Give the control engineer a real control task only if Enes knows one from his source, and never make one up."
+ ]
+}

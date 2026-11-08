@@ -1,0 +1,60 @@
+{
+ "id": "tech-11",
+ "contest": "EngineerGirl Writing Contest (High School division)",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 748,
+ "source_url": "https://web.archive.org/web/2025/https://www.engineergirl.org/150881/The-Luxury-of-Water-To-Be-or-Not-To-Be",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It picks water supply and covers the 21st-century examples (Hilonga, Koigi) and the uneven impact ('little or no impact on water supply in countries in Africa and Asia'). It refuses the own-experience part ('I could easily describe my life living as a comfortable Nigerian. However...'). Gender and race get almost no imagining beyond calling Koigi 'a black Kenyan woman'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is dense with checkable facts: the 1916 activated sludge process, Abel Wolman and Linn Enslow in 1919, sodium hypochlorite, Srinivasa Sourirajan, Majik Water and its 'fans, refrigeration and filtration'. It loses a point because every fact is borrowed and none is from the writer's own community, and the figure of 'four hundred children... every hour' looks inflated."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some lines sound like a real person ('It is those at the coalface that understand how the shoe pinches'), and the clumsy 'Although, an accurate description' reads as human. Against that: an overwrought hook ('bones protruding sharply out of their ebony skin'), report-style middle paragraphs, stock phrases ('myriad reasons', 'immense benefits that can be derived', 'Renewed hope lies in') and a statistics dump. There are no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero personal stories, and the writer turns down their own Nigerian experience. Two case studies, Hilonga's village and Koigi's university water, do the work instead. The prompt explicitly asks for an example from the writer's own experience or community, so case studies alone can't fill this slot."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains why the 20th-century fixes failed (high costs, desalination 'only feasible in affluent countries') and why local engineers do better ('know their geography, their people'). It never says what Hilonga's filter does differently or what it costs, and 'the combined efforts of diverse teams' is stated rather than shown."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs move in a clear order: image, history, examples, then the argument. Nigeria and the 'close your eyes' image never come back. The last line is a generic restatement: 'Renewed hope lies in engineers such as Koigi and Hilonga who, being local to the issues, understand what it is like to live with anxiety regarding water.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "writing about the essay",
+   "points": 0,
+   "reason": "-5: 'Perhaps from reading the title of this piece, one would likely envision something more exotic.' Subtotal 61.0, minus 5, gives 56, which is mid band."
+  }
+ ],
+ "fixes": [
+  "Fix the own-experience gap in paragraph 1 (worth up to 9 points on stories, plus some on answers_prompt). Cut the 'Close your eyes' hook, the title reference and the starving-children image, about 110 words. Then ask the writer what really happens with water where they live in Nigeria: where it comes from, who fetches it, whether it is treated. Put that true answer where the hook was. If they have nothing real to offer, keep the paragraph short, start straight from 'millions of children in Nigeria who frequently have to trek for hours', and don't make up a personal scene.",
+  "Answer the gender and 'imagine' parts by reordering what is already in the essay (worth up to 8 points). Move 'Women and children still traverse long distances and stand in long queues' from paragraph 2 into the Koigi section, and say plainly that the people who carry water are women, and that Koigi is a woman engineer building for them. Swap the vague 'highlights the immense benefits that can be derived from the combined efforts of diverse teams' for one sentence that predicts how such an engineer would design differently, for example a water source next to the home instead of one at the end of a trek.",
+  "Clean up the final paragraph and the facts (worth up to 4 points on structure, and avoids a possible -10 for a false fact). Cut the statistics run and check or drop 'more than four hundred children... die... every hour': WHO-style figures are closer to about 1,000 child deaths a day from diarrhoeal disease. Fix 'portable' to 'potable', 'Kilamanjaro' to 'Kilimanjaro' and 'vast Kilamanjaro mountains' to 'Mount Kilimanjaro'. End on a line that returns to the Nigerian children from the opening instead of the generic 'Renewed hope lies in'. Also attach the required 3 to 10 item reference list, since the prompt makes it a condition of entry."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "tech-10",
+ "contest": "Singularity: AI Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1392,
+ "source_url": "https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It takes a clear position, deals with the 'Dignity of Work' counterargument and names a policy ('moving away from job-centric welfare toward the de-commodification of life through Universal Basic Services'). But it mostly rejects 'balance' instead of saying what progress should give up or keep, and it says nothing about workers in the years before the transition finishes."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real sources (IMF 2024, the Bloomberg 2026 piece on the Big Three, Arendt, Keynes 1930, Srnicek and Williams, UCL Bartlett), but whole paragraphs are abstract. It also stretches the IMF finding: the IMF said about 60% of jobs are 'exposed' and about half of those may benefit, which does not support 'many of those jobs likely to be fully replaced rather than augmented.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It is full of 'not X but Y' sentences ('did not simply fear machines; they feared', 'does not just bend; it shatters', 'not solely financial but also philosophical', 'not as a meager welfare check but as a dividend'). It also has 'Not only... but... as well', the filler words 'Indeed', 'Furthermore', 'truly' and 'profound', the slogan 'they have never been more necessary for one another', and no sentence from the writer's own life."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no personal stories. The analytic case studies (the Luddites, consulting firms cutting entry-level hiring) each get one or two sentences, and none of them carries the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The 'Product-Process Gap' explains why retraining fails once entry-level jobs disappear, and it argues for UBS over UBI. But it never says who pays for UBS, how, or in what order. 'Reclaiming the digital commons' is an intention, not a mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order is clear and the ending echoes the title ('The engine of labor may be stopping, yet the journey of the human spirit is only just beginning'), but it is a generic moral under a 'Conclusion' heading."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): rewrite every 'not X but Y' / 'not only... but' sentence as a plain claim. For example, 'When automation makes most humans unemployable, this contract does not just bend; it shatters' becomes 'Once most people cannot sell their labor, the contract that ties income to output stops working.' Cut 'Indeed', 'Furthermore', 'truly' and 'profound', and replace the final two sentences with the concrete UBS claim from the paragraph before. If Enes has a real connection to this topic (CS student, an entry-level job or internship he saw automated), ask him for it in one sentence instead of making one up.",
+  "Remove the section headings and the 'Conclusion' heading (recovers the -5 formatting deduction). Fix the doubled quotation marks (\"\"Luddite Fallacy\"\" and similar) to single quotes, and turn the coined labels in quotes ('Labor-Validation Trap', 'Existential Commons') into ordinary words or define them once.",
+  "Specificity and ideas (+6 possible): correct the IMF sentence to what the report says (about 60% of jobs in advanced economies exposed, roughly half of them likely to benefit). Then give UBS one mechanism paragraph: which service first, roughly what it costs, and who funds it (a tax on AI compute or a public share in model revenue, if Enes's sources support it). Cut the Musk 'Universal High Income' aside unless it does more than serve as a name-drop."
+ ]
+}

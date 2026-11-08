@@ -1,0 +1,54 @@
+{
+ "id": "tech-03",
+ "contest": "EngineerGirl Writing Contest (High School division)",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 717,
+ "source_url": "https://web.archive.org/web/2025/https://www.engineergirl.org/150879/Arun-Cherian-Creating-HighQuality-Yet-Affordable-Prosthetics-for-Amputees-in-India",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The group gap is covered ('Poor and non-white people are significantly more likely to have to undergo amputations') and so is the 21st-century team (Rise Bionics), but there is no example from the writer's own experience or community, women are never mentioned, the 'imagine future innovations' part gets one generic closing line, and the 'diverse team' shown is diverse in fields, not in gender or race. Automatic deduction: -10 for the own-experience part with no answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense, checkable research detail: 'In 2014', '1,200 species of cane', 'up to four times lighter', 'over 500 people', 'Association of People with Disability in Kamanahalli', with citations. None of it is first-hand detail from the writer."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads like a stock school report. Tells: 'these incredible devices', 'embarked on a journey', 'such a brilliant solution', 'not only for amputees but also', 'bring something to the table', 'transform the lives of millions', and a slogan close. There is no 'I' anywhere and no em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic case study told with some scene (his sister's wedding, the rattan furniture in his house, talking to artisans). It carries the essay, but it is secondhand, and no story from the writer appears."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Names the old fix and why it fails ('free prosthetic legs... adoption rates are low because these prosthetics are usually heavy'), then the change and why it works (light local cane, income for artisans). The speculation about how a future diverse engineer would approach the problem stays generic."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and follow the prompt's order, but the essay opens by restating the prompt and closes on a generic moral ('there is no limit for how many creative solutions can be thought up and how many great engineering achievements can be enhanced') instead of returning to the half million amputees or the heavy free legs."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the missing own-experience part (+12 on criterion 1 and recovers the -10 deduction): ask Enes for a real moment from his own life or community where someone's different background changed how a problem got solved, and put it in a short paragraph right after paragraph one. Don't make one up. If he has none, ask whether he knows anyone who uses a prosthetic or works in prosthetics before writing that paragraph.",
+  "Rewrite the last paragraph so it answers 'imagine' and 'speculate', and so the ending returns to the opening (+8 across criteria 1 and 6): cut 'With the input of diverse perspectives, there is no limit...'. Replace it with a plain statement of what a poor or non-white engineer in India would design next, built on the facts already in the essay (weight, cost, local material, local labor), and end on the half million amputees or the heavy free legs from paragraph two. Name women engineers here too, with a real cited example, since the prompt asks about them and the essay never mentions them.",
+  "Cut the stock phrasing (+8 on voice): delete 'incredible', 'brilliant', 'embarked on a journey' and 'bring something to the table'; change 'not only for amputees but also for people impacted by' to 'for amputees and for people with'; replace the opening clause 'As one of the 20 Greatest Engineering Achievements...' with the Rogers amputation statistic. Also confirm the required 3-10 item reference list is attached, since it is not shown here."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "tech-04",
+ "contest": "EngineerGirl Writing Contest (High School division)",
+ "year": "2023",
+ "outcome": "runner-up",
+ "words": 747,
+ "source_url": "https://web.archive.org/web/2025/https://www.engineergirl.org/150877/Using-Virtual-Reality-to-Prevent-Erbs-Palsy",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Covers the diverse-team example (HealthScholars, Muinga) and a group affected differently ('women of color are more likely to experience maternal health complications'). It never names which of the 20 achievements it chose and never speculates how an engineer from that group would approach the problem differently; 'takes these varying perspectives into account' is a gesture, not an answer (-10 deduction applied for the missing part)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense with checkable facts: '1 out of 1,000 births', shoulder dystocia, HealthScholars 'founded in 2017', Pam Martin, Akmal Hisyam Idris, Naomi Muinga from Nairobi, restricted field of view. The personal side is thin, with only 'tying my hair or buttoning a shirt'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Reads as a student research report, stiff but human (slips like 'one of the 1,000' and 'When VR is used, The vestibular'). Tells: 'revolutionize' used twice, 'navigate any challenge', 'Furthermore', 'committed to improving patient care', and a generic moral in the last paragraph. No em dashes, and long sentences are present."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the writer's own Erb's Palsy, told as a summary with no scene. It disappears after paragraph 2 and never comes back as evidence for why different perspectives matter."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Real mechanisms are named: simulator practice cuts delivery errors, standalone headsets cut cost, a narrower field of view cuts VR sickness. But it never explains how diverse engineers produce these fixes; it states it as a given ('Engineering becomes more effective and inclusive as individuals with different experiences... become prominent contributors')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Organized, and it opens on the writer's birth injury. The close restates a thesis before partly returning: 'The most important thing to me is for the labor and delivery room to become a safe place for patients and give more babies a healthier start in life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the missing speculation part (recovers about 10 deduction points plus criterion 1). Replace 'HealthScholars comprises a diverse group of people... and takes these varying perspectives into account' with two or three sentences of the writer's own reasoning: what an obstetric simulator would include if a Black woman engineer, or someone born with Erb's Palsy, designed it (for example, which patient anatomy and medical data it is built from, and which complications it trains for). Keep it to reasoning; don't add events that did not happen.",
+  "Name the achievement and tie the personal story to perspective (criteria 1 and 4). In paragraph 1, name 'Health Technologies' as the chosen achievement. Cut the textbook VR definition in paragraph 3 ('where a computer simulates an environment with scenes and objects that appear real...') and use those words to say plainly how living with the condition made the writer see delivery-room training differently from the people who designed it.",
+  "Cut the generic close and loop back (criteria 3 and 6). Delete 'Engineering becomes more effective and inclusive as individuals with different experiences and perspectives become prominent contributors, as shown by the emerging innovative solutions.' and the second 'revolutionize' sentence. End on the opening image, the hand and the buttoned shirt, tied to the safer-delivery goal, instead of a moral. Also change 'navigate any challenge' to 'handle shoulder dystocia'."
+ ]
+}

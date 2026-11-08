@@ -1,0 +1,54 @@
+{
+ "id": "tech-05",
+ "contest": "Singularity: AI Essay Contest",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 1399,
+ "source_url": "https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It takes a clear position on part one ('contemporary AI systems engaged in scientific discovery instantiate genuine scientific understanding'). Part two, 'does the distinction matter', only gets an indirect answer: the essay dissolves the distinction and then lists 'Three implications' without saying plainly whether it matters."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay is full of checkable detail: 'over two hundred million proteins', CASP14, pLDDT scores correlating with disorder, FunSearch on the cap set problem, Schmidt and Lipson, and page-cited de Regt, Woodward and Brandom. The detail is all textbook-level, though, and none of it is first-hand."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "This reads like interchangeable model prose with no person behind it. It has a dense run of not-X-but-Y lines: 'not a concession but a correction long overdue', 'a competence, not a quale', 'structural grasp, not mimicry', 'the next step, not a departure', 'not merely a tool but a contributor'. It also has stock intensifiers ('Most tellingly', 'critically'), a triplet ('telescopes over unaided vision, statistics over intuition, proof over conviction') and a tidy moral close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "This is an analytic prompt, so AlphaFold works as the one case study. It is carried through the opening, three lines of evidence and the discoveries paragraph. FunSearch and symbolic regression are short second beats, all on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning explains why, not just that. The interpolation-vs-extrapolation test ('Interpolation succeeds inside the convex hull of training data and fails outside it') and the systems reply to Searle are real mechanisms. The implications section stays generic ('institutions should develop norms')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The argument is well organized, but the ending is a generic moral, 'Its epistemology should not be either.', and never returns to the opening AlphaFold image. It also points to an 'answered empirically by Section 3' that does not exist in this text."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): rewrite each not-X-but-Y and 'not merely' line as a plain claim. 'Under this reconstruction, not a concession but a correction long overdue, AlphaFold...' becomes 'Under this reconstruction, AlphaFold...'. 'Understanding is a competence, not a quale' becomes 'Understanding is a competence.' Do the same for 'not mimicry', 'not a departure' and 'not merely a tool but a contributor'. Cut 'Most tellingly' and 'critically'. Keep at least one long sentence that runs an argument in the writer's own order instead of in balanced pairs.",
+  "Deductions (+10 total): delete 'This essay defends a precise thesis:' and start with 'Contemporary AI systems engaged in scientific discovery instantiate genuine scientific understanding, provided...' (+5). Delete the title line and the run-in labels ('Against the consciousness requirement.', 'Against the Chinese Room.', 'Against the grounding requirement.', 'The deeper diagnosis.'), and turn each into a topic sentence. Change 'answered empirically by Section 3' to 'answered by the AlphaFold evidence above' (+5).",
+  "Prompt part two and the ending (up to +8): add one plain sentence answering 'Does the distinction matter?' before the implications paragraph, built only from claims already in the essay. For example: 'It matters, but not the way the skeptic thinks: it changes who gets credit and how results are checked, not whether discovery happened.' Then replace the last line with a sentence that goes back to AlphaFold's two hundred million structures instead of the general moral about anthropocentrism."
+ ]
+}

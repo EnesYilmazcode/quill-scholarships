@@ -1,0 +1,54 @@
+{
+ "id": "tech-13",
+ "contest": "EngineerGirl Writing Contest (High School division)",
+ "year": "2022",
+ "outcome": "winner",
+ "words": 640,
+ "source_url": "https://web.archive.org/web/2025/https://www.engineergirl.org/146942/Engineering-Magic-Harvesting-Water-From-Thin-Air",
+ "total": 76,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It clearly shows engineers working on clean water through Majik Water. It never names SDG 6, though, and only says it helps \"multiple of the UN's Sustainable Development Goals\" and \"numerous sustainable development goals\", so the goal it is answering for stays vague."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong, checkable facts: 54 million people, Chuka University, Singularity University, Kaschenko as a 2018 Young Champions finalist, silica gel desiccants, The Ark Children's Home, 50 liters a day, 2019. It goes vague exactly where results should be proven: \"a tremendous impact\" and \"several global partners from Denmark to South Africa\". It gives no cost or unit count."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The research is clear and real, but the framing is stock. It opens with a fragment triplet (\"Dusty plains. Parched, crumbling earth. A scorching sun.\") and leans on clichés: \"liquid gold\", \"quench Kenya's thirst\", \"real-world magic\", \"Budding innovator\", \"intimately familiar\", \"nuanced relationship\". It uses \"utilize\" twice and \"tremendous\", and ends a list on a triplet (\"increasing crop yields, promoting health, and empowering women\"). It closes on a tidy moral (\"However, technological innovation provides hope.\"), uses spaced hyphens as dashes 4 times, and has no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "For an analytic prompt, the case study counts as the story. Koigi's murky tap water at Chuka leads to the team, the design and the Ark install, and it stays on topic throughout. The Kaschenko and Sewell résumé details pad the middle without moving the story forward."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It follows the winning formula. It names the existing fix (condensation generators) and says why it fails (\"large amounts of energy and equally high costs\"). It gives the change (desiccants plus solar), explains how it works, and says who did it. What's missing is why it will spread: no price per unit or per liter, and no explanation of why communities can afford it where condensation units failed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The order is clean: problem, then person, then design, then impact. The last line, \"Through the magic of engineering, Kenyans may finally drink in abundance.\", calls back to the opening's \"magic\" and \"thirst\". But the paragraph around it is a generic hope statement and never brings back Koigi or the Ark."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): Cut the slogan layer and keep the facts. Replace the opening triplet and \"real-world magic\" line with the plain fact that nearly half of Kenya's 54 million people lack reliable water. Delete \"liquid gold\", \"Budding innovator\", \"intimately familiar\", \"nuanced relationship\" and \"tremendous impact\", and change both \"utilize\"s to \"use\". Replace the 4 spaced hyphens (\" - \") with commas or periods, and merge two of the design sentences into one long sentence of 45+ words.",
+  "Specificity and ideas (+4 to +7): In the impact paragraph, replace \"has already had a tremendous impact\" and \"several global partners from Denmark to South Africa\" with real sourced figures: units deployed, cost per device or per liter, and named partners. If the sources don't give a figure, cut the claim rather than estimate one. That number is also the missing reason the design will spread where condensation units didn't.",
+  "Prompt and ending (+4 to +6): Name the goal outright (SDG 6, Clean Water and Sanitation) in paragraph two instead of \"multiple of the UN's Sustainable Development Goals\". Then rewrite the last paragraph so it drops \"However, technological innovation provides hope\" and ends on Koigi's undrinkable Chuka tap water or the Ark's 50 liters a day, not a general hope line. Cut the Kaschenko and Sewell credentials to names only to make room."
+ ]
+}

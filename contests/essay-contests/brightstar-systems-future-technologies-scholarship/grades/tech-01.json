@@ -1,0 +1,54 @@
+{
+ "id": "tech-01",
+ "contest": "BrightStar Systems Future Technologies Scholarship",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 994,
+ "source_url": "https://brightstarsystems.com/the-2019-brightstar-systems-future-technologies-scholarship-winner/",
+ "total": 47,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All five parts get their own paragraph in prompt order, including 'I am most fond of my desktop computer'. The future part is a generic list ('AI-based tutoring system', 'learn at their own pace') rather than a position he argues."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few names (Discord, Netflix, Blackboard, pen tablet, layers) but no numbers, dates, places, people, or hardware and software names. 'It is a powerful computer' and 'a nice computer' are claims that never get backed up."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Opens with the stock line 'Technology is ubiquitous.' Filler intensifiers throughout: 'truly significant', 'immensely convenient', 'extremely' four times, 'vastly'. Formal vocabulary like 'utilize' and 'navigate', a triplet ('fast-paced, efficient, and ever evolving'), and a tidy moral ('There is no doubt...'). No sentence comes close to 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. There is a daily routine list (weather, Bluetooth, Netflix) and an explanation of how layers work, but no single moment or scene. The closest thing is the line about moving from traditional drawing to the pen tablet, which is never told."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The layers paragraph does explain a real mechanism ('the layer it is on can be scrapped... without ruining the whole drawing'). The future section is a generic menu (custom pacing, progress software, AI tutoring) with no reason it would work and no say on who does it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and follow the prompt order. But both the opening and the close are generic, and the last line restates instead of returning to anything: 'There is no doubt that we will continue to witness the advancement of technology for many more decades.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the whole first paragraph ('Technology is ubiquitous...' through 'further expansion remains in this field') and open on the drawing paragraph instead: 'I used to draw only traditionally, however, I have recently acquired a pen tablet.' Ask Enes for the real details to anchor it: the tablet model, the art program, and one actual drawing where scrapping a layer saved the piece. Then rewrite the last paragraph to come back to that drawing or the desktop instead of 'There is no doubt...'. This fixes stories, structure and voice together. The essay is also at 994 words, under the 1,000 minimum, and this new material covers that.",
+  "Do a voice pass. Delete 'truly', 'immensely', 'vastly', 'basically' and all four 'extremely'. Replace 'utilize' with 'use' and 'navigate' with 'use'. Cut the triplet 'fast-paced, efficient, and ever evolving' and the generic sentences 'Social media is also a major aspect of technology' and 'Technology is all around us influencing and changing our daily lives.' Merge two or three short routine sentences into one long, natural sentence so at least one runs past 45 words.",
+  "Make the claims checkable using real facts from Enes, never invented ones. Name the CPU or build behind 'powerful computer' and 'easy to upgrade', the games he plays with Discord friends, the class or school that uses Blackboard, and whether he has actually used an AI tutor. In the future paragraph, keep only the claims he can tie to his own experience and say why each one would work. Cut the generic list ('Schools have always had one curriculum...', 'This creates a more effective learning environment')."
+ ]
+}

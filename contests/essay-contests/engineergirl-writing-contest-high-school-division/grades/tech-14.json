@@ -1,0 +1,54 @@
+{
+ "id": "tech-14",
+ "contest": "EngineerGirl Writing Contest (High School division)",
+ "year": "2022",
+ "outcome": "runner-up",
+ "words": 650,
+ "source_url": "https://web.archive.org/web/2025/https://www.engineergirl.org/146961/Frugal-Engineering-Design-Solutions-in-the-Fight-to-Eradicate-Malaria",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It clearly shows engineers attacking a global health problem through 'frugal design', but it never names the Sustainable Development Goal (SDG 3, Good Health and Well-being), even though the prompt asks for one."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dense and checkable: 'achieves 125,000 rpm', 'costs only twenty cents', 'ninety-seven cents to make', 'Nigeria, which reported an increase of 1.3 million cases in 2017', Manu Prakash, a clinic in Uganda, and cited sources."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Several tells: the 'not only X but also Y' construction appears three times ('has not only failed', 'lack not only centrifuges, but also electricity', 'we not only improve'), an em dash ('toy—the whirligig'), stock phrasing ('brilliant engineers are on the frontlines', 'this enduring adversary', 'scourge', 'Luckily'), a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one on-topic case study: Prakash sees a centrifuge 'being used as a doorstop' in Uganda and builds the paperfuge and foldoscope. It is told as a secondhand summary with only one scene beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It names why the old fixes failed (DDT, resistance, the vaccine is 'only thirty percent effective') and why diagnosis is the bottleneck (centrifuges need electricity), then gives the fix and its cost. It never addresses how the tools reach clinics or what still limits them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay is well organized, but the ending is a generic moral, not a return to the opening child: 'we not only improve worldwide health, but also take a positive step toward economic progress and global stability.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2, 'Mosquitoes became resistant to insecticide-treated bednets and chloroquine', is a factual error (-10). Chloroquine resistance belongs to the Plasmodium parasite, not the mosquito. Rewrite as 'Mosquitoes became resistant to the insecticide on bed nets, and the parasite itself became resistant to chloroquine.' Also check 'DDT was detrimental to human health' against a source, or soften it to the documented concern.",
+  "Clean the voice tells (up to +8, plus 2 back for the em dash). Replace 'toy—the whirligig' with 'toy, the whirligig'. Rewrite all three 'not only... but also' lines as plain statements ('Many African villages have no centrifuge and no electricity'). Cut 'brilliant engineers are on the frontlines', 'this enduring adversary' and 'Luckily, a team of engineers has begun to solve this problem.' Merge two or three of the short paper-fuge sentences into one long sentence so at least one runs past 45 words.",
+  "Replace the closing paragraph (+4 structure, +4 prompt). Name the goal outright ('SDG 3, good health and well-being') and end on the opening image instead of 'economic progress and global stability': bring back the dying child and the Uganda doorstop, for example by pointing out that a twenty-cent paper disc now does the job the unused centrifuge could not."
+ ]
+}

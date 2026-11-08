@@ -1,0 +1,54 @@
+{
+ "id": "tech-09",
+ "contest": "Singularity: AI Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1476,
+ "source_url": "https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Takes a clear position on the single-part prompt: 'the world should make this the central structural adaptation it pursues', then backs it with three named decisions and a rebuttal of the strongest objection."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sources a reader can check: Goldman Sachs '300 million full-time jobs', WEF 2025 '22% ... by 2030', RAND 'sixty-two schools', Harvard 2025 RCT, Horace Mann in 1837. The PLOS ONE claim that '28% of US children aged 6 to 17 never use the internet at home or school' needs checking against the source, and it is about access, not the achievement gap it is meant to prove."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy antithesis: 'not as an average', 'rather than a product', 'enhances rather than divides', 'how things are learned, not what', 'not wholesale replacement... It is directional'. Also a mangled 'not only... rather', em dashes in 'modality—text, visualization, simulation—', 'The shared core remains; the path to it varies.', 'Moving too fast carries risks. Standing still carries a larger one.', and a tidy closing moral. Paragraphs 5 and 7 switch to stiff, paraphraser-like prose ('There are three deliberate decisions that need to be made regarding which of these two competing scenarios will occur')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so a case study can serve as the story. Horace Mann's Prussian model and Cuban's Silicon Valley schools are both on topic, but each is a summary of a few sentences, and no single case carries the argument."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Names the existing fixes (retraining, wage insurance, UBI) and says why they fail ('treat the symptoms... rather than its cause'), then proposes public infrastructure, a shared core, and reversing the deployment order. It never says who pays, through what program, or why districts would adopt it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The close returns to the Spotify/Amazon/medicine opening ('Music, medicine, retail, news, and travel'), but the last line is a generic moral: 'The choice is ours, and it must be made deliberately and soon.' The three decisions are labeled inconsistently ('three key public decisions', then 'The third alternative')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): rewrite the antithesis sentences as plain claims. Examples: 'personalized learning is an investment in public infrastructure rather than a product' becomes 'Treat adaptive tutoring like the public library: publicly funded and free at the door'. Cut 'The shared core remains; the path to it varies.' and 'Moving too fast carries risks. Standing still carries a larger one.' Replace both em dashes in the modality sentence with commas or parentheses. Fix the broken 'will not only be left to the private market; rather' sentence and the 'which of these two competing scenarios' sentence in paragraph 5. Replace 'The choice is ours, and it must be made deliberately and soon.' with a last line that names the opening image again (one playlist per listener, one lesson per thirty students).",
+  "Ideas (up to +6): in the infrastructure and deployment-order paragraphs, name the delivery vehicle and payer for decision one, and say what makes a district adopt the tool rather than ignore it like earlier ed-tech (the Cuban problem you raise). If Enes has a real view or source on the funding channel (Title I, E-Rate, state contracts), ask him for it and use it. Do not invent a program or figure.",
+  "Case study and facts (up to +6, plus fact-gate risk): pick one case and tell it fully instead of three summaries. The Kestin et al. Harvard trial is the strongest: what the students did, what was measured, what 'twice as much' means. Use it to carry the 'binding constraint has loosened' paragraph. Check the PLOS ONE '28%' figure against Pierce and Cleary before submitting. Then either replace it with a statistic that actually shows a gap widened by ed-tech, or reword the 'mostly increased the gap' sentence so it only claims what the source shows."
+ ]
+}

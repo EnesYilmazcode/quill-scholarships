@@ -1,0 +1,54 @@
+{
+ "id": "tech-08",
+ "contest": "Singularity: AI Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1498,
+ "source_url": "https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Takes a clear position early, \"AI does not make individual intelligence less valuable. It threatens the institutions...\", and gives the strongest objection (\"the game simply stops working\") its own paragraph and rebuttal."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable sources (Chiang, Nature 2000; Gerlich's 666 participants; Lee et al.'s 319 knowledge workers; UNESCO's 13 per 100), but the one personal passage stays abstract: \"friends who could reason sharply\" has no name, subject, year or scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy 'not X but Y' habit (\"Not for lack of ability, but for lack of...\", \"circumstances, not their minds\", \"infrastructure, not intelligence\", \"not less capable; they were less equipped\", \"not a flaw... but a verdict\"), punchline paragraph endings (\"were called merit\", \"It was a reflection of power\"), a paired antithesis (\"Read quickly... Read carefully...\"), and filler 'genuine/genuinely'. There are no em dashes and some long sentences."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "The Chiang case study runs through the essay as an analytic spine, but the only personal story (the Punjab village friends) is a three-sentence summary with no scene, so it supports the essay without carrying it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The 'proxy intelligence' framing and the Socrates-to-AI pattern explain why (whoever controlled the old tool loses authority), and passive vs directed use is backed by Lee et al. But \"evaluation systems are forced to measure\" the capacity to think is asserted, with no account of how or by whom."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Opens on Chiang's \"no smarter than we\" and returns to it, turning the reassurance into an accusation. Last line: \"whether the students who were always capable will simply have to prove it twice.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (recovers up to 12): cut the 'not X but Y' and punchline lines down to one at most. Rewrite \"Not for lack of ability, but for lack of everything ability needs to become visible\" as a plain statement of what the friends lacked. Remove the tag lines \"For years, those circumstances were called merit\" and \"It was a reflection of power\". Change \"Read quickly, this is comfort. Read carefully, it is a provocation\" to one direct sentence. Delete 'genuine' and 'genuinely', and rewrite \"not a flaw in human potential but a verdict on every system\" so it makes the claim without the antithesis.",
+  "Story (recovers up to 6): the village paragraph is the only part only Enes could write, and right now it is a summary. Ask Enes for the real details: which friend, which subject or exam, what year, what actually happened at school. Put those in place of \"friends who could reason sharply and argue with genuine precision fail through school\". Don't invent any of it. If he has no concrete memory, shorten the paragraph rather than pad it.",
+  "Specificity and mechanism (recovers up to 7): check the \"UNESCO's 2026 Global Education Monitoring Report\" figure (13 per 100) against the actual report and fix the year or number if it is wrong. Then, in the paragraph ending \"forced to measure what they always claimed to\", replace that sentence with one concrete change: who would evaluate differently and how (for example, oral defense of process or graded drafts), taken from something Enes has actually seen or a source he can cite."
+ ]
+}

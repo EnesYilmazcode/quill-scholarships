@@ -1,0 +1,54 @@
+{
+ "id": "tech-06",
+ "contest": "Singularity: AI Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1476,
+ "source_url": "https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Part one gets a clear position ('Searle's position that syntax is not semantics remains intact' plus 'it begins to approach what we recognize as discovery'). Part two, 'does the distinction matter', is only implied by 'The black box problem concerns interpretability not epistemic validity' and is never stated as a direct answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dense and checkable: 381,000 stable structures, 736 independently synthesized, 98.5% vs 17% of the proteome, Othello probe accuracy of 99.6%, error cut from 2.72 to 0.10, Miller's 2.5 bits, Newton's 'hypotheses non fingo'. One sourcing slip: 'published results in Google's DeepMind site' (Merchant et al. 2023 appeared in Nature)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It uses the 'not X, it is Y' pattern twice ('The claim is not that machines think as humans do. It is that...' and 'it is not merely retrieving... It is generating'). It has 'genuine/genuinely' 7 times, 'navigating', 'landmark', 'qualitatively distinct class of epistemic agent', triplets ('novel, generalizable, and empirically valid'), and punchline closers ('A theorem proved by... is still a theorem'). Some human roughness survives ('Credit where credit is due but', run-ons like 'rather it inferred one'), and it does have sentences over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "For an analytic prompt the case studies count as the stories. It uses 5 (Lovelace, GNoME, AlphaFold2, Othello-GPT, Newton), all on topic, and the Lovelace frame and Newton analogy hold it together. Running three AI case studies back to back spreads the weight instead of letting one carry it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The reasoning explains why, not just that: human working memory is a bottleneck, real-world data lies on low-dimensional manifolds, ML learns those manifolds without compressing them through that bottleneck, and discovery comes before understanding, as with Newton and the periodic table. The 'Syntax Without Meaning' section repeats Miller instead of moving the argument forward."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending returns to Lovelace and to the parrot: 'It has developed a habit of saying things no one taught it to say, and occasionally, things no one realized were worth saying at all'. But the heading 'The Objection: Syntax Without Meaning' sits over a paragraph that makes no objection, and Miller is covered twice. Deduction: -5 for section headings in the essay (weighted subtotal 80, total 75)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to +8): Rewrite the two 'not X. It is Y' sentences as direct claims, e.g. 'AI can discover theories humans could not, by traversing dimensionalities of data that exceed human cognition.' Cut 'genuine/genuinely' down to one use at most. Replace 'navigating', 'landmark' and 'qualitatively distinct class of epistemic agent' with plain words. Drop the punchline closers ('A theorem proved by a method the mathematician does not fully understand is still a theorem.', 'It is generating what no one knew to tell it.') or fold them into the sentence before.",
+  "Answer part two directly (worth up to +4): In the final paragraph, after 'Yet science has rarely demanded full understanding before accepting success', add one plain sentence giving the position the essay already argues: the distinction matters for interpretability and trust, but not for whether a result counts as discovery. Build it from the existing Zednik and Newton points, with no new claims.",
+  "Structure and deductions (worth +5 and up to +2): Delete all six headings, including the title line, because they cost -5. Cut the repeated Miller material at the start of the 'Syntax Without Meaning' section so Miller appears once, and move the Zednik and Peng manifold argument to right after the Miller paragraph. Also fix 'published results in Google's DeepMind site' to say Nature, fix 'Jumper et al. 's', and delete the stray quotation mark after the last word."
+ ]
+}

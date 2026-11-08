@@ -1,0 +1,54 @@
+{
+ "id": "tech-07",
+ "contest": "Singularity: AI Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1526,
+ "source_url": "https://docs.google.com/document/d/1K4RfEWe_Pq2xgf-lgo38dzeyhGrwHTTVDP8bjnHakUA/edit (linked from https://www.veritasai.com/veritasaiblog/veritas-ai-announces-2026-singularity-essay-contest-winners)",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The prompt has one part and the essay takes a clear position on it: \"What remains uniquely human is the wound in the work, the evidence that it cost something to make.\" It also answers the strongest objection, AI novelty, instead of ignoring it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Dense with names, dates and citations a reader can check: Keats's 1817 letter, his death at twenty-five, Wimsatt and Beardsley, Merleau-Ponty, Bender et al., Lamott, Baldwin, Boden. Two claims are vague or unsourced: \"Researchers have documented cases\" and the paraphrase of Richard Serra."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy contrast framing: \"The question is not whether... but whether\", \"not output, style, or even intent... but something harder to name\", \"not a bug...; it is its engine\", \"not threatened by AI but clarified by it\". Paragraphs end on balanced punchlines (\"The novelty is real; the stakes are absent.\", \"It has no wound.\"), there are stacked triplets, and the filler words genuinely x2, fundamentally x2 and precisely appear. It reads as interchangeable academic model prose with no trace of the writer himself."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is no personal story. Keats works as a case study that frames the essay, but it is told as a summary with no scene, and the forger, Serra and Baldwin examples are brief citations rather than stories."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why, not just that: embodiment grounds language, AI has no stake in its own failure, and \"creative novelty is purposive\" (the random-number-generator contrast). It uses Boden's taxonomy to concede what AI can do. The objection paragraph rests on an unsourced empirical claim."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Opens on Keats and returns to Keats: \"An AI trained on every poem Keats wrote could not have written them, because it cannot die.\" The final paragraph slides into restating the thesis (\"If creativity is... But if creativity is...\"), and the essay ends on a stray closing quotation mark after \"make.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix two factual errors (-10). (a) In paragraph 3, \"Intentionalism is valuable for readers\" gets the term backwards: Wimsatt and Beardsley argued against intentionalism. Change it to \"Anti-intentionalism is valuable for readers\" or \"Their formalism is valuable for readers.\" (b) \"Keats wrote his odes knowing he was dying\" (final paragraph, and \"in the full knowledge of that approaching death\" in paragraph 1) overstates the record. The 1819 odes came before his first hemorrhage in February 1820. Reword to something true, for example \"Keats wrote his odes months after nursing his brother Tom through the tuberculosis that would kill him too.\" Also delete the stray quotation mark after the last word.",
+  "Delete the self-referential sentence in paragraph 1, \"This essay argues that it could not, and that the reason tells us something essential about what creativity actually is.\" (-5). Then cut the contrast framings and punchline closers, which is worth up to +12 on voice. Replace \"The question is not whether it could produce text that resembles them, which it plainly can, but whether it could write them, all by itself\" with \"It could produce text that resembles them; it plainly can.\" Change \"is not output, style, or even intent in the narrow sense, but something harder to name\" to a direct statement. Replace \"Failure, in this account, is not a bug in the creative process; it is its engine\" with \"In this account, failure drives the work.\" Drop \"The novelty is real; the stakes are absent\" and \"It has no wound.\" Delete genuinely, fundamentally and precisely throughout, and merge two short paragraphs so that at least one long, uneven sentence carries real thought.",
+  "The essay has no personal story (stories 3/5, worth up to +6). Ask Enes whether he has a real moment from his own coding or writing where a draft or program failed repeatedly before it worked, or where he set an AI output aside because it did not say what he meant. If he does, place it as a short beat in the failure paragraph after the Lamott line, cut the uncited Serra sentence to make room, and add a source to \"Researchers have documented cases\" or remove that claim. Do not invent the episode."
+ ]
+}
