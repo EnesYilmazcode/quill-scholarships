@@ -1,0 +1,54 @@
+{
+ "id": "neg-12",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 399,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/garrett-58002",
+ "total": 62,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names the question ('why do smart people keep making a deadly choice?') and says how it deepened understanding in two ways, but 'a paper on unsafe driving' never says which class it was for or what the paper argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "'over three thousand trips', 'twelve sources' and 'optimistic bias' are real anchors, but no source, agency or study is named, and 'The numbers stopped me cold' never gives a single number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several tells: 'Public health is not just biology. It is psychology applied at scale.' (isn't-just-X), 'It is not ignorance. It is...' (not X but Y), the triplet 'the same optimistic bias, the same discounting..., the same human wiring', the cliché 'stopped me cold', the punchline 'What I found was a system.', a tidy moral close, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes: the Uber driving is a summary claim ('I have watched more drivers run red lights...') and the research process is described, never shown at a specific moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains why and not just that: optimistic bias plus intermittent rewards ('the ping of a message, the small dopamine hit') explains the texting. The jump to nursing, 'Patients skip medications', is asserted without the same reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The close returns to the trips and the sources from the opening, but the balanced chiasmus and the last line, 'I am still curious about what else I am seeing but not yet understanding.', read as a generic moral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 pts): cut the punchline pairs 'It is not ignorance. It is the same...' and 'Public health is not just biology. It is psychology applied at scale.' and say the nursing link plainly in one long sentence. Delete 'The numbers stopped me cold.' and 'What I found was a system.' Merge the 'Add intermittent rewards...' sentence with the one before it so at least one sentence runs past 45 words.",
+  "Specificity (up to 8 pts): ask Enes for the real details and swap them in. Which course and term was the paper for? Which two or three of the twelve sources (for example, the actual NHTSA or IIHS report and the optimistic-bias study)? What was the one statistic that actually surprised him? Put that number where 'The numbers stopped me cold' sits now.",
+  "Stories (up to 9 pts): don't add a scene. Ask Enes whether one real moment exists: a specific Uber trip that made him start the paper, or the specific source that flipped his question. If not, cut the final chiasmus and use the space for a sharper account of how his question changed, naming the source that changed it."
+ ]
+}

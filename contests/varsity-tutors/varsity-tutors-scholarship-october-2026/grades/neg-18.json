@@ -1,0 +1,54 @@
+{
+ "id": "neg-18",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 563,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/maria-g-58005",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It frames Project Pan as the experiment, but 'sparked an interest in my own personal finances' is never developed into what the writer actually learned about finance; the subject gets a gesture, not an answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only hard detail is 'invest twenty dollars in a savings account'. There are no product names, no amounts spent, no timeline beyond 'In the past year', and the categories are a list: 'clothing, trinkets, accessories, etc.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "There is a transition word on nearly every sentence (That said, Realistically, Nonetheless, Consequently, Undoubtedly, Therefore, In addition), plus 'more than just a simple trend', 'Project Pan is beyond a trend', the triplet 'discipline, develop a strong mindset and sparked', and a tidy moral close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story (impulse buying since starting the job, then the weekly goal), but it is told as a summary, and much of it slides into a generic 'you' ('You see a product being marketed...'). Only the opening has a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The $20 penalty for failing a weekly goal is a real mechanism, but the essay never says why it worked. 'After numerous failed attempts... the improvement was strengthening my discipline' asserts the result without explaining how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The close does return to the store ('Walking out of a store empty handed...'), but the middle is one 400-word block, and the last line restates the thesis: 'my chances of achieving financial independence.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): cut every sentence-opening transition ('That said', 'Realistically', 'Nonetheless', 'Consequently', 'Undoubtedly', 'Therefore', 'In addition') and delete 'That said, it could be interpreted to be more than just a simple trend.' and 'Project Pan is beyond a trend.' Rewrite the generic 'you' sentences in paragraph 2 ('You see a product being marketed... it sits on your vanity untouched') in first person about the writer's own real purchase.",
+  "Specificity and prompt (+8 to +12): ask the writer for the real figures and use them in the long middle paragraph. How many weeks the experiment ran, how many times the $20 penalty triggered, roughly what they spent per week before and after, and the name of one product that sat unused. Then add one or two sentences on what they actually learned about personal finance (budgeting, saving, investing), so the 'deepened understanding of a subject' part gets a real answer.",
+  "Structure (+4 to +6): split the middle block into two paragraphs, the habit and why it happened, then the experiment and its result. Replace the closing sentence ('it has motivated me to improve my decision making...') with a return to the opening's walk out of the shopping center, using whatever the writer really does now in that moment."
+ ]
+}

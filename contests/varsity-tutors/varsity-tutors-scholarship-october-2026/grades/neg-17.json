@@ -1,0 +1,54 @@
+{
+ "id": "neg-17",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 601,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/luke-58008",
+ "total": 92,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The question ('started wondering how much aluminum was actually in it'), the experiment (four batches) and what he learned (oxide, 3004 vs 6061) are all there. The reflection part is only implied: the essay never names the subject or says how his understanding of it changed."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Trader Joe's canned water, '$100 for a two-inch cube', 'about fifteen grams', 'about 350', '660 degrees Celsius', 'past 2,000', alloys 3004 and 6061, the fourth batch. The arithmetic checks out: a 2-inch cube is about 354 g, or about 23 cans."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "No em dashes, no AI vocabulary, no 'not X but Y'. The first paragraph has a sentence over 45 words, and 'my mom could smell it long after the smoke was gone' sounds like a real person. Tells: several paragraphs end on a neat closing line ('gone for good', 'never going to turn into 6061', 'stayed where I left it'), the final fragment is a bit cute, and the first paragraph has a list of three."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One story told fully, from the broken hinge through the failed first batch and the fixes to the finished laptop. The tutoring-money aside explains why he cared and stays on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 5,
+   "reason": "Explains why the first batch failed (thin walls mean a lot of surface touching air, so the metal oxidizes before it melts, and the oxide melts above 2,000 °C). The fix follows from that cause (burn off the paint, crush the cans into bricks to cut surface area). The alloy limit is reasoned through too."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 5,
+   "reason": "Opens on the pile of cans and ends on them: 'Whoever it is, their screen is being held up by a few of my old water cans. The same ones I still drink every day.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Criterion 1 (+4): after the 3004/6061 paragraph, add one or two plain sentences on what this changed in how he sees metals or materials. Name the subject outright (oxidation, alloys). Ask Enes what he actually took from it or did next. Don't invent a lesson, and don't end on a tidy moral.",
+  "Criterion 3 (+4): cut down the neat paragraph endings. Drop 'so anything that turned into crust was gone for good' (the sentence before it already says this). Fold 'No matter how well I melted them...' into the previous sentence. Join the closing fragment 'The same ones I still drink every day.' to the sentence before it so the essay doesn't end on a separate punchline.",
+  "Fact gate (avoids a possible -10): '$100 for a two-inch cube' is high for an aluminum block (2-inch 6061 cubes usually sell for far less). Check the real listing or NUMBERS.md and correct it or remove the price. Also confirm the essay doesn't overstate how the hinge was made from the puck."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "neg-13",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 448,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/sienna-58010",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a research question, experiment or academic project and the subject it helped him understand. The essay is about training for a half marathon. The self-made plan ('a newly invented training plan') could count as an experiment, but no question is asked and no subject is learned. -10 deduction for the missing 'deepened your understanding of a subject' part."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real numbers: 'Four calendars', 'six days', 'up to 40 miles per week', 'end of March', 'second in my age group'. But the race, his finish time and anything he actually measured or tested are never given."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The calendars on the floor and the doom-scroll loop sound like a real person. The tells: stacked fragments ('A goal. / A half marathon.'), one-line punchline paragraphs ('And I loved it.'), stock phrases ('newfound sense of excitement', 'I had a purpose') and chained slogans ('To think is to manifest'). No sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story (training, then the race and two medals). It is told mostly as summary, and it is about personal discipline, not a research or academic project, so it does not serve this prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The reasoning is 'goals break the cycle' and 'your imagination is your dreams'. It never explains why the plan worked or what he learned about training, the body or anything else."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The arc is clear, but the essay opens on the four calendars and ends on a generic moral that never returns to them: 'To work towards a goal is to prove to yourself that you are capable of more than your mind first allows you to recognize.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the prompt mismatch first (worth up to +22 points across criteria 1, 4 and 5, plus the -10 deduction back). Ask Enes whether he has a real research question, experiment or class project to write about instead. If the running story stays, ask him how he actually built the 'newly invented training plan' (what sources, what he changed week to week, what he measured, what didn't work), then rewrite the paragraph that begins 'I begin marking the four calendars' as the experiment and name the subject he came to understand, such as training load or recovery. Use only what he confirms.",
+  "Cut the two aphorism passages (+4 to +8 on voice). Remove 'Set goals that seem so far out of reach... Your imagination is what you aspire to achieve.' and 'To think is to manifest... more than your mind first allows you to recognize.' In their place, write one plain sentence saying what the medals told him about his plan. Also merge the one-line fragments ('A goal.' / 'A half marathon.' / 'And I loved it.') into the paragraphs around them.",
+  "Rewrite the last paragraph to return to the four calendars on the floor (+4 on structure). Ask Enes for the real race name and finish time, and what he did with the calendars afterward, so the ending pays off the opening image instead of closing on a moral."
+ ]
+}

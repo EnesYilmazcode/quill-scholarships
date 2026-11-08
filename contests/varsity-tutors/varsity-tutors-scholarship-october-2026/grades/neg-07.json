@@ -1,0 +1,54 @@
+{
+ "id": "neg-07",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 286,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/richard-58009",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Names a real project (the LEGO Olympiad) but gives the 'deepened your understanding of a subject' part one generic sentence: 'I learned that you must always double or even triple-check when building/designing something.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some real detail (Jose, Paul, the arm snapping, 'lower the speed of how it moves', second place) but no year, grade, task names, point totals, time left or anything about what the arm was lifting."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Clearly a person talking, with no AI tells, em dashes, filler adverbs or 'not X but Y'. It loses a point for typos and texting style ('take u back', 'disided', 'paul', 'Me and my friend') and for the tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story (the arm breaking under time pressure) carries the essay. Its middle turns into summary: 'We had to do task after task after task.'"
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains the cause and the fix ('used too much power in the engine for the arm, causing the arm to get loose and break', then lowered the speed), but the lesson drawn is a generic 'double-check' instead of what the failure taught about motor power and load."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Written as one block. The 'Snap' cold open is good, but the last line, 'I learned that you must always double or even triple-check when building/designing something.', is a generic moral that never returns to the snapped arm."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the last sentence ('I learned that you must always double or even triple-check...') with what Enes actually learned about the subject from the broken arm: why more motor speed or power made the arm come loose, and what he now thinks about speed against strength when building a machine. Ask Enes what he understood afterward in his own words. Don't write the lesson for him. This answers the 'deepened your understanding' half of the prompt (+8).",
+  "Ask Enes for the real specifics and add only what he confirms: the year or grade, what the competition was called or where it was held, which tasks the arm had to do, roughly how much time was left when it broke, and the points or the gap to first place. To make room, cut the repeated lines 'So while my friends and I were testing under a time crunch, we had to look around to see what was wrong' and 'basically taken apart the whole thing' (+8).",
+  "Break it into paragraphs (the snap, the diagnosis, the fix and the race, the understanding). Fix 'u', 'disided', 'paul' and 'Me and my friend Jose' ('My friends Jose, Paul and I'). Cut 'Before I continue, let me take u back some.' Then end on the arm itself, for example how it held through the race after the speed change, so the close comes back to the opening 'Snap' (+6)."
+ ]
+}

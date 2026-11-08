@@ -1,0 +1,54 @@
+{
+ "id": "neg-14",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 478,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/haley-58015",
+ "total": 40,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It covers both curiosity and deepened understanding, but never says what the project was (no class, method, sources or finding), only that it was 'a research project I did about why schools should teach more real life skills'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "Nothing in it could be checked: no course, school, date, source, statistic, interview or result. The central event is abstract: 'While working on my research I explored the idea of adding practical lessons...'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "AI tells: 'research is not just about finding information', 'really sparked', 'Most importantly', stacked triplets ('confidence, opportunities, and ability to reach their goals'; 'keep asking questions, learning new things, and looking for ways'), and a tidy moral ending. It has no sentence over 45 words. The missing commas are the only sign of a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 stories told as scenes. The project is only claimed, never shown. The one personal thread (Business Finance major, some students learn money from family) is a summary, not a moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says that schools should add financial literacy but not why that hasn't happened, what the research found, or who would change it. 'Education should be about more than passing classes' is intent, not a mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the close is a generic moral that never brings back a specific opening image: 'looking for ways to make a positive difference in my community.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and answers-prompt (about 20 points available): rewrite paragraph 3 ('While working on my research I explored the idea...') around what the project actually was. Ask Enes for the real details: which class or setting, what he read or surveyed, one source or number he found, and the one finding that surprised him. Then put those in place of the list 'financial literacy, emotional management, job preparation, and decision making'. Don't invent any of them.",
+  "Voice and stories (about 10 points): cut paragraph 4's stock lines ('This project taught me to look beyond...', 'It also helped me improve my research skills, think more critically...', 'Most importantly, it showed me that research is not just about finding information...'). Replace them with the true moment his curiosity started, which he hints at in paragraph 2 ('others have to figure everything out on their own'). Ask Enes whether that describes him, and if so, for the specific thing about money he had to figure out alone.",
+  "Structure and ideas (about 6 points): replace the closing paragraph ('In the future, I want to use what I learn... make a positive difference in my community') with one or two sentences that return to the real finding or moment from fix 1, plus the one concrete change his research points to and who would make it. Also drop 'really sparked my curiosity' from the first line and open on the question itself."
+ ]
+}

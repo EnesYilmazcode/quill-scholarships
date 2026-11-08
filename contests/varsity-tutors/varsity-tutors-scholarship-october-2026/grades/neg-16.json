@@ -1,0 +1,54 @@
+{
+ "id": "neg-16",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 545,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/braxton-58011",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a research question, experiment or academic project, but the essay is a diagnosis and growth story. The 'question' only appears near the end ('My interest in psychology began with one question'), and 'deepened understanding' gets a list of conditions with nothing learned about any of them."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "A few real anchors ('seventh grade', 'mild ADHD', 'drawing, making art, or playing games on my iPad', 'first real oratorical contest'), but no subject, test, teacher, contest name, speech title or finding. Every claim about understanding is abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: triplet anaphora opener ('I questioned... I questioned... And eventually'), 'Psychology became more than X; it became Y' antithesis, two 'What started as / What I once saw as X became Y' turns, and a slogan close ('first step toward discovering what makes you powerful'). No sentence over 45 words. The iPad and stricter-teacher lines are the only parts that sound like a person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories, the ADHD diagnosis and the seventh-grade speech, both told as summary with no scene. The speech is the nearest thing to an academic project but gets four sentences. The teacher-strictness and pandemic lines drift off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "States that 'struggling does not mean someone lacks intelligence' and 'there is no single way to learn' but never explains why: nothing on why ADHD slows timed tests, and the five conditions are listed with no insight about any of them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The first paragraph is an overloaded block. The ending does return to the test-clock question, but it then lands on a generic moral: 'Sometimes, understanding what makes you different is the first step toward discovering what makes you powerful.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt (+12 possible): Delete the triplet opener and open with the question that is now buried in the last paragraph: 'Why could I understand the material but struggle to finish my tests on time?' Then rebuild paragraph 2 around preparing the seventh-grade oratorical speech as the project. Say what the writer actually looked up or found out about ADHD and timed tests while writing it, using only what he really learned, and cut the five-condition list ('dyslexia, dysgraphia, autism, Down syndrome, and cerebral palsy') down to whatever he truly read about.",
+  "Human voice (+12 possible): Cut the slogan last line ('Sometimes, understanding what makes you different...') and end on the test clock or the speech. Rewrite 'Psychology became more than the study of the mind and behavior; it became a way to...' as one plain statement. Cut one of the two 'What X became Y' turns ('What started as frustration...' or 'What I once saw as a weakness...'). Merge two of the short diagnosis sentences into one longer, run-on sentence in his own voice so the essay has at least one sentence over 45 words.",
+  "Specificity (+12 possible): Swap the generic nouns for the real ones he already knows: which class or subject the timed tests were in, the name of the oratorical contest, and the speech title. Cut the off-topic 'one of my teachers was stricter with me' sentence and the general pandemic line so the space goes to the speech and the question. Do not add any scene or detail that did not happen."
+ ]
+}

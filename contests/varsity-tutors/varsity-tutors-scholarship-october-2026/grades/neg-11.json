@@ -1,0 +1,54 @@
+{
+ "id": "neg-11",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 379,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/lilly-58006",
+ "total": 23,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks about a research question, experiment or academic project, and the essay never names one. It opens with \"We are all inevitably products of our environment\" and stays on that general claim. A separate -10 deduction applies because no part of the prompt gets an answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "There are no names, places, dates, numbers or course titles. Every example is hypothetical, such as \"your friends might start drinking when you hangout\" and \"growing up in a poor neighborhood\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It doesn't read like AI: the slips are clearly human (\"it'll can be\", \"This is cause\"). There are no em dashes and no AI vocabulary. But it lectures in a generic second person, has a slogan-style antithesis (\"products of our environment but not the final product\"), and ends on a tidy moral about \"generations to come\"."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are no real stories, only a made-up drinking scenario and a business-product metaphor. Being first-generation comes up only as a general claim (\"by being the first to graduate college in your family\") with no scene, and it has nothing to do with research."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one thin mechanism: being around like-minded people \"naturally builds that motivation.\" The rest is assertion, and the product-revision metaphor stands in for an explanation of why environments can be changed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The four paragraphs have no story at the front. The ending restates the thesis in a sentence that falls apart: \"Being products of our environment should outframe oneself to think beyond their set original limits rather than put one in a box...\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace paragraph 1 (from \"We are all inevitably products of our environment\" through \"further on escalation\") with the real research question, experiment or class project that caught Enes's interest. Ask Enes which one it was, when it happened and what he actually did. This fixes the -10 deduction and lifts answers_prompt and stories (about 30 points).",
+  "Delete the drinking scenario and the business-product metaphor (\"When any first product is made in a business...changing the packaging\"). Use that space for checkable facts Enes provides about the project: the course or setting, the tool or data he used, what he expected and what actually happened. Cutting the hypotheticals raises specificity and ideas_mechanism (about 20 points).",
+  "Rewrite the last paragraph. Fix \"it'll can be\" and \"This is cause\". Replace the run-on moral sentence (\"Being products of our environment should outframe oneself...\") with one plain line that brings back the project from the opening and says what he understands now that he didn't before. That raises structure_ending and human_voice (about 8 points)."
+ ]
+}

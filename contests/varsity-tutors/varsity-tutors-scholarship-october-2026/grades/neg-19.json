@@ -1,0 +1,54 @@
+{
+ "id": "neg-19",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 859,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/taiye-58012",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names the project and what it taught him: 'I began developing a construction cash-flow forecasting project using artificial intelligence' leads to 'profitability and having enough available cash are not the same thing'. But the project stays vague (no tool, no class, no timeframe), and paragraph 2 is a mission statement, not the project."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are 'Colorado State University' and '18-year-old freshman'. The model is a 'hypothetical contractor' with no dollar amounts, no retainage percentage, no payment delay length, and no named numbers that 'didn't match' when he checked by hand."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are three 'not X but Y' / 'doesn't just' tells: 'A mistake doesn't just affect numbers...; it can affect workers, families, deadlines, and entire projects', 'Delaying a payment didn't just move a number', and 'not because they lack opportunities, but because'. Add the triplet 'organized... reasonable... professional', the filler 'More importantly' and 'far more useful', the tidy moral close, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story: he builds the model, then catches its errors by checking by hand. It is told as a summary with no scene. The first-gen paragraph is a loosely connected second beat, and paragraph 2 reads like a résumé."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains real mechanisms: retainage is withheld, and a late payment pushes payroll and materials past the cash on hand. The AI lesson stays generic, though: 'treating AI-generated answers as something to evaluate rather than automatically accept', with no method for how he checked."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is organized and the close does bring back the opening puzzle. But it lands on a stock moral: 'It requires being curious enough to question that answer, test it, and keep learning when it turns out to be incomplete.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity, paragraphs 3 and 5 (up to +12): ask Enes for the real numbers in his model and put them in place of 'a hypothetical contractor with expected payments...' and 'some of them didn't match'. That means the contract size, the retainage percentage, how many weeks late the payment was, the week cash went negative, the AI tool he used, and the exact figure that was wrong next to the figure he got by hand. If he doesn't have them, cut the vague sentences rather than filling them in.",
+  "Voice, throughout (up to +12): rewrite the three contrast lines as plain statements. Change 'A mistake doesn't just affect numbers...' to 'A mistake can cost workers a paycheck or push a deadline', 'Delaying a payment didn't just move a number to a different week. It could change whether...' to 'A late payment could decide whether...', and 'not because they lack opportunities, but because they cannot...' to 'because they cannot...'. Cut 'More importantly', 'far more useful' and the triplet 'organized... reasonable... professional'. Join two short sentences in paragraph 5 so at least one runs over 45 words.",
+  "Stories and structure, paragraphs 2, 6 and 8 (up to +10): cut paragraph 2 (the 'I want to understand how businesses operate' mission statement). Cut the first-gen paragraph down to one sentence tied to the moment he checked the numbers by hand. Replace the final moral sentence with a line that returns to the opening contractor, for example the specific week his own model showed a profitable job running out of cash."
+ ]
+}

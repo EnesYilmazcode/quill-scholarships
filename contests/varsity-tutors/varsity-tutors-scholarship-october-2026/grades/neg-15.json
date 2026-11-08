@@ -1,0 +1,54 @@
+{
+ "id": "neg-15",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 531,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/kelenna-elijah-58019",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "Names the project, the question that started it ('Why do a few traders keep winning while most people lose?') and how his understanding changed ('\"How do I know if a result is real?\" was the better one'), so every part gets a direct answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The setup is concrete ('48 paper portfolios across 16 accounts on Invo', 'thousands' of copiers), but each of the three lessons is abstract. No strategy is named, there is no trade count, no drawdown figure and no single portfolio that got wiped out. These numbers could not be checked against NUMBERS.md because read access was denied."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Sounds like a real builder, but the stock framing shows. It uses the 'not X, it was Y' move ('was not the market. It was my own emotions') and antitheses ('in advance, not in the middle of a trade'; 'a good question matters more than a fast answer'). Paragraphs end on punchlines ('A small sample can tell you almost anything you want to hear.'), it runs on a first/second/third-lesson scaffold, and no sentence comes near 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "The one project is on topic, but it is told as a summary of lessons with no scene. Even the emotions beat is general ('When a trade went against me, I wanted to step in'), with no specific trade or moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Explains some of the why ('A strategy that picked well but bet too big could still get wiped out'; written rules force deciding in advance), but the mechanisms are textbook points with no sizing rule, threshold or result from his own data behind them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc, and it loops back to the opening question: 'But I know how to test it now, and I know what an honest answer would have to look like.' It loses a point for the list-like lesson paragraphs and the tidy-moral paragraph about research."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Sharpen the position-sizing paragraph (the 'The second thing surprised me more' paragraph) with real data from KTRADE: ask Enes which actual portfolio picked well but sized too big, what fraction it put per trade, and how far it fell, compared with a careful-sizing portfolio. Then replace 'A strategy that picked well but bet too big could still get wiped out. A strategy with average picks and careful sizing kept going.' with those real names and numbers. Do the same in the first lesson by asking how many trades he now requires before trusting a strategy.",
+  "Turn the emotions paragraph into one real moment: ask Enes for a specific trade where he stepped in and made it worse, then replace 'When a trade went against me, I wanted to step in and change things. When something was working, I wanted to push it harder.' with that trade, and quote one of the actual written rules in place of 'Things got better once I wrote the rules down.'",
+  "Cut the stock constructions: rewrite 'Early on, the biggest variable in the system was not the market. It was my own emotions.' as a plain statement, delete the closing punchlines 'A small sample can tell you almost anything you want to hear.' and 'Running 48 portfolios side by side made this easy to see.', cut 'Now I think a good question matters more than a fast answer.', and join a few short sentences into one long sentence, for example the copier-tracking setup in paragraph 3."
+ ]
+}

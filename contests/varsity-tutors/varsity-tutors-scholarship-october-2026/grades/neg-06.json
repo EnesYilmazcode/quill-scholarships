@@ -1,0 +1,54 @@
+{
+ "id": "neg-06",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 346,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/camille-58000",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the project and the moment curiosity started ('the recipe broke, and that is when I actually became interested'), and it answers both halves. The 'deepened understanding' half only gets a general line ('real science isn't about memorizing outcomes') instead of saying what he now understands about enzymes or controls."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The lab details are real and specific: catalase, potato, boiled extract, hydrogen peroxide, fizzing, iron. But there is no course name, teacher, temperature, timing or named source ('a few old biology forums and papers'), and the investigation itself is summarized, not shown."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Two 'not X but Y' frames ('isn't when everything goes perfectly...; it's when things go wrong', 'isn't about memorizing outcomes, but about having the curiosity'), 'completely' used 3 times, 'found the culprit', and a tidy moral close. No sentence goes over 45 words. The lab partners wanting to 'wash out the test tube' and the run of three questions sound like a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story: the boiled potato still fizzed. The anomaly scene and the disagreement with partners work, but the payoff ('I ended up spending my afternoon looking into it') is told in summary with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Gives an actual causal explanation: the heat denatures the protein, but inorganic iron survives and acts as a weak non-protein catalyst. It also lists rival hypotheses (thermometer, boiling temperature). It never says how he ruled those out or tested the iron idea."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc from the recipe idea to the anomaly to the investigation to the lesson. The ending restates a moral instead of returning to the recipe image. Last line: 'It taught me that real science isn't about memorizing outcomes, but about having the curiosity to look closer at the anomalies.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8): in paragraphs 1 and 4, ask Enes for the real facts and put them in. Which course and school, what temperature or how long the extract was boiled, roughly how much it fizzed compared with the fresh extract, and the name of the paper or source that pointed to iron. Then replace 'After digging through a few old biology forums and papers' with that named source and one concrete step he took, if he really took one (for example, whether he tested it or told the teacher). Also check that the iron explanation matches the source he actually read. Don't add any step that didn't happen.",
+  "Voice (+8): cut both 'not X but Y' sentences in the last paragraph and delete all three 'completely'. Merge the three questions in paragraph 3 with the sentence before them ('But I couldn't stop wondering why a dead enzyme was still doing its job: was our thermometer broken, did the boiling not get hot enough, or was something else in the potato tissue causing it?') so the essay has one long, natural sentence. Drop 'found the culprit:' and just name iron.",
+  "Ending (+4, and helps prompt fit): replace the final paragraph with a short close that returns to the opening recipe and says what he now understands about enzymes or experiments. Ask Enes what really happened to the lab report or his group's data after he found the iron explanation, and end on that real outcome instead of a general lesson about curiosity."
+ ]
+}

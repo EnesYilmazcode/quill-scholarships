@@ -1,0 +1,54 @@
+{
+ "id": "neg-08",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 302,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/jordyn-58018",
+ "total": 58,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names the project and what got the writer curious ('What if the chemical principles I studied in class could help explain why cancer cells thrive?'), but the deeper understanding stays a claim: 'fundamentally reshaped my relationship with science' never says what he now understands that he didn't before."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The terms are real (back-titrations, calcium carbonate, magnesium hydroxide, Warburg effect), but there is no number, date, result, source or named buffering agent. The core of the project is abstract: 'I investigated how pH dynamics influence tumor progression and drug resistance.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: one em dash ('purely theoretical—until'), a not-X-but-Y line ('Science ceased to be merely an academic exercise; it became an active tool for resilience and discovery'), filler adverbs ('purely' twice, 'fundamentally'), stock phrases ('personal shadow', 'driving force behind my passion'), a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two beats, the antacid lab and the screening appointment, and both are on topic. The appointment is summarized, not shown ('During one monitoring appointment, I began thinking'), and the family loss gets one clause."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is a real mechanism (altered metabolism makes the tumor environment acidic, and buffering could raise chemo efficacy), but it stops at 'I hypothesized how targeted buffering agents could alter the acidity'. It never says how, which drugs, or why acidity blocks them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The four paragraphs are organized, but the close turns into a generic moral and never returns to the antacid titration image: 'it has become the driving force behind my passion to study biochemistry and contribute to targeted cancer therapies.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 4 (about 8 points on voice and structure): cut 'Science ceased to be merely an academic exercise; it became an active tool for resilience and discovery' and 'fundamentally reshaped my relationship with science'. Replace them with a plain statement of the one thing he now understands about tumors that he didn't understand while titrating antacids. End on the antacid itself (the same neutralization, now aimed at a tumor) instead of 'driving force behind my passion'. Also replace the em dash in paragraph 1 ('purely theoretical—until') with a period, and drop both uses of 'purely'.",
+  "Paragraph 3 (about 8 points on specificity and mechanism): replace 'I investigated how pH dynamics influence tumor progression and drug resistance' and 'I hypothesized how targeted buffering agents could...' with what he actually did. Ask Enes for the real details: which papers or sources he read, which buffering agent he looked at (for example, whether it was bicarbonate), which chemo drug class is weakened by acidity and why, and what form the project took (notes, a written proposal, a model). Use only what he confirms.",
+  "Paragraph 1 (about 4 points on specificity): swap the generic list ('watched pH indicators shift, calculated molar concentrations') for the lab's real numbers. Ask Enes for the brands he tested, which neutralized the most acid, and the measured values, then state one result plainly. Add a long sentence that links the titration directly to the tumor question, so the essay has at least one sentence over 45 words."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "vt-05",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 292,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/muhammad-ali-57984",
+ "total": 40,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the project and the question in the first two sentences, then covers curiosity and deeper understanding. The curiosity part is only a gesture: \"What sparked my curiosity wasn't the answer but the messiness of getting there.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only hard facts are \"more than 10,000 property records\", California and CareerAC. No county, chart, feature, tool or result is named, and the key moment is abstract: \"When a county's prices didn't fit my expectations.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 7 em dashes; not-X-but-Y (\"wasn't the answer but the messiness\", \"isn't coding. It's knowing\"); slogan antithesis (\"A model is an argument, not a mirror\"); triplets (\"cleaned, explored, and visualized\", \"what to include, what to normalize, what to leave out\"); the slogan \"curiosity first, humility always\"; AI word \"visceral\"; a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, the housing dashboard, and it is on topic. It is told as a summary with no scene. The one possible scene, the county that broke his expectations, stays unnamed. The CareerAC mention is a brief off-topic beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Gives a real reason for the lesson: chart choices like normalizing and leaving data out change the story. It never shows one choice changing one result, so the claim \"each choice changed the story\" stays unproven."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clean, but the ending is a generic moral instead of a return to the opening question: \"It's knowing what you don't know, and being excited to find out.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Settle the data-source contradiction (-10 deduction plus answers_prompt and ideas points). Paragraph 1 says \"I wanted to see it myself, in real data\", but paragraph 2 says \"The data was deterministic synthetic data.\" Synthetic data cannot show what \"actually drives\" real California prices. Ask Enes which is true. If it was synthetic, cut \"in real data\" and change the research question to what he could actually test. The point that the generator's assumptions limit what the numbers can tell him could then become the essay's real insight.",
+  "Make paragraphs 2 and 3 checkable (specificity 2 to 4 recovers about 8 points, and it also lifts stories and ideas). Ask Enes for the real details: which county didn't fit, which feature he plotted price against, what he normalized or dropped and how that changed the chart, and what tools he used. Replace \"somewhere in the middle of plotting price distributions against county-level features\" and \"When a county's prices didn't fit my expectations\" with those facts. Then cut the CareerAC clause so the space goes to this one project.",
+  "Strip the AI tells and end on the opening question (recovers the -6 em-dash deduction plus voice and structure points). Turn all 7 em dashes into commas or periods. Delete \"A model is an argument, not a mirror\" and \"curiosity first, humility always\". Rewrite \"wasn't the answer but the messiness\" as a plain statement. Replace the last two sentences with what he found about the original question, \"what actually drives the differences in housing prices across California counties?\", using his real result."
+ ]
+}

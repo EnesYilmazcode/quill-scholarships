@@ -1,0 +1,54 @@
+{
+ "id": "neg-09",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 357,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/peyton-castiel-58014",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Names the project and the spark clearly, but 'deepened your understanding of a subject' gets only a gesture: 'Reading her words changed the way I saw history in a way that a textbook summary never could' never says what he now understands about the comfort-women system that he did not before."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The setup is concrete (NHD's fiftieth year, 'Turning Points in History', The Poppy War by R.F. Kuang, Kimiko Kaneda, second at regionals), but the research itself is abstract: no project format, no source named besides one testimony, and Kaneda is reduced to 'suffered severe physical injuries.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It is a real story, but it uses stock framing. Tells found: 'is not just about finding information, but recognizing', the closing slogan 'Awareness is only the first step to change.', 'devastating' twice, the 'I had never... I had never...' anaphora, 'sparked something in me'. No sentence reaches 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (reading the novel at lunch, which leads to the research), but it is told as a summary. The shack scene gets one sentence, and the research process has no scene at all."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says the testimony mattered more than a textbook and that research prevents repetition, but it never explains why or how. 'Researching history is not just about finding information, but recognizing the effects behind it to prevent the same thing from happening again' is a claim, not reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay ends on a generic moral, 'Awareness is only the first step to change.', instead of returning to the novel, the shack scene or Kaneda."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 3, 'Researching history is not just about finding information, but recognizing the effects behind it...': cut this sentence and replace it with the one thing he learned from the research that the novel and textbook did not give him, for example what Kaneda's testimony showed about how the system worked or how it was hidden afterward. Ask the writer what he actually found. This lifts ideas_mechanism and answers_prompt, about 9 to 12 points.",
+  "Paragraph 2, 'She was transported to China, where she was forced into sexual servitude and suffered severe physical injuries.': replace the summary with a short quoted fragment or a concrete fact from Kaneda's testimony he really read. Also name the NHD category (exhibit, paper, documentary, website) and one or two other sources he used. Ask the writer for these rather than supplying them. This is worth about 8 points on specificity.",
+  "Last paragraph: cut 'Awareness is only the first step to change.' and the 'Although I did not advance beyond the state competition' clause (state 'second place at regionals' on its own). End on a line that returns to the opening, the shack scene in The Poppy War or Kaneda's own words, so the close pays off the start. This removes the -5 disclaimer deduction and recovers about 6 points across voice and structure."
+ ]
+}

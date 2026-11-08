@@ -1,0 +1,54 @@
+{
+ "id": "vt-02",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 751,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/velma-58016",
+ "total": 60,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the question that sparked the project ('if we teach children to enjoy reading from a young age, can we better their learning habits?'), the project itself, and what changed in his understanding ('This project allowed me to learn more about reading and what it means to be literate'). The 'deepened understanding' half is mostly asserted, not shown, and it takes 2 paragraphs to reach the project."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The school's name is the only checkable fact. The essay has no book title, grade, number of children, date, number of sessions or quoted words from a child; the payoff scene is 'They smiled and laughed, telling me their thoughts'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some clumsy lines sound human ('a library in which most students avoid'), but the stock framing is heavy: a not-X-but-Y line ('These kids were not just listening to a story; they took what they heard and made it their own'), a balanced antithesis ('a summary can tell you what happens... but it cannot show you'), a triplet ('imagination, interpretation, and discovery'), a 'there is a difference between' line and a tidy closing moral. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is 1 story, the reading session, and it is on topic, but it is told as a summary ('I read the book to them aloud and asked questions about what was happening. Then allowed the kids to act out some of their favorite parts.') with no scene and no individual child. The first 2 paragraphs have no story at all."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some real reasoning: workload pushes students toward shortcuts, and a summary takes away interpretation. The admission 'I did not know if one reading session would change a students perspective on reading long-term' is honest. But the conclusion stays general ('We have to show students why they should want to read') and never explains how interactive reading changes the habit."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order makes sense (question, project, findings, reflection), but it opens on an abstract claim instead of a scene and ends on a general moral: 'In a world where answers are readily available to us at our convenience, I think it is important we allow students to experience finding those answers for themselves.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (up to +12): in paragraph 3 ('I read the book to them aloud...') and paragraph 4 ('They smiled and laughed...'), ask Enes for the real details and put them in: which book, what grade, how many kids, and one thing a child actually said or acted out. Then replace 'What I found was impressive: they were excited' with that one real moment. Do not add anything that did not happen.",
+  "Voice (up to +8): cut 'These kids were not just listening to a story; they took what they heard and made it their own,' cut 'It's about imagination, interpretation, and discovery,' and cut 'there is a difference between using technology to better your understanding and using it to not have to do something at all.' Merge the 2 short sentences in paragraph 3 into one longer, plain sentence describing the session as it happened. Fix 'a library in which most students avoid' to 'a library most students avoid' and 'students perspective' to 'student's perspective'.",
+  "Structure and opening (up to +4, and it helps stories): delete 'Artificial intelligence is quickly becoming normalized into society.' and the list of ways AI can help, and open on the real moment he noticed classmates using AI summaries instead of reading the assigned book. Replace the last sentence with a line that goes back to that opening (the classmates, or the library most students avoid) instead of a general moral."
+ ]
+}

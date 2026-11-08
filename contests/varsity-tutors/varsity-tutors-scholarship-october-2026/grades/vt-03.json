@@ -1,0 +1,54 @@
+{
+ "id": "vt-03",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 509,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/gianna-57998",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the project and the spark ('choose a prominent public conspiracy theory and critically analyze its underlying rhetorical mechanics'). But the 'deepened understanding' part is one stock claim, 'conspiracy theories do not win people over using logic, facts, or sound evidence', with nothing that shows how the project changed his thinking."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only anchors are 'junior year English class' and 'Sandy Hook'. Everything else is abstract: 'archived forums, meticulously altered videos, and deeply malicious, hateful blogs'. No forum, claim, video, essay title or source a stranger could check."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense AI tells: 2 em dashes; filler adverbs (truly x2, deeply x3, completely x2, instantly, desperately, fiercely and relentlessly); 'Instead, they succeed...' antithesis; triplets ('difficult, exhausting, and grueling', 'everyone, everywhere, and always'); AI vocabulary ('profound, lifelong lesson', 'revolutionized', 'digital landscape'); a slogan close ('Truth is our only baseline')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (the Sandy Hook research project), but it is told as a summary with no scene. 'As I scrolled through page after page of targeted denialism' is the closest it gets to a moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Names concepts ('cognitive dissonance, confirmation bias, and algorithmic radicalization') but never shows one working on a real piece of the material. 'Weaponizing baseline human emotions' is asserted, not explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are organized, but the ending never returns to the opening belief ('I could spot a lie from a mile away') and closes on a generic moral: 'Truth is our only baseline.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): Cut the last four sentences of the final paragraph, from 'What originally began as a routine investigation' through 'Truth is our only baseline.' Remove both em dashes ('tech-savvy'—uniquely, 'concepts—such as') and every truly, deeply, completely, desperately, instantly, fiercely and relentlessly. Rewrite 'Crafting it proved to be a difficult, exhausting, and grueling balancing act' as one plain clause. Read it aloud and keep only sentences Enes would actually say.",
+  "Specificity (up to +12): In paragraph 3, replace 'archived forums, meticulously altered videos, and deeply malicious, hateful blogs' and 'page after page of targeted denialism' with the actual claim, site or video that stopped him. Ask Enes which one it was and use only what he remembers. If he can't recall one, cut the vague list rather than padding it.",
+  "Mechanism + ending (up to +10): Sharpen paragraph 5 by applying one named concept (e.g. confirmation bias) to the specific hoax argument he read, so the essay shows how it works instead of asserting it. Then end by returning to the opening line, 'I could spot a lie from a mile away', and say plainly what he now believes instead. Draw it only from what he actually concluded in the project."
+ ]
+}

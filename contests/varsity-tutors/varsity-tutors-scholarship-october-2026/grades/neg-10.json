@@ -1,0 +1,54 @@
+{
+ "id": "neg-10",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "October 2026",
+ "outcome": "not-selected",
+ "words": 372,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/sofia-58001",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Names the question ('whether babies can recognize or respond to sounds before they are born') and touches curiosity and understanding, but never says what the project actually was. 'I compared familiar sounds... I looked at how babies might respond' could be a lab study, a literature review or a class report, and the 'deepened understanding' part gets one sentence: 'babies can hear sounds before they are born.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The central project is abstract. It has no class, teacher, source, study, week of pregnancy, number, method or result that a stranger could check. 'their mother's voice' and 'other everyday sounds' are the only concrete details."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Plain and sincere, with one human moment ('I never really thought about how much babies could experience'). Tells found: the filler adverb 'genuinely', the stock opener 'Overall', the tidy moral 'asking questions can help me learn things I never knew before', the triplet-style close 'feel safe and supported', and no sentence over 45 words in a 336-word draft."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story (the project), but it is told only as a summary of intentions ('I wanted to explore', 'I wanted to understand'). The reader never sees a moment of doing the work, and the nursing paragraph is a career statement, not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay states that babies hear before birth and recognize voices but never explains why or how: when hearing develops, how familiarity is measured, or what surprised the writer about the method. 'helped me understand why nurses need to know so much' is asserted, not reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Five clean paragraphs in a sensible order, but the close restates the thesis instead of returning to the opening question. Last line: 'In the future, I hope to use what I learn to help mothers feel safe and supported while caring for their babies during such an important time in their lives.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2 (+16 to +24 pts across specificity, answers prompt and stories): replace 'For my experiment, I wanted to explore... I looked at how babies might respond' with what the writer actually did. Ask them for the real facts: whether it was a hands-on test, a class assignment or a research paper, which class or teacher it was for, which studies or sources they read, and what measurement those studies used. Then write it in the past tense ('I read...', 'I found...'), cutting 'I wanted to'.",
+  "Paragraph 3 (+6 to +9 pts, ideas and specificity): replace 'babies can hear sounds before they are born and become familiar with some of the voices' with the specific finding from the writer's real source and the reason behind it, such as the week hearing starts or how researchers showed newborns prefer the mother's voice. Ask the writer which fact actually surprised them and why, and keep their real reaction line 'I never really thought about how much babies could experience'.",
+  "Paragraphs 4 and 5 (+4 to +6 pts, voice and structure): cut the generic lines 'It showed me that asking questions can help me learn things I never knew before' and 'this is a career I genuinely want to pursue', and drop 'Overall'. End by returning to the opening question about babies recognizing sounds, linked to one concrete thing the writer would now do or explain as a labor and delivery nurse, using only what they actually learned. Merge two short sentences into one longer one so the draft has a sentence over 45 words."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "vt-01",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 350,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/taylor-58017",
+ "total": 56,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the project ('researching how drinking water is monitored and regulated') and says what it taught, but 'deepened your understanding' is mostly asserted ('a deeper understanding of the world I am part of') rather than shown through what changed in the writer's thinking."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has real anchors ('over 60 ounces', 'Environmental Working Group', '172 million', 'PFAS'), but the research itself is vague: 'combed through government and organization websites' names no site, dataset, location or result beyond one statistic."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening line about telling water brands apart by taste sounds like a real person. After that it slides into stock phrasing ('think more deeply', 'highlighted the importance of', 'gave me new knowledge and a deeper understanding'), ends on a tidy moral, has no sentence over 45 words, and the 'However' doesn't follow from the sentence before it."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story (the water research), told only as a summary. We never see a moment where the writer found something or was surprised, and paragraph 3 drifts into food regulation and 'educate others' with nothing concrete."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says what is wrong but not why: 'The lack of updated regulation in the government has allowed this problem to get out of control' gives no reason the rules are out of date, and doesn't explain why PFAS goes unnoticed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Three clear paragraphs, but the ending is a generic moral, 'Following my curiosity gave me new knowledge and a deeper understanding of the world I am part of', and never comes back to the 60 ounces or the brand tasting."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 1, 'I combed through government and organization websites...': ask the writer which sites, databases or reports they actually used (EPA pages, the EWG tap water database, their local water utility's report?) and what they actually found, then replace the vague sentence with those real names and that one real finding. Worth up to +8 on specificity and +6 on stories.",
+  "Paragraph 2, 'The lack of updated regulation in the government has allowed this problem to get out of control': ask the writer what they learned about why the rules lag (for example, when PFAS limits were set or how testing works) and put that one real reason here in their own words. If they didn't learn a reason, cut the claim. Worth up to +9 on ideas_mechanism.",
+  "Paragraph 3: cut the stock lines ('highlighted the importance of', 'helped educate myself', 'This consciousness also gave me the ability to help educate others as well', 'Following my curiosity gave me new knowledge and a deeper understanding...'). Ask whether the writer changed a real habit (switched brands, filtered their tap water, told someone in particular) and, only if it happened, end on that, tied back to the 60 ounces and the brand tasting. Worth up to +8 across voice and structure_ending."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "vt-04",
+ "contest": "Varsity Tutors Scholarship (October 2026)",
+ "year": "2026",
+ "outcome": "not-selected",
+ "words": 543,
+ "source_url": "https://www.varsitytutors.com/scholarship_entries/jayla-57992",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "It names the question up front (\"why did a team of African American artists in 1975 need to rebuild The Wizard of Oz from the ground up\"), describes the research, and says what changed: \"I used to think of dramaturgy as homework... Now I understand it as part of the performance itself.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The historical facts are solid and checkable (1975, Charlie Smalls, Geoffrey Holder, seven Tony Awards, \"Ease on Down the Road\", \"Home\"), but the writer's own work has no detail at all: no school or production named, no date, no source, no director, just \"I read about\" and \"I listened my way through the score.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Several tells: a not-X-but-Y line (\"did not just retell the story, it translated it\"; \"is not a replacement... It is a different idea\"), a balanced antithesis (\"less marching and more groove, less obedience and more survival\"), a line that repeats the prompt (\"deepened my understanding of my subject in a way I did not expect\"), a made-me-better pair, and a neat moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (researching and playing Dorothy), but it is told as a summary with no scene. The rehearsal of \"Home\" and the Lion posture beat get one clause each, and the Harlem Renaissance and contemporary-musical examples in paragraph 5 dilute it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some real reasoning (the score \"translated\" the story, and \"Home\" read as self-worth changed how it was sung), but it stops at assertion. It never says which research finding drove which staging choice, or why the 1975 team made the changes they made."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are organized, but the close is a generic moral that never comes back to Dorothy or The Wiz: \"the performance starts in the library, and that the best homework is the kind that makes you proud to stand up and prove it.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 3 (\"When I rehearsed it, I stopped thinking of it as a ballad...\") and paragraph 4 (\"from how I held my posture when the Lion first threatened her\"): ask the writer for the real details of what changed (the line or bar of \"Home\" where the delivery changed, what the director or music director said, which source they read about Holder, the production and school name) and swap those in for the summary sentences. This lifts specificity and stories, about +8.",
+  "Paragraph 2 \"the music did not just retell the story, it translated it. 'Ease on Down the Road' is not a replacement for... It is a different idea... less marching and more groove, less obedience and more survival\" and paragraph 4 \"My curiosity about a single question made me a better performer, and it made me a better student\": cut the not-X-but-Y and antithesis framing, and say plainly what the writer heard in the two songs. Replace \"This project deepened my understanding of my subject in a way I did not expect\" with the actual before-and-after in their own words. This lifts voice, about +8.",
+  "Paragraph 5: cut the Harlem Renaissance and contemporary-musical examples, or keep at most one if it really happened. Replace the closing \"performance starts in the library\" moral with a line that goes back to the opening question about what playing Dorothy honestly required, answered by the real final performance or the \"Home\" moment. This lifts structure and keeps the essay on one story, about +4."
+ ]
+}
