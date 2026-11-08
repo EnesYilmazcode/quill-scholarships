@@ -1,0 +1,54 @@
+{
+ "id": "lw-43",
+ "contest": "Rosen & Ohr Scholarship 2026",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 1137,
+ "source_url": "https://www.rosenohrlaw.com/blog/2026-rosen-ohr-scholarship-winner/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The essay answers all three parts with real substance. Daily limits: \"I lie down on the floor in a dark room until they pass.\" Feelings and relationships: \"we broke up within two weeks of the accident.\" Finances: \"My medical expenses from the accident have exceeded $44,000.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated and hard to fake: Haselden Construction at $22 an hour, Discount Tire, June 2023, Abby, Tyler, a fifth of whiskey, a fractured hand with permanent hardware, Front Range to CSU, $11,000 and $44,000."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The story is clearly real, but it sits inside stock framing. Too many paragraphs end on a punchline (\"She didn't want to wait a few minutes.\", \"That's still the plan. Just longer now.\", \"It scared my whole family. It scared me.\"). There is a balanced antithesis (\"From the outside, I looked fine. From the inside, nothing felt the same.\"), an 'isn't just' pattern (\"doesn't just risk themselves; they put the whole crew at risk\"), a meta line (\"Here's what I want to say clearly\") and a slogan (\"I won't be that person.\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "One story: the head-on crash, told as a scene. Every later beat follows from it and stays on topic: the job call, the breakup, the hotline night, the wall punch and the wrestling clearance."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay explains why the injury caused each financial loss, for example losing the jobs because \"I could not lift my head enough to watch for the cranes.\" But the lesson about construction safety is a general pledge (\"I'll make sure the people around me aren't either\") with no concrete practice behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens and closes on the Haselden call: \"I earned that job at Haselden. I'm still going to get there, just later than I planned, with a clearer understanding of why the work matters.\" The tidy-moral tail and the 'Here's what I want to say' section before it cost a point."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fact contradiction (-10, the biggest point loss). The essay says \"Two years later, they still show up\" and \"two years of pain\", but also \"I've spent three years learning\". A June 2023 crash and age 19 point to three years. Ask Enes which number is true and use it in all three places. Also ask whether the October wrestling news came in his junior year (October 2023) or senior year (October 2024), and make the timeline say so.",
+  "Voice, worth up to 8 points: cut these punchline closers and leave the facts before them to land on their own: \"She didn't want to wait a few minutes.\", \"That's still the plan. Just longer now.\", \"It scared my whole family. It scared me.\" and \"From the outside... From the inside...\". Rewrite \"doesn't just risk themselves; they put the whole crew at risk\" as one plain sentence, and cut \"I won't be that person.\"",
+  "Disclaimer (-5) and meta line: delete \"Here's what I want to say clearly, because I think it matters for this particular scholarship:\" and \"I didn't almost die that June. But\". Start that paragraph at \"I've spent three years learning what it really costs when someone makes a reckless decision, and someone else absorbs the consequences.\""
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-21",
+ "contest": "McKinney Tucker & Lemel Scholarship Essay and Video Competition 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 595,
+ "source_url": "https://www.mtllawfirm.com/wp-content/uploads/2020/07/Emerald-Bell.pdf",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Part 1 (affected by drunk driving) gets nearly all 595 words. Part 2 (how it made you a safer driver) gets one closing clause, a pledge rather than a position: \"because of it, I will not drink and drive under any circumstances.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong physical, checkable facts: \"the day before my twentieth birthday\", \"a black Mazda 3 with a manual transmission\", \"around two p.m.\", \"frontage road ran a red light and T-boned my car\", \"BAC of 0.24, three times the legal limit\", airbag dust mistaken for smoke. No place names, and the coworker is never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real person, with clumsy honest moments: \"I asked her once are you okay? Twice, a third time, another time\" and \"(at least I had gap)\". Tells: the filler adverb \"incredibly helpful\", stock phrases (\"searched the internet high and low\", \"Absolute terror washed over me\", \"an indescribable feeling\", \"will haunt me for the rest of my life\") and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One real crash story, told fully as a scene, with the drunk-driving tie in both directions (driving so the boyfriend would not drink and drive, then hit by a 0.24 BAC driver). About two paragraphs of car buying and dealership warranty talk come before anything on-topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "No reasoning about how the crash changed his driving. \"I will not drink and drive under any circumstances\" is intent with no mechanism. The seatbelt coming off, the thrown phone and the brake that came \"far too late\" are all in the story but never become lessons."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological arc, and the lost down payment loosely loops back to the opening car purchase, but it closes on a tidy moral: \"This experience will haunt me for the rest of my life, but because of it, I will not drink and drive under any circumstances.\" There is also a stray paragraph break after \"hit a stoplight,\"."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Biggest gain (criteria 1 and 5, about +18 points): turn the last paragraph into a real answer to 'how has it made you a safer driver'. Build it from facts already in the story: his friend took off her seatbelt to reach a thrown phone, he \"only caught a glimpse\" before impact, and the crash happened on a run to keep someone from driving drunk. Ask the writer what he actually does differently now (for example seatbelt rules for passengers, how he enters intersections on a green, or how he handles rides at the end of a bar shift) and write those true behaviors with the reason for each. Do not add any he does not really do.",
+  "Make room by cutting paragraph 2 (the dealership) down to one sentence that keeps the gap insurance setup, since \"(at least I had gap)\" pays it off. Also trim \"I searched the internet high and low\" and \"It felt like an eternity before I found the perfect match\" in paragraph 1. That frees 80 to 100 words for the safer-driver answer and gets the essay to the drunk-driving material sooner.",
+  "Replace the closing moral \"This experience will haunt me for the rest of my life...\" with a last line that comes back to the opening image: the dream car bought that afternoon, the birthday the next day, or the gap plan he almost skipped. Use only details already in the essay. In the same pass, fix the stray break after \"hit a stoplight,\" and cut \"incredibly\", \"Absolute terror washed over me\" and \"an indescribable feeling\" in favor of the plain facts around them."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-37",
+ "contest": "McKinney Tucker & Lemel Scholarship Essay and Video Competition 2019",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 595,
+ "source_url": "https://www.mtllawfirm.com/wp-content/uploads/2019/06/DD-Scholarship-Essay-1.pdf",
+ "total": 53,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Part 1 (how it affected you) gets about 560 words. Part 2 (how it made you a safer driver) gets only a general moral at the end: \"Every action has a consequence and we are the only ones that can control that.\" The essay never says what she now does differently behind the wheel. This also triggers the automatic -10 for an unanswered prompt part, which is already taken out of the total."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The details are dated, physical and hard to fake: \"November 26, 2018 at 2:36 am\", the cement barrier at the highway construction, OnStar, the missing windshield, Duke, \"a 72 hour ECG at home\", \"Every 3 weeks\", the mother flying in from Texas, \"a 19 year old man\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This sounds like a real person talking. It has run-ons, plain admissions (\"I am pretty sure the nurses were happy to see that I had finally changed clothes\") and no AI vocabulary, em dashes or \"not X but Y\" lines. Points off for the neat moral in the last line and because no sentence goes past 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story, the crash and the hospital stay, told in full scene and on topic. There is no second beat about her own driving, so the story covers part 1 only. The hospital section (clothes, shower, nurses) goes on longer than it needs to."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "Nothing explains how the crash changed her driving. The only reasoning is about the other driver: he \"thought it was a better idea to drink and drive than to just sleep in his car or get a ride home.\" That blames him but does not explain any change in her."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It is one long block with a single stray break in the middle of a sentence (\"because he thought it / was a better idea\"). The last line, \"Every action has a consequence and we are the only ones that can control that.\", is a general moral that never comes back to the daughter or the opening image."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer part 2 (recovers about 12 points on criterion 1, plus the 10-point deduction, plus about 9 on ideas). Ask the writer what she really does differently when she drives since November 2018, and how her daughter's condition changes the way she drives now. Put her true answer in a final paragraph of about 120 words that replaces the last two sentences (\"All of this was because...\" through \"...the only ones that can control that\"). Do not write that paragraph for her.",
+  "Make room under the 600-word limit by cutting from the hospital section. Remove \"I am pretty sure the nurses were happy to see that I had finally changed clothes and showered.\" and either \"For 4 days straight I wore the same exact clothes\" or \"I only went as far as the restroom.\" Also shorten the dog and OnStar lines. That frees about 80 to 100 words and leaves the seizures, Duke and the follow-up visits every 3 weeks.",
+  "Break the essay into paragraphs: the crash, the two weeks at Duke, six months later, then the safer-driver paragraph. Remove the stray break inside \"because he thought it / was a better idea\". End on a true image from the opening, her daughter in the car seat behind her, in place of the general moral. That recovers about 4 to 6 points on structure and 4 on voice."
+ ]
+}

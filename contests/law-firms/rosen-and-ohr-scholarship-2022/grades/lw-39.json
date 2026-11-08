@@ -1,0 +1,54 @@
+{
+ "id": "lw-39",
+ "contest": "Rosen & Ohr Scholarship 2022",
+ "year": "2022",
+ "outcome": "winner",
+ "words": 771,
+ "source_url": "https://www.rosenohrlaw.com/blog/2022-rosen-ohr-scholarship-winner/",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay covers daily limits ('My mom has not been able to work since the accident and lives in constant pain'; dancing; school) and finances in detail. The feelings and relationships part is thin: 'my interaction with my classmates' is named but never shown."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: 'March thirteenth, 2014', the 'Dodge Durango' side pillar, the 99 year old driver, a 'fracture in my skull', the 'honor roll five years in a row', '70-80 hours a week' and 'lieutenant my senior year'. The crash itself is a single summary line."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real person, including clumsy spots ('drug everything through court', 'retain the information that I use to'). No em dashes and no AI vocabulary. Tells: 'not only physically, but also mentally as well' and the tidy moral 'I have learned that I can overcome almost anything'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One right story (the crash) plus strong on-topic beats (the driver was the parents' teacher, dancing). But the crash is told as a summary list of injuries, and the last paragraph drifts into a general plea about deserving and grace."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The money reasoning has a clear chain: two paychecks became one, insurance delayed for years, bills went to 'collections, ruining my parent's credit', and the dad works 70-80 hours. The feelings side states diagnoses ('severe PTSD') without explaining how they changed daily life."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The opening paragraph is one oversized block. The ending ignores the opening morning and the mother and lands on a GPA goal: 'so that I can hopefully obtain a 4.0 GPA.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the final paragraph from 'I have never been someone to say that I deserve something' through 'kindness and grace... anyways' (the deserving and grace theme is off-prompt). Keep one sentence on what the money would cover, then close with a line that goes back to the opening morning: the ponytail, the breakfast stop, or the mother in the passenger seat. Use only details already in the essay.",
+  "Feelings and relationships is the weakest prompt part. 'I began to struggle with... my interaction with my classmates' and the PTSD diagnosis line both assert without showing. Ask the writer for one real moment of how the PTSD or anxiety shows up (driving, cars, classmates) or how the relationship with her mother changed, and give it its own paragraph. Also split paragraph 1 after 'fracture in my skull' so the crash and the mother's injuries are not one block.",
+  "Cut the stock framing: change 'not only physically, but also mentally as well' to 'physically and mentally', and remove 'I have learned that I can overcome almost anything'. Fix the errors a judge will notice: 'use to' to 'used to', 'drug' to 'dragged', 'parent's credit' to 'parents' credit', 'Ottowa' to 'Ottawa'. Clarify 'Flashes of red and blue were up ahead, and someone noticed' (who noticed?)."
+ ]
+}

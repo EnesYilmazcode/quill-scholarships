@@ -1,0 +1,53 @@
+{
+ "id": "lw-42",
+ "contest": "Rosen & Ohr Scholarship 2025",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 510,
+ "source_url": "https://www.rosenohrlaw.com/blog/2025-rosen-ohr-scholarship-winner/",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Finances get a real answer (\"because I already hold a bachelor's degree, I do not qualify for federal financial aid\"), but daily limits get two lines (\"He cannot always finish a full work shift\"), and feelings and relationships get only a gesture: \"The emotional toll on our family has been immense.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The first half is concrete and dated: December 2021, 5th Avenue in Naples, Café Milano, the tall vase, the broken eye socket, waiting in the parking lot because of COVID rules. The second half turns abstract (\"how fragile life can be\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It has 4 em dashes, and \"didn't just harm him physically — it changed everything\" is a \"not just X, it Y\" line. It also uses \"would not only ease... but would also\", \"more than a career choice... it is a calling\", \"forever be etched in my memory\", \"our lives changed forever\" and \"adorned\". It ends on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One accident story is told as a full scene, and a second beat about becoming the provider and paying for nursing school stays on topic. The GPA and TEAS lines drift toward a résumé."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The money reasoning has a real mechanism (holding a bachelor's degree means no federal aid, so all ten prerequisites were paid out of pocket). The emotional reasoning only says that things changed, not how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It follows a clear timeline, but it ends on a generic scholarship pitch that never returns to the café, the vase or the daughter: \"to serve others with knowledge and empathy drawn from personal experience.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): remove all 4 em dashes (-6 deduction). Rewrite \"This accident didn't just harm him physically — it changed everything in our lives\" as a plain statement. Change \"would not only ease the financial burden but would also give me\" to \"would ease the cost and let me\". Cut \"That image will forever be etched in my memory\", \"our lives changed forever\", \"Nursing is more than a career choice for me — it is a calling\" and \"adorned\". Then merge two short sentences in paragraph 4 so at least one sentence runs past 45 words.",
+  "Answers the prompt (up to +8): cut \"The emotional toll on our family has been immense.\" Use that space for a paragraph on feelings and relationships, built only from facts the writer can confirm. Move the daughter's \"Daddy, what happened?\" and \"The man I married... is no longer the same\" into it, and ask the writer what has really changed between her husband and their daughter, and in the marriage. Ask the same about daily limits: what the migraines, dizziness and seizures stop him from doing besides finishing a shift."
+ ]
+}

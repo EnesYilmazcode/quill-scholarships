@@ -1,0 +1,54 @@
+{
+ "id": "lw-40",
+ "contest": "Rosen & Ohr Scholarship 2023",
+ "year": "2023",
+ "outcome": "winner",
+ "words": 753,
+ "source_url": "https://www.rosenohrlaw.com/blog/2023-rosen-ohr-scholarship-winner/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Daily limits are covered ('practice looking down at textbooks'). Feelings and relationships get only a generic paragraph ('loving and caring individuals'). The finances part is about future law school loans ('The University of Miami School of Law is a private institution') and never mentions what the accident cost."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real anchors: October 2019, homecoming dress, a drunk driver running a stop sign, nerve-blocking injections, cervical curve, FSU, Summa Cum Laude, Children's Miracle Network. But the recovery years are abstract ('doctor visits, physical therapy, and most importantly, uncertainty') and the essay names no person, no dollar amount and no single scene after the crash."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 'not only graduate this semester but also', the filler adverbs 'truly' and 'incredibly', the triplet 'heart, soul, and mind', the slogan 'one can never control tomorrow but one can surely control today', and a whole motivational paragraph of stock lines ('recognizing small victories is paramount'). Some clumsy human moments remain ('which was quite unfavorable', 'futureyears')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story, the crash and recovery, but after the first paragraph it is told as a summary with no scene. The Children's Miracle Network detour and the résumé-style list of achievements drift away from the injury."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says that she persevered but not how. 'Finding new ways to study' and 'medical accommodations' are never described, and the mindset paragraph is generic advice with nothing behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Organized paragraphs, but it ends on loans and a stock moral that never returns to the dress or her mom: 'making myself and my family proud will be especially rewarding.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the finances paragraph (starting 'Furthermore, I plan to finance my legal education') around what the accident actually cost: medical bills, the injections, physical therapy copays, the totaled car, insurance or a claim against the drunk driver. Ask the writer for the real figures and who paid them. Cut the law school tuition material or keep it to one line.",
+  "Replace the 'Moving forward, I have gained all the tools' paragraph and the family paragraph with one concrete scene from her real life showing a relationship change or a daily limit: who drove her to appointments, what her mom said when she got home without the dress shown, or which activity she had to quit. Ask the writer for the real moment; don't make one up. Cut the slogans ('one can never control tomorrow', 'small victories is paramount') and the adverbs 'truly' and 'incredibly'.",
+  "End on the opening image. Swap the last line for a callback to the homecoming dress, or to showing her mom, tied to where she is now. Also cut the Children's Miracle Network and Summa Cum Laude sentences down to one clause each, and say plainly how she studied with the neck injury (the 'new ways to study')."
+ ]
+}

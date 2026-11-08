@@ -1,0 +1,54 @@
+{
+ "id": "lw-41",
+ "contest": "Rosen & Ohr Scholarship 2024",
+ "year": "2024",
+ "outcome": "winner",
+ "words": 990,
+ "source_url": "https://www.rosenohrlaw.com/blog/2024-rosen-ohr-scholarship-winner/",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts are answered. Daily limits are covered by 'chiropractic care three times a week' and 'I have to uber to some doctors appointments'. Feelings and relationships are covered by 'Depression kicked in quickly' and the mom and mock trial lines. Finances are answered ('leave work early, miss work... pay for medications, heating pads'), but they get mixed into general tuition need ('Books, supplies, and necessities'), which isn't about the accident."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The crash scene can't be faked: 'August 29th at 12:08', the 'new Margaritaville shirt', the truck hitting the driver's left front side, 'The axel broke', '2 herniated discs', FAU and Phi Alpha Delta. It loses a point because the finance section has no figures and the later paragraphs go general ('and so much more')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This sounds like a real person: tense slips ('I hear my boyfriend yelling'), fragments ('In fear. In shock. I touched the ground.') and the misspelling 'axel'. Tells: 'thrive in school, not just survive' (not X but Y), the filler 'truly understood', the slogan 'Education is a Privilege', the tidy line 'the girl who dreams of being an attorney has to have her own', and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one story, the crash minute by minute, told fully and on topic. Paragraph 3 drifts into a generic financial-need résumé ('I currently work at the school in student affairs', 'law school in the Fall 2025 or gaining my masters') that isn't about the accident."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some cause and effect is real: no car means paying for Ubers, fear means a late license, appointments eat the time set aside for the LSAT. The reflection itself is stock, though: 'It changed my perspective on life. It made me more grateful for the education... more grateful for the people around me.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens strongly on the timed crash, but the last third is a scholarship-need statement and the essay ends on a generic line that never goes back to the crash: 'Paying for school is not easy but I am making my best effort to make it possible.' It also thanks the reader before the close ('thank you for reading my story')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 3 (structure plus stories, about +8): cut the off-topic need material ('Education is a Privilege...', 'I currently work at the school in student affairs...', the Fall 2025 or master's plan, 'thank you for reading my story', and the last sentence). End on a true detail already in the essay that loops back to the crash: the fear of driving and 'I have taken it day by day doing a little bit at a time to get more comfortable', tied back to the 12:10 moment or the totaled car.",
+  "Finances paragraph (answers prompt plus specificity, about +8): ask the writer for the real numbers behind 'lose a lot of money': shifts or hours missed, cost of medications and heating pads, a typical Uber fare to a chiropractic appointment, and what losing state health insurance meant at the hospital. Put those numbers where 'and whatever else I need for recovery' is now, and cut 'Books, supplies, and necessities', which isn't about the accident.",
+  "Voice and reflection (about +7): cut 'It changed my perspective on life. It made me more grateful...' and 'I want to be able to thrive in school, not just survive', and remove 'truly'. Keep the plain lines that work ('I felt lost. Depression kicked in quickly.'). Fix 'axel' to 'axle' and 'I hear' to 'I heard'. Join two related short sentences in the mock trial passage so at least one sentence runs long."
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "lw-38",
+ "contest": "Rosen & Ohr Scholarship 2021",
+ "year": "2021",
+ "outcome": "winner",
+ "words": 1286,
+ "source_url": "https://www.rosenohrlaw.com/blog/2021-rosen-ohr-scholarship-winner/",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Daily limits ('Even going to the bathroom on my own was impossible', seven years before driving) and finances ('Bills as large as $30,000, $55,000 and $10,000') are answered. Feelings get anxiety, nightmares and counseling, but relationships get only 'my mother became my caretaker' and a line about missing the 'college experience'. Luisa never appears again after the crash."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong and checkable: Denver, 'November 30, 2013', the white truck, brain hemorrhage, 'four days', the three bill amounts, MRI and CT follow-ups, the USC degree. It goes vague in the migraine and anxiety section ('important life experiences', 'everyday life') and the timeline is shaky: 18 in 2013, 'Seven years later', and 26 'Today'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real human moments: 'my hair felt and probably looked like a bird's nest', 'managed to (slightly) get over my fear', the silent-movie memory. Stock framing takes over at the end: 'life can change in any second', 'changed my life forever', 'hard-working and determined woman', 'ever-changing, interconnected world', 'vividly', 'extremely difficult'. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One accident story, told fully as a scene from the couch to the stretcher, plus an on-topic second beat about the driving school and license. A closing résumé and scholarship pitch (USC, first-gen, loans, Rosen & OHR) drifts off the accident's impact."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some cause and effect: the migraines are 'triggered by stress, bright lights, strong scents and even loud noises', which explains why college was hard, and the fear explains the seven-year wait to drive. The reflection is a generic moral ('I learned to cherish life and health') with no reasoning about how she changed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological arc, but the opening image of her dad saying 'make sure you wear your seat belt' never comes back. It ends on a generic line: 'I firmly believe life will get better.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "writing about the essay",
+   "points": 1,
+   "reason": "-5: 'Sharing this experience in this essay has been quite difficult, but also in some ways healing.' Subtotal 71.0 minus 5 = 66 (mid band)."
+  }
+ ],
+ "fixes": [
+  "Last paragraph: cut 'I am a hard-working and determined woman... ever-changing, interconnected world', 'Going through a traumatic car accident has taught me that life can change in any second', and 'Sharing this experience in this essay...'. Keep one or two plain lines tying the USC cost to the medical bills already named. Then close by bringing back the true opening line, her dad's 'make sure you wear your seat belt', next to the license she earned last summer (about +6 for voice and ending, and removes the -5).",
+  "Relationships are the weakest prompt part. Ask Natalie for one real, specific way the injury changed a relationship (with Luisa after the crash, with her mother as caretaker, or with friends during college), and put it in the migraine and anxiety paragraph in place of 'caused me to miss out on important life experiences' (about +4 for answers_prompt).",
+  "Fix the timeline so the facts hold. 'Seven years later', 'Today at 26 years old', 'almost seven years' and 18 in November 2013 need to agree, so ask Natalie for her real current age and the year she got her license. Also fix the typos 'fear or driving', 'parent's or friends' and 'MRI's' (protects specificity and avoids a possible -10 for an impossible fact)."
+ ]
+}
