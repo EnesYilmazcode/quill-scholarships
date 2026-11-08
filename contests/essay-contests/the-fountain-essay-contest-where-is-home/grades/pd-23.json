@@ -1,0 +1,75 @@
+{
+ "id": "pd-23",
+ "contest": "The Fountain Essay Contest: Where Is Home?",
+ "year": "2024",
+ "outcome": "honorable-mention",
+ "words": 2636,
+ "source_url": "https://fountainmagazine.com/all-issues/2025/issue-163-jan-feb-2025/beyond-home-the-spirit-of-sydney/",
+ "total": 12,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay answers 'Where is your home?' (Sydney) and 'Is home a physical place?' through the corridors/rooms/foundation conceit. It never takes up the small-screens question or 'born vs. where you earn your bread'. 'Forced to leave' comes up only by implication, through the Gadigal and Bennelong passages. A large share of the text is abstract preamble ('We, as humanity, thrive on the notion of belonging and similarity')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There is strong unfakeable detail: 'the creak of the floorboards as someone would set their foot to the right of the final step', Earlwood 'ten kilometres south-west', the Bediagal mosaic reading 'Respect, Unity, Peace', the 110 km orbital, and Bennelong Hut. Some of it is wrong or padded, though. Bennelong Point is placed in 'a place now known as Barangaroo', 'William Sturmn Sax' is misspelled, and the 'ten primary traffic corridors' fact is cited to a robotics traffic paper that does not support it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prose is overwritten throughout ('a precise nexus intricately constructed', 'manifesting the essence of my familiarity', 'like a star gaining energy over time, expanding its brightness, a North Star'). It uses not-X-but-Y twice ('it is not upon these withered bones... It is through', 'not our familiarity... but rather our connection'), the filler word 'truly' three times, and a list of rhetorical questions. Paragraphs close on slogans ('Ironically, it defines us.'). The writer almost never sounds like a particular person talking."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two personal beats. The bedroom-creak memory is a real scene and is on topic. The first solo drive is told as abstraction ('a tailored ellipse in which I... were destined to orbit') with no street, car or moment. The Earlwood and Botanic Gardens passages are guidebook description, not lived scenes, so history and metaphor carry the essay instead."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The central claim is that home is the place's Indigenous foundation, reached through roads and suburbs. It is asserted through metaphor ('a constant resonance of home like light reflecting from two opposing mirrors') and never reasoned through. The essay does not explain why knowing Gadigal history makes a place feel like home to the writer, or what changed in them when they learned it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The corridors, rooms and foundation scaffold is clear, and the epilogue names Genii Loci again. But it restates the three sections as a list and ends on a generic aphorism, not on the creak or the mosaic: 'To know home, we must travel beyond home.' The essay takes about 500 words to reach Sydney."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "prompt parts with no answer (screens; born vs. earn bread)",
+   "points": 0,
+   "reason": "The essay has no sentence on 'a world that moves faster than ever and is confined to small screens', and none on whether home is where you were born or where you earn your bread."
+  },
+  {
+   "rule": "headings in the essay",
+   "points": 0,
+   "reason": "It uses '## Corridors', '## Living rooms', '## Foundation', '## Epilogue' and a '## References' section."
+  },
+  {
+   "rule": "em/en dashes used as em dashes",
+   "points": 0,
+   "reason": "Examples: 'Genii Loci – ‘the spirit of place.’', 'beneath – all the concealed magic', '[3]- as it’s colloquially known –', 'homage – a small sentiment'. Capped at -6."
+  },
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "'in a place now known as Barangaroo' attaches the Bennelong Point and Bennelong Hut history to Barangaroo, which is a different site on the other side of the CBD."
+  }
+ ],
+ "fixes": [
+  "Add a section that answers the two missing parts, using the writer's own position: does a phone or a screen make Sydney less or more home, and is home where they were born or where they work? Ask the writer what is true for them. To make room, cut the opening three paragraphs and the two one-line rhetorical questions ('But how do we discern...', 'What is it about a certain location...'). This recovers the -20 deduction and lifts answers_prompt from 2 toward 4.",
+  "Delete the Barangaroo sentence or correct it to Bennelong Point after checking the location. Fix 'Sturmn' to Sturm, and drop the citation [3] (a robotics traffic paper) or replace it with a real source for the orbital network. Then replace every dash with a comma, colon or full stop, and remove the ## headings, using a line break or a single transitional sentence between sections. This recovers 21 points of deductions.",
+  "Cut the voice tells line by line: the not-X-but-Y pairs in the Foundation section and its closing paragraph, all three uses of 'truly', 'nexus intricately constructed', the North Star simile and 'Ironically, it defines us.' Rewrite the first-solo-drive paragraph in plain sentences with the real road, car and destination; ask the writer for these, do not invent them. End on the floorboard creak or the Earlwood mosaic instead of 'To know home, we must travel beyond home.'"
+ ]
+}

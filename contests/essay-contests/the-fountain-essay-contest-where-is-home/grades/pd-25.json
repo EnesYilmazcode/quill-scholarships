@@ -1,0 +1,54 @@
+{
+ "id": "pd-25",
+ "contest": "The Fountain Essay Contest: Where Is Home?",
+ "year": "2024",
+ "outcome": "finalist",
+ "words": 1681,
+ "source_url": "https://fountainmagazine.com/all-issues/2025/issue-168-nov-dec-2025/a-mosquito-meets-a-memory/",
+ "total": 21,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only 'Where is your home?' gets an answer, and only as metaphor ('my mind had made itself a home'). Screens and the fast-moving world are never mentioned. People forced to leave get one gesture ('The mosquito was not exiled'). 'Born vs where you earn your bread' and 'does everyone feel the same' get no answer. Deduction: -20 for two prompt parts with no answer at all."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few physical objects ('dried-out cheerios, the stinging orange peels, and the empty ink cartridges', 'wrapped twice round with industrial tape'), but no name, place, date or number anywhere. 'Houses changed, in more ways than it cared to count' hides the one real fact."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "The voice is odd and personal, with clumsy human slips ('tread back', 'mistook', 'follows in suit') and long sentences. Tells: 'not to be moved, but to be opened' and 'It was not the background static... nor... It was not the voices'. Deductions: -6 for three dashes used as em dashes ('here – beneath', 'cartridges – a home', 'look around – until'). -5 for the '[1]' footnote marker and the '## Note' heading left in the text."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero real stories. The real events (repeated moves, home as a cage, wanting to be an astronaut) stay buried inside the allegory and are never told as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is some reasoning on why ('a place that housed warmth, was not automatically its home'; the boxes 'burst at the seams when the houses stopped changing'), but it stays inside the image and never says why home lives in memory rather than a place."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The meadow, tent, blanket and mosquito return at the close: 'both the mosquito and my mind are buried with a home above them.' But the space section (paragraphs 5 to 7) loses the thread, and paragraphs run long."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the missing prompt parts in plain sentences. Turn the 'The mosquito was not exiled. It was simply sent to the gates' paragraph into a direct contrast between choosing to wander and being forced out of a home. Add one plain paragraph after it on how screens and a fast world change where home is. Close the 'One day, the flowers will be too far' section with one literal line answering 'Where is your home?'. Use the essay's own reasoning; no new events. This is worth up to +32 (two -10 deductions plus criterion 1 rising from 2 to 4 or 5).",
+  "Ask Enes for the real facts behind 'Houses changed, in more ways than it cared to count' and 'My house was never a home because it was a cage': how many moves, between which places, roughly what ages. Put them in plainly once, near the boxes paragraph, so the allegory is anchored to something checkable. Cut part of the space and astronaut passage (paragraphs 5 to 7) to make room. This is worth up to +16 across specificity and stories.",
+  "Clean the residue. Delete the '[1]' after 'separates the colors from the petals' and delete the whole '## Note / Male mosquitos feed on nectar' section. Replace the three dashes ('And here – beneath', 'cartridges – a home', 'look around – until') with commas or periods. Rewrite 'not to be moved, but to be opened' and the 'It was not... nor... It was not' run as plain statements. This is worth +11 in deductions plus a possible voice point."
+ ]
+}

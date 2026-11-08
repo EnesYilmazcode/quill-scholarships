@@ -1,0 +1,60 @@
+{
+ "id": "pd-27",
+ "contest": "The Fountain Essay Contest: Real or Fake? Reflections on How We Experience Life in the AI Age",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 1436,
+ "source_url": "https://fountainmagazine.com/all-issues/2026/issue-170-mar-apr-2026/the-counterfeit-nightingale-and-the-real-song/",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Genuineness, fulfilment and ownership get the whole essay ('it was earned with patience rather than downloaded'). Relationships and friendships get one sentence with no argument: 'A real friendship is a history of shared vulnerability and often imperfect presence rather than a string of flawlessly manicured updates and flawless replies.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong physical and named detail: the Song Sparrow singing both songs from one hedge, the field-guide quotes 'sweet, thin series of notes' and 'liquid, caroling whistle', and 'Oh, sweet Canada, Canada, Canada'. But there are no places, dates or names: the friend is unnamed, and 'a park bench' and 'a small creek' could be anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Real human moments ('It sounded, well, like a bird.') are buried under dense tells. There are stacked 'not X but Y' and 'rather than' antitheses ('not because it was more accurate... but because it was earned', 'not a fact... but rather an insight', 'not of the object itself'), 'more than just a fake bird; it is also' and 'not only the sounds... but also the trends'. It also has filler intensifiers ('genuinely', 'profound', 'utterly'), triplets ('learning, creating, and establishing'), ornamental metaphor ('a thread, woven from sunlight, birdsong') and a slogan close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: the app-to-field-guide arc and the father's wren, which sets it up. The sparrow hedge scene is told fully. It loses a point because the last three paragraphs drop the story for abstract claims about AI, friendship and knowledge."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real mechanism: 'I was so preoccupied with recording the sound for the algorithm' that he stopped holding the melody in memory. Its extension to friendships, goals and futures is asserted, not reasoned ('AI has become the ultimate, tempting solution because it can recognize... our goals, and our futures')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc from the father to the app, the deletion, the struggle and the payoff. But the ending is a generic moral, not a return to the father or the wren: 'will always contain the most genuine moments of our lives which no AI can ever replicate because that is something utterly human, utterly real.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "dashes used as em dashes",
+   "points": 0,
+   "reason": "-4: two spaced dashes used as em dashes in 'not because it was more accurate than the app's – as a matter of fact, statistically, it was probably less accurate – but because'. Subtotal 63.0 minus 4 = 59, mid band. No word-count deduction: 1,436 words is 4% under the ideal 1,500, inside the 10% tolerance, though cutting will push it further under."
+  }
+ ],
+ "fixes": [
+  "Voice (up to 12 pts): rewrite the last four paragraphs, from 'My happiness was limitless then' to the end, to remove every antithesis: 'not because... but because', 'more than just a fake bird; it is also', 'not only... but also', 'not a fact... but rather an insight', 'rather than downloaded' and 'not of the object itself'. Also cut 'profound', 'genuinely', 'utterly human, utterly real' and the 'thread, woven from sunlight' line. State each claim plainly once, in the flat register of 'It sounded, well, like a bird.' Replace the two spaced dashes around 'as a matter of fact, statistically' with commas or a separate sentence.",
+  "Answer the relationships and friendships questions (up to 8 pts): the essay already has two real relationships, the birdwatcher friend who showed him the app and the father whose wren comment exposed the gap. Ask Enes what actually changed with each of them, for example whether the friend and he compared birds by ear afterwards, or whether he and his father talk birds now. Replace the one-line 'A real friendship is a history of shared vulnerability...' with that real material. Do not write a scene he cannot confirm.",
+  "Ending and reasoning (up to 10 pts across ideas and structure): cut the 'AI has become the ultimate, tempting solution' paragraph, which is unsupported generalization, and the closing 'map' paragraph. End instead by going back to the opening: his father and the Carolina wren 'trying to convince you of something'. Tie it to the mechanism he proved himself, that recording the song for the algorithm stopped him holding it in his own memory. If Enes has a true follow-up with his father, for example whether he has heard the wren himself since, ask for it and use it as the last line."
+ ]
+}

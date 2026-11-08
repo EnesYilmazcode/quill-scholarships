@@ -1,0 +1,60 @@
+{
+ "id": "pd-22",
+ "contest": "The Fountain Essay Contest: Where Is Home?",
+ "year": "2024",
+ "outcome": "winner",
+ "words": 1618,
+ "source_url": "https://fountainmagazine.com/all-issues/2025/issue-164-mar-apr-2025/home-is-tucked-under-the-smiling-sunflower-seeds/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Most parts get a real answer: forced leaving through the refugee friends, physical place ('Surely, land is critical'), different for each family member ('the first home means something different for everyone in an immediate family'), and her own ('Home is in you and me'). 'Born vs where you earn your bread' and 'small screens' only get passing gestures (Twitter, Google Maps, flip phones)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong, unfakeable details: Ellicott City library cubby, Junie B. Jones, '250 dollars' rent, Said Nursi, ankle monitors in Cherry Hill, the Cave of Thawr, the coup headline, sunflower seed shells. Some stretches go abstract, though ('corruption festering in my home country'), and there are no dates or names around the coup and the interpreting work."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "A clearly human voice with idiosyncratic, clumsy moments ('Our unfortunately pale-colored couches framed exquisite masterpieces from the artistry of spilling cold tea') and long sentences. Tells: filler adverbs ('truly compassionate', 'deeply wounded'), AI vocabulary ('what we can foster in our souls'), the 'For those of us' triplet, the 'Home is...' anaphora list, and a tidy moral to close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Five or more beats (library revisit, tea sohbets, mother's Cherry Hill classroom, coup car ride, interpreting for refugees), so it reads as a montage. The coup car ride is the hinge, but after the headline it fades into 'What followed only felt like a blur'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is a real argument (displacement and being cut off from the homeland push home into community), but it is mostly asserted in sermon lines ('Generations are loved for centuries over land. Blood is tragically spilled over land.'), not shown through her own change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear and the close brings back the opening sunflower seed shells and her mother. But the last line is a generic moral: 'So, they will curse us and the buildings and those we cherish, and we will love beyond it all.'"
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "heading in essay",
+   "points": 0,
+   "reason": "-5: the '## Notes' markdown heading and the bracketed footnote markers [1] [2] are inside the essay body. Weighted subtotal 74.0, minus 5, gives 69 (mid band)."
+  }
+ ],
+ "fixes": [
+  "Cut the two sermon passages: 'Unconditional reciprocation can be difficult to find... what we can foster in our souls.' (paragraph 3), and 'Surely, land is critical... Love may not be able to reach us in our \"home country\" and home may not be hammered shut there.' (paragraph 8). Let the Cherry Hill students and the jailed relatives carry those ideas on their own. This removes 'truly', 'foster' and 'deeply' and lifts both voice and reasoning toward 5 (about +7).",
+  "Make the coup car ride the one story that carries the essay. Replace 'What followed only felt like a blur and slowly boiled up' with what she actually remembers from that night (ask the writer what her parents said or did in the car, or who called that week; don't invent it). Trim the library paragraph and the Geometry/Saturday-school run-up so the essay has one full scene, not five summaries (about +3 on stories).",
+  "End on a concrete image instead of the moral. Drop the final sentence 'So, they will curse us... we will love beyond it all.' and close on 'Home is my sister fixing my hijab before prayer.' or the sunflower-shells line. Delete the '## Notes' heading and the [1]/[2] markers, and explain sohbet and redlining in a few words inside the sentences (recovers the -5 and lifts structure to 5). Also fix the typos 'costed' to 'cost', 'dawning' to 'donning', 'Saturday's' to 'Saturdays', and 'those us of' to 'those of us'."
+ ]
+}

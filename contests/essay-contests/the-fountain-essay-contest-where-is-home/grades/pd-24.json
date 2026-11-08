@@ -1,0 +1,54 @@
+{
+ "id": "pd-24",
+ "contest": "The Fountain Essay Contest: Where Is Home?",
+ "year": "2024",
+ "outcome": "honorable-mention",
+ "words": 2605,
+ "source_url": "https://fountainmagazine.com/all-issues/2026/issue-172-july-aug-2026/the-cartography-of-the-heart/",
+ "total": 26,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Every question gets a section, but some answers are thin. Forced displacement gets two generic paragraphs ('The world.'), and 'Where is your home?' never names a place: 'I always seem to find it in the arms that hold me—those arms of stardust.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few real touches: the Krebs cycle diagram, the 2 a.m. ice cream, the taped remote and the 'Tea Grandpa'. But the essay never names a city, country, year or person, and most lines are abstract ('a dance of broken stars and stardust')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "AI phrasing is dense. It uses 'not merely' and 'not a place, it is a constellation' (not-X-but-Y), plus 'testament', 'tapestry' twice, 'symphony' four times and 'metamorphosis'. It strings many rhetorical questions together, ends paragraphs on punchlines ('Perhaps not.', 'Neither is any less cruel.') and closes on a tidy moral. Only the family one-liners sound like a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 full stories, only fragments: the ice cream raids, Gran scolding about shoes, a flying spatula and the family group-chat lines. Nothing is shown as a scene, and the 'my person' thread is described only in general terms."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Mostly assertion. 'Home, at its truest, is a synonym for joy. One cannot be saddened by true happiness' is circular. The screens section only claims that home is being forgotten. The one argued point is 'Home is the bread we eat and not the money that we earn to buy that bread.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The constellation and floorboard images come back. But the sections are split by headings, *** dividers and stacked quotes, and the close is a moral ('don't look anywhere else but within... Keep searching.') followed by a chat transcript ending 'Here's to love and home!- Me.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Human voice (could recover up to 16 points): cut every stock-image sentence. That means the 'symphony of home plays in a thousand keys' paragraph, 'These small imperfections weave the tapestry of home', 'a dance of broken stars and stardust', 'its symphony can be rewritten' and the 'Hence/Perhaps not/Neither is any less cruel' beats. Rewrite the opening 'not merely the four walls...' as a plain statement. Keep the real lines that already work (floorboard 'aunties', Gran and the shoes in the rain, Gramp passing food, the taped remote) and let them carry the voice.",
+  "Specificity and answering the prompt (could recover up to 20 points): in the 'My Home?' section, swap 'Though I love my motherland deeply' and 'arms of stardust' for the real names. Ask the writer which country and town 'motherland' means, what street the Tea Grandpa is on, and who 'My Person' is, then use only what is true. Move that plain answer up so the essay states early where the writer's home actually is.",
+  "Format and stories (cuts 16 points of deductions and lifts structure): delete the '## ' title, the *** dividers, '*Sarcastic laughter*', all em dashes, the line 'If this essay is a symphony' and the famous-person epigraphs (Frost, Angelou, Ahern, Bennett, 'Unknown'). Keep at most the family quotes. Take one true family moment that is already in the essay (the 2 a.m. ice cream raid, or Gran's 'smell of trouble' greeting) and tell it as a short scene. End by returning to that moment instead of the moral and the chat transcript."
+ ]
+}

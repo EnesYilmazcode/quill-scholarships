@@ -1,0 +1,54 @@
+{
+ "id": "pd-26",
+ "contest": "The Fountain Essay Contest: Where Is Home?",
+ "year": "2024",
+ "outcome": "finalist",
+ "words": 1407,
+ "source_url": "https://fountainmagazine.com/all-issues/2026/issue-172-july-aug-2026/footsteps-of-belonging/",
+ "total": 39,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Born-place, homeland, hearth and people are each tested and rejected ('Home is where you were born, they say', 'Even the homeland had failed to become one'), and forced leaving is touched ('driven from her homeland'). The screens and fast-world question gets nothing, and 'Where is your home?' is answered only through an ambiguous graveyard and heart image."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few physical details (pink floral dress, iron teapot whistle, honeysuckle) but no names, places, dates or numbers. Neither the country she leaves nor the one she reaches is named ('a colorful world', 'One Thousand and One Nights')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Clumsy human lines help it ('Long time no see you'), but stock fragment lists open each section ('Laughter. Joy. A happy family scene.'). Other tells: filler words ('truly belonged', 'truly call home', 'genuine smile'), 4 em dashes plus an en dash, heavy ellipses, and a slogan line ('it is people who make a place comfortable, livable—a home')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One story, all on topic: a third-person allegory of leaving by car, arriving somewhere new and being pushed out. It reads as a summary of stations rather than a real scene, and the dream framing hides whose story it is."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Each definition of home is rejected, but the reasons are thin or vague ('As people grew older, the purity in their hearts started vanishing. Profit became all that mattered'). The final answer is a feeling ('Just try to feel it') with no reasoning behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear arc through four 'they say' definitions. The little girl from the opening returns, and the car ride comes back in the last line: \"'Not really,' she replied with a smile. 'But it's not far now. I can feel it…'\" The ending is too ambiguous to state an answer."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the unanswered prompt part (worth -10 plus the criterion 1 gap). After 'Could a single suitcase ever be large enough to carry it all? Even a home?', add a short paragraph on how screens and a fast-moving world change home for her: video calls to the people left behind, a homeland that only exists on a phone. Ask the writer what was actually true for her; do not invent it.",
+  "Remove every dash (worth up to 6 points) and the filler words. 'No one noticed—except the girl' becomes 'No one noticed, except the girl'. 'livable—a home' becomes 'livable. A home.' 'nothing extraordinary—only a place' and 'could be made—a home from which' become two sentences each. 'angels – pure' gets a comma. Cut 'truly' (twice) and 'genuine'. Fix the typos 'he sounds', 'to her cheek see' and 'She studied surroundings'.",
+  "Sharpen specificity (criterion 2 is the biggest weighted gap) by asking the writer for the real names, not inventing them. Replace 'leaving the country she had always called home' and 'a colorful world welcomed her' with the actual country and city she left and arrived in, and swap the One Thousand and One Nights simile for one real street or object. Then cut the graveyard misdirection and replace 'Just try to feel it' with one plain sentence that answers 'Where is your home?' in her own words."
+ ]
+}

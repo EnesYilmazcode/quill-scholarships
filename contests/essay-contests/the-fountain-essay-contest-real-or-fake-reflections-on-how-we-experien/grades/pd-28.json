@@ -1,0 +1,54 @@
+{
+ "id": "pd-28",
+ "contest": "The Fountain Essay Contest: Real or Fake? Reflections on How We Experience Life in the AI Age",
+ "year": "2025",
+ "outcome": "runner-up",
+ "words": 2337,
+ "source_url": "https://fountainmagazine.com/all-issues/2026/issue-170-mar-apr-2026/between-sidq-and-simulation-on-authenticity-in-the-age-of-ai/",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay answers genuineness and ownership at length, but the prompt's questions about relationships and friendships get almost nothing: one unnamed friend ('A friend challenged me') and an abstract 'level of the circle' paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "'Cairo's late-night hush' and the cloned qari recitation are real anchors, but the qari is never named, there are no dates or numbers, and the experiment uses 'the same passage' without saying which one."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "The essay is full of 'not X; it is Y' constructions ('It is not a confession booth; it is a checksum of the self', 'aspiration is not hypocrisy; it is training', 'These are not apologies; they are invitations to trust'), plus triplets, an aphoristic punchline in nearly every paragraph, 'genuinely true', and a tidy moral creed at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There are 2 stories: the cloned recitation, which opens the essay and comes back as the bedside scene ('My tone wavered and my breath ran short'), and the writer's own two-draft experiment. Both are on topic, but the essays between them are long and have no story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The process log and disclosure labels modeled on 'contains nuts, edited for clarity' give a real mechanism, but the 'commons' level falls back on a generic menu ('visible provenance, watermarks... toggles for disclosure tags')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "'I still love the tremor in a human voice' brings back the opening, but the essay then ends on a bulleted creed and a slogan: 'It needs responsible singers.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): rewrite every 'not X; it is Y' sentence as a plain claim. Examples are 'These are not ornamental ideas; they are disciplines of selfhood', 'It is not a confession booth; it is a checksum of the self', 'Disclosure is not self-sabotage; it is part of the dignity' and 'aspiration is not hypocrisy; it is training'. Also cut most of the one-line aphorisms that close paragraphs ('The beauty of breath is that it runs out', 'blur... is the solvent of trust'), and drop the five-line creed so the essay ends on 'I still love the tremor in a human voice' paragraph or the bedside recitation. Removing the creed also clears the -5 list deduction.",
+  "Answers prompt (up to +8): the prompt asks 'How real are our friendships with others?' and the essay only gestures at it. Turn the 'A friend challenged me' paragraph into a direct answer about real relationships, using only what actually happened: ask Enes who the friend was, what the conversation was, and whether AI has changed any real friendship or group chat he is part of. Shorten the 'three levels' section (self, circle, commons) to make room.",
+  "Em dashes and specificity (+6 back, up to +8): replace all em dashes with commas or periods, including in the four habit labels ('Maksad — Purpose.'). Then ask Enes for the real details the essay leaves vague and add only what he confirms: the qari's name, roughly when this happened, and which passage he used for the two-draft experiment. Also check that 'I am a student of scripture and interpretation' and the Cairo setting match his file before submitting."
+ ]
+}
