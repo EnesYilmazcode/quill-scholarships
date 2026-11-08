@@ -1,0 +1,54 @@
+{
+ "id": "bo-38",
+ "contest": "Kirk I. Woods Memorial Scholarship",
+ "year": "Sep 6, 2024",
+ "outcome": "winner",
+ "words": 593,
+ "source_url": "https://bold.org/scholarships/kirk-i-woods-memorial-scholarship",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but neither gets a real answer. 'How education will change your path' becomes a list of degrees ('Bachelor's in Nutritional Sciences... UF College of Dentistry'). Giving back stays a hope ('I hope that having more dentists like me who speak Spanish...'), with no say on where, for whom, or how."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are plenty of checkable nouns and numbers: 67% statistic, UF Honors, Equal Access Clinic Network, 3.93 GPA, 1 of 363. But they read as a résumé. Not one patient, moment, or physical detail appears, and the family's struggle is reduced to 'I have seen how this has negatively impacted my own family.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: filler adverbs ('incredibly harmful', 'incredibly significant', 'tremendously help'), stock phrasing ('make a positive, meaningful difference', 'mitigate the detrimental effects', 'illuminated my commitment', 'utilize my passions and skills'), an opening quote cliché, a tidy moral close, and no sentence over 45 words. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes. The clinic paragraph is a list of duties ('took vitals, performed data entry'). The parents' immigration gets one line. The honor roll and valedictorian paragraph is an off-topic résumé recital."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one causal link: English-only providers harm non-English speakers, so Spanish-speaking dentists help. Beyond that it says nothing on how education specifically enables that, or what the giving back will look like in practice. 'serve as a representative and advocate' is intent, not a plan."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The Roosevelt quote and the 67% statistic never come back. The essay ends on a generic scholarship pitch: 'Therefore, this scholarship delivers an opportunity that will tremendously help me utilize my passions and skills to accomplish my dream of helping underprivileged individuals as an aspiring Hispanic dentist.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the whole 'In terms of academic excellence' paragraph (about 70 words of GPA, Dean's List and class rank, which the application form already shows). Spend those words answering the first prompt part directly: name what a dental degree will let the writer do that the clinic volunteering could not. Draw only on duties already listed (vitals, intake, referrals to specialty services, translating), for example that they could translate for a patient and refer them on but could not treat them. Ask the writer for the real version of that gap rather than inventing one.",
+  "Strip the stock language throughout. Delete 'incredibly' (twice), 'tremendously', 'make a positive, meaningful difference', 'mitigate the detrimental effects', 'illuminated my commitment' and 'utilize'. Rewrite the vague paragraph that opens 'From my various leadership experiences...' around the one concrete fact in it: their parents faced the same language barriers as the clinic's patients. Move that line up beside the translator sentence so the personal reason and the clinic work sit together.",
+  "Drop the Eleanor Roosevelt opener and start on the 67% statistic (or the parents' immigration). Then replace the closing 'Therefore, this scholarship delivers an opportunity...' sentence with a last line that returns to that opening fact. Tie it to the specific community and kind of practice the writer will serve, using whatever real plan they give when asked."
+ ]
+}

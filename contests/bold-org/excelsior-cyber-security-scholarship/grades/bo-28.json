@@ -1,0 +1,54 @@
+{
+ "id": "bo-28",
+ "contest": "Excelsior Cyber Security Scholarship",
+ "year": "Dec 1, 2023",
+ "outcome": "winner",
+ "words": 579,
+ "source_url": "https://bold.org/scholarships/excelsior-cyber-security-scholarship",
+ "total": 29,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Every part is touched but thinly: the veteran status is one clause ('during my service in the Marines'), 'why cybersecurity' is only 'I quickly found myself fascinated by the challenges and opportunities it presented', and improving the community is a future plan ('I plan to achieve this by providing free training') rather than something he is doing now."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "It names real things (College of the Desert, TryHackMe, Hack The Box, NCL, CODIS) but gives no numbers, dates, ranks, Marine job or scene, and the results stay vague: 'consistently performing at a high level'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense with tells: 'testament to our teamwork', 'not just professional but deeply personal' (not X but Y plus a filler adverb), 'hone my skills', 'newfound passion', 'In conclusion', the triplet 'teamwork, dedication, and the comprehensive training', the 'Hello everyone' opener, and interchangeable model prose throughout."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "0 stories: the Marines origin is only a claim ('It was there that I was introduced to the complexities and importance of cybersecurity') with no moment, task or person, and the CODIS and NCL material reads like a résumé list."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "Intent with no mechanism: free training and conference talks are not tied to a named barrier, an audience, a format or a reason they would work ('I want to make it more accessible to everyone')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are organized but there is no arc. The close starts with 'In conclusion' and restates the thesis instead of returning to the opening: 'I look forward to the opportunity to contribute to and learn from the esteemed community at the SANS Institute of Technology.' Deduction: -5 for writing about the essay ('I would like to share a bit about my background and aspirations'). Subtotal 34.0, total 29, band low."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the Marines paragraph ('My journey into cybersecurity began during my service in the Marines... significant time and effort') with the one real moment in the Marines that turned him toward security: ask the writer for his actual MOS or unit job, what he saw or did, and roughly when. Put it first, in place of the 'Hello everyone, my name is...' opener. That answers the veteran and 'why cybersecurity' parts with a story and lifts stories, specificity and answers-prompt.",
+  "Strip the AI phrasing line by line: cut 'Our success is a testament to our teamwork, dedication, and the comprehensive training we undergo', 'My commitment to cybersecurity is not just professional but deeply personal', 'To hone my skills', 'This newfound passion', the 'I would like to share' sentence, and the whole 'In conclusion' paragraph. In their place, write plain sentences in his own words about what he actually does each week.",
+  "Swap the vague results for real numbers from the writer: his NCL individual and team rankings or percentiles and the seasons, his TryHackMe or Hack The Box rank or rooms completed, CODIS member count, and anything CODIS already runs for other students (that is the community-improvement answer in the present tense). Also confirm the school's correct name, since the real school is 'SANS Technology Institute', not 'SANS Institute of Technology'. Then end on the opening Marines moment instead of a restated goal."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bo-26",
+ "contest": "Electronic Shark Scholarship",
+ "year": "Jul 1, 2022",
+ "outcome": "winner",
+ "words": 453,
+ "source_url": "https://bold.org/scholarships/electronic-shark-scholarship",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "One-part prompt answered head-on with a real moment ('built a raft together and went down the Susquehanna river'), but the essay never says plainly why this was his favorite, it pivots to 'defined my academic career'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong inventory facts: barrels from a local car wash, 2 by 4's and plywood, 'big enough to fit 8 high schoolers with life jackets and an adult', painted blue and red with a mast, 2 trained lifeguards, 3 miles; the river day itself has fewer specifics than the build."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real teenager ('my crazy friend group', 'with a request to the higher-ups of course', 'shenanigans'), no em dashes or AI vocabulary; points off for the stock lines 'a day I will surely never forget' and 'absolutely beautiful day', for no sentence over 45 words, and for typos ('lead our class', 'imparted to', 'on a prepared to board')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story, but the payoff gets the least space: the trip itself shrinks to 'It was not without its shenanigans, but we made it', and paragraph 1 spends lines on a résumé recital ('We conquered engineering competitions and lead our class...')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The central claim is asserted twice, never explained: 'I knew that it was for me' and 'That is why I want to be an engineer.' The essay never names which part of designing or building the raft settled his doubt."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear chronological paragraphs, and the close does return to the opening doubt about engineering, but as a bare assertion: 'That is why I want to be an engineer.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last line of paragraph 5 ('That is why I want to be an engineer.') and the claim in paragraph 1 ('I knew that it was for me'): ask Enes which real moment in the build or launch made engineering click (the blueprints, getting the barrels to float the load, the first time it held 9 people). Put that one true moment in place of the bare claim so the ending answers the doubt raised in sentence 2. This is worth about 6 points on reasoning and 2 on structure.",
+  "Paragraph 1: cut the résumé lines 'We conquered engineering competitions and lead our class to be one of the most successful and impactful years of the school. I think this was mostly imparted to our outlandish ideas...'. Spend those words on the river day instead: ask Enes what the 'shenanigans' actually were and replace 'It was not without its shenanigans' with the real events. If there is nothing more to tell, just cut the line. This is worth about 6 points on stories.",
+  "Clean the voice. Fix 'lead' to 'led', 'imparted to' to 'owed to', 'on a prepared to' to 'on and prepared to', and 'Susquehanna river' to 'Susquehanna River'. Cut 'absolutely' and 'a day I will surely never forget'. Change the opening from the abstract 'A moment that defined my academic career' to the real first image, for example the barrels coming home from the car wash. This is worth about 4 points on voice."
+ ]
+}

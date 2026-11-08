@@ -1,0 +1,54 @@
+{
+ "id": "bo-40",
+ "contest": "Kirk I. Woods Memorial Scholarship",
+ "year": "Sep 6, 2024",
+ "outcome": "winner",
+ "words": 447,
+ "source_url": "https://bold.org/scholarships/kirk-i-woods-memorial-scholarship",
+ "total": 29,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "Written for a leadership prompt ('One defining moment that showcased my leadership skills'). Never says how education changes his path, and the give-back part is a gesture split between two careers: 'I aspire to work in education policy' then 'This is why I have chosen journalism'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Only one concrete item, 'the dual enrollment program at my high school'. No school, course, scholarship name, dollar amount or year; 'divorce and financial instability' stays abstract."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Three 'not only X but also Y', 'navigate' twice, 'profound', 'exceptional' twice, 'refused to let my circumstances dictate my potential', triplets ('reached out... formed... dedicated'), 'In conclusion', tidy moral and 2 em dashes. Reads as interchangeable model prose."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "One story, applying for scholarships and enrolling in dual enrollment without parental help, told only as a summary with no scene. It is framed as leadership, not as how education will change his path."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "Intent with no idea: 'advocating for resources and support systems' and 'empower others to pursue their dreams'. No named gap, no reason current support fails, no concrete action; the policy-vs-journalism switch has no reasoning behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "One undivided block that closes with 'In conclusion' and restates the thesis: 'will not only help me in my academic pursuits but will also enable me to make a positive difference in the lives of others.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Point the essay at this prompt (+16 across answers_prompt and ideas). Cut the leadership framing in sentence 2 ('One defining moment that showcased my leadership skills...') and the 'apply these leadership skills' sentence. Use that space for two plain answers: what the degree specifically makes possible that was not possible before, and one concrete way he will give back. Ask Enes which career is true (education policy or journalism) and for one real thing he would do in it, then delete the other career so the essay stops contradicting itself.",
+  "Strip the AI tells (+12 voice, +4 deductions recovered). Rewrite all three 'not only... but also' sentences as direct statements. Delete 'However, I refused to let my circumstances dictate my potential', 'The challenges were daunting, but my determination fueled my efforts' and 'The impact of this work was profound'. Replace both em dashes with commas or periods, change 'navigate' to 'figure out', and drop 'exceptional'. Add at least one long, plain sentence in his own voice.",
+  "Add real specifics and fix the ending (+12 specificity, +6 structure). Ask Enes for the real names and numbers: his school, the dual enrollment college, a course he took, which scholarship came through and roughly for how much. Put those into the dual enrollment and scholarship sentences. Break the block into 4 or 5 paragraphs, then replace the 'In conclusion' paragraph with a last line that goes back to the opening image of the classmates talking about college applications he thought were out of reach."
+ ]
+}

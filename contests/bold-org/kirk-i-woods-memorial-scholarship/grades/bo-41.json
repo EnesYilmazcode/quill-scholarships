@@ -1,0 +1,54 @@
+{
+ "id": "bo-41",
+ "contest": "Kirk I. Woods Memorial Scholarship",
+ "year": "Sep 6, 2024",
+ "outcome": "winner",
+ "words": 496,
+ "source_url": "https://bold.org/scholarships/kirk-i-woods-memorial-scholarship",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are answered, but thinly. The 'path forward' answer turns into money habits ('Without college, I would not have the same mentality regarding spending and saving'). 'Give back' is mostly future intent ('I would love to do that in the future') plus a list of volunteer roles. Computer Science is never tied to giving back."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real facts: 'small-town dairy farms', '4.0 GPA every semester - from my 7th grade year to my 12th grade year', 'over 80 hours'. But no school, town, person, company or scene is named, and the volunteer roles are labels with no detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a sincere student, but it leans on stock phrases ('As many incredible parents do', 'no small feat', 'incredible, plentiful opportunities', 'in a meaningful way'), a triplet ('persistence, dedication, and, of course, money'), and exclamation marks ('and so much more!', 'couldn't be more excited!'). No AI vocabulary or em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are no stories. The parents' dairy-farm background gets two sentences of summary, and the rest is a résumé list (GPA, NHS, 80 hours, eight volunteer roles) with no moment told in full."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says education changed them without explaining how. The saving habit is claimed, not shown ('I make sure every penny spent is going towards a good cause'), and giving back amounts to 'volunteering is a great way to give back' with no specific plan."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs follow a clear order, but the essay opens on the dairy-farm parents and ends on an employer perk ('So, I'm sure volunteering and giving back a lot more is a part of my near future, and I couldn't be more excited!'). It never comes back to the parents or the farms."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories and specificity: replace the list paragraph ('Over the past 8 years, I have volunteered to be an elementary special education teacher, ... and so much more!') with the one role the writer remembers best, told with real details: where it was, one student or moment, and what they did. Ask the writer which role and what actually happened; don't make up any details. Cut the other roles down to one clause, or cut them entirely.",
+  "Answers prompt and ideas: rewrite the 'Now that I'm in college' and saving-money paragraphs so they answer the prompt directly. Name what the Computer Science degree will let them do, and one concrete way they will use it or their pay to give back. Use the real employer and the real volunteer benefit from the last paragraph instead of 'a company'. Ask the writer for their actual plans and the company name, and cut 'piles of debt' and 'every penny' if those claims can't be backed up.",
+  "Structure and voice: end with a line that comes back to the parents on the dairy farms, and drop the employer-perk ending and both exclamation marks. Cut the stock phrases 'As many incredible parents do', 'no small feat', 'incredible, plentiful opportunities' and 'in a meaningful way', and replace them with plain statements of fact."
+ ]
+}

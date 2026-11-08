@@ -1,0 +1,54 @@
+{
+ "id": "bo-36",
+ "contest": "Hearts on Sleeves, Minds in College Scholarship",
+ "year": "Oct 1, 2023",
+ "outcome": "winner",
+ "words": 567,
+ "source_url": "https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship",
+ "total": 28,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks about the writer's journey with veganism and how it connects to another social justice issue, but the essay never mentions veganism, food ethics or animals. It is a family and mental health essay that opens 'My mother came from a poor household' and ends 'I'm very hopeful and happy for my future.' Deductions: -10 for no veganism journey and -10 for no intersection with a social justice issue."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real, checkable facts: 'born in 1969, became pregnant at fifteen', 'graduated in 2016', 'moved to Pennsylvania', 'met my father when I was three'. But the COVID section is abstract ('harsh school to intense family situations') and has no names, places or concrete moments."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It clearly sounds like a real person, with clumsy human errors ('have inspired made me', 'households'', the fragment 'Despite going through family mental and physical strife and loss.') and no em dashes, delve or not-X-but-Y. Points come off for stock lines: 'a brutish year for the world', the triplet 'stressful, uncomfortable, and felt at times unsafe', and the tidy hopeful close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two stories (the mother and grandmother's sacrifices, and the writer's COVID depression), but both are summaries with no scene, and neither relates to veganism, so for this prompt they count as off-topic hardship."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The only reasoning with a cause is that returning to school 'allowed me to feel better as I got to see my classmates', which led to relationships that help 'put my dark thoughts at bay'. Otherwise it states inspiration without saying why. There is no reasoning about veganism or justice."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on the mother and the ending mentions her again ('Watching my mother overcome her difficulties as I overcome mine, is inspiring'), but then closes on a generic moral: 'After going through what felt like agony, I'm very hopeful and happy for my future and where I'm going.' The COVID section is cut off from the rest, and paragraph 1 repeats 'Both my mother and grandmother' twice."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Biggest gap (up to 40 points: criterion 1 plus the two -10 deductions): this essay does not answer this prompt. Ask the writer whether they have a real history with veganism and a real link to a justice issue, such as food access in a poor household of seven or caregiving costs. If they do, rebuild the essay around that and keep the mother and grandmother material only where it connects. If they don't, do not submit this essay to this scholarship. Send it to one about first-generation students, family or mental health instead.",
+  "Cut the repetition to free up about 120 words: in paragraph 1, delete 'Both my mother and grandmother had shorter childhoods than expected because of their new responsibilities as a mom' and 'My mother takes a lot of attributes from my grandmother, as I do from her'. In paragraph 3, delete 'My mother was able to do so much while having a child, while being a child herself, just like my grandmother', which repeats paragraph 1. Spend the saved words on whatever real material answers the prompt.",
+  "Fix the ending and the errors. Replace the last sentence ('After going through what felt like agony, I'm very hopeful...') with a line that returns to a real image from the opening paragraph, such as the households that were 'fed each night'. Also fix 'inspired made me' to 'made me', merge the fragment 'Despite going through family mental and physical strife and loss.' into the next sentence, change 'households'' to 'households', and split the run-on 'became a mother at sixteen, she continued'."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bo-43",
+ "contest": "Kirk I. Woods Memorial Scholarship",
+ "year": "Sep 6, 2024",
+ "outcome": "winner",
+ "words": 478,
+ "source_url": "https://bold.org/scholarships/kirk-i-woods-memorial-scholarship",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts get their own paragraphs ('Education will change my path forward by...' and 'Giving back to society is an integral part...'). Both answers stay general, though: 'tools to break down barriers' never says what will actually change."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few real nouns (Mexico, psychology major, biology minor, pre-med, MD/PhD, pediatric psychiatry). Everything else is abstract, with no school, town, year, person, number or physical detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense with AI tells: 'not just a career choice but a personal mission', 'not only provides... but also collaborates', 'fostering', 'unwavering', 'profound', 'leverage', 'empower', 'ripple effect', 'transformative force', 'more equitable and inclusive world'. Every paragraph ends on a slogan, and the essay closes on a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is no story. The parents' move from Mexico gets one summary sentence ('driven by the pursuit of better opportunities'), with no scene and no moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It is a generic list ('schools, community centers, and non-profit organizations', 'preventive measures and early intervention programs', mentoring). It never says why current care fails Hispanic kids or what this writer would change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are orderly, but the essay ends on a generic moral instead of returning to the parents: 'ensure that everyone has the opportunity to lead a healthy, fulfilling life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +16): rewrite the 'not just X but Y' sentence in paragraph 2 and the 'not only... but also' sentence in paragraph 4 as plain statements. Cut 'transformative force', 'profound', 'unwavering', 'leverage', 'empower', 'ripple effect', 'fostering' and 'more equitable and inclusive world'. Delete the slogan at the end of each paragraph, and merge two short claims into one longer sentence so at least one runs past 45 words. Also fix the missing 'E' in the first word ('ducation').",
+  "Specificity and story (up to +21): delete paragraph 3 ('critical thinking, research skills, and clinical expertise', 'bridge the gap') because it says nothing checkable. Use the space for the parents' move from Mexico, but only real facts the writer confirms: the town, the year, the parents' jobs, and the real moment that turned them toward mental health. Don't invent any of these.",
+  "Ideas and ending (up to +12): replace the list in paragraph 4 with the one barrier the writer has actually seen, such as stigma or cost or no Spanish-speaking providers, if that is true for them. Say in a sentence why the current fix misses it and name the one program they would run. Then cut the last two sentences and end by returning to the parents from paragraph 1."
+ ]
+}

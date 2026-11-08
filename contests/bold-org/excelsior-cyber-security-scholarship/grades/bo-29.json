@@ -1,0 +1,54 @@
+{
+ "id": "bo-29",
+ "contest": "Excelsior Cyber Security Scholarship",
+ "year": "Dec 1, 2023",
+ "outcome": "winner",
+ "words": 557,
+ "source_url": "https://bold.org/scholarships/excelsior-cyber-security-scholarship",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay covers 'about yourself' and 'improve yourself or your community' in full, but the 'why cybersecurity' part gets only one line, 'I plan on using my newly found skills to help my non-profit organization with future cyber security', which gives no reason. The non-traditional status (mother of 3, first in family to seek a degree) appears only in the last paragraph and is never named as non-traditional."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong checkable facts: '3,800+ enrolled tribal members', '97% ... low-income', '28% of tribal members have access to the internet', '500 scholarships for the Grow with Google program', 'week 5', 'mentor for 2 students', 'graduated from the training 7/17/2023', and ISC2. The cybersecurity part has no detail at all."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person, clumsy moments included: 'I didn't understand it, it is hard', 'I still couldn't learn it', 'A little bit about Warm Springs'. There are no em dashes, no 'not X but Y', and no AI vocabulary. It loses a point for the repeated 'I am currently' and 'My goal is' openers, for reading like a list, and because no sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one small story: binary code was hard in college and on YouTube, then made sense in the Google course, and she then explained it to a student another way. It is told as a summary with no scene. The rest is a résumé of roles and programs."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is a real mechanism for the community: tribal members get remote entry-level jobs 'while still living in Warm Springs', fed by Google certificates and local hiring. It also explains why the Google course worked when college and YouTube did not. Nothing explains why cybersecurity in particular."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the essay ends on a list of hardships, 'My family struggles to keep up with bills as we live pay check to pay check.', and never comes back to the opening image of a reservation 'left behind' in technology."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer 'why cybersecurity' directly (worth up to 8 points). The ISC2 paragraph only says 'I plan on using my newly found skills to help my non-profit organization with future cyber security.' Ask the writer for the real reason she chose cybersecurity over general IT and put it in place of that line. To make room, cut repeated lines such as 'I am now recruiting participants to continue learning in this program' and 'I plan to help be a mentor and resource for future GWG cyber security trainees'.",
+  "Move the last paragraph (tribal member, first in her family to seek a Bachelor's, mother of 3, low-income) to the start of the essay, and say 'non-traditional student' outright, since the prompt asks for it. Then end on the remote-jobs goal ('obtain remote entry-level positions while still living in Warm Springs') so the last line answers the opening line about Warm Springs being 'left behind'. This replaces the current ending on bills.",
+  "Make the binary code story the center of the mentoring paragraph. Cut the general line 'The training program is very thorough and describes things in a way for normal individuals to understand.' Ask the writer what she actually told her student about binary, and what the student said when it made sense, then use those real words."
+ ]
+}

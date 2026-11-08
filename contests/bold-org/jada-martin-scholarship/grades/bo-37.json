@@ -1,0 +1,54 @@
+{
+ "id": "bo-37",
+ "contest": "Jada Martin Scholarship",
+ "year": "Dec 30, 2022",
+ "outcome": "winner",
+ "words": 470,
+ "source_url": "https://bold.org/scholarships/jada-martin-scholarship",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The influence part is answered plainly and early with \"my father and I built a PC together\" and the sister. The 'why CS' part stays vague: \"having a part in the vast changes computer science is making in our world.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real anchors: age 13, \"a ratio of 5 girls to 18 boys\", and the sister \"coding a video game\". The PC build itself has no named part, no problem that came up and no moment with the father, only \"pick the correct parts, learned how to connect them\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human touches like \"perusing\" and \"once distant father\" sit inside stock framing. Tells found: AI vocabulary (\"pivotal questions\"), slogans (\"Technology is the future\", \"Empowering young girls... is important\"), virtue lists in paragraphs 1 and 3, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two on-topic stories, the father PC build and the sister's game. Both are told as summary with no scene. The father, who is the hook, disappears after paragraph 1."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It asserts rather than explains. \"making sure my opinions and voice are heard would inspire more women\" and \"one of the few things I know I am good at\" never say how or why. The sister is the only reasoning with a mechanism, and it is buried."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraph 3 repeats paragraph 1's trait list, and the close (\"all I have to do is look at my younger sister\") points to the sister instead of returning to the father and the PC."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 2 and paragraph 3: cut \"Technology is the future\", \"Empowering young girls and letting them know that they can work and pursue a male-dominated career is important\", and the whole trait list in paragraph 3 (\"patience, problem-solving, open-mindedness and creativity\"), which repeats paragraph 1. Move the sister and the 5-to-18 class ratio up so they are the 'why'. Then say in the writer's own words what the sister's doubt shows her about why she personally has to be in that room. This turns slogans into reasoning and removes the stock framing.",
+  "Paragraph 1: replace the summary \"pick the correct parts, learned how to connect them and built the PC\" and the list \"problem-solve, have patience, follow directions... fiscally responsible\" with the one real moment from that build the writer remembers best: a part that didn't fit, a budget choice, or something the father said. Ask the writer for it rather than supplying one. If none comes to mind, cut the list and keep the 'distant father who stopped arguing' line, which is the strongest true detail.",
+  "Ending: delete \"I find myself wondering just exactly what are my motivating factors\" and the three rhetorical questions, and change \"pivotal questions\" (AI vocabulary). Close on a line that ties the father back in, for example the writer now doing for her sister what her father did for her at 13, but only if that is true. If it isn't, end on the plain fact of the sister and the 5-of-23 class without the rhetorical buildup."
+ ]
+}

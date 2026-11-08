@@ -1,0 +1,54 @@
+{
+ "id": "bo-44",
+ "contest": "Larry A. Montgomery Memorial Scholarship",
+ "year": "May 24, 2024",
+ "outcome": "winner",
+ "words": 595,
+ "source_url": "https://bold.org/scholarships/larry-a-montgomery-memorial-scholarship",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The leadership story fills about 560 words, but the second part of the prompt, future leadership, gets only one closing sentence ('As a future pharmacist, I want to give back and I plan to do it through serving this rural community') with no plan, role or position, and the impact on others is shown only as 'they kept asking... when we would do it again.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are some real details ('Great Griffin Grab', Leo Club, 'just nine of the club's twenty students', the gym, the fish fry business), but there is no date, town, vendor or attendee count, and no figure for money raised; 'the disheartening health crisis going on with smaller town' is never named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads human (clumsy typos 'didn;t', 'her' for 'hear', 'indiviaduals'), but it is padded with filler and thesaurus words: 'genuinely', 'fantastic', 'phenomenal', 'incredible', 'such a blast', 'enthralled', 'baked delicacies', 'erect various stations', 'the lightbulb lit up'. No sentence passes 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (the Grab), but most of it is a summary of logistics. The sister gets credit for the idea, and the opening complaint ('Popularity always wins out over merit') is off-topic and makes the writer sound bitter rather than like a leader."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It shows some leadership method (splitting the board by schedule, supplies and vendors; assigning 'helpers, poster spinners, and table monitors' when only nine showed up), but it never says which decision was the writer's or why it worked. The future plan, 'breaking racial disparities within the field of medicine', has no how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs follow the timeline, but the ending jumps to an unrelated new topic instead of returning to the opening about popularity versus merit or the title 'representative'. Last line: 'As a future pharmacist, I want to give back and I plan to do it through serving this rural community and breaking racial disparities within the field of medicine.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the future-leadership part properly (recovers up to 12 points). Cut the opening complaint ('Popularity always wins out over merit... does not reflect that') and shrink paragraph 2's logistics list ('We also have a portion set out... we even let them continue with the food') to two sentences. Use the roughly 120 freed words for a real final paragraph on future leadership. Ask the writer for the real facts: which town, what the health crisis actually is, and what concrete leadership role they plan as a pharmacist (a clinic, outreach, a club). Then tie it back to the nine-of-twenty lesson.",
+  "Give the leadership reasoning a mechanism (recovers up to 9 points). In paragraph 3, after 'just nine of the club's twenty students', say plainly which decisions the writer made (who they put where, and why that worked with half the club missing) instead of 'we quickly arranged.' Make the future paragraph say how the writer will lead, not only that they will, using only facts the writer confirms.",
+  "Sharpen the voice and detail (recovers up to 16 points). Cut 'fantastic', 'phenomenal', 'incredible', 'such a blast', 'genuinely', 'enthralled', 'the lightbulb lit up' and stiff swaps like 'baked delicacies' and 'erect various stations'. Fix the typos ('didn;t', 'her' to 'hear', 'indiviaduals', 'among with', 'with smaller town'). Ask the writer for real numbers to put in place of 'far more than I had anticipated': the date, the number of vendor tables, the attendance, any money raised."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bo-27",
+ "contest": "Electronic Shark Scholarship",
+ "year": "Jul 1, 2022",
+ "outcome": "winner",
+ "words": 513,
+ "source_url": "https://bold.org/scholarships/electronic-shark-scholarship",
+ "total": 16,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 1,
+   "reason": "The prompt asks for a favorite moment, but the essay opens on 'the greatest challenge of time management' and never names one. That earns -10 for an unanswered prompt part."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The device list ('pulse oximeters, spirometers, pH strips') and the countries are concrete. The central event is abstract ('I started using a planner'), with no class, date, name or scene."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 'not only help me pay for college but it will also help me', 'make a difference' twice, 'make a mark', a stock triplet ('cost-effective, reusable, and at-home'), 'facilitate' and a tidy moral at the end. 'Due to procrastination, I was not able to fully pursue my degree' also counts as a -5 negative disclaimer."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There is one story, the planner, and it is told as a summary with no scene. It is about a struggle, not a favorite moment, and the second half turns into a goals statement and a request for scholarship money."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The planner reasoning has a small cause and effect ('planning my days gave me more free time'). The device plan names tools and Tanzania's respiratory risk but says nothing about how, who or what it costs."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 1,
+   "reason": "It is one 513-word block with no arc. The last line is a generic moral that never returns to the opening: 'so that we can make a difference in the world today despite the racial issues we face in society.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the time-management opening and the whole planner section (from 'As an undergraduate freshman' to 'ensure my degree's success') with the writer's real favorite moment from college or high school. Ask her which moment it was, and get the real place, date and people. Tell it as one scene in the first paragraph. This recovers the most points: 16 on answers_prompt plus the -10 deduction, and up to 12 on stories.",
+  "Cut the scholarship and career material ('This scholarship will enable me...', 'Consequently, I will use the knowledge...', 'This scholarship will not only help me pay for college...'). Keep one short paragraph linking the favorite moment to her biomedical engineering goal. If it is true, say whether the Tanzania pulse-oximeter idea started in that moment. This removes the 'not only...but also' tell and the generic phrasing, which helps voice and specificity.",
+  "Break the essay into 4 or 5 paragraphs: the moment, why it mattered, what it changed, where it leads. Replace the closing 'make a difference in the world today' sentence with a last line that comes back to the person or image from the opening scene. Also cut 'Due to procrastination, I was not able to fully pursue my degree' to remove the -5 disclaimer."
+ ]
+}

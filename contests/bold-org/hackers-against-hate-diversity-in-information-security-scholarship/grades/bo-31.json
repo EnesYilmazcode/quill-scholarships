@@ -1,0 +1,54 @@
+{
+ "id": "bo-31",
+ "contest": "Hackers Against Hate: Diversity in Information Security Scholarship",
+ "year": "May 14, 2025",
+ "outcome": "winner",
+ "words": 560,
+ "source_url": "https://bold.org/scholarships/hackers-against-hate-diversity-in-information-security-scholarship",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Each part gets its own paragraph (spark, TPS and financial obstacles, club leadership, SOC goals), but the spark is one gesture: 'Watching videos of cybersecurity professionals uncovering scam networks... sparked my curiosity', and 'how experiences shaped your approach' gets only the closing slogan."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real proper nouns (TPS from El Salvador, NYC Mesh, National Cyber League, Cybersecurity Club president), but no dates, numbers, named video, named exam or cost, and no physical scene anywhere."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Two 'not just X, it is Y' frames ('more than just a profession to me it is a calling', 'not just about defending systems it is about empowering people'), triplets ('a calling, a responsibility, and a means'; 'breaking barriers, driving change, and ensuring'), AI vocabulary (navigate, fosters, leveraged, ever-evolving, immense), filler 'deep curiosity', a tidy moral ('lifting others as I climb'), and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes. The TPS barrier, the switch from criminal justice and the NYC Mesh volunteering are all summaries, and the club paragraph reads like a résumé list ('I mentor..., organize..., and encourage...')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The TPS paragraph says the barrier 'forced me to rethink my career path' but never names the path it closed or the one it opened, and the future plans are a generic menu ('mentorship, training, and financial support') with no 'why it works'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are clean and in order, but the ending restates the opening slogan instead of returning to a person or image: 'ensuring that cybersecurity is a field where everyone, regardless of their background, has an opportunity to thrive.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 to +12): delete the first sentence ('Cybersecurity is more than just a profession to me it is a calling...') and the whole last paragraph ('Cybersecurity is not just about defending systems...'), plus 'resilient and driven individual who understands that true security comes from...'. Open instead on the spark sentence, sharpened: ask the writer which video, channel or scam takedown it actually was and name it. Then replace navigate, fosters, leveraged, ever-evolving and immense with plain verbs.",
+  "Specificity and story (+6 to +8): rebuild the TPS paragraph around the one true moment the barrier became real. Ask the writer which federal job, internship or clearance application they found closed to TPS holders, and when, and what they did next. Cut 'systemic barriers' and 'advocating for more inclusive opportunities' to make room for it. That gives the essay its one on-topic story.",
+  "Mechanism and ending (+5 to +6): turn the club paragraph from a list into one result. Ask the writer for a real number (club members, NCL teams entered, workshops run) or a real member they helped. State what that changed in how they want to run incident response or mentorship, then end the essay by returning to the opening video or the TPS moment, not to a slogan."
+ ]
+}

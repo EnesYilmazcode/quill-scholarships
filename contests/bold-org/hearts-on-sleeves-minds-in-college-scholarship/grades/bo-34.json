@@ -1,0 +1,65 @@
+{
+ "id": "bo-34",
+ "contest": "Hearts on Sleeves, Minds in College Scholarship",
+ "year": "Oct 1, 2023",
+ "outcome": "winner",
+ "words": 564,
+ "source_url": "https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship",
+ "total": 19,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay covers the veganism journey but never names the second social justice issue. Everyday impact gets only vague lines such as \"eagerly sharing them with friends and family\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete detail is the goat slaughtered at a ranch party at age five. There are no names, places, dishes, recipes or dates, and the factory farming part is abstract: \"the horrifying conditions that animals endure\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "AI tells throughout: \"delved\", \"Little did she know\", \"vividly\", \"utterly\", \"deeply\", \"incredible\", \"unwavering\", \"profound\" (twice), \"not only my ethical beliefs... but also\", \"small corner of the universe\", and a tidy moral at the end. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (the goat), but it is told as a summary with no scene: \"Witnessing this process left me traumatized and utterly bewildered.\" The mother's frustration is mentioned but never shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says the aversion \"transformed into a genuine concern\" but never explains how. The balance argument contradicts the ending: \"without eliminating an entire food group\" sits next to \"I proudly identify as a vegan\"."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Organized, but the last paragraph only restates the essay and never returns to the goat or the mother. Last line: \"knowing that my choices reflect my commitment to living compassionately.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "prompt part with no answer",
+   "points": 0,
+   "reason": "-10. The essay never connects veganism to another social justice issue. The Hispanic/Native heritage line is a possible hook but is never framed as one."
+  },
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10. \"gradually reducing my consumption of animal products... without eliminating an entire food group\" contradicts \"Today, I proudly identify as a vegan.\""
+  }
+ ],
+ "fixes": [
+  "Answer the missing prompt part (worth about 16 points: 10 deduction plus 6 on criterion 1). Ask the writer which social justice issue they really care about. The essay's own material points toward cultural identity and food tradition in Hispanic/Native families, or the treatment of slaughterhouse and farm workers. Then use that answer in place of the factory-farming paragraph (\"I delved into learning...\") and the plant-based cooking paragraph (\"During this transition, I discovered the incredible variety...\"). Do not make up a link the writer has not lived.",
+  "Fix the contradiction (worth 10 points). Ask the writer whether they are fully vegan today or have cut back on animal products. If fully vegan, delete \"without eliminating an entire food group\" and rewrite the \"quest for balance\" paragraph as the stage they passed through. If not fully vegan, change \"I proudly identify as a vegan\" to say what they really eat.",
+  "Rewrite in the writer's own voice and cut the recap (worth about 10 points across voice and structure). Remove \"delved\", \"Little did she know\", \"utterly\", \"incredible\", \"unwavering\", \"profound\", the \"not only... but also\" sentence and \"small corner of the universe\". Delete the whole final summary paragraph (\"My journey toward veganism was driven by...\") and end on the goat or the mother's frustration from paragraph one. Ask the writer for the real dish their mother made, and what she says now, so the opening and ending use real details."
+ ]
+}

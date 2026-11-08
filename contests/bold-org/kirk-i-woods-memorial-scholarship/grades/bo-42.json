@@ -1,0 +1,54 @@
+{
+ "id": "bo-42",
+ "contest": "Kirk I. Woods Memorial Scholarship",
+ "year": "Sep 6, 2024",
+ "outcome": "winner",
+ "words": 496,
+ "source_url": "https://bold.org/scholarships/kirk-i-woods-memorial-scholarship",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The giving-back part gets its own paragraph, but how education changes her own path gets one generic sentence: \"I hope to bring my family out of a cycle of poverty by pursuing the things I am passionate about like medicine and advocacy.\" No school, field or plan is named."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong details a stranger could not make up: Wa, \"meaning 'come' in Wali,\" 2005, Fanyogo, Kenkey, \"a white lace dress with a blue overskirt\" now \"filled with holes and permanent black stains,\" and the grandfather carrying mail for the British. The education and nonprofit half has none."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The cousins' line \"Bring me to America, I can fit in your suitcase\" sounds like a real person, but the essay also has stock phrasing: \"more than just delicious food,\" \"I not only gained... but I realized,\" a three-part \"Through education...\" slogan ending, the clichés \"pang in my heart\" and \"made my mouth drool,\" and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story (the summer trip to Wa), told with real scene and the dress image. It loses points because the opening food and skin-color lines are a detour from education, and the story stops being used once the essay turns to plans."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "\"I hope to create a non profit that can build computer labs, libraries, and provide textbooks\" is a generic menu. It never says why current efforts fail, gives no first concrete step, and doesn't say how she would do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear story-then-plan order, but the ending is a slogan that never returns to the opening \"Wa? Where's that?\" or the dress: \"It is through education my aunts, uncles, and cousins will finally be able to feed their families.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (+9): rewrite the nonprofit paragraph (\"I hope to provide better access...\") around the one school her cousins actually attend. Ask the writer for its name, the one thing her cousins said it was missing, why that gap still exists (for example, donated computers with no power or no teacher, if true), and the smallest first step she could really take. Cut the general list \"libraries, textbooks, computers, proper furniture and much more.\"",
+  "Answers prompt (+8): replace \"I hope to bring my family out of a cycle of poverty by pursuing the things I am passionate about like medicine and advocacy\" with the writer's real plan. Ask her for her intended major or career, the school or program, and how that work connects to Wa (for example, the barefoot toddlers or the people begging that she describes). Make room by cutting the food sentences (\"delectable food... made my mouth drool\") and \"But this trip brought me more than just delicious food.\"",
+  "Voice and ending (+8): cut the \"Through education...\" slogan lines and \"I not only gained a deeper gratitude... but I realized,\" and end on a line that goes back to the opening: Wa means \"come,\" or the cousins' \"I can fit in your suitcase,\" said plainly in her own words. Join two short plain sentences in the cousins paragraph into one long one so the essay has at least one sentence over 45 words."
+ ]
+}

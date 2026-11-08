@@ -1,0 +1,54 @@
+{
+ "id": "bo-35",
+ "contest": "Hearts on Sleeves, Minds in College Scholarship",
+ "year": "Oct 1, 2023",
+ "outcome": "winner",
+ "words": 420,
+ "source_url": "https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay names the journey and the intersecting issue ('a Eurocentric lie'), but challenges and growth get one phrase ('veganism is difficult but important'), and everyday impact is mostly a recipe list."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real proper nouns (sobolo, hausa koko, kenkey, @eatwithafia, Ghana's famines), but 'The foods that I was made fun of for' has no who, when or which food, and there are no dates or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads as a real person, with typos ('diests'), run-ons and a 70+ word sentence; one 'Not just eating vegetables but...' antithesis is the only AI-style tell."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told: being 'made fun of' for food and learning herbs 'through my mother' are claims, not scenes."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The famine explanation is a real mechanism, but the central social-justice claim ('there is no real veganism until all cultures are included') is stated without saying how exclusion actually holds the movement back."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Ends on a list and a wish: 'I would love for all vegans to explore African vegan foods as well because it has a rich history and rich taste.' It doesn't return to the opening about roots and famine, and it includes writing about the essay (-5: 'I would love to share with the rest of this essay')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Move 'The foods that I was made fun of for growing up are now being recognized in the vegan community' and 'As someone who grew up eating a lot of meat, veganism is difficult' to the opening paragraph. Ask the writer which food it was, who made fun of it, and what was hard about cutting meat, and use only what really happened. This gives the essay its one story and answers the challenges and growth part.",
+  "Delete 'I would love to share with the rest of this essay some of my favorite Ghanaian vegan recipes' (recovers the -5 deduction). Turn the recipe list into a sentence about the writer's actual week, e.g. which of sobolo, hausa koko, kenkey or spinach stew they now make and how often (ask them). That answers 'how have these experiences impacted your everyday life and actions' with concrete examples.",
+  "Replace the tangled 'Especially since because of the way ethnic cultures are almost ignored...' sentence with one plain sentence saying how calling Ghanaian food unhealthy keeps people out of veganism, using the famine history as the reason. End with a line that returns to the opening about eating what their ancestors ate, not the general wish that 'all vegans' explore African food."
+ ]
+}

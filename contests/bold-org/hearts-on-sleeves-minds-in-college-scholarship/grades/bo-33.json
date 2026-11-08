@@ -1,0 +1,54 @@
+{
+ "id": "bo-33",
+ "contest": "Hearts on Sleeves, Minds in College Scholarship",
+ "year": "Oct 1, 2023",
+ "outcome": "winner",
+ "words": 430,
+ "source_url": "https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship",
+ "total": 35,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The intersection gets two paragraphs. The personal journey with veganism gets one clause, 'I have taken the initiative to cut animal products, especially dairy'. The essay never names a challenge or a moment of growth, and its effect on everyday life is a single line."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "'Clinical Support Technician at my local hospital' is the only concrete fact. There are no names, dates, foods or numbers, and the patients appear only as 'the previously listed diseases'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Filler intensifiers ('deeply concerned', 'highly passionate'), the stock pivot 'At first glance... more similar than one may think', the textbook balance 'On the other hand', dictionary definitions of both topics, an en dash used as an em dash, and a tidy closing moral ('goes hand in hand with it')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero full stories. The hospital job and the dairy cut are each summarized in a sentence, with no scene and no moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "'By promoting veganism and improving access to nutritious plant-based foods in underserved communities, we can work towards reducing health disparities' names a goal but not who acts, how, or why the current situation persists."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Four clear paragraphs, and the close comes back to the Physician Assistant goal from the opening. The last line is still a generic moral: 'Health Equity among Black women is a concept that goes hand in hand with it.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and stories (+8 to +14): paragraph 4 is the only part about her own journey, but it sits last and runs 6 sentences. Move it to the top and cut paragraph 2 ('Veganism is a way of life... On the other hand, Health Equity is...') to make room. Then ask the writer, rather than inventing anything, for the real moment she decided to drop dairy, what was hard about it, and what she actually eats or does differently now. Use the space freed up to answer the 'challenges, growth and everyday life' parts of the prompt.",
+  "Specificity (+8 to +12): replace 'Many of the Black female patients on my floor in the hospital come in with the previously listed diseases' and 'see firsthand the consequences of unhealthy eating' with real details only she can supply. Ask her which unit she works on, what her shift tasks are, and one patient interaction she actually remembers, kept anonymous. Do not write any of these in for her.",
+  "Voice and deductions (+7 to +12): cut 'deeply', 'highly passionate', 'At first glance, it would be odd...', 'more similar than one may think', and the en dash in sentence one. Reword 'To be fair, I am not vegan' as a plain statement of where she is, for example 'I am not fully vegan yet; I started with dairy.' This drops the disclaimer tone. Then end on the hospital floor or her PA goal instead of 'goes hand in hand with it.'"
+ ]
+}

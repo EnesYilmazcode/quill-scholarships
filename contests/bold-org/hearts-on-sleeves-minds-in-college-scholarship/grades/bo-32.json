@@ -1,0 +1,54 @@
+{
+ "id": "bo-32",
+ "contest": "Hearts on Sleeves, Minds in College Scholarship",
+ "year": "Oct 1, 2023",
+ "outcome": "winner",
+ "words": 458,
+ "source_url": "https://bold.org/scholarships/hearts-on-sleeves-minds-in-college-scholarship",
+ "total": 7,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The essay never describes a 'personal journey with veganism'. It says 'although I am not vegan', has no challenges or moments of growth, and the everyday-impact answer is one vague line: 'these intersections manifest in my consumer choices, and advocacy for policy changes'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete items are a list of activities ('volunteering at a women's shelter, running the women in STEM club... young leaders planned parenthood'). There are no names, dates, numbers or physical details, and the rest is abstract claims like 'Animal agriculture... affects marginalized communities'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "AI tells found: 'rooted in the understanding of systems of oppression', the triplet 'justice, equality, and compassion', 'fostering inclusive and equitable spaces', 'Here are just a few ways', a moral that closes each paragraph ('Both share a clear concern for human well-being'), and no sentence over 45 words. The only human marks are typos."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. There is no scene from the shelter, the club or any encounter with veganism, only claims that the writer has 'learned and educated myself'."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay lines up parallels (exploitation, environment, economics, health, compassion) but never explains how one movement changes the other or the writer's behavior. 'Supporting ethical sustainable practices in both contribute to a more equitable society' is asserted with no reasoning behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraphs are organized but follow a list template with 'Lastly'. The ending is a generic moral that does not return to the opening: 'others and I can learn to work together toward a more just and compassionate work that uplifts all.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answering the prompt is worth up to +12, and fixing it removes the -20 for missing parts. Paragraphs 2 and 3 are generic parallels that skip the core ask, so cut them down to two sentences. Then ask the writer for their real relationship to veganism: when they first ran into it, what they tried or chose not to do, and why they are 'not vegan' but still support it. Build a 'journey' paragraph from that true answer, including one real challenge or change of mind. Move the 'although I am not vegan' admission into that honest story so it stops reading as a throwaway disclaimer.",
+  "Specific detail and stories are worth up to +18 together. The first paragraph's list of shelter, STEM club, Planned Parenthood and classes reads like a résumé. Ask the writer for one real moment from the shelter or the club where women's rights and food, animals or bodies came up, and tell that one moment in place of the list, with its real place, people and what was said. Keep only the activity that story comes from.",
+  "Voice and structure are worth up to +16. Cut 'Here are just a few ways the two movements are connected', 'rooted in the understanding of systems of oppression', 'fostering inclusive and equitable spaces' and the one-line morals that end paragraphs 3 and 4. Fix 'exploration' to 'exploitation' (twice), 'compassionate work' to 'world' and 'The intersecting between' to 'The intersection between'. Replace the last sentence with a line that returns to the real moment the essay opens on."
+ ]
+}

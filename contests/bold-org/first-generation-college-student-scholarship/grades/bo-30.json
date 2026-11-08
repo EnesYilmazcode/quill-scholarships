@@ -1,0 +1,54 @@
+{
+ "id": "bo-30",
+ "contest": "First Generation College Student Scholarship",
+ "year": "Nov 9, 2020",
+ "outcome": "winner",
+ "words": 617,
+ "source_url": "https://bold.org/scholarships/first-generation-college-student-scholarship",
+ "total": 61,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay names the challenge outright: 'the greatest challenge I have ever faced has been simply existing.' The overcoming gets a full paragraph (Mr. B, room 316). The lessons part is mostly general advice ('you have to dig yourself out of depression') instead of what she actually learned."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The opening is strong and physical: the relaxer 'every three weeks', the heat burning the scalp. Later details are checkable too: 'Paul Brunngraeber', 'room 316', 'eight academic honors', 'Michigan State University with a 3.8 GPA'. But the central hardship is only a list ('maternal abandonment, sexual assault, and eventually, my father's death') with no scene, and the middle drops into labels like 'an array of student organizations'."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The relaxer paragraph sounds like a real person. Later tells: 'Not only did I hold a job... but I was also', a three-part 'There will come a time' run, stock phrases ('tower of success', 'love and light', 'see the light'), the filler word 'Truthfully', and a tidy closing moral ('YOU are the \"prize.\"')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two beats: the relaxer image as a frame, and the Mr. B turning point. The Mr. B story is a summary with no scene ('constantly reassured me'). The overcoming then turns into a résumé (job, organizations, volunteering, car, honors)."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says she overcame it, not how. One line hints at the why ('first discovered that I was smart', then 'challenged myself'), but the lessons are slogans with no cause behind them: 'there never really is a light at the end of the tunnel, you just have to make one.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear, and the close brings back the opening's 'dull ache' and 'prize': 'YOU are the \"prize.\"' That is a real loop-back. It loses a point because it lands as a moral after a run of advice to the reader."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 4 (lessons, worth up to 12 points across ideas and voice): cut the general advice ('Truthfully, you have to dig yourself out of depression... you just have to make one') and the three 'There will come a time' sentences. Replace them with two or three things she actually did or learned in the years after room 316, stated plainly. Ask Mariah what those were rather than writing them for her. Keep the final 'dull ache' and 'YOU are the \"prize\"' lines, because they tie back to the opening.",
+  "Paragraph 3 (overcoming, worth up to 8 points across specificity and stories): cut the résumé sentence 'Not only did I hold a job all of high school, but I was also a member of an array of student organizations, made time to volunteer, and even bought my first car.' Use the space to show room 316: ask Mariah for the actual words Mr. B said, or the first assignment or test where she believed him. Keep the 3.8 GPA at MSU and drop the general honors list if words get tight.",
+  "Voice cleanup throughout (worth up to 8 points): change 'consumed me - with' to a comma or period (a spaced dash counts against the no-dash rule), and cut 'tower of success', 'The love and light that pours out of me', and 'My heart aches for people who couldn't see the light.' In paragraph 2, change the triplet 'I was destructive, I was angry, I was mourning' into a plain sentence about one real thing she did, but only if she gives it to you."
+ ]
+}

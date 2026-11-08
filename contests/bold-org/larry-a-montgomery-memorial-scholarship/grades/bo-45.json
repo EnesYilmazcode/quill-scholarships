@@ -1,0 +1,54 @@
+{
+ "id": "bo-45",
+ "contest": "Larry A. Montgomery Memorial Scholarship",
+ "year": "May 24, 2024",
+ "outcome": "winner",
+ "words": 587,
+ "source_url": "https://bold.org/scholarships/larry-a-montgomery-memorial-scholarship",
+ "total": 44,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The 'time you demonstrated leadership and its impact' part gets one clause, 'helping and organizing fundraisers for babies in the NICU where I was born or directing Cadets in NJROTC', with no event and no impact. The future part is answered, but as a hope: 'I'd use my platform as an anesthesiologist to serve as a beacon of light'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The birth story has strong detail ('2lbs, 7oz', 'a dozen surgeries before the age of four', 'Dreher High School in Columbia, SC', 'Orangeburg', '6 years'). The leadership itself has no names, numbers, dates, money raised or cadets led."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: a rhetorical-question opener ('Are leaders born, or are they made?'), two 'not only... but also' constructions, stock slogans ('champion for change by tapping into my gifts', 'beacon of light', 'I, along with millions of people, stand against discrimination'), a triplet ('stretched, stressed, and pushed') and a definition-style opener ('To me, inspiration means'). There is one long natural sentence, but the voice is mostly generic."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Only one story, the premature birth, and it is told as a summary that shows resilience, not leadership. Neither leadership example is told. The equality paragraph and the 'inspiration means' paragraph read as recycled from other prompts and are off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The underrepresentation reasoning cites one number ('less than 5%'), but the future leadership plan is intent with no mechanism: 'the younger generation can find inspiration from myself and other black doctors through our community acts and profile'. It never says what he will do, for whom, or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on a question it never comes back to, wanders from resilience to equality to inspiration, and ends on a generic moral: 'to pursue their dreams, and not to let racial barriers and stereotypes prevent them from doing so.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and stories (about 21 points): delete the paragraph that starts 'To me, inspiration means...' through the Hidden Figures sentence, plus the equality sentences ('I believe that supporting equality...' and 'I, along with millions of people...'). Use the roughly 150 freed words to tell ONE real leadership time in full, either the NICU fundraiser or directing NJROTC cadets. Ask the writer for the real facts: what he organized, how many people, how much money or what result, one thing someone said, and what changed for the people around him. The prompt asks for that impact, and the essay never gives it.",
+  "Human voice (about 12 points): cut 'Are leaders born, or are they made?', 'I believe we all lead in one way or another.', 'That's what being a leader is all about...', 'I'm being a champion for change by tapping into my gifts', and 'serve as a beacon of light'. Rewrite both 'not only... but also' sentences as plain statements. For example, 'More students of color need support to finish medical school, and patients want doctors who look like them' (use his own wording). Cut 'stretched, stressed, and pushed beyond their limits' down to the one word that is true.",
+  "Structure and ideas (about 7 points): start the essay with the existing true opener, 'When I was born, I could fit into the palm of my mother's hand,' and move the NICU fundraiser right after it so the birth story leads into the leadership story. Replace the closing sentence with a concrete future plan the writer actually has (ask him: a mentoring program, a pre-med club, returning to that NICU or to Orangeburg). Then end by coming back to the NICU or Orangeburg, not on a general moral about stereotypes."
+ ]
+}

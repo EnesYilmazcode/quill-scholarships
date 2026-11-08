@@ -1,0 +1,54 @@
+{
+ "id": "bo-39",
+ "contest": "Kirk I. Woods Memorial Scholarship",
+ "year": "Sep 6, 2024",
+ "outcome": "winner",
+ "words": 526,
+ "source_url": "https://bold.org/scholarships/kirk-i-woods-memorial-scholarship",
+ "total": 30,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but each gets a gesture rather than a position. The path forward is 'education will be the key to determining my destiny', and giving back is 'mentoring other first-generation students' with no who, where or how."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete items are the course labels ('honors, AP, IB, and dual enrollment') and the major. There is no school, city, person's name, date, number or physical detail, and 'graduated with exceptional marks' gives no GPA or class rank."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Five not-X-but-Y or not-only constructions ('not only a goal but also a difficulty', 'rather than only a means', 'not just for myself, but', 'is not only a means', 'will not only change'), triplets ('Resilience, tenacity, and...', 'speak up for victims, interact with communities, and bring about'), slogan lines ('bridge between aspiration and transformation'), 2 em dashes, a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "0 stories. The essay only claims them: 'High school was a testing ground for personal development' and 'my parents, who put forth a lot of effort' never become a single scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "This is intent with no mechanism. 'promoting structural adjustments that advance accountability and fairness' and 'mentoring other first-generation students' name no program, no reason the current approach fails and no concrete change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are ordered, but paragraph 4 goes back to high school after the career paragraph. The last line, 'help create a more compassionate and just society where everyone has the opportunity to succeed, no matter what their circumstances', is a generic moral and never returns to the opening question about dreams and legacies."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ask the writer for one real moment that shows the first-gen struggle or the pull toward justice, for example a specific night, conversation or case involving their parents. Put it in place of the abstract opening paragraph ('How many dreams become legacies... significant contribution to society') and paragraph 4 ('High school was a testing ground...'), both of which are pure claim. This lifts stories, specificity and structure, worth up to 32 points across those criteria.",
+  "Rewrite every 'not only X but also Y', 'rather than only', 'more than just' and 'not just... but' sentence (paragraphs 1, 2, 3, 4, 6 and the closing line) as a plain statement. Remove the two em dashes in paragraph 4 to recover 4 points. Cut the slogans 'bridge between aspiration and transformation' and 'Resilience, tenacity, and a strong desire...', and let one sentence run long in the writer's natural voice.",
+  "In the giving-back paragraphs (5 and 6), ask the writer for the real specifics behind 'mentoring other first-generation students' and 'assisting victims' families': the actual program, school or organization, the role they want, and why current support falls short. Replace the generic lines with those facts, and end on the opening image instead of the 'compassionate and just society' moral."
+ ]
+}
