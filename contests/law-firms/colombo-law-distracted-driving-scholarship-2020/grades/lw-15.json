@@ -1,0 +1,54 @@
+{
+ "id": "lw-15",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 922,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Kendall_Creviston.pdf",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get an answer: the crash, a reaction ('little time or choice other than to lay on my horn') plus changed habits, and ideas (Maria's Message, mindfulness). The 'how you reacted to stop it' part is thin and admits 'I was powerless to prevent his distracted driving.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dated and physical: 'June 7th, 2019', National Donut Day, a 'rust covered work truck', a dead right taillight that read as a left turn signal, '15 miles per hour to zero', tools spilling out, the driver saying 'my dang mirrors are too small', and Dom Tiberi and the Maria Tiberi Foundation in Ohio."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash scene sounds like a real person ('sorry sweetie'). Tells: filler adverbs ('incredibly scary', 'extremely necessary', 'beyond needed'), stacked triplets ('emotionally, financially, and logistically'; 'very real, life changing, and heartbreaking'), a dictionary-definition opener, exclamation marks, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One main story told fully as a scene, plus the writer's own pre-drive routine. The two peers' crash ('One friend survived but the other friend did not') and Maria's story are added as one-line summaries, which thins the focus."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are to join an existing outreach program, with no reason given for why it works or falls short, and 'mindfulness' in Driver's Ed with no description of what is taught or why drivers would actually do it ('Imagine the difference it would make')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Story first, then habits, then ideas, but it ends on a borrowed quote that never returns to the truck, the horn or the brothers: '\"Each one of us can make a difference. Together we make change.\" - Barbara Mikulski'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph (the one starting 'Mindfulness can be defined as...'), about 9 points: cut the dictionary definition and 'Imagine the difference', and turn the idea into a mechanism. Say what Driver's Ed covers now, why that misses the habit, the exact small change (for example, the pre-drive checklist she already uses: return texts, phone in the glove box, pick the station, seatbelt), and who does it (instructors, parents). Ask the writer what her Driver's Ed class actually did and what she saw at Maria's Message, rather than making up details.",
+  "Whole essay voice, about 8 points: cut the filler adverbs ('incredibly scary', 'extremely necessary', 'beyond needed', 'forever changed', 'tragically'), the exclamation marks ('National Donut Day!', 'what had happened!') and the triplets ('emotionally, financially, and logistically'; 'very real, life changing, and heartbreaking'). Combine two of the crash sentences into one long run-on beat, such as the seatbelt, her breathing and her arm across her brother.",
+  "Ending, about 6 points: delete the Barbara Mikulski quote and close on an image from the opening that already happened, such as the horn, the brother in the passenger seat or the drive home from the donut shops, tied to the phone she now locks in the glove box. In the same pass, state the horn plainly as her reaction to stop him, so the prompt's 'how you reacted' part is answered head-on."
+ ]
+}

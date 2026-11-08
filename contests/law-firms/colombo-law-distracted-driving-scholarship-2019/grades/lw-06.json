@@ -1,0 +1,54 @@
+{
+ "id": "lw-06",
+ "contest": "Colombo Law Distracted Driving Scholarship 2019",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 936,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2019/04/Anthony_Cook.pdf",
+ "total": 70,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers the experience (Koda hit by a texting teammate), the reaction and the idea ('Throw your phone in the trunk'). But 'how you reacted to stop it' gets only a passing line, 'I have told friends and cousins to do the same thing', and 'people of all ages' is never addressed separately."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Has strong checkable details: 'left the Air Force in 2013', the dog Koda, 'a lady that had just crossed to get her mail', 'glove box on the way to school and in my gym bag in the trunk', the football blog and age 12. It has no date or month for the crash, and the ideas section has no numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real teen. It switches tense, has typos ('ever session', 'gym back') and clumsy honest lines ('I mean, heck I have known it since I was 12 years old'). There are no em dashes and no AI vocabulary. The close falls into a slogan run ('Use common sense and be a good friend. Throw your phone in the trunk. Remove access and temptation.'). No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: Mom's driver's-ed talks and the day his teammate hit Koda, which is told as a full scene with dialogue. The prank-guessing paragraph ('decayed fish in my gym back') builds suspense but takes words away from the crash and his reaction."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is a real mechanism: phones in the trunk mean 'they can't get to their phone unless they park the car'. It also says why old fixes fail ('Laws... do not give a plan for prevention'). But it is a single idea with no one named to spread it beyond 'pass this... on to everyone', and nothing on drivers who aren't teens."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The ending does return to the opening's statistics frame ('statistics will not solve the problem'), but it lands as a moral and slogan: 'Make it a habit and pass this \"not-so-secret\" knowledge on to everyone.' A paragraph break also splits a sentence in two ('my / friend')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraph 1 ('As I was making notes for this essay... go with my heart instead of my head.'). It writes about the essay (-5) and delays the story. Open on Mom leaving the Air Force in 2013 or on the parking-lot morning, then bring the 'statistics are just numbers' line back once at the end so the loop-back still works.",
+  "Make the 'how you reacted to stop it' part plain and its own paragraph. Shrink the prank-guessing paragraph to one sentence and use the words to say what Enes actually did after Koda: who he told, what he said to the teammate or the team, what changed. Ask Enes for what really happened. Don't add anything that didn't happen.",
+  "Sharpen the ideas paragraph rather than add to it. Say in one sentence why the pledge and slides in Mom's talks fail and the trunk habit works. Name who could pass it on (driver's ed classes, insurance agents, parents) and add a line for adult drivers so 'people of all ages' is answered. Replace the slogan run ('Use common sense and be a good friend. Throw your phone in the trunk. Remove access and temptation.') with a single line about Koda or the glove box. Also fix 'ever session', 'gym back', 'sets me down' and the split sentence 'my / friend'."
+ ]
+}

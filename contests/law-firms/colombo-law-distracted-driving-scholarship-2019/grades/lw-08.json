@@ -1,0 +1,54 @@
+{
+ "id": "lw-08",
+ "contest": "Colombo Law Distracted Driving Scholarship 2019",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 877,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2019/04/Gracan_Tarley.pdf",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The ideas half gets its own section, but 'how you reacted to stop it' gets one buried sentence ('offer to be the drivers' \"switchboard operator\"'). The only events described are crashes the essay admits 'have not been proven to be the result of distracted driving'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "It has a few proper nouns (Fairmont Senior High School, True Motion Family Safe Driving, a mother in insurance), but the central experience is abstract ('From experience, of being in a car with teenagers'). No driver, date, car or moment is named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes or AI vocabulary, and the clumsy grammar reads as human. But it opens on a generic thesis ('awareness towards driving and vehicle safety have made their influence across our world') and closes on a slogan ('death recognizes no race, gender, culture...'). 'Altruistic crime' and 'selfless crimes' are misused words that a judge will notice."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 full stories. The two school fatalities get one-line summaries and are not shown to involve distraction. The real on-topic beat, the switchboard role, is a claim with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are a generic set: parents should model behavior, put the phone in the back seat, Bluetooth plus apps. The motion-lock idea does not say why existing driving modes fail or why people would keep it on."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on an abstract thesis and drifts into a digression about millennials and social media. The last line, 'Ignore your instincts to pick up your phone and practice safe driving before it's too late.', is a generic moral that does not return to anything."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt and stories (+19 possible): Cut paragraph 1 entirely and open on the switchboard-operator sentence, so 'how you reacted to stop it' comes first. Ask the writer for the real details to add there: whose car, roughly when, and what the driver said when they took over the music and texts. Do not invent any of them.",
+  "Specificity and voice (+12 possible): Cut the fatalities paragraph, or cut its sentence 'These fatalities have not been proven to be the result of distracted driving'. As written, the paragraph undercuts itself. Also cut the 'Being millennials... toxic relationship with social media' digression, and replace 'altruistic crime'/'selfless crimes' with plain wording such as 'this avoidable mistake'.",
+  "Ideas and ending (+9 possible): Tie the Bluetooth motion-lock idea to the writer's own switchboard habit: the phone locks for the driver but stays usable for a passenger, which is the role they already play. Ask the writer whether they have seen friends switch off existing driving modes, and use that only if it is true. Then replace the slogan ending with a line that returns to the passenger-seat switchboard image."
+ ]
+}

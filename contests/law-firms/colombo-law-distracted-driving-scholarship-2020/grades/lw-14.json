@@ -1,0 +1,54 @@
+{
+ "id": "lw-14",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1045,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Josie_Grass.pdf",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The experience is answered, but 'how you reacted to stop it' only gets a passive line ('His seriousness deeply affected me'). The ideas part is a gesture ('The real solution is simple: do not touch the phone'). About 40% of the words go to the divorce, the move and the remarriage before the topic starts."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The crash has real detail ('looked down at his phone to change a song', 'rolled his truck three times down a hill until finally hitting a guard rail', 'kick his door out'). Most of the proper nouns (Lincoln County, Akron, June 27, 2016) sit in off-topic backstory, and the ideas section has no names or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The voice is clumsy in a human way ('weeks on weeks', 'when we looked up'), but it leans on stock framing: two 'Not only... but' constructions, 'deeply affected' twice, 'truly', and slogans ('No text or call is important enough to risk your life', 'the first one is just as tragic as the last')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story (Logan's rollover), told secondhand with some scene. Two full paragraphs of unrelated family history (the divorce, the move to Grafton, the wedding) come before it and dilute it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay names existing fixes (dashboard slots, windshield mounts, Bluetooth) and says they fail, which is good. Its own answer is willpower with no mechanism and no one to carry it out: 'Think about the friend and family who love and care about you.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on childhood in Lincoln County and closes on a generic moral that never brings back Logan: 'Thinking about family and those who truly care about you is the only way to really convince someone to keep the phone out of sight.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraphs 1 and 2 down to two or three sentences that only set up Logan, for example that he became your stepbrother in 2016, drove you to after-school activities, and was the person you looked up to. Drop the divorce, Lincoln County and the wedding date. Use the roughly 250 freed words to grow the 'how you reacted' half from things that really happened, starting from 'he took advantage of my age and explained to me the importance of safe driving.' Ask the writer what they actually did differently afterward, such as a phone habit since getting their permit or what they told their sister or friends, and write only what they confirm.",
+  "Rebuild the ideas paragraph around the writer's own real observation from assemblies: students roll their eyes at strangers, while the students who lived through a crash have to leave the room, which is why Logan's warning worked on you and a guest speaker's didn't. Turn that into one concrete change with a person responsible for it, and ask the writer which idea they actually believe in. Cut the menu lines 'Think about the friend and family...', 'No text or call is important enough to risk your life' and 'the reality is that stuff is only numbers.'",
+  "Replace the closing sentence with a return to Logan, for example the image of him stopping the family's jokes ('He would stop us immediately... and explain to us how serious and terrifying the event was'), so the essay ends on him and not on a moral. While editing, rewrite both 'Not only' sentences as plain statements, remove the second 'deeply affecting', and fix 'when we looked up' to 'when he looked up.'"
+ ]
+}

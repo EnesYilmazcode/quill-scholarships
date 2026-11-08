@@ -1,0 +1,54 @@
+{
+ "id": "lw-09",
+ "contest": "Colombo Law Distracted Driving Scholarship 2019",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 997,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2019/04/Megan_Murray.pdf",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts are answered: the experience (mother's deer crash), the reaction (\"My hand does not make contact with my phone at any point that I am behind the wheel\") and ideas. The ideas part is thin, a menu of parents, peers and existing tech, with no position of its own."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real physical details: the Kia Sorento, the tissue box under the seat, the two-hour Christmas drive, the deer's eyes. There is no year, interstate, town or number, and the ideas section is fully abstract (\"various ways to decrease distracted driving\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "A human story in stock framing. Two \"not only X but also Y\" lines (\"This was not only a wakeup call for her, but for me as well\"). Overwrought adjectives (\"hauntingly serene\", \"White-hot shock\"). Stock words (epitome, catalyst, \"I am honored\"). A slogan close (\"we can change the world\"). No sentence goes over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story told as a full scene (the tissue box, the deer, the airbag), plus a small admission of the writer's own (\"I know how it feels because I am a teenage driver and I feel this way\"). The second beat is a habit list, not a moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A generic menu: parents set an example, teens speak up, Bluetooth, phone driving modes, \"in a world of three- dimensional printers... anything is possible\". It never says why the existing fixes fail or who would change what."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized, and the last paragraph comes back to the tissue, but the final line is a generic moral: \"Now is the time for change, and with united determination, we can change the world.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (the paragraph starting \"Thankfully, today there are various ways\" and the \"Parents need to be the epitome\" paragraph): cut the 3D printer and VR line and the generic list. Build one idea out of what already happened in the essay: Bluetooth and phone locks would not have stopped a hand reaching under the seat. Turn his own real habits (setting the radio before the trip, not reaching for things out of reach) into one concrete pre-drive routine, and say who teaches it and why people would actually keep it. Ask Enes whether he has tried getting anyone else to use it.",
+  "Voice: cut both \"not only... but\" sentences (\"This was not only a wakeup call for her, but for me as well\" and \"encourage others to not only assist other drivers, but to drive more responsibly\"). Cut \"I am honored by the fact that this voice could be mine\", \"epitome\" and \"catalyst\". Trim the stacked adjectives in paragraphs 1 and 2 (\"frigid and silent\", \"hauntingly serene\", \"White-hot shock\"). Join two of the habit sentences into one longer sentence in his speaking voice so at least one runs past 45 words.",
+  "Ending and specificity: replace \"Now is the time for change, and with united determination, we can change the world\" with a line that comes back to the tissue box or to the cold that was \"no longer the worst thing about this Christmas.\" Ask Enes for the real year, the interstate or the town his mother was driving from, and drop them into the first paragraph. Do not invent any of it."
+ ]
+}

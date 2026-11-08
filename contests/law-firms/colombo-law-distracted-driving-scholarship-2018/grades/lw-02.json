@@ -1,0 +1,54 @@
+{
+ "id": "lw-02",
+ "contest": "Colombo Law Distracted Driving Scholarship 2018",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 1193,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2018/05/joplin_kehrer.pdf",
+ "total": 79,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers all three parts: the crash, the reaction (\"I activated the 'Driving Mode' application... and made a personal oath\") and ideas for all ages. The ideas part is thin, though: it is mostly his own habits restated as advice, and it takes no position for teens and adults."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The detail is dated, physical and hard to fake: I-79 southbound to northbound, a triple rollover, a phone thirty yards down the road, a near-broken clavicle, Charleston General, a four-day leadership seminar, three weeks before he told his parents, \"The song was still playing when I finally stopped rolling.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "This is clearly a person talking (\"scalped by the asphalt,\" \"my phone laid there mocking me\") with no AI vocabulary and no em dashes. The tells are thesaurus words (\"emanating,\" \"swiftly,\" \"Unable to discern what had ensued,\" \"exponentially altered,\" \"astronomically high,\" \"monumental factor,\" \"dire extenuating circumstances\"), the filler adverb \"incredibly,\" and a slogan: \"It is simply not worth the risk.\""
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 5,
+   "reason": "There is one crash told in full scene, plus a second short beat from his own behavior: offering to send texts or change songs for friends who are driving. Both stay on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas paragraph is a generic list (\"hands-free systems... applications... are positive steps towards diminishing this epidemic,\" pull over, have a friend text). It never says why current fixes fail for other people or what small change would get them to act."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay is well ordered, and \"A simple click of the 'skip' button\" calls back to the opening song. But the essay ends on a generic moral: \"...by the grace of God, I am alive to tell my story and write this essay with the belief that I have been given another chance at life for a reason.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph (\"The amount of individuals, adults included...\" through \"It is simply not worth the risk.\"): cut the generic opening sentences about the 'epidemic' and 'technological advancements.' Rebuild the paragraph around the mechanism he already has: Driving Mode worked for him where willpower alone would not have, because it auto-replies so nobody is left waiting. Ask him why it really worked for him. Then make the passenger habit (\"I will offer to send a text or change the song choice for them\") an explicit idea that anyone can use, and say who should do it (passengers, parents riding with teens). Ask him for any real reason friends go along with it beyond 'they know my story.'",
+  "Voice pass with plain-word swaps throughout. 'emanating' becomes 'coming,' 'swiftly pulled' becomes 'pulled.' 'Unable to discern what had ensued in the previous 20 seconds, I took a cursory glance around' becomes 'I didn't know what had happened in the last 20 seconds, so I looked around.' 'exponentially altered' becomes 'changed.' 'astronomically high' becomes 'huge,' or a real number if he has one. 'monumental factor' becomes 'the reason.' Cut 'dire extenuating circumstances,' 'incredibly,' and the line 'It is simply not worth the risk.' This also saves words for the ideas fix.",
+  "Ending: delete the final sentence ('The scars that I wake up with... for a reason') and end on the skip-button image so the essay closes on its opening song. For example, finish on 'A simple click of the \"skip\" button on my phone screen almost took my life,' followed by one short line about the song he now lets play. Also fix the stray line break in 'I reached my hand up to / feel the back of my head.'"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-01",
+ "contest": "Colombo Law Distracted Driving Scholarship 2018",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 1176,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2018/05/andrew_rogers.pdf",
+ "total": 81,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers all three parts: the near miss, the reaction (\"I am giving up listening to music in my car\"), and ideas for all ages. The ideas part covers the prompt but never takes a position on which idea matters most, and the first five sentences don't answer anything."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "The central event can be checked: Notre Dame beat Wheeling Central, the bus got in around 11:30 pm, he drove through downtown Clarksburg past the post office light to Chestnut Street at about thirty miles an hour, the distraction lasted three or four seconds over fifty yards, and the radio stayed off for almost forty days."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly a real teen talking (\"I was hyped\", the slip from past to present tense, \"for fear of getting an hour-long lecture from each of them\"). The tells are \"is not just a teen or young driver issue\", the stock words \"epidemic\" and \"plague\", the abstract line \"multitasking in a vehicle is the purest definition\", and the tidy moral \"changes lives, for better or worse\". No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Count: one main story (the Chestnut Street red light), told fully as a scene, plus the Lent reaction beat. Three more family vignettes (mom, dad, grandfather) sit before it. They are on topic, but there are more of them than the rubric's limit of one extra small beat."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Mostly a generic menu (driver's ed, national campaign, media blitz). The insurance discount for a distraction-free app and the \"technology checkpoints\" are concrete, and he notes that driver's ed only \"touched on\" the topic. But he never says why people would actually change for the discount, or who runs the checkpoints and how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear (examples, story, reaction, ideas) and the close brings back the story's image: \"before they have to experience those fifty yards that will change their lives forever.\" But it callbacks the middle, not the opening, and comes right after a generic moral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph: cut \"Next, we must make it a national campaign...\" and \"We could also collaborate with national insurance companies to provide a media blitz...\", and spend those words on the insurance app discount and the technology checkpoints. Say why a discount gets people to change where an ad doesn't (his own story is the proof: the TV ads didn't work, the experience did), and who would run the checkpoints. Ask the writer for his real reasoning or any real figure. Don't invent one. (Up to +6)",
+  "First paragraph: delete the first five sentences (\"While distracted driving is not a new concept... the purest definition of distracted driving.\") and open on \"As a young child, I can remember my mom fishing on the floor in the back seat for my brother's sippy cup.\" This removes the \"not just X\" tell, \"epidemic\" and the abstract definition, and the essay answers sooner. Keep the mom, dad and grandfather lines, or cut them down to one or two. (+4 voice, helps the prompt answer and story focus)",
+  "Last paragraph: cut \"Distracted driving changes lives, for better or worse.\" and \"Some will lose their life or cause the death of others...\" Also replace \"plague in our society\" in the ideas paragraph with plain words. End on a true image already in the essay, like the radio staying off or the fifty yards, so the last line stays concrete instead of a moral. (+2 structure/voice)"
+ ]
+}

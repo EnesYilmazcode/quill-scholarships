@@ -1,0 +1,54 @@
+{
+ "id": "lw-13",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1182,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Declan_Anders.pdf",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts are answered: the experience (the Dawson article, friends texting, his own defroster fender bender), the reaction (\"I decide that silence is irresponsible and selfish\", phone in the glove box) and the ideas (HB 468, simulators, Maria's Message). But the central 'experience' is an article he read, and his own crash gets one sentence."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The article section is full of checkable facts: \"Randy Ludlow of The Columbus Dispatch\", Mike DeWine, Terry Dawson, Licking County, Christmas Eve 2017, House Bill 468, Dom Tiberi. His own scenes are vaguer: \"I've seen friends check texts\" has no names, and the fender bender has no place or outcome."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Mostly sounds like a real person (the chore list, \"the return of 'mom jeans'\", the passenger seat \"policeman\"). Tells: filler adverbs (\"truly dangerous\", \"really affected me\", \"powerfully show\", \"could really help\"), stock phrases (\"indelible image\", \"tangible and potent\"), the antithesis \"Laws are good... but a culture change would be even better\" and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Three story threads: the Dawson article (secondhand, told well), friends on phones (only summarized) and his own fender bender (one sentence, no scene). The 160-word chore opening and the COVID close are only loosely on topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "HB 468 comes with a real mechanism (primary vs secondary offense), and the glove-box habit has a reason (\"I make it impossible for myself to use my phone\"). Simulators, mangled-car displays and emotional programs are a generic menu with no reason teens would change."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The 'mom on the road' payoff lands in the second-to-last paragraph. The essay then ends on a generic COVID moral: \"By committing to driving without distraction, we can make a choice that benefits everyone.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Stories (+6): Cut the chore opening (\"My mom, like most moms... the return of 'mom jeans.'\") down to one or two sentences: his mom asked him to find articles and he found this one. Spend those ~130 words turning the one-line fender bender (\"fiddled with dash buttons to try to defrost my windows\") into a short real scene. Ask the writer for the actual road, what he hit and what happened after, and don't add any detail he can't confirm.",
+  "Ideas (+6): Cut or shrink the generic paragraph on simulators and mangled cars (\"Distracted driving simulators could be brought in...\"). Spend the space on the two ideas that have a mechanism: say what HB 468 would actually change at a traffic stop, and present the glove-box rule as the concrete fix for teens and his sister, with the reason it works. Ask the writer what really happened the first time he spoke up to a friend, and use that only if it's true.",
+  "Structure and voice (+4 to +6): Replace the final COVID paragraph (\"During the Coronavirus quarantine... benefits everyone.\") with a short close that goes back to the printed article on his bulletin board or his mom on the roadside. Moving the line \"Neither of us wants our mom to be that person standing on the road\" to the end would do it. Also cut \"truly\", \"really\" and \"powerfully\", fix \"our mom to that person\" to \"our mom to be that person\" and \"my sister and I\" to \"my sister and me\", and change the hyphen-dashes (\"road- rifling\", \"driving- at least\") to commas."
+ ]
+}

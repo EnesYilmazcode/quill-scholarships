@@ -1,0 +1,54 @@
+{
+ "id": "lw-20",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1175,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Sydney_Reeser.pdf",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The experience is answered in full and the ideas get two paragraphs, but 'how you reacted to stop it' gets only a couple of lines ('I remind them when we are together to not distract the driver'), and the ideas never connect to her own cause, a wandering mind on a familiar route."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The details could not be invented: a home run 'over the centerfield fence', 'Roosters', the jeep's T-tops, the brother's German Shepherd, 'ten and two', a near miss that lasted 'less than 10 seconds'. There is no date, town or street name for the intersection."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Clumsy in a human way ('audially', 'steering wheeling', 'allowed my mind to wonder', 'I am not sure why God decided to spare me'), with no em dashes and no AI vocabulary. It loses a point for the textbook opening on visual, audio and manual distraction, the 'I have watched...' list repeated five times, the 'This shows us...' moralizing, and the closing slogan."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one strong story, the red light she ran after the softball win, with a real self-correction ('it was not a stop sign. It was a traffic light'). Before it come two paragraphs of family examples in list form (Pawpaw, Mawmaw, Mom, brother, sister) that are on topic but have no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is the generic list: a staged mock crash with statistics and survivor talks, plus a TV commercial of 'mangled cars' meant to 'scare some people straight'. There is no reason these fixes would work and no link to her own lapse, which no phone ban or scare tactic would have stopped."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It opens on a general definition rather than the story, so the strongest material arrives in paragraph four. The close calls back the headlights and horn, which works, but it ends on a slogan: '\"Arrive alive, don't be distracted when you drive!\"'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "The ideas paragraphs (mock crash, TV commercial) are worth up to 9 points. Her own near miss was not caused by a phone or by music ('my music was not the reason'). It happened because her mind wandered on a route she had driven 'hundreds of times'. Ask the writer what really changed in her habits or her friends' habits after that night, and build the ideas from that. One option is an idea aimed at autopilot on familiar routes, saying who would run it and why people would actually go along with it. Keep the mock crash to one sentence or cut it.",
+  "Cut or shrink the first two paragraphs (the visual, audio and manual definitions, and the Pawpaw/Mawmaw/Dad/Aunt generations list) and the 'I have watched...' list. Open with the softball night instead ('We beat a big rival, and I hit a homerun over the centerfield fence!'), so the story starts in the first line and the 'This shows us' moralizing goes away.",
+  "Expand 'how you reacted to stop it' using only what is already true in the essay: rolling up the windows, turning the music down, the 'death grip' at ten and two, and telling her friends about that night. Make it its own paragraph after the near miss. Replace the closing slogan with the image she already has: 'I can still see that car's headlights coming right at me.'"
+ ]
+}

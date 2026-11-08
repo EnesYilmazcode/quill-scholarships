@@ -1,0 +1,54 @@
+{
+ "id": "lw-18",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 1031,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Samantha_Price.pdf",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Both parts are touched, but 'how you reacted to stop it' gets only 'After talking with my mom, she is now more aware of her needs', and the ideas are the family's own habits (tea, blanket, nap) rather than ideas for teens and people of all ages."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns: Urbana, Sandusky, Ashtabula, 'SpringHill Suites in Bridgeport, WV', 'one hour until I would be asleep in my own bed', NHTSA's 4,121 figure. The near misses (rumble strips, missed exits) are summarized, not placed on a road or a night."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real voice in 'wrangle me out of bed' and 'I am good company for the first couple of hours'. Tells: two 'Not only... but also' sentences, 'To put it in perspective', 'All things considered', 'imperative', 'arriving safely or becoming another statistic', a tidy moral to close, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One real on-topic story (the Bridgeport hotel stop) plus a summarized rumble-strip beat. About 350 words of opening tournament logistics (stray balls, fifty courts, pool play) and a college/Golden Bear résumé paragraph are off topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "A list of personal fatigue tips ('pulling over and walking around or getting a tea') and 'educate others on the different types of distracted driving'. No existing fix named, no reason it fails, no change aimed at teens or the wider public."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Opens on volleyball travel with mom, pivots with a rhetorical 'What does this have to do with distracted driving?', and ends on a generic moral that never returns to mom or the drive: 'Take the time to communicate and educate because you just might save a life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas (worth up to 9 points): the strategies paragraph and the last paragraph only list family habits plus 'educate others'. Replace them with one idea aimed at teens and people of all ages that grows out of what actually worked for you, such as the passenger speaking up, or a planned stop before the last hour. Say why current drowsy-driving warnings don't work and who would carry out the change. Ask the writer which real idea they hold rather than supplying one.",
+  "Story and structure (worth up to 6 + 6 points): cut paragraphs 1 to 3 (tournament logistics, stray balls, fifty courts, gold medal) down to two sentences about the long drive home. Open on the Bridgeport night instead: waking up in front of SpringHill Suites one hour from home. Cut the WVU Tech / Golden Bear paragraph down to the single sentence about riding with teammates. End by coming back to that hotel stop instead of the 'communicate and educate' moral.",
+  "Prompt and voice (worth up to 8 + 8 points): expand 'Sometimes all it takes is letting them know you were scared... After talking with my mom' into what the writer actually said to her and what she changed, so the 'how you reacted' part gets its own section. Ask the writer for the real words; don't invent them. Then rewrite both 'Not only... but also' sentences as plain statements, cut 'To put it in perspective', 'All things considered' and 'imperative', and delete 'becoming another statistic'. Also drop the disclaimer 'I am luckier than others because I was not in an accident resulting in injury' (-5 deduction applied) and start directly at 'there were instances where my mom missed our exits'."
+ ]
+}

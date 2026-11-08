@@ -1,0 +1,54 @@
+{
+ "id": "lw-19",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 937,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Sidney_Kennard-Sheldon.pdf",
+ "total": 66,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It answers all three parts: the crash, how the writer reacted ('I also went to court hearings for the man that was charged with vehicular manslaughter') and ideas. But the essay never says the other driver was distracted. All it gives is 'Another vehicle came left of center on a double yellow line', so the core 'experience with distracted driving' is assumed, not shown."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The story is dense with unfakeable detail: '2 number 7's with sprites', 'June 19, 2015, Lois Badger', 'Knox County Hospital', '70 miles an hour', '90 days in jail and community control for a year'. The ideas half has no names, places or numbers ('community outreach', 'schools and businesses')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real person: 'Wendy's of course', 'I cried every night', 'quite frankly insane'. Tells: 'Not only have I seen it, but I've been immersed in it', 'I don't just mean... I'm talking about' (a not-X-but-Y), a triplet in text/email/snapchat, filler 'really' used 4 times, and slogan lines like 'we can achieve anything we want'. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two story beats: Grammy's crash, told as a full scene with the 'I love you Grammy' exchange, plus the court hearings and retreat talk as an on-topic second beat. Points lost because the self-praise paragraph ('I can proudly say that I am not one of those kids') replaces story with claim."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Survivor testimony at schools is the standard assembly menu, though it does name a mechanism ('Eliciting some kind of emotional response... is the only way to make people act'). The phone idea is only an exhortation ('The text will be waiting there for you'). Nobody is named to carry it out, and no concrete change is proposed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The story at the front works, but the middle wanders and a paragraph breaks mid-sentence at 'Eliciting'. The last line is a generic moral that never returns to Grammy: 'I will never be so arrogant to put my life above any other person's.' The line before it also refers to 'organizations like these' when no organization was ever named."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt (+8 possible): after 'Another vehicle came left of center on a double yellow line at 70 miles an hour', add one sentence saying what the driver was doing (phone, texting, etc.). Ask the writer for the real cause from the court hearings or police report. Don't guess. Without it, the essay never shows this was distracted driving.",
+  "Ideas (+6 possible): cut the 'Many teenagers feel as though they cannot really enact change...' paragraph and the 'I have seen the worst...' paragraph. Use the space to make the testimony idea concrete with the writer's real experience: the senior retreat talk (how many students, what they said or changed afterward) as proof the idea works, and who would run it (a school, a driver's ed program, the county court's victim services). Ask the writer for those real details. Turn the phone paragraph into one concrete habit (phone in the back seat or driving mode on) instead of 'reminding people'.",
+  "Ending (+6 possible): replace the last paragraph ('I hope that the efforts of organizations like these...') with a close that returns to the opening, ending on Grammy, the drive back to Columbus, or the 'I love you too' line. Also fix 'I was on in an ambulance' and rejoin the broken 'Eliciting / some kind of emotional response' paragraph."
+ ]
+}

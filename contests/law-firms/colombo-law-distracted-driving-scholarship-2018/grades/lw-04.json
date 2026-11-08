@@ -1,0 +1,54 @@
+{
+ "id": "lw-04",
+ "contest": "Colombo Law Distracted Driving Scholarship 2018",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 894,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2018/05/meredith_muller.pdf",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The experience and ideas parts are answered, but the 'how you reacted to stop it' part gets nothing. With nana the writer says 'At the time I didn't think anything about the fact that she was driving distracted,' and at the crash the father calls 911 while the writer only watches. The rubric's -10 for a prompt part with no answer applies (64 - 10 = 54)."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong proper nouns and physical detail: rush hour in Morgantown, the aunt 'that just moved to Florida', Cumberland, Maryland at dusk, the exit sign on I-68, 'a tiny scrape on the front', and a nana 'who knits socks and bakes cookies'. There are no dates or times, and the ideas section has no specifics."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Sounds like a real person, with clumsy moments like 'Someone could have died, or, even worse, we all could have died' and 'Reality check:'. No em dashes and no AI vocabulary. The tells are stock: an opening rhetorical question answered with 'The simple answer is no', the 'Pavlovian ding' cliché, 'of the utmost importance', 'sooner rather than later', and a slogan triplet at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic. The citation story is short but vivid. The I-68 crash is told as a full scene ('Squealing brakes, glass and metal hitting the asphalt'). Neither shows the writer's own behavior or action, which is the beat the prompt asks for."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Two generic ideas with no mechanism. 'Maybe the key is to have phones automatically turn off when they sense motion above a certain speed' ignores that driving modes already exist and doesn't say why people turn them off. 'Parents and experienced drivers... set an example' says nothing about who does what or why they would."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and the order is story first, ideas last. But it opens on a generic thesis instead of a scene, and ends on a slogan instead of returning to nana or the exit sign: 'everyone puts down their phones, keeps their hands on the wheel, and their eyes on the road.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the 'how you reacted to stop it' part (recovers about 22 points: 12 on criterion 1 plus the 10-point deduction). Neither story shows the writer doing anything. Ask the writer what they really did. Did they say something to nana after the citation? Did their own phone habits or their family's change after I-68? Add it in one short paragraph right after the I-68 story, before 'This story could have been much worse.' If nothing real happened, the essay can't fully answer the prompt; don't make up a reaction.",
+  "Rebuild the ideas paragraph around a mechanism (up to 9 points). Keep the speed-lock idea, but say that phones already have a driving mode, why drivers switch it off, one concrete change that makes them keep it on, and who makes that change. Then tie the 'parents set an example' idea to nana's citation, since she is the essay's own proof that older drivers do it too. Cut 'I wish I had the answer of what it will take' and 'of the utmost importance'.",
+  "Fix the opening and the ending (up to 4 points of structure plus some voice). Cut the first paragraph's rhetorical questions and 'The simple answer is no', and open on the call from the aunt in Morgantown traffic. Replace the last-line slogan with a line that returns to nana or the crumpled car at the I-68 exit sign. Also delete the stray '.' line and the line breaks that split sentences mid-way ('what I was / hearing', 'reach for / their phone'). Change 'Apple Play' to 'Apple CarPlay' and 'blue tooth' to 'Bluetooth'."
+ ]
+}

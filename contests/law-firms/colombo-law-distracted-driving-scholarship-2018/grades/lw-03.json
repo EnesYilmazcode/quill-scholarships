@@ -1,0 +1,54 @@
+{
+ "id": "lw-03",
+ "contest": "Colombo Law Distracted Driving Scholarship 2018",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 927,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2018/05/madison_bowers.pdf",
+ "total": 65,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The experience and the reaction are clear (\"I took her phone and informed her that I would gladly be her 'receptionist'\"). The ideas part rests on one proposal, equal fines and jail time for a \"DUIE\", and it only reaches adults through the opening statistics."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The story has real texture: a small town in West Virginia, Snapchat, winding country roads, \"Deer, four-wheeler riders\", a blind turn. There is no name, date or road, and the unsourced \"49 percent of adults\" and \"43 percent of teens\" figures are the kind of stats anyone could write."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "This reads as human, with clumsy real slips (\"something needed to done\", \"need a resolution\"), but it is wrapped in stock lines: \"In just one snap, it could all be gone\", \"In this day and age\", \"colossal stream of stimulus\", \"major epidemic\", \"In Conclusion\" and \"The time for change is now before it is too late.\" No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story told as a scene, including the writer's own slip (\"It wasn't until I took a break from looking at my own phone\"). It only starts after a roughly 300-word generic preamble, so it does not carry the opening."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "A real mechanism: people avoid drunk driving out of fear of the penalty, not morals (\"Although this logic is morally unsound, it works\"). It never says how a DUIE would be detected or proven, or who enforces it, and it offers nothing beyond penalties."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "\"In Conclusion\" opens the ideas section, not the ending. The last line, \"The time for change is now before it is too late.\", is a generic slogan that never returns to the friend, the blind turn or the opening \"snap\"."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut most of paragraph 1 (from \"In just one snap\" through \"sooner rather than later\") and open the essay inside the car on the winding country road. That removes the stock lines (\"In this day and age\", \"major epidemic\", \"security blanket phase\") and the unsourced 49 and 43 percent figures. Keep at most one sentence on adults texting, and only if the writer can name where the number came from.",
+  "Strengthen the DUIE paragraph by saying how a DUIE would actually be caught and proven, and who enforces it, so the deterrence argument holds. Also tie it directly to drivers of all ages, since the prompt asks for that. Ask the writer for anything real they know, such as West Virginia's current texting law or fine, rather than adding new claims.",
+  "Delete \"In Conclusion,\" and replace the last line (\"The time for change is now before it is too late.\") with a line that returns to the friend and the blind turn, or to the \"receptionist\" job the writer took on that night. Also fix the typos \"needed to done\" and \"need a resolution\", and remove the stray mid-sentence line breaks."
+ ]
+}

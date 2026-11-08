@@ -1,0 +1,54 @@
+{
+ "id": "lw-05",
+ "contest": "Colombo Law Distracted Driving Scholarship 2018",
+ "year": "2018",
+ "outcome": "winner",
+ "words": 1155,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2018/05/yohanna_berhanu.pdf",
+ "total": 67,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get an answer: the crash, the reaction ('attending monthly Safety Pedestrian Board meetings in addition to our pursuance of litigation') and the ideas. But the essay never shows the driver was distracted. It only says she 'was reported to have been speeding and ran the light' and then claims 'This was clearly the case'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong, checkable facts: 'February 1, 2018 at around 6:40 p.m.', 'Patteson Drive intersection in Morgantown', 'Ruby Memorial Hospital', 'white colored cardigan', 'Civil Engineering ... West Virginia University'. The news-night scene is stock, though ('a look of horror and shock washed over my face'), and nothing concrete supports the distraction claim."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The grief reads as a real person's, clumsy slips included ('Leah lifeless body', ',while'). But it is packed with stock phrasing: 'Unbeknownst to me', 'hit me like bricks', 'effervescent', 'vivacious', 'Words cannot express'. It also uses not-just and not-only antitheses ('not just confined to academics but', 'not only a sister, but a best friend', 'not only to victims but also'), the punchline 'She wasn't just my hero.' and two '--' dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "There is one story, Leah's death, and it is on topic and carries the essay. But the second paragraph is mostly her résumé ('National Honors Society', 'Dean's List'), and the crash itself only appears in paragraph three, after the funeral."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The penalty idea has some reasoning behind it ('a misdemeanor ... neither deters nor improves national statistics'), and the crosswalk-signal idea is concrete-ish ('advanced and delayed light signaling'). The rest is a generic list: 'further pedestrian safety education', 'continual education', DUI-style publicity. No idea names who would make the change or how."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The paragraphs are clear, but the order runs news, funeral, biography, then the crash. The ending turns away from Leah to a borrowed quote and a rallying cry. Last line: 'So, who's with me?'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): In paragraph 1, cut 'Unbeknownst to me', 'a look of horror and shock washed over my face', 'hit me like bricks' and 'Words cannot express'; just say what happened in plain words. Rewrite the antitheses as direct statements: 'not just confined to academics but she also loved' becomes 'She also loved the outdoors and music', and 'not only a sister, but a best friend' becomes 'I lost my sister and my best friend'. Delete 'She wasn't just my hero.' Replace both '--' with commas or periods. This also removes the -4 dash deduction.",
+  "Ideas (+6 possible): Cut the generic sentences ('I would encourage further pedestrian safety education...' and the DUI-publicity sentence). Spend those words on the two ideas that are really the family's. Ask the writer what they and their family argued for at the monthly Safety Pedestrian Board meetings, what charge or penalty they are pushing for instead of the misdemeanor, and what signal change, if any, was proposed for the Patteson Drive crosswalk. Then name who would make each change.",
+  "Structure and the distraction link (+4 to 6 possible): Move the 'February 1, 2018 at around 6:40 p.m.' crash paragraph up to follow the opening scene, and cut the CDC definition and the three types of distraction. Ask the writer what the police report or court case actually says about the driver's distraction, and state only that. End by returning to Leah at the crosswalk (the white cardigan, waiting for the signal) instead of the Margaret Mead quote and 'So, who's with me?'."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-12",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 851,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Angelina_Coles.pdf",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers all three parts: the experience (the cousin's crash), the reaction (\"I decided that I needed to set boundaries in the car\") and ideas for others. But the ideas part for teens and people of all ages gets only one short paragraph about Bluetooth plus awareness."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real physical details (\"silver mini-van flipped twice,\" \"17-year-old body hanging upside down in a field,\" plaid pajama pants). But the cousin has no name and there is no date, highway or town, and the writer's own slips are general (\"I had missed an exit before\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real teenager, with clumsy honest moments and typos (\"payed,\" \"go the GPS,\" \"wont\") and no em dashes or AI vocabulary. Tells: stock lines like \"it has the ability to slowly impact the masses\" and \"That small step could change lives,\" a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories, both on topic: the cousin's crash, told through the night the news came and the later scene where the mom explains the cause, plus the writer admitting their own slips (\"I had looked at my phone screen one too many times\"). The writer's slips are listed, not shown as a scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It spots why the tech fix fails (\"this technology does not come cheap\") but then falls back on a generic menu (\"Signs, posters and videos... need to be shared\"). The more concrete personal fixes (passenger handles GPS and texts) are never turned into an idea for others."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is clearly organized with the story up front, but the close is a generic moral that never comes back to the living-room scene or the cousin's missed exit: \"I advise everyone to try to make that small change.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph (\"So, the real change needs to come through awareness. Signs, posters and videos...\"): cut the posters line and build the idea out of the writer's own true rules from the paragraph that starts \"I also pushed myself.\" The passenger takes over the GPS and answers texts so the driver never touches the phone. Say why it works, using the cause already in the essay: the cousin missed his exit while distracted by his friend and his phone. Then say who does it (friends, parents, driver's ed). This turns a generic menu into a mechanism without inventing anything.",
+  "Specificity: ask the writer for the real details and add them only if they are true: the cousin's first name, the month and year of the crash, and which highway it happened on. Use them in the second paragraph (\"my cousin had been involved in a brutal car accident\"). Cut the filler phrase \"By sheer luck, their young skin was only marked by mere scratches\" down to a plain statement of the injuries.",
+  "Ending and polish: replace \"That small step could change lives. I advise everyone to try to make that small change.\" with a final line that returns to the opening (the night of the phone call, or the cousin's missed exit), using only facts already in the essay. Cut the slogan \"it has the ability to slowly impact the masses.\" Fix the typos: \"payed\" to \"paid,\" \"go the GPS\" to \"of the GPS,\" \"wont\" to \"won't,\" \"someones\" to \"someone's,\" \"distracting driving\" to \"distracted driving,\" \"before put my car\" to \"before I put my car,\" \"tried get\" to \"tried to get,\" and the doubled \"that that.\""
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-07",
+ "contest": "Colombo Law Distracted Driving Scholarship 2019",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 803,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2019/04/Ashley_Weber.pdf",
+ "total": 43,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The experience is answered well. 'How you reacted to stop it' gets no real answer: the closest is 'When I drive, I always assume that everyone is a terrible driver.' The ideas half is a list of reminders ('it is important that they know the rules and expectations for the trip'). Deduction -10 for the missing reaction part. Deduction -5 for writing about the essay: 'I am writing this essay not just because of the potential to receive a scholarship.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The crash is concrete and checkable: 'November 5th, 1998', the dropped toy, the 18-wheeler, the median and guardrail, 'the seatbelt cut through my sister's car seat', nine years in a vegetative state, West Virginia deer. Paragraphs 3, 5 and 6 then go abstract, with no names or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It sounds like a real person, slips included ('spent time with my her', 'grandma's', 'five letter'). But it uses 'not X but Y' twice ('not just me, but my whole family'; 'not just because of... but also because'). 'It is important' appears 5 times, and the closing quote works as a slogan. No em dashes or AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story: the 1998 crash. It has a second beat, the visit to the grandma ('I remember exactly how she looked, lifeless'; 'Why can't she talk to me?'), and both are on topic. Paragraph 3 about the many forms of distraction drifts away from the story and is repeated in paragraph 6."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas are general advice with no mechanism: 'expect the worst', 'be aware of your surroundings', 'easier to pull over'. Nothing names an existing fix and says why it fails, and no specific change or person to carry it out is given. The essay's own story (everyone hunting for a dropped toy) points to a concrete rule that it never states."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Paragraph 6 restates paragraph 3. The ending is an outside quote, misquoted: '\"A mere five letter could change someone's life forever.\" -Travis Burhart'. It never returns to the toy, the grandma or the sister."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut paragraph 6 completely ('I am writing this essay not just because...' through 'becoming more and more common'). It writes about the essay (-5), repeats paragraph 3, and adds a 'not X but Y'. Use the roughly 100 freed words to make paragraph 5's ideas concrete, drawn from the crash itself. Example: 'If something drops, nobody in the car looks for it until we are parked, and the driver says so before we leave.' Then say who enforces the rule (the driver, at the start of every trip) and why it works where texting PSAs don't (the PSAs never mention passengers or dropped objects). That moves criterion 5 from 2 to 4 and helps criterion 1.",
+  "Answer 'how you reacted to stop it' in its own short paragraph after the grandma visit. Ask the writer what they really do, because of this crash, to keep a car's attention on the road. Examples might be a rule they give passengers, something they say to friends who drive, or anything they have told family. Use only what is true. If the true answer is 'I set rules in my own car', state it plainly as the reaction and give one real example. This removes the -10 missing-part deduction and lifts criterion 1.",
+  "Replace the closing Travis Burhart quote, which is misquoted and has nothing to do with this crash, with a last line that returns to the opening: the dropped toy and the grandma. For example, connect the moment everyone looked down for the toy to the writer's own rule, using only facts already in the essay. Also delete 'It is also hard when you see kids hanging out with their grandma's... but that is the last thing I would want' (it contradicts itself) and fix 'my her'. This lifts criterion 6 from 2 to 4."
+ ]
+}

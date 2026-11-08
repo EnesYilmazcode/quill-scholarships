@@ -1,0 +1,54 @@
+{
+ "id": "lw-17",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 877,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Nathan_Davis.pdf",
+ "total": 54,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Experience and ideas are both present, but the 'how you reacted to stop it' part gets only 'This made me realize how dangerous distracted driving could be', and the father's death is set aside as 'No electronics were involved in the accident'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The near miss has real anchors (Philippi, West Virginia; Cumberland, Maryland; the overpass; the right lane; the semi's horn), but it has no date or time, and the father section stays abstract ('There are lots of things that I may not get a chance to learn elsewhere')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It sounds like a real teen, with clumsy, opinionated lines ('under the influence of electronics', 'It would have, also, caused', the Miranda Lambert quote). The tells are the stock opener 'In the blink of an eye', 'don't just affect', 'Your actions do not only affect you' and a moral at the close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are two stories. The Cumberland near miss is on topic but arrives in paragraph 5. The father's death is admittedly not a distracted-driving crash and drifts into college money and mechanic projects. Two paragraphs on babies with tablets and autonomous cars carry no story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Manual transmissions have a half-mechanism ('you have to focus more on the car'). Simulators are the generic menu. 'Turn off the phone' is a personal habit with no reason anyone else would adopt it and no one named to make it happen."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The ideas come before the story, and the ending is a generic moral that restates the opening instead of returning to a person or image: 'It can greatly affect people far away from the accident and even in the future.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer the 'how you reacted to stop it' part (worth up to +8, and cutting the disclaimer is worth +5 more). Delete 'Although I haven`t been in an accident that involved distracted driving, I have seen some close calls in my travels' so the paragraph opens on 'The most dangerous situation I`ve seen was on a trip to eastern Pennsylvania'. After 'This made me realize how dangerous distracted driving could be', ask the writer what he or his mom actually did or changed after the Cumberland overpass, and add it only if it is true. If nothing changed, say so plainly and tie it to the phone-off routine he already describes.",
+  "Rebuild the order so the story carries the essay (worth up to +6 for stories and +6 for structure). Cut the 'In the blink of an eye' opener and the babies-with-tablets and autonomous-cars paragraphs, and open on the Cumberland near miss. Put the ideas after it. Trim the father paragraph to the speeding-as-distraction point and the one line 'Being a teenager is hard, but being a teenage boy without a father is a lot harder', cutting the college-bills and mechanic-projects lines. Replace the 'Please just put the phone down...' close with a last line that returns to the semi's horn on the overpass.",
+  "Give the ideas a mechanism (worth up to +6). Cut the simulator idea, since it is the generic menu. Develop the two ideas that are his own: the manual transmission (why it physically keeps hands and eyes busy) and the pre-drive phone routine (set the music, turn off notifications, put the phone out of sight). For each, say why people would actually stick with it and who should push it (for example parents or driver's ed). Ask the writer for any real habit or household rule he or his mom follow rather than inventing one."
+ ]
+}

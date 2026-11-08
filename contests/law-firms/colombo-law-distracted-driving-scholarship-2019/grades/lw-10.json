@@ -1,0 +1,54 @@
+{
+ "id": "lw-10",
+ "contest": "Colombo Law Distracted Driving Scholarship 2019",
+ "year": "2019",
+ "outcome": "winner",
+ "words": 801,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2019/04/Natalie_Dixon.pdf",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay covers the experience, the reaction (\"I grabbed her phone and said that from then on I will do whatever she needs me to with it\") and ideas. The ideas part is a slogan more than a position: \"stop, drop, and roll!\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only real detail is the yelled \"BRAKE!\" while she looked for a song. The driver, the road, the date, the car and the song are never named, and \"She\" is not identified as \"my friend\" until the last paragraph."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The clumsy phrasing sounds human (\"Her and her boyfriend were fighting\", \"unuseful things\"), but there is stock framing: \"save not only your own life but many of those around you\", \"more than just your own life at risk\", the gimmick of the slogan, and a tidy moral at the close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one on-topic story with a small scene (the yell and the phone grab), told in about six sentences. After that it disappears into generic second-person examples about dishes, milkshakes and the office building."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Stop/drop/roll is a generic menu with no reason people will change. The one concrete idea, a passenger taking over the phone (\"offer to do whatever they need for them\"), comes from the story but is buried in the middle."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is organized by the three steps and does return to the friend, but the last line restates the slogan: \"We can make the roads a safer place by using stop, drop, and roll to hold ourselves accountable for our car ride.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+8 to +12): in paragraph 1, replace \"She was driving us to the mall\" with the friend's real first name and say she is a friend in that first sentence, so the reader isn't confused by \"my mom was fine with letting me go\". Ask the writer for the real details they remember: the road or mall, about how old they were, what song she was looking for, and what she said after you took the phone. Add only what actually happened.",
+  "Ideas (+6 to +9): make the passenger idea the center of the ideas section. Your own reaction (taking the phone and handling it for her) is the most concrete fix in the essay. Expand it with why it works: the driver keeps what she needs from the phone without touching it. Cut the generic examples (\"the dishes in the sink\", \"the purse, the milkshake, and especially the hamburger\", \"walked out of the office building\") and the \"roll\" paragraph about the driver's test, which has no mechanism.",
+  "Voice and ending (+4 to +6): cut \"save not only your own life but many of those around you\", \"more than just your own life at risk\", \"a weight off of your shoulders\" and \"Sadly, this story may sound all too familiar\". Replace the last sentence with a line that goes back to the opening scene in the car (her phone, the song, the brake lights) instead of restating stop, drop, and roll."
+ ]
+}

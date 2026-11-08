@@ -1,0 +1,54 @@
+{
+ "id": "lw-11",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 986,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Amara_Mason.pdf",
+ "total": 68,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The experience and the reaction get a full answer ('I made a difficult decision and demanded my grandmother pull over... I drove the three of us the remainder of the way'). The ideas part is mostly intent and a slogan ('I will spend my life and career creating awareness', 'they should stand up and speak out'), not a position on how to stop it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The story is dated and physical: November 2018, Utah, a 4 a.m. pickup for a 7 am flight out of Pittsburgh Airport, 'what she had been sipping from her coffee cup that early morning, was not coffee', a seven-year-old brother in the back seat, a learner's permit. The ideas half has no names, numbers or places at all."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real person, clumsy spots included ('lead to', 'situations that I was succumbed in', 'Graciously, her decisions did not hurt any of us'). Tells cluster in the back half: 'It is imperative', 'more than checking a text; It is also', 'positive and productive citizens', 'I want to be the change'. No em dashes, AI vocabulary or filler adverbs."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two stories: the drive to the airport, told as a full scene, and the brother's death a year later, which gets one clause. The opening paragraph spends about five sentences on foster-care background ('seven different foster homes') before the story starts."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay links addiction, foster care and impaired driving ('If parts of these issues are resolved many other things will fall in line') but names no specific change, no reason the current fix fails, and no one who would carry it out. Awareness plus 'speak out' is the generic menu."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order works: story first, then ideas, then 'That one early morning'. But it closes on a generic moral, 'I want to be the change and hope be a role model for others to follow.' Two paragraph breaks land mid-sentence ('responsible for / myself', 'I believe / that'), and 'that night on the way to the airport' contradicts the 4 a.m. morning."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ideas paragraph (from 'To prevent situations like I was in...' through '...continue that behavior'): this is worth up to 9 points on ideas plus up to 8 on answering the prompt. Replace 'I will spend my life and career creating awareness' and 'they should stand up and speak out' with one or two concrete changes that each say what goes wrong now, what changes, and who does it. The best source is what really happened that morning, when a passenger with a learner's permit insisted on a stop and took over. Ask the writer what would actually have made that easier or reached their brother the next year (a rule, a tool, a person, a program), and use only their real answer. Cut the University of Charleston and law-school sentences, or shrink them to one clause, unless they connect to that specific change.",
+  "Opening paragraph: cut the cell-phone opener and most of the foster-care biography (from 'When we think of distracted drivers...' through '...seven different foster homes in total'). Start at or near 'She picked me up at four a.m. to drive me to the Pittsburgh Airport' and keep one short clause of foster-care context. This puts the strongest scene first and frees about 100 words for the ideas section.",
+  "Last paragraph: replace 'It has solidified my need to be a positive citizen...' and 'I want to be the change and hope be a role model for others to follow' with a closing line that goes back to the opening image: the passenger seat, the coffee cup, or the brother in the back seat. Ask the writer for the true detail they would choose. Also fix the slips: 'that night' should be 'that morning', 'lead' should be 'led', 'brothers' should be 'brother's', and delete the two mid-sentence paragraph breaks."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "lw-16",
+ "contest": "Colombo Law Distracted Driving Scholarship 2020",
+ "year": "2020",
+ "outcome": "winner",
+ "words": 861,
+ "source_url": "https://www.colombolaw.com/wp-content/uploads/2020/05/Leonard_DeFazio.pdf",
+ "total": 38,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The experience gets about 600 words. 'How you reacted to stop it' never gets an answer from the writer: only the dad acts ('No, you need to come home and get some sleep'). The ideas part gets two generic sentences. Deduction applied: -10 for the reaction part with no answer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable details: 'United Technical Center in Clarksburg', 'Chevy Sonic', 'Route 19', 'left her hospital shift at 7:00 am', 'backed up a quarter of a mile' and 'a broken collarbone'. Two facts are wrong, though: '2013-2107' cannot be true, and NHTSA is called the 'National Highway Traffic Safety Association'. Deduction applied: -10 for a fact that cannot be true."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real person with clumsy moments ('sighting her as a high-risk driver', 'the good Lord protected my sister'). But it leans on clichés ('She knew everything, or at least she thought she did', 'like all teenagers') and ends on a tidy moral ('learned a valuable lesson'). The statistics paragraph reads like a textbook. No em dashes or AI vocabulary. No sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story told as a real scene, with the argument and 'I fell asleep. I don't know how it happened.' The opening paragraph about CNA honors and 'glowing references' is a résumé recital that does not serve the prompt."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The ideas section is a generic menu. It credits lane alerts that already exist ('New technology is already helping') and adds 'more education... is needed'. It never says why current fixes fail, what should change, or who should do it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The story comes first, then statistics, then the ideas squeezed in at the end. The ending is a generic moral and does not return to Anna or the argument: 'The dangers of distracted driving are real and something that can, and should, be avoided.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answer 'how you reacted to stop it' (recovers about 22 points: the -10 deduction plus 12 on criterion 1). Replace the paragraph 'This experience impacted my family...' with what the writer actually did after the crash, such as how they handle late shifts or tired friends now, or what the family changed. Ask the writer for the real answer; do not invent one.",
+  "Fix the false facts in the statistics paragraph (recovers 10 points). Change '2013-2107' to the correct year range from the real NHTSA source. Change 'National Highway Traffic Safety Association' and 'National Highway Traffic Association' to 'National Highway Traffic Safety Administration'. Also change 'sighting' to 'citing'.",
+  "Rewrite the ideas paragraph ('I believe help with some of these issues lies in the hands of the car manufacturers...') as one idea with a mechanism (recovers about 9 points). Build it from facts already in the essay: insurers already drop drivers who fall asleep, hospitals schedule teens for three twelve-hour nights, and many states have no drowsy-driving law. Say why lane alerts and education fail and who should make the change, such as an employer rule on rides or rest after night shifts. Make room by cutting the CNA résumé sentences in paragraph one, and end on Anna or the argument instead of the generic moral."
+ ]
+}
