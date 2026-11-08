@@ -1,0 +1,54 @@
+{
+ "id": "boldb-05",
+ "contest": "EJ Johnson Memorial Scholarship",
+ "year": "December 2025",
+ "outcome": "winner",
+ "words": 435,
+ "source_url": "https://bold.org/scholarships/EJ-johnson-memorial-scholarship/",
+ "total": 49,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Past and plan both get full paragraphs (\"I am now taking courses to become a teacher\"), but 'productive member of society' is only implied through teaching, never answered as its own point."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real details in the past half (\"When I was fifteen\", the bipolar diagnosis, \"My mother also lives with bipolar disorder\"), but the plan half has no school, program, grade level or subject."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 3 em dashes, \"not only... but also\", \"not a weakness\", \"to care for, not fear\", \"journey\" used twice, \"darkest and most confusing\", \"emotional turmoil\", triplet \"structured, safe, and centered on healing\", a tidy moral at the end, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic story (hospitalization and diagnosis), told as a summary with no scene: \"Being admitted to a mental hospital was frightening and overwhelming\"."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The plan is intent without a method: \"create a classroom environment where mental health is talked about openly and without shame\" never says how or what the writer will actually do."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraph order is clear, but the ending is a generic moral that never returns to the fifteen-year-old or the mother: \"My own journey taught me the importance of compassion, and now I want to pass that forward.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 pts plus 6 from removing em dashes): delete all 3 em dashes (\"The environment—structured, safe, and centered on healing—allowed\" becomes \"The hospital's structure let me...\"; \"whole people—minds, emotions, challenges, and all\" becomes \"whole people\"). Rewrite \"My goal is not only to help them avoid reaching a breaking point but also to create...\" as one plain claim. Cut \"darkest and most confusing\", \"emotional turmoil\", and both uses of \"journey\". Join two related sentences in paragraph 2 into one longer, natural sentence.",
+  "Specificity and mechanism (up to 14 pts): in paragraph 3, replace \"I am now taking courses to become a teacher\" with the real program, school and grade level or subject the writer is already pursuing. In paragraph 4, replace \"By sharing my understanding and empathy\" with one concrete thing the writer already plans to do in a classroom, but only if they have actually decided on one. Otherwise cut the vague sentence rather than inflate it.",
+  "Ending and prompt coverage (up to 8 pts): cut the last two sentences of paragraph 4 (\"My own journey taught me...pass that forward\") and end by returning to the opening fifteen-year-old or to the mother detail, for example linking the student who struggles silently back to the writer at fifteen. Use one plain sentence to say how teaching is the writer's answer to 'productive member of society' so that part of the prompt is answered directly."
+ ]
+}

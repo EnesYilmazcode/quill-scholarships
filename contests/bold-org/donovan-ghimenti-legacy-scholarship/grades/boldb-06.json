@@ -1,0 +1,54 @@
+{
+ "id": "boldb-06",
+ "contest": "Donovan Ghimenti Legacy Scholarship",
+ "year": "May 2023",
+ "outcome": "winner",
+ "words": 599,
+ "source_url": "https://bold.org/scholarships/donovan-ghimenti-legacy-scholarship/",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Both parts are answered: the struggles ('recently have been diagnosed with Cyclothymic disorder') and the effect on schooling ('making it difficult to focus and maintain connections'). The schooling half stays general, though, and never names a class, grade or result."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The named diagnosis, 'senior year' and 'for a year now' are the only concrete anchors. Everything else is general, for example 'My mood would shift sporadically' and 'it's almost like there is a weight in my head', with no name, place, class or number around it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some lines sound like a real person ('I am essentially doing this free-handed'). But there is a lot of stock framing: the 'glass wall' and 'juggling act' metaphors, 'eternally grateful', 'extremely' used four times, and a tidy positive moral at the close."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are two story seeds, friends drifting away and the one friend who stayed, but both are one-sentence summaries with no scene. The rest of the essay describes symptoms rather than telling a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The essay explains a real cause and effect, 'When depression sets in after a period of constant searching for rushes of happiness, more commonly known as mania, it is difficult to find motivation', leading to 'putting my complete focus on the teacher'. It is stated once and not developed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay opens on an abstract diagnosis. Paragraph 4 repeats paragraph 1 ('As stated above'). It ends on a restatement and a generic moral: 'Although it is difficult, I am still trying my best to remain positive and on top of my academics.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and stories (up to 18 points): The opening paragraph is a diagnosis list. Cut it down to one sentence and start instead with the glass-wall paragraph, so the friends who 'eventually moved on' and the friend who has 'stuck by my side even through my worst episodes' carry the essay. Wherever a sentence is general ('My mood would shift sporadically', 'my mind becomes rampant with thoughts'), sharpen it with the real class, moment or episode the writer actually remembers, and ask the writer for it rather than supplying one. If no real detail exists, cut the sentence.",
+  "Voice and the self-reference deduction (about 9 points): Delete paragraph 4 ('As stated above, I go through different periods...'), which repeats paragraph 1. Keep only its one strong line, 'Without the help of medication (which will soon be put to use) I am essentially doing this free-handed', and move it into the school paragraph. Also cut 'For her, I am eternally grateful', the 'juggling act' sentence, and three of the four uses of 'extremely'. In the school paragraph, cut the hedge 'This could also be attributed to the major changes that are being made in my life'.",
+  "Ending (up to 6 points): Replace the last paragraph, 'Having these mental disorders has made my life extremely difficult... trying my best to remain positive and on top of my academics', with a close that returns to the opening image. Use the glass wall or the one friend who stayed, and tie it to where things stand now in senior year with medication about to start. Do not use a summary or a moral."
+ ]
+}

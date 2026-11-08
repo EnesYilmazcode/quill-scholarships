@@ -1,0 +1,54 @@
+{
+ "id": "bold-22",
+ "contest": "Chris Jackson Computer Science Education Scholarship",
+ "year": "April 2024",
+ "outcome": "winner",
+ "words": 332,
+ "source_url": "https://bold.org/students/karisa-wieberg/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get their own paragraph, but the dream-job answer hedges ('a role where I can leverage my cybersecurity expertise... possibly in a role that focuses on...') instead of naming a job, team or employer."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are Wayland Baptist University, the switch from business administration and Chris Jackson. 'Communications and system upgrade projects' has no system, unit, rank, date or number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Many tells: 'deeply involved', 'transformative power of technology', 'embarked on my educational journey', 'ever-evolving digital landscape', 'leverage', 'robust', the triplet 'passion, ambition, and a compelling story', 'not only achieving... but also...', 'deep-rooted passion' and a spaced hyphen used as a dash. Only the line about being a mother to her sons sounds like a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero stories told as scenes. The military origin and the motherhood juggle are each a one-line summary ('My journey from a military veteran to a cybersecurity student'), with no moment or setting."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says why she chose cybersecurity ('a crucial aspect of modern business') without showing what she saw in the military or the business program that convinced her. The 'best candidate' case is a list of qualities, not reasons."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The three paragraphs follow the prompt in order. The close ('build a career that honors Chris's legacy of impact in the technology sector and his dedication to family') restates the scholarship's ideals and never returns to the military opening. Subtotal 50.0, minus 2 for a spaced hyphen used as an em dash ('cybersecurity - a crucial aspect'), gives 48 (low band)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 points): cut or replace every stock phrase. Change 'opened my eyes to the transformative power of technology and its potential to solve complex problems' to one plain sentence on what the upgrade work actually involved. Delete 'embarked on my educational journey', 'ever-evolving digital landscape', 'leverage', 'robust' and 'deep-rooted'. Break up 'passion, ambition, and a compelling story' and 'not only... but also'. Replace ' - a crucial aspect of modern business - ' with commas.",
+  "Specificity (up to 12 points): ask the writer for the real facts behind 'communications and system upgrade projects' (branch, role or MOS, the system being upgraded, years served, team size) and the real target behind 'a leading tech firm or a governmental agency' (a named agency, job title or certification). Put those in place of the abstractions. Do not supply them yourself.",
+  "Stories (up to 9 points): ask the writer which single real moment from the upgrade work made her want to study this, then use it to open the essay in place of the first two abstract sentences. Rewrite the last sentence so it returns to that same moment, along with her sons, instead of restating Chris's legacy. That also lifts the structure score."
+ ]
+}

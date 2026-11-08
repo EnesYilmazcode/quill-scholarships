@@ -1,0 +1,54 @@
+{
+ "id": "boldb-10",
+ "contest": "Ed and Aline Patane Kind, Compassion, Joy and Generosity Memorial Scholarship",
+ "year": "January 2026",
+ "outcome": "winner",
+ "words": 794,
+ "source_url": "https://bold.org/scholarships/ed-and-aline-patane-kind-compassion-joy-and-generosity-memorial-scholarship/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It covers faith, service, joy and future (prompts 1, 2, 5, 6), but the faith-guided moment gets one summary paragraph, joy gets one line ('I love golfing, walking in nature, and spending time with friends'), and the Patane values half of prompt 6 is never answered. Ed and Aline Patane are never named."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are plenty of names and numbers (Cards for Seniors, Rebuilding Tampa Bay, $2,500, 600 pounds, 23 countries, Phi Chi Theta), but they read like a résumé. The central event is abstract: 'The clearest example came during my mom's battle with cancer' has no scene, date or physical detail."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "AI tells found: 'not only strengthened... but it also', 'faith is more than something you believe - it's something you practice' (not X but Y), triplets ('leadership, empathy, and community', 'hope, gratitude, and perseverance'), stock phrases ('small acts of kindness can go a long way', 'making a real impact'), and 'Furthermore' and 'Consequently' as transitions."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero told stories. It recites about eight activities (Cards for Seniors, Confirmation and EDGE teaching, the hurricane fundraiser, the Funds2Orgs shoe drive, mentoring, Florence, Germany), and the one real story, his mom's cancer and passing, is reduced to four summary sentences."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It mostly states that faith led to service instead of explaining why. The Parable of the Talents leading to accounting is the only reasoning with a link, and even that stops at 'help people create strong financial plans'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are a list of activities with no arc. The last line is a generic restatement that never returns to the opening or to his mom: 'This scholarship would allow me to keep pursuing my education, explore the world through experiences like study abroad, and stay involved in the communities that help me grow in both my faith and my ability to serve others.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Make his mom the essay's spine: move the 'My faith has also been a source of strength...' paragraph to the opening, replacing the generic 'As a college student, it's easy to get caught up...' line. Ask Enes for the real moments from her illness (what she said, a prayer, a hospital or church detail) so it becomes one told scene instead of four summary sentences. This covers prompts 1 and 4 and is worth the most across stories, specificity and answers_prompt.",
+  "Cut the résumé recital to make room: drop the Funds2Orgs shoe-drive sentences, the 'skillset to present information in a clear and concise way... professional endeavors' sentences and the Germany itinerary. Keep the Hurricane fundraiser and Cards for Seniors, each with one sentence on why faith or his mom moved him to start it.",
+  "Rewrite the closing paragraph to name Ed and Aline Patane and tie their values (faith, family, service, joy) back to his mom and the opening scene, instead of listing what the money pays for. In the same pass, cut the AI tells: 'not only... but also', 'faith is more than something you believe - it's something you practice', the triplets, 'small acts of kindness can go a long way', 'Furthermore' and 'Consequently'."
+ ]
+}

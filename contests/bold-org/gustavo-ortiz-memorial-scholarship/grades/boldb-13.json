@@ -1,0 +1,54 @@
+{
+ "id": "boldb-13",
+ "contest": "Gustavo Ortiz Memorial Scholarship",
+ "year": "May 2025",
+ "outcome": "winner",
+ "words": 587,
+ "source_url": "https://bold.org/scholarships/gustavo-ortiz-memorial-scholarship/",
+ "total": 48,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The single-part prompt gets a direct answer, a dictionary definition ('a coach guides and supports another person') and then Coach Ortiz, but the position is generic and could describe any coach."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only checkable facts are 'Coach Ortiz', 'cross country' and 'sophomore year'. The key events are abstract ('a particular tough season', 'a series of losses', 'volunteering events'), with no meet, time, place, number or quoted words from Ortiz."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Dense with tells: 'navigate challenges', 'foster', 'transformative journey', 'unwavering support', 'realm', 'Moreover', 'In conclusion', 'not only X but also Y' twice, 'isn't just about X but Y', 'not solely defined by winning but by', 'sparked a fire within', 'stepping stones to success', and a tidy moral at the end. Only the clumsy bits sound like a person ('I for one was a very lucky athlete', 'the capability of solo training'). Typos: 'trans formative', 'continues improvement', 'Coach Ortiz influence'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Zero scenes. There is one on-topic relationship (Ortiz from sophomore year), but it is a list of three lessons (perseverance, leadership, community) told as summary, and 'he began to entrust me' never shows a moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says that Ortiz changed him but almost never shows how. 'took a personal interest in my development' and 'constructive feedback' name a method with no content. The solo-training trust is the one near-mechanism, and it is left undeveloped."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "It opens on a definition, runs as one unbroken block, and closes with 'In conclusion' plus a restated thesis: 'just as Coach Ortiz was in mine.' Nothing returns to the uncertain sophomore."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the first five sentences, from 'To me, a coach guides and supports' through 'the rest of my life'. They are the main AI-voice and generic-definition drag (navigate, foster, transformative journey). Open instead on 'My journey with Coach Ortiz began during the beginning of my sophomore year, when I was struggling to find my place on the team', and ask the writer for the real first thing Ortiz said or did that showed he noticed. That one true line can carry the opening. (Recovers voice and specificity, up to 16 points.)",
+  "Rewrite the perseverance and leadership paragraphs as one true episode instead of three lessons. Ask the writer which season the losing streak was, which meet or time it was, and what Ortiz actually said to the team or set up as the solo training plan. Then delete the slogans that stand in for that detail: 'success is not solely defined by winning but by how we respond to adversity', 'growth mindset, viewing failures as stepping stones to success', 'isn't just about maintaining trust but', and both 'not only... but also' sentences. Fix 'trans formative', 'continues improvement' and 'Coach Ortiz influence'. (Recovers specificity, stories and mechanism, about 12 points.)",
+  "Replace the final 'In conclusion' paragraph with a close that returns to the sophomore who 'often felt like I didn't belong', using a real present-day fact the writer confirms (for example, what he now does when he struggles that he got from Ortiz). Cut 'Moreover' and the volunteering paragraph unless the writer can name the actual event. Break the block into 5 or 6 paragraphs. (Recovers structure and voice, about 6 points.)"
+ ]
+}

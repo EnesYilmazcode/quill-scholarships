@@ -1,0 +1,54 @@
+{
+ "id": "bold-02",
+ "contest": "codePost Computer Science Education Scholarship",
+ "year": "July 2020",
+ "outcome": "winner",
+ "words": 496,
+ "source_url": "https://bold.org/students/tatiana/",
+ "total": 57,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Lists four contributions (TA, career liaison, ACM-W president, web app), but each gets a sentence or two with no account of what was done or changed: 'I was a TA for two years, from my sophomore year to the present.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Has some real anchors (Connecticut College, ACM-W, Python, the wit.digital.conncoll.edu URL, two years as a TA), but no counts of members, students, events or users, and the feedback is only 'overwhelmingly positive feedback.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The teacher's line is real and human, but the essay leans on filler and stock phrases ('truly', 'worked tirelessly', 'overwhelmingly positive', 'extremely excited', 'bright-eyed and bushy-tailed') and repeats one-line punchlines ('This was not enough. I wanted to do more.' / 'I still wanted to do more.'). No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One strong origin story ('You won't like it, it's only for boys') and a short advisor beat. The rest is a résumé list with no scene from TA-ing, ACM-W or the website, and the chemistry lead-in is off-topic."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Says what she wanted but not why her work helps: the website is 'a resource for young women in computer science to realize the full potential of women within a tech field', with no account of what it contains or how it brings women in or keeps them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Chronological and clear. The last line, 'Just as another had done for me.', points back to the advisor rather than the teacher's line that opens the essay, so the loop only half lands. It follows a stock line: 'if I have the power to change one girl's life.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Answers prompt (worth up to 8 points): cut the chemistry paragraph and the 'It was not until my second semester...I found a passion' paragraph down to one sentence each. Use the roughly 120 words this frees to show what each role did: what she actually did as an Intro to CS TA for female students, which career-liaison events ran, and what the website contains. Ask the writer for these real details. Do not invent them.",
+  "Specificity (worth up to 8 points): replace 'worked tirelessly to gain members', 'much more difficult than I previously anticipated' and 'overwhelmingly positive feedback' with the real numbers and one real quote. Ask the writer for ACM-W membership when she started and now, the number of students in her TA sections, event names and attendance, website visitors, and one sentence of feedback she actually received.",
+  "Ideas and voice (worth up to 9 points combined): replace 'to realize the full potential of women within a tech field' with what gap the website fills that ACM-W could not, and why that brings women in or keeps them. Cut 'truly', 'extremely', 'tirelessly', 'bright-eyed and bushy-tailed' and the 'I still wanted to do more' refrains. Change the closing so it answers the teacher's 'it's only for boys' line with a real result she has seen, instead of 'change one girl's life.'"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "boldb-03",
+ "contest": "Healing Self and Community Scholarship",
+ "year": "December 2024",
+ "outcome": "winner",
+ "words": 246,
+ "source_url": "https://bold.org/scholarships/healing-self-and-community-scholarship/",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "It does answer the prompt with 'I plan to develop community-based programs that offer low-cost or free services', but this reads as a gesture rather than a position, and the whole last paragraph asks for the scholarship instead of saying what the unique contribution is."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The essay has no names, dates, places, numbers or quoted words. 'effective techniques for managing mental health issues' never says what even one technique is."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock phrasing throughout: 'equipped me with unique insights and empathy', 'deeply understanding', 'innovative and effective', 'leverage technology', 'instrumental in achieving these goals', 'make a positive impact'. There are triplets ('clinical settings, research, and community programs'; 'workshops, support groups, and educational resources'), no sentence over 45 words, and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "No stories. The essay only claims one: 'My friends often seek my advice on coping strategies' is the exact sentence the rubric uses as its score-1 example."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Generic menu (workshops, support groups, online platforms). It never names an existing fix or says why that fix fails, and never says who pays or why people would use the programs."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Four clean paragraphs, but the close is a scholarship plea and a generic moral that never returns to the opening ADHD and anxiety: 'ensuring everyone has access to the care they need.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity and stories (up to 140 points of weight times gap). Replace the claim 'My friends often seek my advice on coping strategies, knowing I have developed effective techniques...' with the one real moment it stands for. Ask the writer which friend, roughly when, what the friend was dealing with, and the exact technique she passed on (the actual technique, not 'coping strategies'). Then cut 'I strive to create a judgment-free environment...' so that real scene carries paragraph 1.",
+  "Voice (60). Cut or rewrite every stock phrase: 'equipped me with unique insights and empathy', 'By deeply understanding how the brain works, I aim to develop innovative and effective', 'leverage technology', 'instrumental', 'make a positive impact on the mental health community'. Say each one plainly in her own words. Delete the whole last paragraph (the scholarship plea and the moral), and end on her own experience with ADHD and anxiety from the opening line.",
+  "Answers and ideas (70). Replace the menu in paragraph 3 ('workshops, support groups, and educational resources... online platforms') with one contribution. Ask the writer what actually blocked her own access to care (cost, waitlists, insurance, school counselors, stigma), then name that existing fix, say why it failed her, and give one concrete change with who runs it and why people would actually use it."
+ ]
+}

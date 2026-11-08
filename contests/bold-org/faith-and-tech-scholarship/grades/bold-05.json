@@ -1,0 +1,54 @@
+{
+ "id": "bold-05",
+ "contest": "Faith and Tech Scholarship",
+ "year": "November 2021",
+ "outcome": "winner",
+ "words": 250,
+ "source_url": "https://bold.org/students/hermione-1319/",
+ "total": 24,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt has four parts: a side project, a GitHub link, a short description and a technology + faith paragraph. Only the faith part is answered ('My faith means everything to me and is in fact the sole reason that I have decided on a career in computer technology'). No project is named, no link is given and nothing is described. Two more points come off for the missing parts: -10 each for project/description and GitHub link, -20 total."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "Every detail is generic and could not be checked: 'a chance discussion with a teacher', 'math, coding, and logic puzzles', 'every coding class my school offers'. The essay names no teacher, school, class, year, language or tool."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a plain student voice with no em dashes or AI vocabulary. But it leans on stock phrases ('means everything to me', 'in earnest', 'accomplish great things', 'throughout my experiences and impressions'). No sentence is over 45 words, and 'I am so grateful to have that certainty' is a tidy moral."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, the teacher suggesting computer science after a period of prayer. It is told as a summary with no scene. The story the prompt asks for most, the side project, is missing."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says faith led to the career but never explains what technology + faith means. 'Technology has become meaningful to me throughout my experiences and impressions' is an assertion with nothing behind it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "There are three paragraphs, but the close restates the opening instead of paying it off: 'I am so grateful to have that certainty.' About 40% of the words go to the period before he chose a career."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Add the missing project paragraph, the most valuable fix: it recovers up to 20 points of deductions plus about 12 on criterion 1. Make room by cutting the 'A few years ago... no one stood out... I knew I needed to make a decision soon' run in paragraph 1 down to one clause. Then ask Enes for one real project he built or is building: its name, what it does, the language or stack, and the GitHub URL. Write two or three plain sentences describing it and put the link on its own line.",
+  "Replace paragraph 3 ('Technology has become meaningful to me throughout my experiences and impressions... accomplish great things... grateful to have that certainty') with a real answer to what technology + faith means. Ask Enes for the actual belief or practice that connects the two, ideally tied to the project he names. Cut 'I have no doubt that I will be able to accomplish great things' completely. End on that project or that belief, not on 'certainty'.",
+  "Make paragraph 2 checkable using only facts Enes confirms. Ask him for the teacher's name or subject, the school year, and the names of the coding classes, then swap them in for 'a teacher', 'the end of the school year' and 'every coding class my school offers'. Cut 'I'm taking other classes that will give me greater opportunities in college', which says nothing, to stay under 250 words."
+ ]
+}

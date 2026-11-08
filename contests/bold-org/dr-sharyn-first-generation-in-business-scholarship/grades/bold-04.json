@@ -1,0 +1,54 @@
+{
+ "id": "bold-04",
+ "contest": "Dr. Sharyn First-Generation in Business Scholarship",
+ "year": "March 2023",
+ "outcome": "winner",
+ "words": 461,
+ "source_url": "https://bold.org/students/emmanuel-asmare/",
+ "total": 34,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "All three parts are touched. The sophomore-slump plan gets one vague sentence: \"I'll plan to manage these challenges by developing my discipline and creating a more goal-oriented lifestyle.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "No school, course, date, advisor name or number appears anywhere. The only concrete items are generic categories (\"academic advisors, the tutoring office, and peer study groups\"). The mother is mentioned once, in passing."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Stock framing throughout. Tells: \"both exciting and challenging\" and \"both an honor and a challenge\" (paired antitheses), \"navigating a new social environment\", \"Not only that, but\", \"more than just earning a degree\" (isn't-just-X pattern), \"gain a deeper understanding\", and a tidy rhetorical-question moral. The clumsy commas are the only human texture."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "Zero stories. The essay claims obstacles (\"a lot of obstacles that I never expected\") but never names or shows one, so there is no moment from the first year and no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "The plan is intent with no mechanism (\"developing my discipline\"). It names no practice and no person who will help, and gives no reason it will work when first-year habits did not. The college-meaning section asserts the low-income cycle but does not explain how the degree breaks it."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs follow the prompt's order, but the close is a generic philosophical question that never returns to the opening or to his mom: \"how can you say you have lived as fully as you could?\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity (+16 possible): in paragraph 2, replace \"I made use of the resources available to me, such as my academic advisors, the tutoring office, and peer study groups\" with the real names. Ask the writer which advisor, which class sent him to tutoring, and what grade or week it turned around. Also replace \"a lot of obstacles that I never expected\" in paragraph 1 with the one real obstacle he can name.",
+  "Stories and ideas (+24 possible): cut the abstract list in paragraph 3 (\"clubs, internships, and academic opportunities\") and the sentence \"developing my discipline and creating a more goal-oriented lifestyle\". Ask the writer what he actually did in the first-year moment he names in fix 1, then turn that into the sophomore plan: the specific weekly habit, meeting or office he will keep using, and why it worked. That way the plan comes out of his own true story instead of a slogan.",
+  "Voice and ending (+18 possible): delete \"both exciting and challenging\", \"both an honor and a challenge\", \"navigating\", \"Not only that, but\" and \"more than just\", and state each point plainly. Cut the final rhetorical question and end on the line about making \"a better life for myself as well as for my mom\". Ask the writer for one true detail about his mom to close on, so the ending ties back to being first in the family from the opening."
+ ]
+}

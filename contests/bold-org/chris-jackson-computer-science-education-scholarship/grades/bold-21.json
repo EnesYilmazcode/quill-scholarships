@@ -1,0 +1,54 @@
+{
+ "id": "bold-21",
+ "contest": "Chris Jackson Computer Science Education Scholarship",
+ "year": "November 2024",
+ "outcome": "winner",
+ "words": 497,
+ "source_url": "https://bold.org/students/kaidyn-breland/",
+ "total": 46,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Covers how the interest started (a club, then AP Computer Science A), but the dream job gets only one vague line, 'Through this, I aim to contribute to the upcoming future of motorsports', which names no role. The best-candidate answer is a gesture, not an argument: 'my journey resonates with the ambition for education against all odds.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "There are a few proper nouns (AP Computer Science A, Atlanta, GA, Chris Jackson), but the first club, the solar car team, the race, the year and the data work are never named. No numbers, and the sidelining is described as 'refused to allow me to work on the car' with no scene behind it."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: 'not only introduced me... but also showed me', 'pivotal decision', 'navigate financing', 'crucial role', 'impactful role', 'resonates' used twice, 'meaningful impact', 'challenge norms and embrace diverse perspectives', 'encouraged' used three times. No sentence reaches 45 words. The one raw line ('I came from a very broken home...') shows a real person underneath."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "Three summarized threads (the unnamed club, misogyny on the solar car team, abuse at home) and none is told as a scene. The solar car story is closest to the prompt but is reported, not shown."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Claims without the reasoning behind them. It never explains how data science 'analyzing race statistics' connects to renewable energy or sustainability, or why these struggles make her the best candidate beyond 'perseverance is vital.'"
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear paragraphs, and 'disconnected' echoes the opening 'disconnect', but the close is a generic moral: 'I want to ensure that my journey resonates with and inspires those who may feel disconnected from their dreams, just as I once did.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Specificity, paragraphs 1 and 2: replace 'joined a club that introduced me to the world of computer science' and 'my school's solar car team' with the real names. Ask the writer for the club's name, the solar car team's name, the race it ran and the year, and one concrete thing she built or analyzed (the actual dataset, tool or strategy). Then cut 'the complexities of algorithms, problem-solving, and programming concepts' down to the one real assignment that hooked her.",
+  "Voice, all paragraphs: cut 'This experience not only introduced me to... but also showed me the impactful role...', 'pivotal decision', 'navigate financing', 'crucial role', 'I carry with me an ability to challenge norms and embrace diverse perspectives', and both 'resonates' lines. Replace each with a plain statement of what happened. Keep the blunt 'I came from a very broken home' sentence as the model for the rest.",
+  "Answers the prompt, end of paragraph 2 and paragraph 4: replace 'Through this, I aim to contribute to the upcoming future of motorsports' with the actual job title she wants (ask her, for example whether it is race strategy or telemetry data work, or something else). Replace 'my journey resonates with the ambition for education against all odds' with the concrete facts that make the case: she pays for school herself with no help from either parent, moved to Atlanta alone, and kept working on the solar car after being shut out."
+ ]
+}

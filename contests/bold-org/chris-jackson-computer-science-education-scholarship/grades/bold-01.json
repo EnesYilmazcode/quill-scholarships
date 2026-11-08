@@ -1,0 +1,54 @@
+{
+ "id": "bold-01",
+ "contest": "Chris Jackson Computer Science Education Scholarship",
+ "year": "November 2025",
+ "outcome": "winner",
+ "words": 387,
+ "source_url": "https://bold.org/students/tomi-mills/",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get their own paragraph. The goal is still a hedge, though: 'work in quantum computing or software development, contributing to research and solutions that make the world a better place' names no role, team or problem."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some real facts: '38-year-old mother of two', 'sober for over four years', the son's 'Mommies can't go to college'. But the CS origin is abstract ('exploring quantum computing as part of my physics coursework'), with no course, school, program, language or project named."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The opening line is human, but the rest is stock. Tells: 'not just the complex math and algorithms, but'; 'would not only help me financially, it would also'; 'navigating the red tape'; 'make the world a better place'; 'limitless possibilities'. Also four triplets: 'passionate, ambitious, and committed', 'present, kind, and supportive', 'women, parents, and underserved communities', and 'medicine to climate solutions to creating new ways of connecting people'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story beat, the son's line in sentence one, and it is dropped right away. The CS origin and the recovery are each summarized in one sentence, with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay says why CS matters only in general terms ('computer science is at the heart of innovation'). The case for being the best candidate is a list of traits and 'like Chris, I know what it is like to fight for an education'. It never gives a reason this applicant stands out from other returning students."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending never comes back to the son or 'Watch me'. It closes on a generic line that is also missing its final period: 'committed to using this degree to make an impact'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to 12 points): cut the stock phrases and do not replace them. In paragraph 2, cut 'That passion is for the future of technology, and for the limitless possibilities that computer science offers.' In paragraph 3, rewrite 'What amazed me was not just the complex math and algorithms, but the fact that' as a plain statement of what amazed her, and cut the 'From advances in medicine...' sentence. In paragraph 4, cut 'make the world a better place'. Change 'navigating the red tape' to the actual hurdles. Cut the last paragraph, which carries both the not-only/but-also and the 'passionate, ambitious, and committed' triplet.",
+  "Stories and specificity (up to 17 points): in paragraph 3, replace 'I first became fascinated by computer science while exploring quantum computing as part of my physics coursework' with the real moment. Ask the writer which course, which problem or concept hooked her, and what she built first when she 'began learning to code in my free time' (language, project, tutorial). Use only what she confirms. Do the same for the 'red tape and financial hurdles': ask her which specific forms, costs or childcare problems she is dealing with now.",
+  "Structure and candidacy (up to 12 points): move the 'More importantly' paragraph earlier, and end the essay on her son so the last line pays off 'Watch me'. In the candidate paragraph, replace 'I try to be present, kind, and supportive' with one real thing she has already done for a fellow student or in recovery. Ask her for it rather than writing a trait list. Add the missing final period."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "boldb-07",
+ "contest": "Donovan Ghimenti Legacy Scholarship",
+ "year": "May 2023",
+ "outcome": "winner",
+ "words": 507,
+ "source_url": "https://bold.org/scholarships/donovan-ghimenti-legacy-scholarship/",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the struggle ('I have struggled with depression and anxiety') and says how it affected school (concentration, retention, 'fallen behind'), but treats both at the level of category with no position beyond 'it was hard'."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete facts are 'Clinical Laboratory Scientist', 'nail art, makeup, and hairstyling' and a program 'that starts in June'; no course, grade, semester or moment is named, and 'sat in class, unable to focus on the lecture' could be anyone."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Heavy stock phrasing: 'profound impact', 'valuable lessons about perseverance and self-discovery' (twice), 'However, despite these challenges' (twice), 'true calling', 'incredibly empowering', 'truly excites me', 'new chapter', and a tidy inspirational moral; one human line survives ('if I do not pull myself together, I would fail')."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are 0 scenes. The essay only summarizes repeated experiences ('I have lost count of the times'), and the cosmetology turn is a claimed arc rather than a told moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It states the chain (anxiety leads to lost focus, then spiraling, then falling behind) but never explains why the creative outlets helped when the lab science classes did not, so 'my true calling lies in the world of cosmetology' is asserted, not reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear and ordered, but it ends by restating the thesis plus a generic moral: 'I hope that my story can inspire others who may be struggling with their mental health to explore their passions and pursue their dreams, no matter how challenging they may seem.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraphs 2 and 3 (concentration and retention) say the same thing in general terms. Merge them into one paragraph built on a single real moment, and ask the writer which actual course, exam or lab in the Clinical Laboratory Scientist track it happened in and what they did that day. Then cut 'There have been times when...' and 'I have lost count of the times...' in favor of that one moment.",
+  "Cut every stock phrase and keep the plain claims. Delete 'profound impact', both copies of 'valuable lessons about perseverance and self-discovery', both copies of 'However, despite these challenges', 'incredibly', 'truly', 'true calling', and 'starting this new chapter in my life'. Promote the spiral sentence ('if I do not pull myself together, I would fail') to the opening line, because it is the only sentence that sounds like the writer.",
+  "Replace the final paragraph's moral ('I hope that my story can inspire others...') with a close that returns to the opening problem. Ask the writer for the true contrast between doing nails or makeup and sitting in lecture (for example, whether their focus holds during one and not the other), and end on that fact instead of a restated lesson."
+ ]
+}

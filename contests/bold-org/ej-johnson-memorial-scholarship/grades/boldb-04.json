@@ -1,0 +1,54 @@
+{
+ "id": "boldb-04",
+ "contest": "EJ Johnson Memorial Scholarship",
+ "year": "December 2025",
+ "outcome": "winner",
+ "words": 417,
+ "source_url": "https://bold.org/scholarships/EJ-johnson-memorial-scholarship/",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The past and the counseling plan are answered at length, but 'how do you plan on becoming a productive member of society' gets one stock line: 'become a better, more productive person, as well as the means to connect with people and make the world a better place.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real felt details ('I went without eating for days at a time', 'for six months', 'junior year'), but no names, places, school or program anywhere, and the plan ('my Master's in Psychology') has no school, field or timeline."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The 'What if' spiral and 'panic about becoming the same woman my mother has' sound like a real person. Tells: 'not only passed down to me, but infected', the filler 'completely and utterly alone', the slogan 'make the world a better place', the stiff 'equipping myself with the knowledge necessary', and 'all the more possible'. There is also a typo: 'unpredicable'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story (the six months of junior year under her mother's illness) and it fits the prompt, but it is told as a summary ('made our home a prison of neglect and verbal abuse') with no single scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The 'why counseling' has a real seed ('No adults noticed my decline'; 'wished someone else would tell me what to do'), but the plan stays an intention: no type of counseling, no group served and no steps from senior year to a master's."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The paragraphs are clear, but the ending is a generic scholarship line that never comes back to the six months or the adults who didn't notice: 'I believe this scholarship can make my dream all the more possible, for both my and others' futures.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Rewrite the plan paragraph ('If awarded this grant... make the world a better place') as concrete steps. Ask the writer for the real details: which bachelor's program and school come before the master's, what kind of counselor (school counselor, adolescent therapist, crisis line) and who she wants to serve. Then link that choice to her own line 'No adults noticed my decline', since being the adult who notices is the mechanism that already exists in her story. This lifts both ideas and specificity.",
+  "Answer the 'productive member of society' part directly by cutting 'become a better, more productive person... make the world a better place' and replacing it with what she will actually do and for whom. Ask the writer whether she already does anything real, such as helping a friend, volunteering or peer support. If she doesn't, keep the answer to the concrete job she is aiming for and leave it short rather than inventing anything.",
+  "Fix the voice and the ending. Change 'not only passed down to me, but infected' to a plain statement, cut 'completely and utterly', fix 'unpredicable', and replace the last line with one that comes back to the opening: the six months alone and the adults who didn't notice, now seen from the side of the person who will notice. Use only her own words and facts."
+ ]
+}

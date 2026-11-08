@@ -1,0 +1,54 @@
+{
+ "id": "bold-06",
+ "contest": "First in Business Foundation Scholarship",
+ "year": "March 2023",
+ "outcome": "winner",
+ "words": 558,
+ "source_url": "https://bold.org/students/naomi-garcia-suastegui/",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "All three parts get their own paragraph and success gets a real position ('I don't think I will be considered successful just if I become wealthy'). The give-back part explains why it matters but only gestures at what he will do: 'I plan to extend my knowledge to low-income communities.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay has real felt details: picking up coins off the street at four, and prices 'switching between red and green like Christmas lights' at eleven. But nothing is named: no channel, no university for the 'scholar reception brunch', and no example of a resource the doctors' and lawyers' kids had."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Human moments ('a habit I still hold to this day', 'I desperately needed to know what it all meant') sit inside stock framing. Tells: the generic opener 'Success has different definitions for every individual', the filler 'truly passionate', the 'not solely for money, but for their happiness' antithesis, the punchline 'That is success.', and the slogan run 'I find it vital... People shouldn't have a disadvantage... They should have every chance'. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There are three small beats: the coins, the business channel and the brunch. All are on topic but each is a summary rather than a scene. The brunch, which is the best evidence for the give-back part, gets no conversation and no moment."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The give-back plan is intent with no mechanism. It never says what will be taught, to whom, through what, or why people will show up ('If given the right resources, people currently struggling financially can learn proper spending habits and investing'). The definition of success is asserted rather than reasoned."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear three-part order, and the last line 'One penny can only take a person so far.' returns to the opening's 'a penny saved is a penny earned'. The line before it is a generic moral that weakens the payoff."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Paragraph 3, 'When I graduate, I plan to extend my knowledge to low-income communities' through 'They should have every chance to become successful': cut the slogan sentences. Replace them with the concrete version of the plan: what he would teach (budgeting and debt are what his parents learned by trial and error), to whom, and how. Ask Enes whether he has already done anything real here, such as explaining money habits to a sibling, friend or club. If nothing exists yet, keep the plan small and plain rather than inventing an activity. Worth about 9 points (ideas 2 to 4, plus answers_prompt to 5).",
+  "Paragraph 2, cut 'Success has different definitions for every individual. Most commonly, people view success as being wealthy.' and open on 'Having money is important...'. Remove 'truly'. Cut 'That is success.' and the fragment 'Going from humble beginnings to then having the luxury to pursue my passion.' Merge the 'economic analyst' sentence and the 'look back' sentence into one longer sentence in his own words. Worth about 8 points on voice.",
+  "Sharpen the existing scenes with real names. Ask Enes which business channel he watched at eleven, which university hosted the scholar reception brunch, and one specific thing a doctor's or lawyer's kid said they had that he didn't (an account opened by a parent, a financial advisor, a summer program). Put those into the paragraph 1 channel sentence and the paragraph 3 brunch sentences, and replace 'better financial advice and resources' with the real example. Worth about 8 points on specificity and stories."
+ ]
+}

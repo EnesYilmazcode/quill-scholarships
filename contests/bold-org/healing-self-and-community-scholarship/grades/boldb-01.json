@@ -1,0 +1,54 @@
+{
+ "id": "boldb-01",
+ "contest": "Healing Self and Community Scholarship",
+ "year": "December 2024",
+ "outcome": "winner",
+ "words": 247,
+ "source_url": "https://bold.org/scholarships/healing-self-and-community-scholarship/",
+ "total": 20,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a contribution that makes care affordable and accessible. The only answer is the last line, 'I want to use my artwork and my art skills to inspire others and have them believe everything will be okay', which never mentions cost, access or care. That missing part also takes the -10 deduction for an unanswered prompt part."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 1,
+   "reason": "The essay has no names, dates, places, numbers or physical details. 'I burned many bridges over the years and made too many mistakes' is fully abstract, and the artwork is never described."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Paragraph 1 stacks clichés: 'deep sense of hopelessness and despair', 'difficult and trying time', 'no light at the end of the tunnel', 'a tough place to be in', 'very lost and alone'. Paragraph 2 has some real, clumsy voice ('an unpredictable, but mostly biased writer'). There are no em dashes or AI vocabulary."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 1,
+   "reason": "There are 0 stories. A low period is claimed with no scene or event, and nothing ties it to getting mental health care or to its cost or access."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "It states an intention with no idea behind it: 'inspire others' through art. It names no existing fix, no reason that fix fails, no concrete change and no person who would carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "There are four paragraphs, but the middle two are hard to follow ('But it's the one thing I could see play out' has no clear referent). The last line, 'have them believe everything will be okay', is a generic moral and does not return to the opening."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Last paragraph (+20 pts plus the -10 deduction recovered): this is the only part that answers the prompt, so make it the center of the essay. Ask Enes what he would actually do with his art that lowers the cost of care or makes it easier to reach. For example: free work, a specific place or group, or a way his art got him or someone else to real support. Then write that real answer with its who, where and why it works. Do not invent a program.",
+  "Paragraph 1 (+12 pts across voice and specificity): cut the cliché stack ('hopelessness and despair', 'light at the end of the tunnel', 'difficult and trying time', 'tough place', 'lost and alone') down to one plain sentence. Ask Enes for one true, concrete detail of that period, such as when it was, what he stopped doing, or whether cost or access kept him from getting help, and use it only if he confirms it.",
+  "Paragraphs 2 and 3 (+8 pts across structure and stories): cut or merge the abstract 'life and living' and 'chapter being written for me' passage, since no reader can follow what 'it' refers to. Keep one sentence that links his low period to the art, then close by returning to the opening period of despair rather than 'everything will be okay'."
+ ]
+}

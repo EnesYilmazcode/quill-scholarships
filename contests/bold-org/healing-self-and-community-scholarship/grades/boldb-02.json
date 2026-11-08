@@ -1,0 +1,54 @@
+{
+ "id": "boldb-02",
+ "contest": "Healing Self and Community Scholarship",
+ "year": "December 2023",
+ "outcome": "winner",
+ "words": 228,
+ "source_url": "https://bold.org/scholarships/healing-self-and-community-scholarship/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 2,
+   "reason": "The prompt asks for a unique contribution to affordability and access. The essay gives a career choice and an intention: \"I am prepared to advocate for the rest of my professional career\". It never says how care becomes cheaper or easier to reach."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The only concrete details are \"junior in high school\", \"a sunny Friday afternoon\" and \"2020\". The music or art the writer turned to is never named, and \"proven to help those struggling with anxiety, depression\" has no source."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has stock tells: a balanced antithesis (\"took a lot away... but it also taught me\"), the filler word \"truly\", the slogan \"a right instead of a luxury\", and the cliché \"In a blink of an eye\". The clumsy \"Myself and many others turned to the arts\" does sound like a real person. No em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is one story, the spring break that became a year of isolation, but it is told as a summary with no scene. Turning to the arts gets one sentence, and nothing links it to affordability."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 1,
+   "reason": "This is intent with no idea. \"I am devoted to helping my future clients and making mental health care a right\" names no barrier, no change and no one to carry it out."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The essay is a single block paragraph. It ends on a generic moral, \"making mental health care a right instead of a luxury.\", and never returns to the spring break Friday."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Replace the last three sentences (\"Music therapists have always had to advocate...\" through \"...a right instead of a luxury.\") with the one concrete contribution the writer actually plans to make toward lower cost or easier access. Ask the writer what that real plan is and who it would reach. Do not supply one. This is worth up to 24 points across answers_prompt and ideas_mechanism.",
+  "Replace \"Myself and many others turned to the arts for comfort during isolation\" with what the writer really played, listened to or made that year (instrument, song, routine). Ask the writer for the real detail rather than inventing it. Cut the unsourced line \"Music therapy has been proven to help those struggling with anxiety, depression, and other kinds of mental disorders.\" or replace it with a named source. This is worth up to 12 points of specificity, and the story score rises with it.",
+  "Split the block into three paragraphs: the isolation story, the contribution, then the close. Cut \"In a blink of an eye\", \"truly\" and the \"took a lot away... but it also taught me\" antithesis. End with a line that brings back the spring break Friday instead of the \"right instead of a luxury\" slogan. This is worth up to 10 points across voice and structure."
+ ]
+}

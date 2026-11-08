@@ -1,0 +1,54 @@
+{
+ "id": "boldb-12",
+ "contest": "Gustavo Ortiz Memorial Scholarship",
+ "year": "May 2026",
+ "outcome": "winner",
+ "words": 460,
+ "source_url": "https://bold.org/scholarships/gustavo-ortiz-memorial-scholarship/",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The single-part prompt is answered in the first two sentences and again at the end: \"A coach is someone who steps in when life becomes difficult and chooses to care anyway.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "The one real detail is \"offered to give me rides to practice every morning\". It has no sport, coach name, school, time, distance or season, and the hardship stays abstract as \"my family was going through struggles\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "The tells are dense. Antitheses: \"far more than someone who\", \"isn't measured by wins... but by\", \"weren't just about... they were about\", \"not because I was forced to, but because\", \"not just to compete, but\". Triplets: \"mentor, a leader, and\", \"energy, focus, and gratitude\", \"resilience, discipline, and\". Also the filler \"cared deeply\", one em dash, a tidy moral, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story, the morning rides, and it is the right one. It is told as a summary with no scene, and paragraphs 5 and 6 drift into general lessons."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The essay asserts lessons (leadership, resilience, discipline) without showing how they came about. The only causal link is \"someone invested in me\", which is a generic line."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The essay is organized, but it ends by restating the definition instead of returning to the rides: \"I know that the lessons I've learned will stay with me for the rest of my life.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice, +12 points available: Cut paragraph 1's \"far more than someone who teaches plays or runs drills\" and the \"isn't measured by wins or statistics, but by\" line, and open with the rides. Delete \"Those rides weren't just about getting to practice—they were about being supported when I needed it most.\" This also removes the em dash (-2). Flatten the triplets \"energy, focus, and gratitude\" and \"resilience, discipline, and the importance of showing up\" into the one thing that actually changed. Merge two short sentences in the rides paragraph into one long, plain sentence.",
+  "Specificity, +12 points available: In paragraphs 2 and 3, replace \"There was a time in my life when my family was going through struggles\" and \"offered to give me rides to practice every morning\" with real facts. Ask Enes for the sport, the coach's name or how he was addressed, the year or season, how early the pickups were, and roughly how long the rides lasted. Use only what he confirms, and leave out anything he can't confirm.",
+  "Ideas and ending, +9 points available: Cut paragraphs 5 and 6 (\"My coach also taught me leadership...\" and \"Beyond sports...\"), since they list lessons with no evidence. Use the space to explain plainly why the rides changed how he trained (\"I didn't want to waste the opportunity\" is the seed). Replace the last paragraph with a closing line that returns to the morning rides instead of restating \"a coach is someone who sees potential\"."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "bold-03",
+ "contest": "Dr. Junior Gentles Memorial Scholarship",
+ "year": "September 2026",
+ "outcome": "winner",
+ "words": 441,
+ "source_url": "https://bold.org/students/gerald-lewis-3/",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay answers all four parts (self, interest in education, goals, how the scholarship helps), but the interest in education is a slogan rather than a position: \"technical knowledge is only as powerful as your ability to share it.\""
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has real proper nouns (Syracuse SPS, Oklahoma City, Finger Lakes Community College, 4.0 GPA, over a decade in IT), but the key claims stay abstract: \"I have already overcome setbacks that would have stopped many people\" never says what the setbacks were, and \"real-world financial responsibilities\" is never made concrete."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: \"deeply personal\" (filler adverb), \"My goals for the future are twofold\", \"That observation planted a seed... I carried that seed with me\", paragraph-ending punchlines (\"I plan to change that.\", \"and I am not done.\"), \"But grades are only part of the story\", the \"highest-growth, highest-paying\" pair, \"pay it forward, many times over\" and \"both empower and exclude\". No sentence is over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 2,
+   "reason": "There are zero told stories. Oklahoma City is a summarized observation (\"Communities with resources thrived... while others were left behind\"), and the overcome setbacks, the decade in IT and the move to NYC are each a claim with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It names one cause (\"they never see themselves in it\"), but the fix is intent with no mechanism: \"develop curriculum and pathways\" with no who, where or how. The way the scholarship helps is generic: \"every source of support matters.\""
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "The order is muddled: the GPA paragraph comes after the scholarship and legacy close, so the essay ends on a generic moral that never returns to Oklahoma City: \"I intend to open that door for people who have too often been told it is not for them.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 12 points): cut \"deeply personal\", \"My goals for the future are twofold\", the seed metaphor in paragraph 2, \"But grades are only part of the story\" and \"pay it forward, many times over, for as long as possible\". Rewrite the punchline sentences (\"I plan to change that.\", \"and I am not done.\") as plain statements of fact. Join the related clauses in paragraph 3 into at least one long, natural sentence.",
+  "Stories and specificity (worth up to 17 points): replace the vague \"I have already overcome setbacks that would have stopped many people\" and \"Communities with resources thrived... while others were left behind\" with the one real thing Gerald actually saw or lived through in Oklahoma City, or the actual setback, with a name, a year or a place. Ask Gerald for it rather than writing it yourself. Also name the real IT roles from the decade in NYC and the financial responsibilities he is carrying.",
+  "Structure and ideas (worth up to 12 points): move the Finger Lakes 4.0 GPA paragraph up so it follows paragraph 1, and turn the vague \"curriculum and pathways\" into whatever concrete plan Gerald really has (which students, which certification track, which school or program; ask him). Then end on the Dr. Junior Gentles paragraph rewritten to return to the Oklahoma City opening instead of the generic \"open that door\" line."
+ ]
+}

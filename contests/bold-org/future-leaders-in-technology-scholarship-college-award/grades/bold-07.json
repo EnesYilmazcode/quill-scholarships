@@ -1,0 +1,54 @@
+{
+ "id": "bold-07",
+ "contest": "Future Leaders in Technology Scholarship - College Award",
+ "year": "August 2022",
+ "outcome": "winner",
+ "words": 421,
+ "source_url": "https://bold.org/students/madison-hehir/",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The area and the reason get a clear answer: PV modules, chosen after Kamen's speech. The 'problem you hope to solve' only gets a gesture at the 'ever-growing energy crisis' and 'net-zero carbon emissions'. No single problem is named or argued."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Good checkable anchors: Dean Kamen, the '2020 FIRST robotics opening ceremony', 'the back of my dad's truck', 'about 20% efficient', 'Michigan Tech's Alternative Energy Enterprise', and 'old landfill sites'. These are diluted by vague claims ('always the most widely accepted', 'so much potential') and the consulting work has no project, client or number."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like a real student and has no em dashes and no AI vocabulary. Stock phrasing drags it down: 'the possibilities are endless!', 'My thriving passion', 'will make me an excellent candidate', 'save our planet', and the 'X, but it also Y' opener. One sentence runs over 45 words, so it passes that check."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "There is one story (watching the Kamen livestream in the truck), but it's told as a summary in four sentences. The consulting group gets one line with no scene, and the middle paragraph is a list of facts about PV with no story in it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "This is a menu of PV possibilities (tracking, albedo, see-through windows, space) with no named problem, no reason the current fix fails, and no specific change. Agrivoltaics is the one idea with a hint of mechanism (sharing land with crops), and it isn't developed."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "There are three clear paragraphs, but the ending is a generic moral and doesn't return to Kamen or 'my generation'. Last line: 'I can feel satisfied knowing that my passion helped save our planet and save my clients some money.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut 'we can even consider placing PV modules in space to have 100% efficiency.' Panels in space don't reach 100% efficiency, so this is a claim that cannot be true (-10). If you keep space at all, say only what is true: in orbit there are no clouds and no night. Also cut or soften 'are always the most widely accepted', which can't be checked.",
+  "Replace the list in paragraph 2 that starts 'PV modules can also track the movements of the sun... the possibilities are endless! There are even see-through PV modules...' with one named problem and how it works. Ask Enes which real problem he means, for example solar farms competing with cropland, which agrivoltaics addresses, or a real constraint his Michigan Tech consulting group hit on the landfill or rooftop site. Then say why the current approach falls short and what he would change. This fixes both the prompt's problem part and the ideas score.",
+  "Rewrite the last paragraph. Cut 'My thriving passion for PV modules along with my previous consulting experiences will make me an excellent candidate for one of these job positions' and 'save our planet'. End by returning to Kamen's line that 'my generation would be prepared to find solutions', and tie it to the specific problem from fix 2. Ask Enes for the real project or job detail rather than adding one."
+ ]
+}

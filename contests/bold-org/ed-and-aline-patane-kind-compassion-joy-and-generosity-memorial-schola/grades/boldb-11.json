@@ -1,0 +1,54 @@
+{
+ "id": "boldb-11",
+ "contest": "Ed and Aline Patane Kind, Compassion, Joy and Generosity Memorial Scholarship",
+ "year": "January 2026",
+ "outcome": "winner",
+ "words": 777,
+ "source_url": "https://bold.org/scholarships/ed-and-aline-patane-kind-compassion-joy-and-generosity-memorial-scholarship/",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Answers faith (1), service (2), family (4) and the letter (7), and gives a real hard moment: \"if I don't pay off my balance by the end of December, I will have to take a gap semester\". Prompt 6 is only half answered: it names labor and delivery nursing but never says how the scholarship would help."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 2,
+   "reason": "A few real anchors (\"being seven\", \"five hours away\", \"end of December\", \"two little brothers\"), but the service section has no organization, school, retirement home, student, date or hours count: \"I would also go to elementary schools in my community and read to the kids.\""
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "3 em dashes; \"not just values I cherish—They are the foundation\" (not X but Y); \"hasn't only changed them, but it's also\" (not only/but also); filler \"tremendously\"; a triplet moral (\"guided my past, shaped my present, and will guide my future\"); thesaurus-swap tells (\"never finished for rewards—they are finished out of love\", \"finest ways\", \"privileged above all\", \"wonderful initial minutes\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two real stories (the tuition hold and getting her brothers onto the bus at seven), but both are summaries with no scene. The service section is a list of four activities, not a story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "Some reasoning about why (faith as \"something constant\" through the moves; the brothers \"provide me with the incentive\"), but the link from family to nursing and the claims about service changing her are asserted, not explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 2,
+   "reason": "Service and family run together in one paragraph, and the essay closes on a restated thesis instead of the moves or the brothers: \"They have guided my past, shaped my present, and will guide my future.\""
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Service paragraph (\"Community service has also been a large part...\" through \"...care and love to children who needed it.\"): ask the writer for the real names (the program where she was a special needs aide, the elementary schools, the retirement home), how long she did each, and one real moment with one person. Then cut the list to the one or two activities she can name, and tell those with those facts.",
+  "Voice pass across the whole essay: remove all 3 em dashes. Replace \"Faith, family, and service are not just values I cherish—They are the foundation of who I am\" and \"hasn't only changed them, but it's also made me\" with plain direct statements. Restore her own words where a thesaurus swap shows (\"finished out of love\" back to \"done out of love\", \"finest ways\", \"privileged above all\", \"wonderful initial minutes\", \"uncompromising\"). Cut \"tremendously\", and cut \"nevertheless\" from \"remain hopeful, nevertheless, no matter what\"; it doesn't fit there.",
+  "Answer prompt 6 and fix the structure: start a new paragraph at \"My family has been my number one priority\". Replace the closing triplet with a plain statement that this scholarship would go toward the December balance, so she can stay enrolled without a gap semester on her way to labor and delivery nursing. End on her brothers, which loops back to the opening about helping raise them."
+ ]
+}
