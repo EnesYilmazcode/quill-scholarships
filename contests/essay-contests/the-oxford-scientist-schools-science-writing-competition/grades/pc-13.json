@@ -1,0 +1,60 @@
+{
+ "id": "pc-13",
+ "contest": "The Oxford Scientist Schools Science Writing Competition",
+ "year": "2019 (Michaelmas Term)",
+ "outcome": "runner-up",
+ "words": 704,
+ "source_url": "https://oxsci.org/mileva-maric-eclipsed-by-her-husband/",
+ "total": 63,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a hero and argues she was overlooked ('History unjustly remembers Mileva only as Albert Einstein's first wife'), but it hedges on its own claim ('perhaps a sign', 'perhaps will never be known') and never lays out what science she actually did."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It has strong concrete detail: the paper title 'Conclusions from the Capillarity Phenomena', Polytechnic 1896, Liserl in January 1902, and Miloš's kerosene-lantern quote. Some key claims are vague ('evidence has emerged', 'a professor was suspected'), and a few facts are wrong (see deduction)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Some sentences sound like a real student ('though perhaps, not in that order for Albert'), but there is a lot of stock phrasing: 'a scientific genius in her own right', 'esteemed', 'illustrious', 'graced with', the cliché 'At the end of the day', the filler 'truly' in the last line, and a tidy moral to close. No em dashes, and no sentence reaches 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study (Mileva's life), told in order and mostly as summary, with one real scene (the lantern quote). The Curie contrast is a second, on-topic beat but reads as tacked on."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It gives reasons she went unsung (a professor blocking her, the Einstein family wanting Albert employed, 'gender boundaries'), but these are stated rather than weighed. It never looks at what the 'our paper' letters prove or why historians disagree about them."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The structure is clear and chronological, and the ending pays off the title's eclipse image: 'In this case, the light truly faded for Mileva Maric.' But the Curie paragraph interrupts the close, and 'At the end of the day' weakens it."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "'married Mileva on 6th June 1903': they married on 6 January 1903. Two more claims to check: 'in 1922, he won the award' (it was the 1921 prize, awarded in 1922) and 'similar grades by the end of 1900' (her diploma average was well below his)."
+  }
+ ],
+ "fixes": [
+  "Fix the facts in paragraphs 3, 5 and 7 (recovers 10 points). Change '6th June 1903' to '6 January 1903'. Change 'in 1922, he won the award' to say he was awarded the 1921 prize in 1922. Either cut 'demonstrated by both obtaining similar grades' or replace it with the real diploma averages from a reliable source. Do not keep a comparison you can't source.",
+  "Cut the stock phrasing (worth about 8 points on voice). Delete 'a scientific genius in her own right', 'esteemed', 'illustrious', 'graced with', 'At the end of the day' and the 'truly' in the last line. End on the eclipse sentence with the cliché removed, for example: 'Like the moon in a solar eclipse, a professor blocked her, and perhaps her husband did too.'",
+  "Sharpen the argument in paragraph 3 instead of hedging (worth about 6 points on ideas). Quote the exact 'our' wording from the letters you already cite, and add one sentence on why historians disagree about how much Mileva contributed. Then either cut the Curie paragraph or shorten it to a single sentence that sets Pierre's refusal against Albert's sole authorship. Only use quotes you can find in a real source."
+ ]
+}

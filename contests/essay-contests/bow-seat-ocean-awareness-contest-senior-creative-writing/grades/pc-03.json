@@ -1,0 +1,54 @@
+{
+ "id": "pc-03",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "runner-up",
+ "words": 1335,
+ "source_url": "https://bowseat.org/gallery/texas-heilongjiang-garden-project/",
+ "total": 72,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The essay covers the connection to nature (the garden) and the effect on the community (\"tamales for dandelion greens\", the chives trade), but how it shaped who he is gets abstract lines like \"building character, honoring tradition, and fulfilling a duty\" instead of a position he argues."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense, unfakeable detail: \"H-E-B\", \"$1.99 per pound\", \"6:30 AM\", \"Twenty-six degrees\", Gatorade-bottle drip lines, the trampoline-net shade, \"Harbin in 1968, the early snow killed soybeans\". One flag: the notebook says 1968 and the freeze scene says \"1969 Harbin famine winter\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The first two thirds sound like a real person (\"Store vegetables don't know your hands\", clumsy \"H-E-B stories\"). The back third uses stock framing: \"wasn't just about surviving. It was...\", the triplets \"diligence, frugality, and reverence\" and \"we were here, we endured, and we grew\", \"something enlightening\", \"reminding us what it means to be human\", \"against all odds\". No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One continuous story, Grandma's garden, all on topic. It sprawls across six episodes (petunia, drought, storm, notebook, freeze, contest), so no single scene gets room to land fully."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The garden scenes show why it works (AC condensation, shade layouts, quilt-wrapped bok choy surviving 26°F). His own change is explained through a generic Confucius paragraph instead, and \"Through his teachings, he also instilled in me\" doesn't make clear who \"he\" is."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The ending returns to the opening petunias: \"taught the land and her grandchild to speak her language.\" But it comes after two earlier moral endings (\"The land remembers...\" and \"reminding us what it means to be human\"), so the payoff is diluted."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +8): cut the paragraph from \"I finally started to grasp what Grandma had always understood\" through \"for future generations\". Then cut \"something enlightening: a place of resilience in changing times\" and \"reminding us what it means to be human\". In that space, move up what he already wrote: the meat thermometer, the pH graphs and the chrysanthemum tea by the calculator. That shows how he changed instead of telling it. Also delete the \"we were here, we endured, and we grew\" triplet so the petunia paragraph is the only ending.",
+  "Answers the prompt and ideas (up to +7): 'who you are' is the weakest part. Replace the Confucius explanation with one plain sentence on what he now does or believes because of the garden, using only what is true (ask the writer what that is, such as the USDA printouts or the hybrid experiment). Also fix \"Through his teachings, he\", which seems to mean Grandma.",
+  "Format and fact (+5, and protects specificity): delete the \"# Texas-Heilongjiang Garden Project\" heading from the essay body. Ask the writer which year is correct for the Harbin winter Grandma compares to: the notebook says 1968 and the freeze scene says 1969 \"famine winter\". Make both match the real one. Also fix the typo \"H-E-B stories\" to \"H-E-B store's\"."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pc-17",
+ "contest": "ASHG DNA Day Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 1016,
+ "source_url": "https://www.ashg.org/discover-genetics/k-12-education/dna-day/2026-dna-day-essay-contest-full-essays/#3rdplace",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Treatment, mechanism and cost ethics are covered well. The 'would you choose it' part gets one paragraph that never addresses age or overall health, only 'I would be willing to take any risks it may pose'. Medical disadvantages such as side effects and safety risks are never discussed, and the advantages amount to 'despite its proven effectiveness' plus the single dose."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong checkable facts: FDA 2019, under age two, AAV9 vector, SMN1, €1.7M vs €1.9M, Spinraza approved 2016 and dosed every four months, 1 in 10,000 newborns. But 'my country' is never named, and the €1.7M estimate is cited to Pacione et al. 2019, a Spinraza perspectives study that cannot contain a 2022 pricing model."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: two 'not X but Y' lines ('no longer seem theoretical, but urgent'; 'the problem is not whether Zolgensma is effective, but whether...'), three rhetorical questions, 'This paradox essentially describes', 'biologically transformative', 'strike a balance between efficiency and equity', 'Neither approach, taken alone', and a tidy moral at the end. Reads as textbook prose with no individual person in it."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so Zolgensma is the case study and it stays on topic. But it is told as a policy summary with no patient, family or case, and the personal paragraph is hypothetical and abstract."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Real mechanisms: the QALY threshold, utilitarian vs egalitarian trade-off, and the point that front-loaded one-time cost clashes with yearly public budgets even when it pays off over a lifetime. But no concrete fix is offered, only 'The government has to strike a balance'."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Logical order (disease, drug, price, ethics, comparison, personal) and the ending loosely returns to the opening 'cure in theory' question. But it closes on a restated thesis: 'In the end, the problem is not whether Zolgensma is effective, but whether modern healthcare systems are organized in a way that ensures that innovation is available to all, not just those who can pay for it.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice, +8 to +12 points. Rewrite the last two paragraphs plainly and cut the 'not X but Y' frames. Replace 'the issue would no longer seem theoretical, but urgent' and the final 'not whether... but whether' sentence with direct statements of what Enes actually thinks. Delete 'This paradox essentially describes', 'biologically transformative', 'strike a balance between efficiency and equity' and 'Neither approach, taken alone'. Keep one rhetorical question at most, the opening one, and turn the two others in the price and opportunity-cost paragraphs into statements.",
+  "Prompt coverage, +8 points. Expand the 'If I or a loved one' paragraph to answer the prompt's named factors with real facts. Age: Zolgensma is only approved under two, so say what that means for the choice. Overall health: say what would change the decision. Cost: name the actual country (ask Enes) and its real coverage situation instead of 'my country does not invest heavily'. Also say whether he would pick Spinraza instead and why. Add one sourced sentence on Zolgensma's medical downsides, such as its safety warnings, in the advantages/disadvantages section, so the disadvantages are not only about price.",
+  "Compliance and accuracy, +5 points and avoids a credibility hit. Delete the '# Zolgensma – Efficiency vs. Equity' heading, since headings in the essay cost -5. Re-cite the €1.7M and €1.9M figures to Thielen et al. 2022 instead of Pacione et al. 2019, and check the name 'Department Pricing and Valuation of Amsterdam' against the Thielen paper (the authors appear to be Erasmus/Rotterdam-based). Fix the missing space in 'patients.Spinal'."
+ ]
+}

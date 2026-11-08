@@ -1,0 +1,54 @@
+{
+ "id": "pc-07",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "finalist",
+ "words": 1071,
+ "source_url": "https://bowseat.org/gallery/where-the-subway-cracks/",
+ "total": 73,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It covers the personal connection ('I've since stopped calling the city \"unnatural.\"') and who it makes the writer ('attentive, grateful, and even reverent'). Community gets less: the cleanup strangers and the woman whose father 'used to fish off that pier' show it, but the essay never says plainly how this changed the community."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong details a stranger couldn't invent: the F train, 'the moss creeping up the side of the deli on 10th and A', the East River Promenade, the bloated flip-flop, the granola-bar woman. There are no dates or numbers, and paragraph 6's bee, sparrows and mint are generic sightings."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "Several AI patterns: two 'not X but Y' lines ('not as lost causes, but as living things worth loving back'; 'hasn't alienated me from nature, but rather grown my hunger for it'), lists of three ('sterile, synthetic, and unfulfilling'; 'attentive, grateful, and even reverent'), stock lines ('the most sacred thing of all', 'answering the river's prayers'), a neat moral ('And you realize: we are still of the Earth.'), and no sentence over 45 words. There are no em dashes, and the grumpy morning with the stepped-on shoe sounds like a real person."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "Two on-topic stories. The subway dandelions are a full scene with a mood and a train line. The river cleanup builds over several days and includes real people. Paragraphs 3 and 6 are lists of sightings rather than story, which slows it down."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The reasoning is that noticing leads to care, and care leads to action (cans, then a flip-flop, then coming back daily with a picker). It never explains why noticing changes behavior beyond 'it felt like the right thing to do', and the community claim stays a feeling ('It felt like I was finally answering the river's prayers')."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The last line returns to the opening image: 'It's recognizing that nature is here, blooming in the subway cracks.' Before that, the final paragraph piles up a moral of 'It's...' lines ('It's choosing, again and again, to notice')."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (worth up to 8 points): remove the two 'not X but Y' lines. Change 'not as lost causes, but as living things worth loving back' to 'as living things worth loving back'. Change 'Living in the city hasn't alienated me from nature, but rather grown my hunger for it' to 'Living in the city has grown my hunger for it.' Cut 'Instead, we surrender to a sterile, synthetic, and unfulfilling version of living.', 'And you realize: we are still of the Earth.' and 'It felt like I was finally answering the river's prayers.' Then join two cleanup sentences (the woman with the granola bar and the man who said thank you) into one long sentence of 45+ words.",
+  "Reasoning and community (worth up to 6 points): cut the abstract end of paragraph 3 ('When we stop noticing the wild beauty... the most sacred thing of all') and the generic sightings in paragraph 6 ('But then you see a bee...' through 'wild mint'). Use that space to say plainly what the cleanup showed about the neighborhood, using only what already happened: a friend or stranger joined, and the woman's father used to fish there. If there is a real result (how many days, whether anyone kept coming), ask the writer for it instead of guessing.",
+  "Ending (worth up to 2 points): in the last paragraph, cut 'My connection to nature is sauntering through a fast city.' and 'It's choosing, again and again, to notice.' Go straight from 'the world makes itself known again' to the cells-and-salt line and the subway-cracks line, so the essay ends on the opening image without a moral in front of it."
+ ]
+}

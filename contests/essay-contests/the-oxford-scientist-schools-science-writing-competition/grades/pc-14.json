@@ -1,0 +1,54 @@
+{
+ "id": "pc-14",
+ "contest": "The Oxford Scientist Schools Science Writing Competition",
+ "year": "2019 (Michaelmas Term)",
+ "outcome": "runner-up",
+ "words": 598,
+ "source_url": "https://oxsci.org/yuan-longping-chinas-father-of-hybrid-rice/",
+ "total": 75,
+ "band": "high",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Names the hero and why he matters, but the 'unsung' half rests on one line ('virtually unheard of elsewhere') and is undercut by the World Food Prize he holds."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Many checkable facts (1973, 20% higher yield, 50% of rice producing 60%, 36 million deaths, World Food Prize 2004, age 89), but some lines stay vague: 'Since then, it's only gone up.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "Reads like a real student ('my parents let us have dinner around the tv!', 'I'm ashamed to say'). Tells: one mild antithesis ('He didn't cure a rare disease... but I think what he has achieved is just as important'), a tidy closing moral, and no sentence over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story, the 1 October family dinner, frames the case study and leads into it, but the grandparents' talk is summarised and nobody in it speaks."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains why heterosis in rice was thought impossible (self-pollination and long-term selection) and how he got around it ('sterile male wild rice'), but stops there."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The close returns to the dinner table ('I eat rice with my dinner virtually everyday.'), but the famine paragraph comes after the 1973 result, so the timeline jumps backwards."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Delete the heading line '# Yuan Longping: China's Father of Hybrid Rice' and start the essay at 'A few weeks ago'. This recovers the -5 heading deduction. If the form has a title field, put the title there instead.",
+  "Proofread the errors that make it look careless: 'couldn't had said' to 'couldn't have said', 'a rice with had a 20% higher yield' to 'a rice that had a 20% higher yield', 'and increase that has fed' to 'an increase that has fed', 'lead to' to 'led to' (twice), 'everyday' to 'every day', and turn 'leaving only superior i.e. there would be no benefit' into two sentences. Also cut 'Since then, it's only gone up.' because the next sentence already gives the numbers.",
+  "Move the 'China's history also brings into perspective' paragraph (the famine and 36 million deaths) so it sits right before 'Yuan, in 1973, was the first', so the story runs in order: famine, his work, the result. Then move the recognition sentence ('it's only within the last 20 years that Yuan's efforts have been recognised') up beside 'virtually unheard of elsewhere' so the unsung argument is made in one place."
+ ]
+}

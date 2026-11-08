@@ -1,0 +1,54 @@
+{
+ "id": "pc-11",
+ "contest": "The Oxford Scientist Schools Science Writing Competition",
+ "year": "2019 (Michaelmas Term)",
+ "outcome": "runner-up",
+ "words": 691,
+ "source_url": "https://oxsci.org/charles-richard-drew-the-father-of-blood-banking/",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It profiles a fitting scientist, 'Charles Richard Drew... Father of blood banking', but it never says why he is unsung or who overlooked him, so the 'unsung' half of the prompt is only implied."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "It is dense with checkable facts (John Scudder, Merthiolate, 'Banked Blood: A Study in Blood Preservation', 14,000 donations, 5,000 litres), but 'Montreal Hospital' is vague and 'the tragic circumstances of his death' is never stated."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads like an encyclopedia entry with stock praise: 'pioneering research', 'groundbreaking dissertation', 'save countless lives', 'True to his character', 'adds poignancy to his legacy'. It also has one em dash, a rhetorical-question hook, and no sentence that shows the writer's own view."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study runs in order from Montreal through Columbia, Blood for Britain, the Red Cross and Howard. The Red Cross ban on Black donors is the strongest beat, but every part is summary with no scene."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It explains the old problem ('only whole blood could be used', so shelf life was one week) and names the fix (separating plasma, centrifuging, UV, Merthiolate), but never explains why separating plasma made it last two months. 'Plasma lacked the ability to carry oxygen' is stated with no reason."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "It is clearly organized in time order, but the last line, 'one of foremost figures in American surgery in the 20th century', sums up his career and never returns to the opening 'Every two seconds someone in America needs a blood transfusion'."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Deduction for a fact that cannot be true (-10): 'By January 1914, more than 14,000 blood donations were collected'. Drew was born in 1904 and Blood for Britain ran in 1940 to 1941, so change it to the correct year from your source (1941). Also fix the typos 'polices' (policies), 'one of foremost' (one of the foremost) and 'at age 46 years adds' (at 46 adds).",
+  "Answer the 'unsung' half (criterion 1, about +4): move the Red Cross paragraph ('Ironically, the Red Cross prohibited African Americans from donating blood...') to right after the opening paragraph. Then add one plain sentence, using only what your sources say, on why Drew is less known than the program he built. As it stands the essay never says he is unsung.",
+  "Voice and ending (criteria 3 and 6, about +8 and -2 for the em dash): replace 'program— 'Blood for Britain'' with 'program, Blood for Britain,'. Cut 'pioneering', 'groundbreaking', 'countless lives', 'True to his character' and the final 'tragic circumstances... adds poignancy' sentence. Either say plainly how he died, checked against a source, or drop it. End by bringing back the 'every two seconds' transfusion from the opening, in place of the summary of his career."
+ ]
+}

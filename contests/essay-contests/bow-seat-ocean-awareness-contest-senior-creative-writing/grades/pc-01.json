@@ -1,0 +1,54 @@
+{
+ "id": "pc-01",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "winner",
+ "words": 1314,
+ "source_url": "https://bowseat.org/gallery/the-flower-no-one-named/",
+ "total": 52,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The essay covers the community part well (the gardens spread and people trade 'thyme for rice, mint for paracetamol'), but the prompt asks about YOUR connection and the essay is told about 'she' by a narrator who never places himself ('I swear, she saw it weep', 'I remember the day an old woman brought her'), so the 'shapes who you are' part reaches the reader second-hand."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "There are strong physical details: the rusted spoon, three lemon seeds under 'burnt cumin and cardamom' in the grandmother's spice tin, Amer under the stairwell, the lemon tree named Sabr, date palm bark kept in a breadbox. There are no dates, place names below 'Gaza', or numbers."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "It is packed with tells: many 'not X, Y' antitheses ('Not a grave. A garden.', 'resilience is a root, not a roar', 'wasn't just a plant. It was proof.', 'Not as theories — as Thursdays', 'nature is not a luxury'), punchline paragraph endings, alliterative slogans ('blood and basil. Loss and lentils.'), the filler word 'miraculously', many stacked one-line fragments, and 9 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One main story (the rubble garden, from the first sprout to the trading network) is told as scenes and stays on topic. The old woman's date palm bark is a small second beat, but it arrives after the essay has already ended once."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "It shows a real mechanism once (produce becomes currency where there is no market), but the central claims ('nature is resistance', 'the earth is still listening') are stated as slogans rather than explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The 'She used to think trees never cried... So does she.' loop is a real payoff, but about 400 more words follow it. Those words repeat the climate-conference passage and end on a generic moral: 'And they are still here.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (up to +12): cut every 'not X, Y' line and every em dash. Change 'That sprout wasn't just a plant. It was proof.' to 'That sprout was proof.', drop 'resilience is a root, not a roar', 'Not as theories — as Thursdays', 'Every sprout was a rebellion. Every bloom, a reminder...', and 'blood and basil. Loss and lentils.', delete 'miraculously', and join the fragment stacks ('Their roots stretched too deep. Their trunks too tall...', 'As mornings without breakfast. / As evenings without light.') into one or two longer sentences of 45 or more words. The em dash fix alone also recovers 6 deduction points.",
+  "Answering the prompt (up to +8): the point of view is mixed. 'I swear, she saw it weep' and 'I remember the day' put an 'I' in the story but never say who the 'I' is. Ask the writer whose story this really is. If it is the writer's own, rewrite it in first person and drop the 'she'. If it is someone they know, add one plain paragraph near the top that says how they know her and how this changed the writer's own relationship with nature. Do not invent the connection.",
+  "Structure (up to +4, plus 5 from the heading deduction): end at 'And they still stand. / So does she.' Move the paragraphs about the old woman's date palm bark and Sabr / the agricultural scientist dream up before the 'She used to think trees never cried' refrain. Then cut the duplicated 'Let the world debate climate change...' block and the stack of 'She'll show you...' lines that follow it. Also remove the '# The Flower No One Named' heading from the essay body and enter it in the form's title field if there is one."
+ ]
+}

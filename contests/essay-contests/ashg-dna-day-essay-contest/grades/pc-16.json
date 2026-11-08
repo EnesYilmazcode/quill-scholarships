@@ -1,0 +1,60 @@
+{
+ "id": "pc-16",
+ "contest": "ASHG DNA Day Essay Contest",
+ "year": "2026",
+ "outcome": "runner-up",
+ "words": 885,
+ "source_url": "https://www.ashg.org/discover-genetics/k-12-education/dna-day/2026-dna-day-essay-contest-full-essays/#2ndplace",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers what the treatment is, how it works, pros and cons, ethics, and gives a real position split by condition ('For those with only moderately elevated cholesterol... I would hesitate'). Cost and access are weak: one paragraph with no figures ('often carry high upfront costs'), and the personal answer ends on a list ('age, overall health, safety evidence, financial feasibility...')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Strong technical detail (lipid nanoparticles, adenine base editor mRNA plus guide RNA, VERVE-101, LDL receptor recycling). There is not one number on price, trial LDL drop, dose or patient count. It also leaves out VERVE-101's real trial history, so 'continues on its current trajectory' reads as stale."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Two 'not only X but Y' lines ('aims not only to manage cholesterol but...', 'not only effective but safe'). 'Represents more than a novel therapeutic strategy; it signals...' and 'may not lie solely in... but in' are 'not X but Y' frames. Also 'pivotal moment', 'quieter revolution', 'Potential advantages... are striking', 'Thoughtful policy will be essential', the triplet 'safety, transparency, and equity', a tidy moral close, and 2 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Analytic prompt, so the case study counts. The loss-of-function mutation carriers carry the argument, but they get a summary with no people, place or trial. The family question stays hypothetical ('If a family member or I were diagnosed')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains the why clearly: PCSK9 sends receptors to be broken down, so less PCSK9 means lower LDL. Natural carriers prove it is safe long-term. The FH vs moderate-risk split is real reasoning. Accessibility stops at 'Thoughtful policy will be essential', with no mechanism."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "Clear order from biology to discovery to therapy to pros, cons, cost and choice. The last line returns to the butter warning ('perhaps one day your grandfather's fear of cholesterol will feel as outdated as the myths that created it'). But the grandfather is never named in the opening, and the paragraph before the close just restates the thesis."
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "Deductions",
+   "points": 0,
+   "reason": "Weighted subtotal 65.0. Em dashes x2 ('butter—heart', 'hypercholesterolemia—who'): -4. Fact error: 'A substantial discovery occurred in 2003, when researchers identified individuals with natural loss-of-function mutations' is wrong. 2003 (Abifadel) was gain-of-function; loss-of-function carriers came from Cohen 2005/2006, the essay's own ref [1]: -10. Reference 8's title does not match the real Seidah 2014 Circ Res paper ('PCSK9: a key modulator of cardiovascular health'), and [8] is never cited in the text (noted, not double-deducted). Total 51, band mid."
+  }
+ ],
+ "fixes": [
+  "Voice (up to +12): rewrite the stock frames in plain statements. Cut 'marking a pivotal moment in genetic application' and 'A quieter revolution is emerging'. Change 'aims not only to manage cholesterol but to reduce risk' to 'aims to cut risk before disease starts'. Change 'appeared not only effective but safe' to 'looked safe as well as effective'. Change 'represents more than a novel therapeutic strategy; it signals a shift' to 'shifts medicine toward...'. Delete 'Potential advantages of this treatment are striking.', 'Thoughtful policy will be essential...', and the 'safety, transparency, and equity' / 'may not lie solely... but in' sentences. Replace both em dashes with commas. Add one sentence over 45 words.",
+  "Accuracy (+10) and specificity (up to +8): change '2003' to match ref [1] (Cohen et al. 2005/2006; 2003 was the gain-of-function finding). Fix or drop reference 8, whose title is wrong and which the text never cites. Then use the sources to replace the generic lines with checkable facts: the LDL reduction reported in Verve's Heart-1 trial, the 2024 enrollment pause after lab abnormalities, the move to VERVE-102, and a real price for a one-time gene therapy (Casgevy's list price) next to a generic statin's monthly cost. That turns 'often carry high upfront costs' into an actual comparison.",
+  "Personal answer (+3 to +6 across stories and prompt): ask Enes whether anyone in his family really has high cholesterol, FH, or early heart disease, or whether the butter warning came from a real relative. If yes, name that person in the opening and the choice paragraph instead of 'a family member or I' and 'your grandfather'. If no, keep the hypothetical but make it concrete with his own age and health, and swap the closing list ('age, overall health, safety evidence, financial feasibility...') for the one factor that would actually decide it for him."
+ ]
+}

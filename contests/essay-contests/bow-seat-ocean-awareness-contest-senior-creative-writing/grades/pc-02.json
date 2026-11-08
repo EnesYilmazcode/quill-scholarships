@@ -1,0 +1,54 @@
+{
+ "id": "pc-02",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "runner-up",
+ "words": 1466,
+ "source_url": "https://bowseat.org/gallery/a-jar-of-yangtze/",
+ "total": 69,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The personal connection is fully answered through the brine and the river. 'Shapes who you are' gets only the closing gesture 'its strength still nourishing me as I grow.' Community is shown as loss ('the sorrow of 1.3 million migrants') but is never stated as a position on how nature shapes it."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 5,
+   "reason": "Dense, unfakeable detail: 'inverted chipped white porcelain bowl,' Kaixian, Hanfeng Lake, 'rose by about 110 meters,' 'yellow padded coat with a fraying seam, long black braid,' 'fifth foul-smelling jar.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "The child's dialogue and the failed pickle jars sound like a real person. Tells: about 14 em dashes; not-X-but-Y in 'not from nature's will, but from the sorrow'; the slogan 'Water is more than just water'; a stock triplet in 'cold, crisp, and tangy'; 'spicy delight'; a run of 'Perhaps' anaphora; a tidy moral close. No sentence is over 45 words, despite the length."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story, the brine jar, carries the essay from childhood to grandmother's vat, with a real scene at each end. It is diluted by a 90-word pasted textbook block and an imagined 1990s montage ('Images from thirty years ago emerged') that summarizes instead of being lived."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "The central reasoning has a mechanism: lactic acid bacteria, plus a brine 'perfected' over generations by local well water, climate and soil. That explains why the hometown's water survives in the jar. The ecological-cost paragraph (sturgeon, baiji, blocked migration) is a list, not reasoning."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens on the river over the drowned town and returns to the river and the jar. The last line, 'the Yangtze continues—its strength still nourishing me as I grow,' ends on a generic moral instead of the concrete image of the ginger at grandmother's table."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+8 possible): replace all ~14 em dashes with commas, colons or full stops (e.g. 'There, there used to be our hometown.' and 'in her arms, a half-filled pickle jar'). Rewrite 'The river stilled not from nature's will, but from the sorrow of 1.3 million migrants' as a plain statement without the not/but antithesis. Cut 'Water is more than just water' or keep it only as Mom's line and do not echo it. Merge two short descriptive sentences in the migrant scene so at least one runs past 45 words.",
+  "Answers prompt and ending (+4 to +6): end on the bite of pickled ginger in grandmother's kitchen and cut the final 'Yes, the Yangtze water...nourishing me as I grow' moral. Move the community material already in the essay ('Why we speak Chongqing dialect in Nanjing... Why our family gatherings are so rare') closer to the end, so the jar visibly holds the scattered family together. If the writer has a real example of how this shapes them now, ask for it; do not invent one.",
+  "Stories, structure and deductions (+3 to +5): cut the pasted textbook paragraph down to one sentence with the 110 meters and 1.3 million figures, and drop '(confirmed by data from Encyclopaedia Britannica).' Remove the markdown '# ' heading from the title (-5 deduction). Shorten the dam-construction catalogue ('channels were dug, dams built...') to its two strongest concrete images."
+ ]
+}

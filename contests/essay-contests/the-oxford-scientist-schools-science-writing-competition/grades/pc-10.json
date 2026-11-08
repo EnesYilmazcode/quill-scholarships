@@ -1,0 +1,54 @@
+{
+ "id": "pc-10",
+ "contest": "The Oxford Scientist Schools Science Writing Competition",
+ "year": "2019 (Michaelmas Term)",
+ "outcome": "runner-up",
+ "words": 706,
+ "source_url": "https://oxsci.org/ibn-sina-the-father-of-modern-medicine-who/",
+ "total": 55,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a hero and covers his work, but the 'unsung' half gets one short paragraph that gives no reason: 'a lot of his vital contributions to medicine had gone largely unrecognised and has not been remembered in the West.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "It has some real anchors (Uzbekistan, practising medicine by 16, The Canon of Medicine, 'roughly 30 medicinal herbs', rounded catheter tips, measles quarantine), but no dates beyond '11th century', no city, no year for the Canon, and some claims are shaky ('the first to describe the antiseptic properties of alcohol')."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 4,
+   "reason": "It reads like a real student. The grammar slips show that ('could transferred', 'emphasised an important diet, He', 'As well as his contributions to herbal medicines... .' is a fragment), and there are no em dashes or AI vocabulary. A few stock phrases pull it down: 'well ahead of his time', 'there is no doubt', 'profound in the 11th century'."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "For an analytic prompt the case study counts as the story, but here it is a list of achievements (herbs, saffron, depression, measles, catheters, drug trials) with no single moment told in full. The only scene is the opening contrast with European amputation."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "Some contributions come with a reason: rounded tips 'ensured a gentle procedure', quarantine 'so the disease would not spread', and the drug rules ('several trials must show the same results'). The central claim, why he went unsung, is stated but never explained."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "It opens with a reader question and closes with another ('How often had you heard the name Avicenna?'), then echoes the title in the last line: 'Ibn Sina; the father of modern medicine … and the unsung hero of science!' The loop works, but the final line is a slogan."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fix the claim that cannot be true: 'Avicenna even mentioned that saffron can help to cure Alzheimer's disease and depression.' Alzheimer's was not named until 1906, so a judge will catch the anachronism (-10). Check the source for what the Canon actually says (forgetfulness or memory loss, for example). Rewrite the sentence to say that, with the modern research as a separate clause, or cut it. In the same check, verify 'He was the first to describe the antiseptic properties of alcohol' or soften it to what the source supports.",
+  "Make the 'unsung' half an argument, not an assertion. Replace 'a lot of his vital contributions to medicine had gone largely unrecognised and has not been remembered in the West' with the real reason taken from a source, for example how long European medical schools taught the Canon under the Latin name Avicenna while his name faded from popular history. Cut the slogan last line or tighten it once that reasoning is in place.",
+  "Sharpen specificity and fix the mechanics. Add the checkable dates and place the writer can verify (birth and death years, the village near Bukhara, roughly when the Canon was finished) in the 'Born in Uzbekistan' paragraph. Fix 'could transferred' to 'could be transferred', 'emphasised an important diet, He' to 'emphasised diet. He', and join the 'As well as his contributions...' fragment to the next sentence. Remove the '#' heading markup and submit the title as plain text to avoid the -5 formatting deduction."
+ ]
+}

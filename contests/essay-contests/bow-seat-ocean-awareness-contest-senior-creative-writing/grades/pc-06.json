@@ -1,0 +1,65 @@
+{
+ "id": "pc-06",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "honorable-mention",
+ "words": 1009,
+ "source_url": "https://bowseat.org/gallery/the-whisper-of-the-salt-marsh/",
+ "total": 51,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers the personal bond (\"Grandma Ruth was the one who taught me to listen\") and the community (\"the county voted to halt construction\"). But how nature shapes who the writer is gets shown through magic and is never stated plainly."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Rich physical detail (\"tea-coloured water\", \"spartina roots\", \"wrack lines\", \"fiddler crabs\"). But the marsh, town, county and year are never named, and the main events cannot be checked (\"the key in my pocket grew hot enough to burn\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "No em dashes and no AI vocabulary. The tells are stock YA phrasing (\"sunset bleed into the water\", \"Moonlight turned the bulldozers into sleeping monsters\"), a triplet (\"the shrimpers' widows, the biology teachers, the kids\"), a tidy moral close, no sentence over 45 words, and a muddled line (\"enough fertilizer runoff to kill a sea turtle, enough microplastics to kill one\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story with full scenes (Grandma Ruth, the key, the dig, the town hall). The supernatural turns replace the writer's real relationship with the marsh instead of showing it."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The community change happens by magic (\"the liquid rose into a miniature tide... to spell a word\"), so the essay never explains why the county actually voted to halt construction or what the writer's role really was."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The arc is clear and the close returns to the opening's speaking marsh, but the last line is a neat bow: \"And the spartina grass, golden and endless, bowed in agreement.\""
+  }
+ ],
+ "deductions": [
+  {
+   "rule": "fact that cannot be true",
+   "points": 0,
+   "reason": "-10: the marsh talks, the key burns, trampled plants straighten overnight, the water spells \"ENOUGH.\" The narrator is \"Lia\", not Enes. This conflicts with the rule that he writes only true events."
+  },
+  {
+   "rule": "heading in the essay",
+   "points": 0,
+   "reason": "-5: the essay opens with a markdown heading, \"# The Whisper of the Salt Marsh\"."
+  }
+ ],
+ "fixes": [
+  "Cut the supernatural beats: the marsh's voice, the hot key, the oyster-shell mosaic, the plants straightening, and the water spelling ENOUGH. In their place, ask Enes what really happened at the marsh and at any meeting, and keep only those events. This removes the -10 deduction and lets the ideas score rise from 2 to 3 or 4 (up to +19 points).",
+  "Rewrite the town hall paragraph (\"Test this,\" I said...) around what was actually said or done to change the outcome: a real water test result, a real argument, a real vote. Ask Enes for the real details and the real result instead of inventing them. This lifts the ideas and specificity scores (up to +13).",
+  "Delete the \"# The Whisper of the Salt Marsh\" heading line (+5). Then sharpen the voice: cut \"sunset bleed into the water\", \"sleeping monsters\" and the closing \"bowed in agreement\". End on a concrete true image of Grandma Ruth or the marsh, and ask Enes for the real names of the marsh, the town and the year to put in their place (up to +8)."
+ ]
+}

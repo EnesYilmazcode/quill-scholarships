@@ -1,0 +1,54 @@
+{
+ "id": "pc-08",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "finalist",
+ "words": 991,
+ "source_url": "https://bowseat.org/gallery/a-city-between-heat-and-hope/",
+ "total": 41,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "Nature and community both get real material (lemon trees, the harbor, the container neighborhood). The 'how it shapes who you are' part only gets a gesture at the end: 'I'm just a student from Hatay. But I've seen what it looks like when the balance of nature breaks.' It reads more as a climate report than as a personal relationship with nature."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Strong unfakeable details: the container leak with 'plastic bags and old clothes', sunflower seeds at the İskenderun harbor, jellyfish 'lying lifeless and glowing', the elderly woman who 'still offered me half of her orange', LGS, Ankara. The mood openers ('the heat is alive, crawling up your back') and the uncited 'most polluted city in Turkey' claim are weaker."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 7 em dashes; 'isn't just X' twice ('no longer just uncomfortable', 'It's not just news'); triplets ('Grief, fear, exhaustion.', 'our homes, our lungs, our seas, our food'); one-line punchline paragraphs ('And maybe he's right.', 'But still, we go on. Because we have to.', 'It's personal.'); stock images ('song of survival', 'as if nature was trying to disappear'); a tidy moral ending. The mother and orange moments are the real voice under it."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "About 5 beats: heat, winter leak, sea and jellyfish, the earthquake night, container life. Only the earthquake night is told as a full scene. The rest are summaries, and the number of beats keeps any one of them from carrying the essay."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "There is a little causal reasoning ('asbestos from broken walls, chemicals from fallen factories'; fishermen pulling up jellyfish as the waters warm). The essay never explains how nature changed the writer or the community's behavior. It says it matters ('It's personal') more than it shows why."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Paragraphs are clear, but the order wanders: climate, then the earthquake in the middle, then climate again ('And through all this' is used twice). The last line, 'And I want to believe we can still fix it—before it's too late.', echoes the opening's 'balance' wording but not its image. It ends on a generic moral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (20 pts, score 2): delete all 7 em dashes. Cut the 'just' antitheses ('The heat is no longer just uncomfortable—it's suffocating' → 'The heat is suffocating.'; drop 'It's not just news.'). Fold the one-line punchline paragraphs ('And maybe he's right.', 'But still, we go on. Because we have to.', 'It's personal.') into the sentences around them. Remove the 'song of survival' and 'Grief, fear, exhaustion.' triplet. Merge at least two short sentences in the container paragraph into one sentence over 45 words.",
+  "Answers the prompt (20 pts, score 3): the prompt asks how nature shapes who you are. Replace the closing 'I am not a scientist... before it's too late' paragraph, which also costs a -5 disclaimer deduction, with a few lines about what the harbor, the sea or the container years changed in the writer. Ask Enes (or the writer) what that actually is; don't write it for them. Also delete the '# A City Between Heat and Hope' heading (-5).",
+  "Stories and structure (15 + 10 pts): cut or compress the generic climate paragraphs ('You start to see it everywhere...' and 'And through all this, the climate continues to rage...'). Let the harbor (sunflower seeds, seashells, the uncle's 'the sea is warning us') and the earthquake/container scenes carry the essay. End by returning to the harbor or the uncle at the sea instead of a moral about fixing climate change."
+ ]
+}

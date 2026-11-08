@@ -1,0 +1,54 @@
+{
+ "id": "pc-04",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "runner-up",
+ "words": 2190,
+ "source_url": "https://bowseat.org/gallery/the-salt-in-our-veins/",
+ "total": 37,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 3,
+   "reason": "The prompt asks about 'your personal connection to nature' and how it shapes you and your community, but this is a third-person story about Naia. The community half gets a full answer through the meeting and the cousins' chat. The 'who you are' half is mostly gestured at in lines like 'the voice of the sea was the one that kept her anchored to what she was.'"
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "There are real proper nouns (Waianae Community Center, Pipeline, Shark's Cove, limu, aku, 1935, twelve flights), but key claims are vague or can't be true: 'green sea turtles had nested by hundreds of thousands,' 'thousands of kilometers' in a Hawaii story, and an unnamed 'new wastewater plant filtration system.'"
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Reads as machine-paraphrased model prose: 'tall-budget building,' 'And silent God, that silence,' 'Rose Tutu' swapping with 'Tutu Rose,' 'Paddling out beyond the reef, what was left of her Naia endured.' It also uses triplets ('She becomes, she grieves, she combats,' 'The planters promised... The hotel developers promised... The military promised'), the 'not what we choose to sell' antithesis, slogan closers ('If we fight for the sea, we fight for ourselves'), and a tidy moral at the end."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "One on-topic narrative (dawn surf, then the market, then the meeting, then night with Tutu Rose), but it is fiction about a character rather than the writer's own story. It also spreads across about eight characters, so no single moment gets close."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 3,
+   "reason": "The man's question, 'What are we expected to do, be poor to save fish we do not observe?', names the real trade-off between jobs and conservation. But the response is a standard menu: 'social media campaigning,' task groups, a legal fund, with no change that answers his question."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The dawn-to-midnight arc and the return to the 'dawn session' and 'salt' do echo the opening. But the timeline breaks ('returned from her evening stroll... observing the morning traffic'), and the last line is a generic moral: 'Now it was the turn of Naia's generation to show that there were vows worth keeping at any expense.'"
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Ask Enes whether any of this happened to him. The writer only uses true events, and the prompt asks for 'your personal connection.' This is a third-person story about Naia, Koa, Tutu Rose and Sonny. If it isn't his own experience it can't be submitted. If parts are real, keep only those parts and switch them to first person, which recovers most of the 20-point prompt gap and the -10 fact deduction.",
+  "Rewrite the garbled and stock sentences in plain words, or cut them. That means 'tall-budget building,' 'And silent God, that silence,' 'what was left of her Naia endured,' and the 'Rose Tutu'/'Tutu Rose' swaps. Cut the slogan pairs ('If we fight for the sea, we fight for ourselves. If we restore the sea, we restore our communities.') and both closing paragraphs from 'The ocean never forgot' on. That way the essay ends on the dawn session line. These are the biggest voice and ending gains, worth up to 16 + 4 points.",
+  "Fix or cut claims that can't stand. Cut 'nested by hundreds of thousands' and change 'thousands of kilometers' to miles. Fix 'evening stroll... morning traffic' so the timeline holds, and either name the wastewater plant or cut that sentence. Remove the '# The Salt in Our Veins' heading line (-5) and give the title in the form's title field if there is one."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pc-12",
+ "contest": "The Oxford Scientist Schools Science Writing Competition",
+ "year": "2019 (Michaelmas Term)",
+ "outcome": "runner-up",
+ "words": 709,
+ "source_url": "https://oxsci.org/jocelyn-bell-burnell-a-pulsar-pioneer/",
+ "total": 50,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "It names a hero and says why she is unsung (\"the award was given to Antony Hewish in 1974. Burnell was not included\"), but the unsung part gets two sentences while her later honours get a full paragraph."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Plenty of checkable facts: Belfast 1943, Lurgan, Armagh Planetarium, Glasgow \"forty-nine men\", 1967, Hewish, 1974, IOP president 2008, Breakthrough Prize 2018. But the discovery is told in vague terms (\"a series of radio frequencies emitted by a pulsing star\"), \"flare stars\" is shaky (Hewish first suspected interference), and \"is... president of the Royal Society of Edinburgh\" is out of date (that term ended in 2018)."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells: a rhetorical question to open, filler (\"truly inspiring\", \"absolute awe\", \"sensational\"), lists of three (\"passion, persistence and hard work\", \"curiosity, diligent observations and rigorous analysis\"), four exclamation marks, a cliché (\"in more ways than one\") and a tidy moral to close (\"my heart swells with admiration, renewed energy, drive and confidence\")."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 3,
+   "reason": "Two stories: the lab sign at school (one line) and the pulsar discovery, which is summarised with no scene. Paragraph 5 is a list of her honours and positions that carries no story."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "It says she was left out of the Nobel but never explains why (prizes went to supervisors, not students) or what it shows. \"Did not see this as a discouragement\" stands where an argument should be."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "The order is clear (early life, discovery, snub, legacy). The last line (\"Whenever I see her name, my heart swells... never give up!\") points back to the lab name, but only loosely, and it lands on a generic moral."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Explain why she was unsung (recovers about 9 points on ideas). Rewrite paragraph 4 so it says why Hewish got the 1974 Nobel and she didn't: credit went to the supervisor who led the project. Use her own documented reaction, checked against a source, in place of \"humbly commented that she was a research student who assisted\". Also cut \"first ever Nobel Prize for Physics in the field of Astronomy\" unless the writer can source it.",
+  "Strip the stock voice and the dashes (recovers about 12 points on voice, plus the 6-point dash deduction). Replace the opening question with the lab sign sentence. Cut \"truly\", \"absolute awe\", \"sensational\", \"in more ways than one\" and every exclamation mark. Replace the three spaced dashes (\"Pulsars!\", \"radio astronomy\", \"Astronomy – but\") with commas or a colon. Change the last sentence to something plain about the lab sign, without the list of feelings. Remove the \"#\" heading line or submit the title as a plain title (5-point deduction).",
+  "Turn the honours list into the discovery scene (recovers about 6 points on stories). Cut paragraph 5 down to one sentence (keep the Athena Swan programme and the Breakthrough Prize donation). Spend the freed words on the 1967 discovery as her published accounts describe it: what she saw on the chart recording and the measured pulse period. Fix \"flare stars\" and update the out-of-date \"president of the Royal Society of Edinburgh\" after checking a source."
+ ]
+}

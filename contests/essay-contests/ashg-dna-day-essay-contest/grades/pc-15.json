@@ -1,0 +1,54 @@
+{
+ "id": "pc-15",
+ "contest": "ASHG DNA Day Essay Contest",
+ "year": "2026",
+ "outcome": "winner",
+ "words": 844,
+ "source_url": "https://www.ashg.org/discover-genetics/k-12-education/dna-day/2026-dna-day-essay-contest-full-essays/#1stplace",
+ "total": 59,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "Covers what CAR-T is, how it works, risks, cost, ethics and the personal choice ('being young and otherwise healthy, I would probably take that same leap'), but cost gets no weight in the personal decision and effects on society get one clause ('cutting-edge therapies reachable only by a few')."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "Checkable details: 'first CAR-T treatment in Spain for a patient with systemic sclerosis', a mother who is a clinical trial nurse, CD19, '€300,000 per patient', and six dated citations. The ward scene ('teams checking protocols again and again') has no date, hospital name or concrete moment."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 2,
+   "reason": "Tells found: 'Not out of fascination with innovation, but because', 'represents more than a technical victory', the 'truly' filler, the slogan 'behind every acronym stands a person', the 'quiet, technical, and human' triplet, 'genetics and humanity meet at a crossroads', the courage/humility/empathy triplet in the tidy closing moral, and 3 em dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One on-topic story: the mother's hospital and the first Spanish patient, opened in paragraph 1 and returned to in paragraph 7. It is second-hand and mostly summary ('Weeks later, she was back home under careful observation')."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "Explains the mechanism clearly (T cells collected, CAR against CD19 added, B cells wiped) and gives a reason for the choice ('the disease's progression would leave little time for fear'). The access and inequality reasoning is generic, with no reason given for why the cost stays high."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Well organized, but the ending is a general moral instead of a return to the mother or the patient: 'behind every cell we modify, there is a person hoping for a second chance.' Deductions applied: -5 for the markdown title heading, -6 for 3 em dashes ('CD19—a molecule', 'fairness—how', 'lymphocytes—but'). 70 - 11 = 59, mid band."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Cut the last paragraph ('CAR-T therapy represents more than a technical victory... a second chance') and end on the real patient from paragraph 7 or on the mother. For example, close on 'Weeks later, she was back home under careful observation' and follow it with one plain sentence that answers the question asked in the opening line. This removes the 'more than X' construction, the crossroads cliché and the triplet, and makes the ending return to the opening (voice 2 to 4, structure 3 to 5).",
+  "In paragraph 8, rewrite 'Not out of fascination with innovation, but because the disease's progression would leave little time for fear' as a plain statement of the reason. Add the cost factor the prompt asks for: ask the writer what the patient or their family would actually pay under Spain's public health system and state that real figure or fact. Also delete 'truly' and 'It wasn't a cinematic triumph. It was quiet, technical, and human.'",
+  "Delete the '# Rewriting Immunity...' markdown heading (-5) and replace the 3 em dashes with commas or periods ('CD19, a molecule on B cells,'; 'fairness: how to ensure'; 'lymphocytes. The greater challenge') to recover the 11 deduction points."
+ ]
+}

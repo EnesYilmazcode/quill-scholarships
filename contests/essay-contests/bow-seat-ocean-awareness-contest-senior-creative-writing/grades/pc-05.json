@@ -1,0 +1,54 @@
+{
+ "id": "pc-05",
+ "contest": "Bow Seat Ocean Awareness Contest - Senior Creative Writing",
+ "year": "2025",
+ "outcome": "honorable-mention",
+ "words": 1067,
+ "source_url": "https://bowseat.org/gallery/resilient-where-the-hawks-still-soar/",
+ "total": 45,
+ "band": "low",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 4,
+   "reason": "The personal connection and how it shaped him get full answers. The community part gets only a few closing sentences: \"I've started volunteering at clean-up days. I share what I've learned with others\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 3,
+   "reason": "Real anchors (Hawk Mountain, North Lookout, red-tailed hawk, peregrine, red-winged blackbird tattoo, membership). No date, season, or first visit, and the flowers are not named. One paragraph is brochure copy (\"scientific research, international training, and public education\")."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 1,
+   "reason": "Dense tells: about 14 em dashes and many contrast frames (\"not defined by borders... but by purpose\", \"not just with each other, but\", \"The tattoo isn't just ink. It's a promise.\", \"resilience isn't about never breaking—it's about\", \"isn't just about preserving birds; it's about\"). Also stock triplets (\"free, connected, and whole\", \"empty, aching, and unbearable\"), the filler \"incredible\", a slogan stack (\"For her. For me. For the resilience\"), and a tidy moral. No sentence runs over 45 words."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One story (Samantha, her death, his return), on topic, with a real scene: \"I parked the car and just sat there\", then the rock at the top. The nonprofit-mission passage breaks into it, and the tattoo beat is told as a summary."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 2,
+   "reason": "The central reasoning is generic (\"Nature doesn't try to fix you... But it gives you space\", \"Trees grow back after storms\"). The community effect gets no mechanism: no event, place, count, or person he spoke to."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 3,
+   "reason": "Clear arc, and the close returns to the trail and Samantha. But it ends on a stack of slogans: \"For her. For me. For the resilience we both found in nature.\" Deductions: heading as line one (-5) and em dashes (-6, at the cap)."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Voice (+16 possible): delete every em dash and every 'not X but Y' or 'isn't just X, it's Y' frame. Specifically: rewrite the opening as \"Hawk Mountain Sanctuary sits in the ridges of Pennsylvania. My best friend Samantha, the girl I loved, took me there first.\" Cut \"The tattoo isn't just ink. It's a promise.\" Cut the whole \"What I've learned... it's about what you do after you've shattered\" sentence and \"Nature has an incredible ability to absorb pain and return beauty.\" End on a plain image, not on \"For her. For me. For the resilience...\". Merge two short sentences into one long one in his own cadence. Also fix the typo \"gilded\" to \"glided\".",
+  "Community and mechanism (+9 possible): the paragraph starting \"That mission has become mine, too\" is the only answer to the community part. Ask Enes for the real details (which clean-up day, roughly when, what he actually did, who the young people are and what he told one of them) and replace \"I share what I've learned with others... you hear what you need most\" with that one real moment. Don't invent any of it.",
+  "Specificity (+8 possible): cut the brochure sentences \"Hawk Mountain is not a state or federal park... public education\" and \"Once threatened by deforestation and development... thanks to people who care\". In their place, ask Enes for real anchors: the season or month of the first return, what flowers he brought, when he got the tattoo and where. Also delete the '# Resilient: Where the Hawks Still Soar' heading, which gets back the 5-point deduction."
+ ]
+}

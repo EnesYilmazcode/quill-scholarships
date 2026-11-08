@@ -1,0 +1,54 @@
+{
+ "id": "pc-09",
+ "contest": "The Oxford Scientist Schools Science Writing Competition",
+ "year": "2019 (Michaelmas Term)",
+ "outcome": "winner",
+ "words": 710,
+ "source_url": "https://oxsci.org/cecilia-the-tale-of-two-elements/",
+ "total": 64,
+ "band": "mid",
+ "criteria": [
+  {
+   "name": "answers_prompt",
+   "weight": 20,
+   "score": 5,
+   "reason": "The single part is answered head-on with a named subject and a case for why she is unsung: \"her dissertation was shunned... purely because it contradicted the paradigms of her era\" and \"discoveries are still often ascribed to Russell\"."
+  },
+  {
+   "name": "specificity",
+   "weight": 20,
+   "score": 4,
+   "reason": "The article is dense with checkable facts (1919 Eddington lecture, 1923 move to Harvard, Struve's \"most brilliant PhD thesis\", 2039 Payne-Gaposchkin, the 2018 APS award). Some claims overreach, though: B2FH \"would never have been written\" and Russell's \"identical findings\"."
+  },
+  {
+   "name": "human_voice",
+   "weight": 20,
+   "score": 3,
+   "reason": "It reads as a real student voice with long sentences, but it leans on stock flourishes: \"made metaphorical headlines\", \"And it didn't stop there.\", \"worked tirelessly\", \"loved so passionately\", \"Heart-warmingly\", \"in whose cosmic brilliance her legacy will live on forever\", \"kindle the solar flare of hope\". It also uses 9 dashes."
+  },
+  {
+   "name": "stories",
+   "weight": 15,
+   "score": 4,
+   "reason": "One case study carries the essay: the rejected thesis, Russell, the Harvard years. The Eddington lecture is the only real scene. Her life story is told out of order, so her background arrives after her legacy."
+  },
+  {
+   "name": "ideas_mechanism",
+   "weight": 15,
+   "score": 4,
+   "reason": "It explains both why her work mattered (it disproved that the Sun is made like the Earth, which opened stellar nucleosynthesis) and why she went unsung (peer pressure, Russell's paper, the degree bar on women). It never connects these to the 'heroines' claim made in the opening."
+  },
+  {
+   "name": "structure_ending",
+   "weight": 10,
+   "score": 4,
+   "reason": "The last line, \"the future unsung heroes – and heroines – of science\", picks up the opening's imagined man. But it closes on an ornate moral, and the paragraphs on significance come before the biography."
+  }
+ ],
+ "deductions": [],
+ "fixes": [
+  "Fact check paragraph 2: \"one million times more abundant than on Earth\" compares the wrong things. Her thesis found hydrogen about a million times more abundant than the heavier elements in stars, not more than on Earth. Restate it against the thesis or a cited source, or cut it. Also soften \"published his own identical findings\" and \"would never have been written\" to what the sources actually say. Russell's 1929 paper reached the same result and briefly acknowledged her. These changes recover the -10 fact deduction and lift specificity.",
+  "Remove the 9 dashes. Turn the asides into commas or full stops, for example \"Henry Norris Russell, the very same man who had rejected her research four years earlier, published...\" and \"...the most brilliant PhD thesis ever written in astronomy.\" (drop \"– an accolade very few can flaunt\"). This recovers the -6 dash deduction and helps voice.",
+  "Cut the stock flourishes: \"made metaphorical headlines\", \"And it didn't stop there.\", \"Heart-warmingly,\", \"worked tirelessly\", \"loved so passionately\", and \"in whose cosmic brilliance her legacy will live on forever\". Replace the last clause with a plain line that ties the 2018 renaming back to the opening's lone dismissed researcher. Move the 'underdog' biography paragraph up so it comes before the significance paragraphs."
+ ]
+}
